@@ -1,0 +1,6 @@
+pandas
+pyyaml
+numpy
+pyarrow
+yfinance
+playwright

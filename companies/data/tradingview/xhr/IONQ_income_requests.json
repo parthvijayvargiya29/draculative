@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://www.tradingview.com/financial/fundamentals_config_v2/",
+    "file": "IONQ_income_1__financial_fundamentals_config_v2__.json"
+  },
+  {
+    "url": "https://www.tradingview.com/api/v1/offers/",
+    "file": "IONQ_income_2__api_v1_offers__.json"
+  },
+  {
+    "url": "https://www.tradingview.com/check_language/",
+    "file": "IONQ_income_3__check_language__.json"
+  }
+]

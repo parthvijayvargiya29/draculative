@@ -1,0 +1,76 @@
+{
+  "ticker": "NVDA",
+  "timestamp": "2026-03-11T17:11:22.913281",
+  "direction": "BUY",
+  "confidence": 0.58,
+  "technical": {
+    "direction": "NEUTRAL",
+    "strength": 0.0,
+    "confidence": 0.55,
+    "trend_score": 0.15,
+    "momentum_score": -0.1,
+    "volatility_score": -0.1,
+    "volume_score": 0.1,
+    "options_score": 0.0,
+    "bullish_factors": [
+      "Golden Cross (SMA50 > SMA200)",
+      "OBV trending up (accumulation)",
+      "Unusual call activity: $187.5",
+      "Unusual call activity: $190.0"
+    ],
+    "bearish_factors": [
+      "Price above VWAP (17.2%)",
+      "High IV skew (bearish hedging)"
+    ],
+    "support": 176.0,
+    "resistance": 195.23,
+    "stop_loss": 197.72,
+    "target_1": 176.51,
+    "target_2": 167.42
+  },
+  "fundamental": {
+    "direction": "BULLISH",
+    "strength": 0.63,
+    "confidence": 0.7,
+    "value_score": 0.05,
+    "quality_score": 0.45,
+    "growth_score": 0.45,
+    "sentiment_score": 0.35,
+    "bullish_factors": [
+      "Forward P/E significantly lower (growth expected)",
+      "High ROE (101.48%)",
+      "High profit margin (55.6%)",
+      "Low debt (7.255% D/E)",
+      "Strong revenue growth (73.2%)"
+    ],
+    "bearish_factors": [],
+    "fair_value": 196.0,
+    "upside_downside": 5.6
+  },
+  "news": {
+    "direction": "NEUTRAL",
+    "strength": 0.0,
+    "confidence": 0.5,
+    "sentiment_score": 0.0,
+    "event_score": 0,
+    "momentum_score": 0,
+    "detected_events": [],
+    "predicted_impact": {
+      "prediction": "neutral",
+      "confidence": 0.3
+    },
+    "bullish_factors": [],
+    "bearish_factors": []
+  },
+  "current_price": 185.6,
+  "target_price_bull": 203.78,
+  "target_price_bear": 176.51,
+  "stop_loss": 173.48,
+  "risk_reward_ratio": 1.5,
+  "volatility": 3.27,
+  "summary": "NVDA is rated BUY with 58% confidence. Technical: NEUTRAL | Fundamental: BULLISH | News: NEUTRAL. Key bullish: Golden Cross (SMA50 > SMA200) Key bearish: Price above VWAP (17.2%)",
+  "action_items": [
+    "Consider scaling into position",
+    "Set stop loss at $173.48"
+  ]
+}

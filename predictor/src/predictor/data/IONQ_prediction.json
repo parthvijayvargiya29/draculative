@@ -1,0 +1,76 @@
+{
+  "ticker": "IONQ",
+  "timestamp": "2026-03-11T17:11:14.129598",
+  "direction": "HOLD",
+  "confidence": 0.57,
+  "technical": {
+    "direction": "NEUTRAL",
+    "strength": 0.15,
+    "confidence": 0.68,
+    "trend_score": -0.4,
+    "momentum_score": 0,
+    "volatility_score": 0.15,
+    "volume_score": -0.1,
+    "options_score": 0.1,
+    "bullish_factors": [
+      "Price below VWAP (-25.5%)",
+      "Negative IV skew (bullish sentiment)"
+    ],
+    "bearish_factors": [
+      "Price below all major MAs (20/50/200)",
+      "Death Cross (SMA50 < SMA200)",
+      "OBV trending down (distribution)"
+    ],
+    "support": 29.47,
+    "resistance": 40.76,
+    "stop_loss": 40.08,
+    "target_1": 29.68,
+    "target_2": 25.23
+  },
+  "fundamental": {
+    "direction": "NEUTRAL",
+    "strength": 0.14,
+    "confidence": 0.5,
+    "value_score": 0,
+    "quality_score": -0.15,
+    "growth_score": 0.25,
+    "sentiment_score": 0.35,
+    "bullish_factors": [
+      "Low debt (0.787% D/E)",
+      "Strong revenue growth (428.5%)",
+      "Analyst rating: Buy",
+      "High analyst upside (91%)"
+    ],
+    "bearish_factors": [
+      "Low ROE (-24.4%)"
+    ],
+    "fair_value": 65.29,
+    "upside_downside": 91.24
+  },
+  "news": {
+    "direction": "NEUTRAL",
+    "strength": 0.0,
+    "confidence": 0.5,
+    "sentiment_score": 0.0,
+    "event_score": 0,
+    "momentum_score": 0,
+    "detected_events": [],
+    "predicted_impact": {
+      "prediction": "neutral",
+      "confidence": 0.3
+    },
+    "bullish_factors": [],
+    "bearish_factors": []
+  },
+  "current_price": 34.14,
+  "target_price_bull": 40.08,
+  "target_price_bear": 28.2,
+  "stop_loss": 29.68,
+  "risk_reward_ratio": 1.33,
+  "volatility": 8.71,
+  "summary": "IONQ is rated HOLD with 57% confidence. Technical: NEUTRAL | Fundamental: NEUTRAL | News: NEUTRAL. Key bullish: Price below VWAP (-25.5%) Key bearish: Price below all major MAs (20/50/200)",
+  "action_items": [
+    "Maintain current position",
+    "Wait for clearer signals"
+  ]
+}

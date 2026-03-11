@@ -1,0 +1,9 @@
+companies:
+  - ticker: AAPL
+    name: Apple Inc.
+  - ticker: MSFT
+    name: Microsoft Corp.
+  - ticker: GOOG
+    name: Alphabet Inc.
+  - ticker: AMZN
+    name: Amazon.com, Inc.

@@ -1,0 +1,108 @@
+======================================================================
+TECHNICAL INDICATOR IMPORTANCE ANALYSIS: IONQ
+======================================================================
+
+MODEL PERFORMANCE
+----------------------------------------
+  direction_1d: Accuracy = 51.6% (+/- 5.6%)
+  direction_5d: Accuracy = 39.6% (+/- 18.6%)
+  direction_10d: Accuracy = 39.6% (+/- 18.0%)
+
+TOP 20 MOST IMPORTANT INDICATORS
+----------------------------------------
+   1. obv                            : 0.1077
+   2. obv_sma_20                     : 0.0439
+   3. atr_14                         : 0.0327
+   4. ichimoku_chikou                : 0.0279
+   5. bb_width                       : 0.0271
+   6. dist_52w_low                   : 0.0231
+   7. daily_return                   : 0.0207
+   8. macd_signal                    : 0.0202
+   9. macd_histogram                 : 0.0188
+  10. bb_lower                       : 0.0179
+  11. upper_wick                     : 0.0179
+  12. atr_pct                        : 0.0162
+  13. dist_sma_200                   : 0.0160
+  14. lower_wick                     : 0.0148
+  15. dist_52w_high                  : 0.0148
+  16. ultimate_oscillator            : 0.0146
+  17. bb_upper                       : 0.0142
+  18. sma_100                        : 0.0140
+  19. dist_sma_10                    : 0.0140
+  20. volume_ratio                   : 0.0132
+
+SIGNAL WIN RATES (5-day horizon)
+----------------------------------------
+  rsi_oversold             : Win Rate=65.0%, Avg Return=+3.81%, N=20 (up)
+  macd_cross               : Win Rate=58.2%, Avg Return=+4.01%, N=251 (up)
+  above_cloud              : Win Rate=56.4%, Avg Return=+5.36%, N=204 (up)
+  stoch_cross              : Win Rate=53.5%, Avg Return=+1.77%, N=228 (up)
+  di_cross                 : Win Rate=53.2%, Avg Return=+3.59%, N=280 (up)
+  sma_50_200_cross         : Win Rate=47.3%, Avg Return=+0.55%, N=281 (up)
+  mfi_oversold             : Win Rate=43.8%, Avg Return=-2.03%, N=16 (up)
+  mfi_overbought           : Win Rate=41.7%, Avg Return=-3.30%, N=36 (down)
+  rsi_overbought           : Win Rate=37.2%, Avg Return=-5.23%, N=43 (down)
+
+BEST INDICATORS BY MARKET REGIME
+----------------------------------------
+
+  TREND_UP (215 days):
+    - sma_30: correlation = -0.414
+    - ema_30: correlation = -0.413
+    - ema_20: correlation = -0.409
+    - sma_20: correlation = -0.405
+    - ema_5: correlation = -0.403
+
+  TREND_DOWN (172 days):
+    - adx: correlation = +0.257
+    - rsi_21: correlation = -0.179
+    - ema_5: correlation = -0.176
+    - bull_power: correlation = -0.175
+    - rsi_14: correlation = -0.171
+
+  SIDEWAYS (46 days):
+    - momentum_10: correlation = +0.500
+    - awesome_oscillator: correlation = +0.446
+    - macd_histogram: correlation = +0.433
+    - macd: correlation = +0.426
+    - bull_power: correlation = +0.426
+
+  HIGH_VOL (147 days):
+    - adx: correlation = +0.364
+    - ema_30: correlation = -0.217
+    - sma_30: correlation = -0.215
+    - ema_20: correlation = -0.211
+    - ema_5: correlation = -0.211
+
+  LOW_VOL (146 days):
+    - cci_14: correlation = +0.277
+    - stoch_k_14: correlation = +0.263
+    - williams_r_14: correlation = +0.262
+    - cci_20: correlation = +0.248
+    - stoch_d_14: correlation = +0.228
+
+STRONGEST CORRELATIONS WITH 5-DAY RETURNS
+----------------------------------------
+  sma_100                            : -0.265 ↓
+  ichimoku_senkou_b                  : -0.237 ↓
+  sma_50                             : -0.216 ↓
+  ichimoku_senkou_a                  : -0.216 ↓
+  bb_lower                           : -0.214 ↓
+  sma_30                             : -0.206 ↓
+  ichimoku_kijun                     : -0.203 ↓
+  adx                                : +0.195 ↑
+  sma_20                             : -0.189 ↓
+  bb_middle                          : -0.189 ↓
+  obv_sma_20                         : -0.186 ↓
+  macd_positive                      : +0.186 ↑
+  vwma_20                            : -0.186 ↓
+  wma_20                             : -0.181 ↓
+  bb_width                           : +0.174 ↑
+
+KEY INSIGHTS
+----------------------------------------
+  1. Most predictive indicators: obv, obv_sma_20, atr_14, ichimoku_chikou, bb_width
+  2. Best signal: rsi_oversold with 65.0% win rate
+  3. Strongest correlation: sma_100 (-0.265)
+
+======================================================================

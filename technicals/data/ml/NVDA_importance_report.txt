@@ -1,0 +1,105 @@
+======================================================================
+TECHNICAL INDICATOR IMPORTANCE ANALYSIS: NVDA
+======================================================================
+
+MODEL PERFORMANCE
+----------------------------------------
+  direction_1d: Accuracy = 54.5% (+/- 6.9%)
+  direction_5d: Accuracy = 48.4% (+/- 11.9%)
+  direction_10d: Accuracy = 55.0% (+/- 14.3%)
+
+TOP 20 MOST IMPORTANT INDICATORS
+----------------------------------------
+   1. ichimoku_senkou_b              : 0.0503
+   2. sma_100                        : 0.0425
+   3. bb_upper                       : 0.0332
+   4. macd_histogram                 : 0.0292
+   5. ichimoku_chikou                : 0.0289
+   6. williams_r_14                  : 0.0280
+   7. obv_sma_20                     : 0.0275
+   8. obv                            : 0.0255
+   9. stoch_d_14                     : 0.0235
+  10. atr_14                         : 0.0198
+  11. plus_di                        : 0.0184
+  12. bb_width                       : 0.0177
+  13. momentum_20                    : 0.0175
+  14. ultimate_oscillator            : 0.0170
+  15. mfi_14                         : 0.0162
+  16. stoch_rsi_k                    : 0.0160
+  17. bb_position                    : 0.0159
+  18. lower_wick                     : 0.0156
+  19. adx                            : 0.0155
+  20. upper_wick                     : 0.0153
+
+SIGNAL WIN RATES (5-day horizon)
+----------------------------------------
+  sma_50_200_cross         : Win Rate=54.3%, Avg Return=+0.13%, N=230 (up)
+  stoch_cross              : Win Rate=54.3%, Avg Return=+0.17%, N=245 (up)
+  macd_cross               : Win Rate=54.1%, Avg Return=+0.53%, N=259 (up)
+  di_cross                 : Win Rate=53.3%, Avg Return=+0.33%, N=257 (up)
+  above_cloud              : Win Rate=51.8%, Avg Return=-0.03%, N=224 (up)
+  rsi_overbought           : Win Rate=27.1%, Avg Return=-1.90%, N=48 (down)
+
+BEST INDICATORS BY MARKET REGIME
+----------------------------------------
+
+  TREND_UP (227 days):
+    - ema_5: correlation = -0.170
+    - sma_5: correlation = -0.167
+    - ema_10: correlation = -0.162
+    - bull_power: correlation = -0.160
+    - sma_10: correlation = -0.159
+
+  TREND_DOWN (92 days):
+    - ema_5: correlation = -0.362
+    - ema_10: correlation = -0.349
+    - sma_5: correlation = -0.342
+    - ema_20: correlation = -0.336
+    - ema_30: correlation = -0.336
+
+  SIDEWAYS (114 days):
+    - macd_histogram: correlation = -0.543
+    - stoch_k_14: correlation = -0.508
+    - stoch_rsi_k: correlation = -0.504
+    - williams_r_14: correlation = -0.491
+    - cci_20: correlation = -0.476
+
+  HIGH_VOL (147 days):
+    - sma_5: correlation = -0.258
+    - ema_5: correlation = -0.257
+    - minus_di: correlation = +0.256
+    - rsi_21: correlation = -0.250
+    - macd: correlation = -0.244
+
+  LOW_VOL (146 days):
+    - stoch_rsi_k: correlation = -0.415
+    - williams_r_14: correlation = -0.350
+    - stoch_rsi_d: correlation = -0.349
+    - macd_histogram: correlation = -0.349
+    - bull_power: correlation = -0.344
+
+STRONGEST CORRELATIONS WITH 5-DAY RETURNS
+----------------------------------------
+  dist_52w_low                       : -0.257 ↓
+  dist_ema_200                       : -0.206 ↓
+  dist_52w_high                      : -0.200 ↓
+  ichimoku_kijun                     : -0.199 ↓
+  bull_power                         : -0.194 ↓
+  dist_sma_200                       : -0.191 ↓
+  sma_30                             : -0.190 ↓
+  obv                                : -0.178 ↓
+  dist_ema_100                       : -0.173 ↓
+  hull_ma_9                          : -0.172 ↓
+  wma_4                              : -0.171 ↓
+  dist_ema_10                        : -0.169 ↓
+  wma_20                             : -0.164 ↓
+  dist_sma_20                        : -0.163 ↓
+  ema_5                              : -0.162 ↓
+
+KEY INSIGHTS
+----------------------------------------
+  1. Most predictive indicators: ichimoku_senkou_b, sma_100, bb_upper, macd_histogram, ichimoku_chikou
+  2. Best signal: sma_50_200_cross with 54.3% win rate
+  3. Strongest correlation: dist_52w_low (-0.257)
+
+======================================================================
