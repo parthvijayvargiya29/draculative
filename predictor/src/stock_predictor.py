@@ -177,13 +177,27 @@ class StockPredictor:
         # === TREND ANALYSIS ===
         trend_score = 0
         
-        # Moving average alignment
+        # Moving average alignment (9/20/50/100/200)
         if t.price_vs_sma_20 == "above" and t.price_vs_sma_50 == "above" and t.price_vs_sma_200 == "above":
             trend_score += 0.3
             bullish.append("Price above all major MAs (20/50/200)")
         elif t.price_vs_sma_20 == "below" and t.price_vs_sma_50 == "below" and t.price_vs_sma_200 == "below":
             trend_score -= 0.3
             bearish.append("Price below all major MAs (20/50/200)")
+        
+        # SMA9 fast-trend confirmation
+        if t.price > t.sma_9:
+            trend_score += 0.05
+            bullish.append(f"Price above SMA9 (fast uptrend) ${t.sma_9}")
+        else:
+            trend_score -= 0.05
+            bearish.append(f"Price below SMA9 (fast downtrend) ${t.sma_9}")
+        
+        # SMA100 medium-trend confirmation
+        if t.price > t.sma_100:
+            trend_score += 0.05
+        else:
+            trend_score -= 0.05
         
         # Golden/Death cross
         if t.golden_cross:
@@ -202,6 +216,43 @@ class StockPredictor:
                 trend_score -= 0.2
                 bearish.append(f"Strong bearish trend (ADX={t.adx})")
         
+        # Pivot Points — price location relative to pivot
+        if t.price_vs_pivot in ("above_r1", "above_r2"):
+            trend_score += 0.1
+            bullish.append(f"Price above Pivot R1 (${t.pivot_r1:.2f}) — breakout zone [{t.price_vs_pivot}]")
+        elif t.price_vs_pivot == "above_pivot":
+            trend_score += 0.05
+            bullish.append(f"Price above Pivot Point (${t.pivot_p:.2f}) — bullish bias")
+        elif t.price_vs_pivot == "below_pivot":
+            trend_score -= 0.05
+            bearish.append(f"Price below Pivot Point (${t.pivot_p:.2f}) — bearish bias")
+        elif t.price_vs_pivot in ("below_s1", "below_s2"):
+            trend_score -= 0.1
+            bearish.append(f"Price below Pivot S1 (${t.pivot_s1:.2f}) — breakdown zone [{t.price_vs_pivot}]")
+        
+        # VIX market-wide fear/greed context
+        if t.vix > 40:
+            trend_score -= 0.15
+            bearish.append(f"VIX extreme fear ({t.vix}) — systemic risk")
+        elif t.vix > 30:
+            trend_score -= 0.08
+            bearish.append(f"VIX elevated fear ({t.vix})")
+        elif t.vix < 15:
+            trend_score += 0.05
+            bullish.append(f"VIX low (complacency {t.vix}) — risk-on environment")
+        
+        # Fibonacci nearest level — support/resistance confluence
+        if t.fib_nearest_distance > -1.5 and t.fib_nearest_distance < 0:
+            # Price sitting just above a fib level (strong support)
+            if t.fib_nearest_level in ("38.2", "50.0", "61.8"):
+                trend_score += 0.08
+                bullish.append(f"Price resting on Fib {t.fib_nearest_level}% support (${t.fib_ret_382 if t.fib_nearest_level=='38.2' else t.fib_ret_500 if t.fib_nearest_level=='50.0' else t.fib_ret_618:.2f})")
+        elif t.fib_nearest_distance < 1.5 and t.fib_nearest_distance > 0:
+            # Price just below a fib level (resistance)
+            if t.fib_nearest_level in ("38.2", "50.0", "61.8", "78.6"):
+                trend_score -= 0.05
+                bearish.append(f"Price approaching Fib {t.fib_nearest_level}% resistance")
+        
         # === MOMENTUM ANALYSIS ===
         momentum_score = 0
         
@@ -219,7 +270,7 @@ class StockPredictor:
         else:
             momentum_score += 0.1
         
-        # MACD
+        # MACD (12,26,9)
         if t.macd_cross == "bullish":
             momentum_score += 0.2
             bullish.append("MACD bullish crossover")
@@ -232,32 +283,76 @@ class StockPredictor:
         elif t.macd < 0 and t.macd_histogram < 0:
             momentum_score -= 0.1
         
-        # Stochastic
+        # MACD histogram momentum (expanding = accelerating move)
+        if t.macd_histogram_trend == "expanding_bullish":
+            momentum_score += 0.08
+            bullish.append("MACD histogram expanding bullish (accelerating upside)")
+        elif t.macd_histogram_trend == "expanding_bearish":
+            momentum_score -= 0.08
+            bearish.append("MACD histogram expanding bearish (accelerating downside)")
+        
+        # PPO (Percentage Price Oscillator) — confirms MACD on % basis
+        if t.ppo_cross == "bullish":
+            momentum_score += 0.12
+            bullish.append(f"PPO bullish crossover ({t.ppo:.3f}%)")
+        elif t.ppo_cross == "bearish":
+            momentum_score -= 0.12
+            bearish.append(f"PPO bearish crossover ({t.ppo:.3f}%)")
+        elif t.ppo > 0 and t.ppo_histogram > 0:
+            momentum_score += 0.05
+        elif t.ppo < 0 and t.ppo_histogram < 0:
+            momentum_score -= 0.05
+        
+        # Stochastic (14,3,3)
         if t.stochastic_k < 20:
             momentum_score += 0.15
-            bullish.append(f"Stochastic oversold ({t.stochastic_k})")
+            bullish.append(f"Stochastic oversold ({t.stochastic_k:.1f})")
         elif t.stochastic_k > 80:
             momentum_score -= 0.15
-            bearish.append(f"Stochastic overbought ({t.stochastic_k})")
+            bearish.append(f"Stochastic overbought ({t.stochastic_k:.1f})")
+        
+        # Stochastic RSI (14,14,3,3) — more sensitive early signal
+        if t.stoch_rsi_k < 20 and t.stoch_rsi_k > t.stoch_rsi_d:
+            momentum_score += 0.15
+            bullish.append(f"StochRSI oversold + %K crossing up ({t.stoch_rsi_k:.1f})")
+        elif t.stoch_rsi_k > 80 and t.stoch_rsi_k < t.stoch_rsi_d:
+            momentum_score -= 0.15
+            bearish.append(f"StochRSI overbought + %K crossing down ({t.stoch_rsi_k:.1f})")
+        elif t.stoch_rsi_signal == "oversold":
+            momentum_score += 0.07
+            bullish.append(f"StochRSI oversold ({t.stoch_rsi_k:.1f})")
+        elif t.stoch_rsi_signal == "overbought":
+            momentum_score -= 0.07
+            bearish.append(f"StochRSI overbought ({t.stoch_rsi_k:.1f})")
         
         # === VOLATILITY ANALYSIS ===
         volatility_score = 0
         
-        # Bollinger position
+        # Bollinger %B position
         if t.bollinger_position < 0.2:
             volatility_score += 0.2
-            bullish.append("Price near lower Bollinger Band")
+            bullish.append(f"Price near lower Bollinger Band (%B={t.bollinger_position:.2f}) — oversold squeeze")
         elif t.bollinger_position > 0.8:
             volatility_score -= 0.2
-            bearish.append("Price near upper Bollinger Band")
+            bearish.append(f"Price near upper Bollinger Band (%B={t.bollinger_position:.2f}) — overbought")
+        
+        # Bollinger Bandwidth — squeeze = coiling energy before breakout
+        if t.bollinger_squeeze:
+            # Use trend direction to bias squeeze breakout
+            if t.trend_direction == "bullish":
+                volatility_score += 0.12
+                bullish.append(f"Bollinger squeeze active (BW={t.bollinger_bandwidth:.1f}%) — bullish breakout potential")
+            else:
+                volatility_score -= 0.12
+                bearish.append(f"Bollinger squeeze active (BW={t.bollinger_bandwidth:.1f}%) — bearish breakdown potential")
         
         # VWAP
         if t.vwap_distance < -2:
             volatility_score += 0.15
-            bullish.append(f"Price below VWAP ({t.vwap_distance:.1f}%)")
+            bullish.append(f"Price below VWAP ({t.vwap_distance:.1f}%) — mean reversion setup")
         elif t.vwap_distance > 2:
             volatility_score -= 0.1
-            bearish.append(f"Price above VWAP ({t.vwap_distance:.1f}%)")
+            bearish.append(f"Price extended above VWAP ({t.vwap_distance:.1f}%)")
         
         # === VOLUME ANALYSIS ===
         volume_score = 0
@@ -275,6 +370,20 @@ class StockPredictor:
         else:
             volume_score -= 0.1
             bearish.append("OBV trending down (distribution)")
+        
+        # PVO (Percentage Volume Oscillator) — is volume trend accelerating?
+        if t.pvo_cross == "bullish":
+            volume_score += 0.15
+            bullish.append(f"PVO bullish crossover ({t.pvo:.2f}%) — rising volume momentum")
+        elif t.pvo_cross == "bearish":
+            volume_score -= 0.15
+            bearish.append(f"PVO bearish crossover ({t.pvo:.2f}%) — falling volume momentum")
+        elif t.pvo > 10:
+            volume_score += 0.07
+            bullish.append(f"PVO positive ({t.pvo:.2f}%) — volume above average trend")
+        elif t.pvo < -10:
+            volume_score -= 0.07
+            bearish.append(f"PVO negative ({t.pvo:.2f}%) — volume drying up")
         
         # === OPTIONS ANALYSIS ===
         options_score = 0
@@ -405,8 +514,16 @@ class StockPredictor:
         # === PRICE TARGETS ===
         atr = t.atr_14
         
-        support = min(t.sma_20, t.bollinger_lower)
-        resistance = max(t.sma_50, t.bollinger_upper)
+        # Support: tightest of MA, lower BB, pivot S1, nearest fib below price
+        fib_levels_below = [v for v in [t.fib_ret_236, t.fib_ret_382, t.fib_ret_500, t.fib_ret_618, t.fib_ret_786] if v < t.price]
+        nearest_fib_support = max(fib_levels_below) if fib_levels_below else t.bollinger_lower
+        support = max(filter(lambda x: x < t.price, [t.sma_20, t.bollinger_lower, t.pivot_s1, nearest_fib_support]), default=t.bollinger_lower)
+        
+        # Resistance: nearest of MA, upper BB, pivot R1, nearest fib above price
+        fib_levels_above = [v for v in [t.fib_ret_236, t.fib_ret_382, t.fib_ret_500, t.fib_ret_618, t.fib_ret_786] if v > t.price]
+        nearest_fib_resistance = min(fib_levels_above) if fib_levels_above else t.bollinger_upper
+        resistance = min(filter(lambda x: x > t.price, [t.sma_50, t.bollinger_upper, t.pivot_r1, nearest_fib_resistance]), default=t.bollinger_upper)
+        
         stop_loss = t.price - (2 * atr) if direction == "BULLISH" else t.price + (2 * atr)
         target_1 = t.price + (1.5 * atr) if direction == "BULLISH" else t.price - (1.5 * atr)
         target_2 = t.price + (3 * atr) if direction == "BULLISH" else t.price - (3 * atr)

@@ -51,8 +51,10 @@ class TechnicalData:
     vwap_distance: float
     
     # Moving Averages
+    sma_9: float
     sma_20: float
     sma_50: float
+    sma_100: float
     sma_200: float
     ema_12: float
     ema_26: float
@@ -68,15 +70,54 @@ class TechnicalData:
     macd_signal: float
     macd_histogram: float
     macd_cross: str  # bullish/bearish/none
+    macd_histogram_trend: str  # expanding/contracting/flat
     stochastic_k: float
     stochastic_d: float
+    stoch_rsi_k: float   # Stochastic RSI %K (0-100)
+    stoch_rsi_d: float   # Stochastic RSI %D (0-100)
+    stoch_rsi_signal: str  # overbought/oversold/neutral
+    ppo: float           # Percentage Price Oscillator line
+    ppo_signal: float    # PPO signal line
+    ppo_histogram: float # PPO histogram
+    ppo_cross: str       # bullish/bearish/none
+    pvo: float           # Percentage Volume Oscillator
+    pvo_signal: float    # PVO signal line
+    pvo_cross: str       # bullish/bearish/none
     
     # Volatility
     atr_14: float
     atr_percent: float
     bollinger_upper: float
+    bollinger_middle: float
     bollinger_lower: float
-    bollinger_position: float  # 0-1 position within bands
+    bollinger_position: float    # 0-1 position within bands (%B)
+    bollinger_bandwidth: float   # Band width as % of middle
+    bollinger_squeeze: bool      # True when bandwidth < 20-period low
+    
+    # Pivot Points (Standard / Classic)
+    pivot_p: float
+    pivot_r1: float
+    pivot_r2: float
+    pivot_r3: float
+    pivot_s1: float
+    pivot_s2: float
+    pivot_s3: float
+    price_vs_pivot: str  # above_r1/above_p/between_s1_p/below_s1/etc.
+    
+    # Fibonacci Retracement (swing high → swing low over last 50 bars)
+    fib_swing_high: float
+    fib_swing_low: float
+    fib_ret_236: float
+    fib_ret_382: float
+    fib_ret_500: float
+    fib_ret_618: float
+    fib_ret_786: float
+    fib_nearest_level: str   # label of nearest fib level
+    fib_nearest_distance: float  # % distance to nearest level
+    
+    # VIX
+    vix: float
+    vix_signal: str  # extreme_fear/fear/neutral/complacency
     
     # Volume
     volume: int
@@ -192,9 +233,11 @@ class RealTimeDataFetcher:
         vwap = (typical_price * volume).sum() / volume.sum()
         vwap_distance = (current_price - vwap) / vwap * 100
         
-        # Moving Averages
+        # Moving Averages — SMA 9, 20, 50, 100, 200
+        sma_9  = close.rolling(9).mean().iloc[-1]
         sma_20 = close.rolling(20).mean().iloc[-1]
         sma_50 = close.rolling(50).mean().iloc[-1]
+        sma_100 = close.rolling(100).mean().iloc[-1] if len(close) >= 100 else close.mean()
         sma_200 = close.rolling(200).mean().iloc[-1] if len(close) >= 200 else close.mean()
         ema_12 = close.ewm(span=12).mean().iloc[-1]
         ema_26 = close.ewm(span=26).mean().iloc[-1]
@@ -206,18 +249,18 @@ class RealTimeDataFetcher:
         avg_gain = gain.ewm(alpha=1/14, min_periods=14).mean()
         avg_loss = loss.ewm(alpha=1/14, min_periods=14).mean()
         rs = avg_gain / avg_loss.replace(0, np.nan)
-        rsi = (100 - (100 / (1 + rs))).iloc[-1]
-        
+        rsi_series = 100 - (100 / (1 + rs))
+        rsi = rsi_series.iloc[-1]
         rsi_signal = "overbought" if rsi > 70 else "oversold" if rsi < 30 else "neutral"
         
-        # MACD
-        macd_line = ema_12 - ema_26
-        macd_signal_line = close.ewm(span=12).mean().sub(close.ewm(span=26).mean()).ewm(span=9).mean().iloc[-1]
-        macd_hist = macd_line - macd_signal_line
+        # MACD (12, 26, 9)
+        macd_series = close.ewm(span=12, adjust=False).mean() - close.ewm(span=26, adjust=False).mean()
+        signal_series = macd_series.ewm(span=9, adjust=False).mean()
+        macd_hist_series = macd_series - signal_series
+        macd_line = macd_series.iloc[-1]
+        macd_signal_line = signal_series.iloc[-1]
+        macd_hist = macd_hist_series.iloc[-1]
         
-        # Determine MACD cross
-        macd_series = close.ewm(span=12).mean() - close.ewm(span=26).mean()
-        signal_series = macd_series.ewm(span=9).mean()
         if macd_series.iloc[-1] > signal_series.iloc[-1] and macd_series.iloc[-2] <= signal_series.iloc[-2]:
             macd_cross = "bullish"
         elif macd_series.iloc[-1] < signal_series.iloc[-1] and macd_series.iloc[-2] >= signal_series.iloc[-2]:
@@ -225,11 +268,72 @@ class RealTimeDataFetcher:
         else:
             macd_cross = "none"
         
-        # Stochastic
+        # MACD histogram momentum (expanding = histogram growing in same direction)
+        if len(macd_hist_series) >= 3:
+            h1, h2, h3 = macd_hist_series.iloc[-3], macd_hist_series.iloc[-2], macd_hist_series.iloc[-1]
+            if h3 > h2 > h1:
+                macd_histogram_trend = "expanding_bullish"
+            elif h3 < h2 < h1:
+                macd_histogram_trend = "expanding_bearish"
+            elif abs(h3) < abs(h2):
+                macd_histogram_trend = "contracting"
+            else:
+                macd_histogram_trend = "flat"
+        else:
+            macd_histogram_trend = "flat"
+        
+        # Stochastic (14, 3, 3)
         low_14 = low.rolling(14).min()
         high_14 = high.rolling(14).max()
-        stoch_k = ((close - low_14) / (high_14 - low_14) * 100).iloc[-1]
-        stoch_d = ((close - low_14) / (high_14 - low_14) * 100).rolling(3).mean().iloc[-1]
+        raw_k = (close - low_14) / (high_14 - low_14).replace(0, np.nan) * 100
+        stoch_k_series = raw_k.rolling(3).mean()   # smoothed %K
+        stoch_d_series = stoch_k_series.rolling(3).mean()
+        stoch_k = stoch_k_series.iloc[-1]
+        stoch_d = stoch_d_series.iloc[-1]
+        
+        # Stochastic RSI (14, 14, 3, 3)
+        rsi_low  = rsi_series.rolling(14).min()
+        rsi_high = rsi_series.rolling(14).max()
+        stoch_rsi_raw = (rsi_series - rsi_low) / (rsi_high - rsi_low).replace(0, np.nan) * 100
+        stoch_rsi_k_series = stoch_rsi_raw.rolling(3).mean()
+        stoch_rsi_d_series = stoch_rsi_k_series.rolling(3).mean()
+        stoch_rsi_k = stoch_rsi_k_series.iloc[-1]
+        stoch_rsi_d = stoch_rsi_d_series.iloc[-1]
+        stoch_rsi_signal = (
+            "overbought" if stoch_rsi_k > 80 else
+            "oversold"   if stoch_rsi_k < 20 else
+            "neutral"
+        )
+        
+        # Percentage Price Oscillator (PPO) — like MACD but as % of slow EMA
+        ema_12_series = close.ewm(span=12, adjust=False).mean()
+        ema_26_series = close.ewm(span=26, adjust=False).mean()
+        ppo_series    = (ema_12_series - ema_26_series) / ema_26_series.replace(0, np.nan) * 100
+        ppo_sig_series = ppo_series.ewm(span=9, adjust=False).mean()
+        ppo_hist_series = ppo_series - ppo_sig_series
+        ppo  = ppo_series.iloc[-1]
+        ppo_sig  = ppo_sig_series.iloc[-1]
+        ppo_hist = ppo_hist_series.iloc[-1]
+        if ppo_series.iloc[-1] > ppo_sig_series.iloc[-1] and ppo_series.iloc[-2] <= ppo_sig_series.iloc[-2]:
+            ppo_cross = "bullish"
+        elif ppo_series.iloc[-1] < ppo_sig_series.iloc[-1] and ppo_series.iloc[-2] >= ppo_sig_series.iloc[-2]:
+            ppo_cross = "bearish"
+        else:
+            ppo_cross = "none"
+        
+        # Percentage Volume Oscillator (PVO) — fast/slow EMAs on volume
+        vol_ema_fast = volume.ewm(span=12, adjust=False).mean()
+        vol_ema_slow = volume.ewm(span=26, adjust=False).mean()
+        pvo_series   = (vol_ema_fast - vol_ema_slow) / vol_ema_slow.replace(0, np.nan) * 100
+        pvo_sig_series = pvo_series.ewm(span=9, adjust=False).mean()
+        pvo  = pvo_series.iloc[-1]
+        pvo_sig = pvo_sig_series.iloc[-1]
+        if pvo_series.iloc[-1] > pvo_sig_series.iloc[-1] and pvo_series.iloc[-2] <= pvo_sig_series.iloc[-2]:
+            pvo_cross = "bullish"
+        elif pvo_series.iloc[-1] < pvo_sig_series.iloc[-1] and pvo_series.iloc[-2] >= pvo_sig_series.iloc[-2]:
+            pvo_cross = "bearish"
+        else:
+            pvo_cross = "none"
         
         # ATR
         tr1 = high - low
@@ -239,12 +343,77 @@ class RealTimeDataFetcher:
         atr = tr.ewm(alpha=1/14, min_periods=14).mean().iloc[-1]
         atr_percent = atr / current_price * 100
         
-        # Bollinger Bands
-        bb_middle = close.rolling(20).mean()
-        bb_std = close.rolling(20).std()
-        bb_upper = (bb_middle + 2 * bb_std).iloc[-1]
-        bb_lower = (bb_middle - 2 * bb_std).iloc[-1]
-        bb_position = (current_price - bb_lower) / (bb_upper - bb_lower)
+        # Bollinger Bands (20, 2)
+        bb_middle_series = close.rolling(20).mean()
+        bb_std_series    = close.rolling(20).std()
+        bb_upper_series  = bb_middle_series + 2 * bb_std_series
+        bb_lower_series  = bb_middle_series - 2 * bb_std_series
+        bb_upper_val  = bb_upper_series.iloc[-1]
+        bb_middle_val = bb_middle_series.iloc[-1]
+        bb_lower_val  = bb_lower_series.iloc[-1]
+        bb_position   = (current_price - bb_lower_val) / (bb_upper_val - bb_lower_val) if (bb_upper_val - bb_lower_val) != 0 else 0.5
+        bb_bandwidth  = (bb_upper_val - bb_lower_val) / bb_middle_val * 100 if bb_middle_val != 0 else 0
+        # Bollinger squeeze: current bandwidth < 20-bar rolling min of bandwidth
+        bw_series = (bb_upper_series - bb_lower_series) / bb_middle_series.replace(0, np.nan) * 100
+        bw_min_20 = bw_series.rolling(20).min()
+        bb_squeeze = bool(bw_series.iloc[-1] <= bw_min_20.iloc[-1] * 1.05)  # within 5% of 20-bar low
+        
+        # Pivot Points (Standard / Classic) — based on previous day's H/L/C
+        prev_h = high.iloc[-2] if len(high) >= 2 else high.iloc[-1]
+        prev_l = low.iloc[-2]  if len(low)  >= 2 else low.iloc[-1]
+        prev_c = close.iloc[-2] if len(close) >= 2 else close.iloc[-1]
+        pivot_p  = (prev_h + prev_l + prev_c) / 3
+        pivot_r1 = 2 * pivot_p - prev_l
+        pivot_r2 = pivot_p + (prev_h - prev_l)
+        pivot_r3 = prev_h + 2 * (pivot_p - prev_l)
+        pivot_s1 = 2 * pivot_p - prev_h
+        pivot_s2 = pivot_p - (prev_h - prev_l)
+        pivot_s3 = prev_l - 2 * (prev_h - pivot_p)
+        
+        if current_price >= pivot_r2:
+            price_vs_pivot = "above_r2"
+        elif current_price >= pivot_r1:
+            price_vs_pivot = "above_r1"
+        elif current_price >= pivot_p:
+            price_vs_pivot = "above_pivot"
+        elif current_price >= pivot_s1:
+            price_vs_pivot = "below_pivot"
+        elif current_price >= pivot_s2:
+            price_vs_pivot = "below_s1"
+        else:
+            price_vs_pivot = "below_s2"
+        
+        # Fibonacci Retracement — swing high / swing low over last 50 bars
+        lookback = min(50, len(close))
+        swing_high = high.iloc[-lookback:].max()
+        swing_low  = low.iloc[-lookback:].min()
+        fib_range  = swing_high - swing_low
+        fib_levels = {
+            "0.0":   swing_low,
+            "23.6":  swing_low + 0.236 * fib_range,
+            "38.2":  swing_low + 0.382 * fib_range,
+            "50.0":  swing_low + 0.500 * fib_range,
+            "61.8":  swing_low + 0.618 * fib_range,
+            "78.6":  swing_low + 0.786 * fib_range,
+            "100.0": swing_high,
+        }
+        # Find the nearest fib level to current price
+        nearest_label = min(fib_levels, key=lambda k: abs(fib_levels[k] - current_price))
+        nearest_price = fib_levels[nearest_label]
+        fib_nearest_dist = (current_price - nearest_price) / current_price * 100
+        
+        # VIX — fetch live ^VIX close
+        try:
+            vix_data = yf.Ticker("^VIX").history(period="5d", interval="1d")
+            vix_val = float(vix_data['Close'].iloc[-1]) if len(vix_data) > 0 else 20.0
+        except Exception:
+            vix_val = 20.0
+        vix_signal = (
+            "extreme_fear"  if vix_val > 40 else
+            "fear"          if vix_val > 25 else
+            "neutral"       if vix_val > 15 else
+            "complacency"
+        )
         
         # Volume
         current_volume = volume.iloc[-1]
@@ -278,8 +447,10 @@ class RealTimeDataFetcher:
             change_20d=round(change_20d, 2),
             vwap=round(vwap, 2),
             vwap_distance=round(vwap_distance, 2),
+            sma_9=round(sma_9, 2),
             sma_20=round(sma_20, 2),
             sma_50=round(sma_50, 2),
+            sma_100=round(sma_100, 2),
             sma_200=round(sma_200, 2),
             ema_12=round(ema_12, 2),
             ema_26=round(ema_26, 2),
@@ -293,13 +464,46 @@ class RealTimeDataFetcher:
             macd_signal=round(macd_signal_line, 4),
             macd_histogram=round(macd_hist, 4),
             macd_cross=macd_cross,
+            macd_histogram_trend=macd_histogram_trend,
             stochastic_k=round(stoch_k, 2),
             stochastic_d=round(stoch_d, 2),
+            stoch_rsi_k=round(stoch_rsi_k, 2),
+            stoch_rsi_d=round(stoch_rsi_d, 2),
+            stoch_rsi_signal=stoch_rsi_signal,
+            ppo=round(ppo, 4),
+            ppo_signal=round(ppo_sig, 4),
+            ppo_histogram=round(ppo_hist, 4),
+            ppo_cross=ppo_cross,
+            pvo=round(pvo, 4),
+            pvo_signal=round(pvo_sig, 4),
+            pvo_cross=pvo_cross,
             atr_14=round(atr, 2),
             atr_percent=round(atr_percent, 2),
-            bollinger_upper=round(bb_upper, 2),
-            bollinger_lower=round(bb_lower, 2),
-            bollinger_position=round(bb_position, 2),
+            bollinger_upper=round(bb_upper_val, 2),
+            bollinger_middle=round(bb_middle_val, 2),
+            bollinger_lower=round(bb_lower_val, 2),
+            bollinger_position=round(bb_position, 4),
+            bollinger_bandwidth=round(bb_bandwidth, 2),
+            bollinger_squeeze=bb_squeeze,
+            pivot_p=round(pivot_p, 2),
+            pivot_r1=round(pivot_r1, 2),
+            pivot_r2=round(pivot_r2, 2),
+            pivot_r3=round(pivot_r3, 2),
+            pivot_s1=round(pivot_s1, 2),
+            pivot_s2=round(pivot_s2, 2),
+            pivot_s3=round(pivot_s3, 2),
+            price_vs_pivot=price_vs_pivot,
+            fib_swing_high=round(swing_high, 2),
+            fib_swing_low=round(swing_low, 2),
+            fib_ret_236=round(fib_levels["23.6"], 2),
+            fib_ret_382=round(fib_levels["38.2"], 2),
+            fib_ret_500=round(fib_levels["50.0"], 2),
+            fib_ret_618=round(fib_levels["61.8"], 2),
+            fib_ret_786=round(fib_levels["78.6"], 2),
+            fib_nearest_level=nearest_label,
+            fib_nearest_distance=round(fib_nearest_dist, 2),
+            vix=round(vix_val, 2),
+            vix_signal=vix_signal,
             volume=int(current_volume),
             volume_sma_20=round(volume_sma, 0),
             volume_ratio=round(volume_ratio, 2),
@@ -501,6 +705,20 @@ def fetch_live_data(ticker: str) -> LiveMarketData:
     return fetcher.fetch_all()
 
 
+def fib_label_price(t: 'TechnicalData') -> float:
+    """Return the price value of the nearest fibonacci retracement level."""
+    fib_map = {
+        "23.6": t.fib_ret_236,
+        "38.2": t.fib_ret_382,
+        "50.0": t.fib_ret_500,
+        "61.8": t.fib_ret_618,
+        "78.6": t.fib_ret_786,
+        "0.0":  t.fib_swing_low,
+        "100.0": t.fib_swing_high,
+    }
+    return fib_map.get(t.fib_nearest_level, 0.0)
+
+
 if __name__ == '__main__':
     import sys
     
@@ -515,20 +733,50 @@ if __name__ == '__main__':
     
     t = data.technicals
     print(f"\n📊 PRICE & TECHNICALS")
-    print(f"  Price: ${t.price} ({t.change_1d:+.2f}% 1D, {t.change_5d:+.2f}% 5D)")
+    print(f"  Price: ${t.price} ({t.change_1d:+.2f}% 1D, {t.change_5d:+.2f}% 5D, {t.change_20d:+.2f}% 20D)")
     print(f"  VWAP: ${t.vwap} (Distance: {t.vwap_distance:+.2f}%)")
-    print(f"  RSI(14): {t.rsi_14} [{t.rsi_signal.upper()}]")
-    print(f"  MACD: {t.macd:.4f} (Signal: {t.macd_signal:.4f}) [{t.macd_cross.upper()}]")
-    print(f"  Stochastic: K={t.stochastic_k:.1f}, D={t.stochastic_d:.1f}")
-    print(f"  ADX: {t.adx} [{t.trend_strength.upper()} {t.trend_direction.upper()} TREND]")
-    print(f"  Bollinger Position: {t.bollinger_position:.2f} (0=lower, 1=upper)")
-    print(f"  Volume Ratio: {t.volume_ratio:.2f}x average")
     
     print(f"\n📈 MOVING AVERAGES")
-    print(f"  SMA20: ${t.sma_20} [{t.price_vs_sma_20}]")
-    print(f"  SMA50: ${t.sma_50} [{t.price_vs_sma_50}]")
+    print(f"  SMA9:   ${t.sma_9}")
+    print(f"  SMA20:  ${t.sma_20} [{t.price_vs_sma_20}]")
+    print(f"  SMA50:  ${t.sma_50} [{t.price_vs_sma_50}]")
+    print(f"  SMA100: ${t.sma_100}")
     print(f"  SMA200: ${t.sma_200} [{t.price_vs_sma_200}]")
-    print(f"  Golden Cross: {'✅ YES' if t.golden_cross else '❌ NO'}")
+    print(f"  Golden Cross (SMA50 > SMA200): {'✅ YES' if t.golden_cross else '❌ NO'}")
+    
+    print(f"\n📉 OSCILLATORS")
+    print(f"  RSI(14): {t.rsi_14} [{t.rsi_signal.upper()}]")
+    print(f"  MACD: {t.macd:.4f} | Signal: {t.macd_signal:.4f} | Hist: {t.macd_histogram:.4f} [{t.macd_cross.upper()}] [hist: {t.macd_histogram_trend}]")
+    print(f"  PPO: {t.ppo:.4f}% | Signal: {t.ppo_signal:.4f}% | Hist: {t.ppo_histogram:.4f}% [{t.ppo_cross.upper()}]")
+    print(f"  Stochastic: K={t.stochastic_k:.1f}, D={t.stochastic_d:.1f}")
+    print(f"  StochRSI:   K={t.stoch_rsi_k:.1f}, D={t.stoch_rsi_d:.1f} [{t.stoch_rsi_signal.upper()}]")
+    
+    print(f"\n📦 VOLUME OSCILLATOR")
+    print(f"  PVO: {t.pvo:.4f}% | Signal: {t.pvo_signal:.4f}% [{t.pvo_cross.upper()}]")
+    print(f"  Volume: {t.volume:,} ({t.volume_ratio:.2f}x 20-day avg) | OBV Trend: {t.obv_trend.upper()}")
+    
+    print(f"\n🎯 VOLATILITY")
+    print(f"  ATR(14): ${t.atr_14} ({t.atr_percent:.2f}% of price)")
+    print(f"  Bollinger Bands: Lower=${t.bollinger_lower} | Mid=${t.bollinger_middle} | Upper=${t.bollinger_upper}")
+    print(f"  BB %B: {t.bollinger_position:.4f} (0=lower band, 1=upper band) | Bandwidth: {t.bollinger_bandwidth:.2f}% | Squeeze: {'🔴 YES' if t.bollinger_squeeze else '🟢 NO'}")
+    
+    print(f"\n📐 PIVOT POINTS (Standard)")
+    print(f"  R3=${t.pivot_r3:.2f}  R2=${t.pivot_r2:.2f}  R1=${t.pivot_r1:.2f}")
+    print(f"  Pivot (P)=${t.pivot_p:.2f}  ← Price is [{t.price_vs_pivot.upper()}]")
+    print(f"  S1=${t.pivot_s1:.2f}  S2=${t.pivot_s2:.2f}  S3=${t.pivot_s3:.2f}")
+    
+    print(f"\n🌀 FIBONACCI RETRACEMENT (last 50 bars: High=${t.fib_swing_high} → Low=${t.fib_swing_low})")
+    print(f"  78.6% = ${t.fib_ret_786}")
+    print(f"  61.8% = ${t.fib_ret_618}  ← OTE zone top (ICT)")
+    print(f"  50.0% = ${t.fib_ret_500}")
+    print(f"  38.2% = ${t.fib_ret_382}  ← OTE zone bottom (ICT)")
+    print(f"  23.6% = ${t.fib_ret_236}")
+    print(f"  Nearest level: {t.fib_nearest_level}% (${fib_label_price(t)}) | Distance: {t.fib_nearest_distance:+.2f}%")
+    
+    print(f"\n🌡️  MARKET SENTIMENT")
+    print(f"  VIX: {t.vix} [{t.vix_signal.upper().replace('_',' ')}]")
+    print(f"  ADX: {t.adx} [{t.trend_strength.upper()} {t.trend_direction.upper()} TREND]")
+    print(f"  +DI: {t.plus_di}  -DI: {t.minus_di}")
     
     if data.options:
         o = data.options
