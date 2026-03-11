@@ -21,6 +21,7 @@ import numpy as np
 # Import our modules
 from realtime_data import RealTimeDataFetcher, LiveMarketData
 from news_tracker import NewsTracker, NewsAnalysis
+from fvg_analysis import FVGAnalyser, FVGAnalysisResult, print_fvg_report
 
 
 @dataclass
@@ -107,6 +108,9 @@ class CombinedPrediction:
     fundamental: FundamentalSignal
     news: NewsSignal
     
+    # FVG / ICT analysis
+    fvg: Optional[FVGAnalysisResult]
+
     # Price targets
     current_price: float
     target_price_bull: float
@@ -137,18 +141,26 @@ class StockPredictor:
         
         self.live_data: Optional[LiveMarketData] = None
         self.news_analysis: Optional[NewsAnalysis] = None
-        
+        self.fvg_result: Optional[FVGAnalysisResult] = None
+
     def fetch_data(self):
         """Fetch all required data."""
+        import yfinance as yf
         print(f"\n{'='*60}")
         print(f"STOCK PREDICTOR: {self.ticker}")
         print(f"{'='*60}")
-        
+
         # Fetch live market data
         print("\n📊 Fetching live market data...")
         fetcher = RealTimeDataFetcher(self.ticker)
         self.live_data = fetcher.fetch_all()
-        
+
+        # FVG / ICT analysis on fresh chart data
+        print("\n📐 Running FVG / ICT analysis...")
+        df = yf.Ticker(self.ticker).history(period='1y', interval='1d').reset_index()
+        analyser = FVGAnalyser(df, ticker=self.ticker)
+        self.fvg_result = analyser.analyse()
+
         # Fetch and analyze news
         print("\n📰 Analyzing news and events...")
         tracker = NewsTracker(self.ticker)
@@ -303,13 +315,75 @@ class StockPredictor:
                         options_score -= 0.05
                         bearish.append(f"Unusual put activity: ${activity['strike']}")
         
+        # === FVG / ICT / SMC ANALYSIS ===
+        fvg_score = 0
+        fvg = self.fvg_result
+        if fvg:
+            # Market structure bias
+            if fvg.bias == 'bullish':
+                fvg_score += 0.3 if fvg.bias_strength == 'strong' else 0.15
+                bullish.append(f"ICT bias: BULLISH ({fvg.bias_strength}) — {fvg.structure.trend} structure")
+            elif fvg.bias == 'bearish':
+                fvg_score -= 0.3 if fvg.bias_strength == 'strong' else 0.15
+                bearish.append(f"ICT bias: BEARISH ({fvg.bias_strength}) — {fvg.structure.trend} structure")
+
+            # BOS / ChoCH signals
+            if fvg.structure.last_bos == 'bullish':
+                fvg_score += 0.15
+                bullish.append(f"Bullish BOS @ ${fvg.structure.last_bos_level}")
+            elif fvg.structure.last_bos == 'bearish':
+                fvg_score -= 0.15
+                bearish.append(f"Bearish BOS @ ${fvg.structure.last_bos_level}")
+
+            if fvg.structure.last_choch == 'bullish':
+                fvg_score += 0.2
+                bullish.append(f"Bullish ChoCH @ ${fvg.structure.last_choch_level} (reversal signal)")
+            elif fvg.structure.last_choch == 'bearish':
+                fvg_score -= 0.2
+                bearish.append(f"Bearish ChoCH @ ${fvg.structure.last_choch_level} (reversal signal)")
+
+            # Nearest FVG context
+            t_price = self.live_data.technicals.price
+            if fvg.nearest_bullish_fvg:
+                f0 = fvg.nearest_bullish_fvg
+                dist = (t_price - f0.top) / t_price * 100
+                if dist < 3:   # price sitting right on a bullish FVG
+                    fvg_score += 0.2
+                    bullish.append(f"Price on Bullish FVG ${f0.bottom}–${f0.top} [{f0.strength}]")
+
+            if fvg.nearest_bearish_fvg:
+                f0 = fvg.nearest_bearish_fvg
+                dist = (f0.bottom - t_price) / t_price * 100
+                if dist < 3:   # bearish FVG just above
+                    fvg_score -= 0.15
+                    bearish.append(f"Bearish FVG overhead ${f0.bottom}–${f0.top} [{f0.strength}]")
+
+            # Premium / Discount
+            pd = fvg.premium_discount
+            if pd.current_position == 'discount':
+                fvg_score += 0.1
+                bullish.append(f"Price in Discount zone ({pd.position_pct:.0f}% of range)")
+            elif pd.current_position == 'premium':
+                fvg_score -= 0.1
+                bearish.append(f"Price in Premium zone ({pd.position_pct:.0f}% of range)")
+
+            # Recent liquidity sweeps
+            for sw in fvg.liquidity_sweeps[-3:]:
+                if sw.kind == 'ssl_sweep' and sw.rejection:
+                    fvg_score += 0.1
+                    bullish.append(f"SSL sweep + rejection @ ${sw.level} ({sw.date})")
+                elif sw.kind == 'bsl_sweep' and sw.rejection:
+                    fvg_score -= 0.1
+                    bearish.append(f"BSL sweep + rejection @ ${sw.level} ({sw.date})")
+
         # === COMBINE SCORES ===
         total_score = (
-            trend_score * 0.25 +
-            momentum_score * 0.30 +
-            volatility_score * 0.20 +
-            volume_score * 0.15 +
-            options_score * 0.10
+            trend_score * 0.20 +
+            momentum_score * 0.25 +
+            volatility_score * 0.15 +
+            volume_score * 0.10 +
+            options_score * 0.10 +
+            fvg_score * 0.20          # FVG/ICT now 20% of technical signal
         )
         
         # Direction
@@ -336,7 +410,24 @@ class StockPredictor:
         stop_loss = t.price - (2 * atr) if direction == "BULLISH" else t.price + (2 * atr)
         target_1 = t.price + (1.5 * atr) if direction == "BULLISH" else t.price - (1.5 * atr)
         target_2 = t.price + (3 * atr) if direction == "BULLISH" else t.price - (3 * atr)
-        
+
+        # Override with FVG/ICT-derived price targets when available
+        fvg = self.fvg_result
+        if fvg:
+            if direction == "BULLISH" and fvg.bullish_targets:
+                target_1 = fvg.bullish_targets[0]['price']
+                if len(fvg.bullish_targets) > 1:
+                    target_2 = fvg.bullish_targets[1]['price']
+            elif direction == "BEARISH" and fvg.bearish_targets:
+                target_1 = fvg.bearish_targets[0]['price']
+                if len(fvg.bearish_targets) > 1:
+                    target_2 = fvg.bearish_targets[1]['price']
+            # ICT stop: beyond nearest Order Block
+            if direction == "BULLISH" and fvg.nearest_bullish_ob:
+                stop_loss = fvg.nearest_bullish_ob.bottom - 0.01
+            elif direction == "BEARISH" and fvg.nearest_bearish_ob:
+                stop_loss = fvg.nearest_bearish_ob.top + 0.01
+
         return TechnicalSignal(
             direction=direction,
             strength=round(strength, 2),
@@ -698,6 +789,7 @@ class StockPredictor:
             technical=technical,
             fundamental=fundamental,
             news=news,
+            fvg=self.fvg_result,
             current_price=round(current_price, 2),
             target_price_bull=round(target_bull, 2),
             target_price_bear=round(target_bear, 2),
@@ -757,11 +849,15 @@ class StockPredictor:
         print(f"\n📋 ACTION ITEMS:")
         for action in pred.action_items:
             print(f"   • {action}")
-        
+
         print(f"\n📝 SUMMARY:")
         print(f"   {pred.summary}")
-        
-        print("\n" + "="*70)
+
+        # Full FVG / ICT report
+        if pred.fvg:
+            print_fvg_report(pred.fvg)
+        else:
+            print("\n" + "="*70)
     
     def to_dict(self, pred: CombinedPrediction) -> Dict:
         """Convert prediction to dictionary."""

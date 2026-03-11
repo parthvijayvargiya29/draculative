@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "timestamp": "2026-03-11T17:11:22.913281",
+  "timestamp": "2026-03-11T19:44:17.637396",
   "direction": "BUY",
   "confidence": 0.58,
   "technical": {
@@ -15,18 +15,20 @@
     "bullish_factors": [
       "Golden Cross (SMA50 > SMA200)",
       "OBV trending up (accumulation)",
+      "Unusual call activity: $185.0",
       "Unusual call activity: $187.5",
-      "Unusual call activity: $190.0"
+      "SSL sweep + rejection @ $177.61 (2026-02-03)"
     ],
     "bearish_factors": [
-      "Price above VWAP (17.2%)",
-      "High IV skew (bearish hedging)"
+      "Price above VWAP (16.9%)",
+      "High IV skew (bearish hedging)",
+      "BSL sweep + rejection @ $193.63 (2026-01-30)"
     ],
-    "support": 176.0,
-    "resistance": 195.23,
-    "stop_loss": 197.72,
-    "target_1": 176.51,
-    "target_2": 167.42
+    "support": 175.97,
+    "resistance": 195.2,
+    "stop_loss": 197.23,
+    "target_1": 175.95,
+    "target_2": 166.83
   },
   "fundamental": {
     "direction": "BULLISH",
@@ -45,7 +47,7 @@
     ],
     "bearish_factors": [],
     "fair_value": 196.0,
-    "upside_downside": 5.6
+    "upside_downside": 5.91
   },
   "news": {
     "direction": "NEUTRAL",
@@ -62,15 +64,15 @@
     "bullish_factors": [],
     "bearish_factors": []
   },
-  "current_price": 185.6,
-  "target_price_bull": 203.78,
-  "target_price_bear": 176.51,
-  "stop_loss": 173.48,
+  "current_price": 185.07,
+  "target_price_bull": 203.31,
+  "target_price_bear": 175.95,
+  "stop_loss": 172.91,
   "risk_reward_ratio": 1.5,
-  "volatility": 3.27,
-  "summary": "NVDA is rated BUY with 58% confidence. Technical: NEUTRAL | Fundamental: BULLISH | News: NEUTRAL. Key bullish: Golden Cross (SMA50 > SMA200) Key bearish: Price above VWAP (17.2%)",
+  "volatility": 3.29,
+  "summary": "NVDA is rated BUY with 58% confidence. Technical: NEUTRAL | Fundamental: BULLISH | News: NEUTRAL. Key bullish: Golden Cross (SMA50 > SMA200) Key bearish: Price above VWAP (16.9%)",
   "action_items": [
     "Consider scaling into position",
-    "Set stop loss at $173.48"
+    "Set stop loss at $172.91"
   ]
 }

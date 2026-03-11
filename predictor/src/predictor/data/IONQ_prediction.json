@@ -1,31 +1,35 @@
 {
   "ticker": "IONQ",
-  "timestamp": "2026-03-11T17:11:14.129598",
+  "timestamp": "2026-03-11T19:43:47.358915",
   "direction": "HOLD",
-  "confidence": 0.57,
+  "confidence": 0.47,
   "technical": {
     "direction": "NEUTRAL",
-    "strength": 0.15,
-    "confidence": 0.68,
+    "strength": 0.01,
+    "confidence": 0.42,
     "trend_score": -0.4,
     "momentum_score": 0,
     "volatility_score": 0.15,
     "volume_score": -0.1,
-    "options_score": 0.1,
+    "options_score": 0.05,
     "bullish_factors": [
-      "Price below VWAP (-25.5%)",
-      "Negative IV skew (bullish sentiment)"
+      "Price below VWAP (-25.3%)",
+      "Negative IV skew (bullish sentiment)",
+      "ICT bias: BULLISH (moderate) \u2014 ranging structure",
+      "SSL sweep + rejection @ $42.84 (2026-01-29)",
+      "SSL sweep + rejection @ $37.72 (2026-02-03)"
     ],
     "bearish_factors": [
       "Price below all major MAs (20/50/200)",
       "Death Cross (SMA50 < SMA200)",
-      "OBV trending down (distribution)"
+      "OBV trending down (distribution)",
+      "Unusual put activity: $34.0"
     ],
-    "support": 29.47,
+    "support": 29.48,
     "resistance": 40.76,
-    "stop_loss": 40.08,
-    "target_1": 29.68,
-    "target_2": 25.23
+    "stop_loss": 40.21,
+    "target_1": 29.74,
+    "target_2": 25.26
   },
   "fundamental": {
     "direction": "NEUTRAL",
@@ -45,7 +49,7 @@
       "Low ROE (-24.4%)"
     ],
     "fair_value": 65.29,
-    "upside_downside": 91.24
+    "upside_downside": 90.74
   },
   "news": {
     "direction": "NEUTRAL",
@@ -62,13 +66,13 @@
     "bullish_factors": [],
     "bearish_factors": []
   },
-  "current_price": 34.14,
-  "target_price_bull": 40.08,
-  "target_price_bear": 28.2,
-  "stop_loss": 29.68,
+  "current_price": 34.23,
+  "target_price_bull": 40.21,
+  "target_price_bear": 28.25,
+  "stop_loss": 29.74,
   "risk_reward_ratio": 1.33,
-  "volatility": 8.71,
-  "summary": "IONQ is rated HOLD with 57% confidence. Technical: NEUTRAL | Fundamental: NEUTRAL | News: NEUTRAL. Key bullish: Price below VWAP (-25.5%) Key bearish: Price below all major MAs (20/50/200)",
+  "volatility": 8.73,
+  "summary": "IONQ is rated HOLD with 47% confidence. Technical: NEUTRAL | Fundamental: NEUTRAL | News: NEUTRAL. Key bullish: Price below VWAP (-25.3%) Key bearish: Price below all major MAs (20/50/200)",
   "action_items": [
     "Maintain current position",
     "Wait for clearer signals"
