@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alpaca Trading Dashboard — Combo B</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.9.1/dist/chart.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html, body { height: 100%; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            margin-bottom: 30px;
+        }
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .header p { color: #666; font-size: 1.1em; }
+        
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .metric-card {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            text-align: center;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .metric-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+        }
+        .metric-card .label {
+            color: #999;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
+        .metric-card .value {
+            font-size: 2.2em;
+            font-weight: bold;
+            color: #667eea;
+        }
+        .metric-card .unit {
+            color: #999;
+            font-size: 0.85em;
+            margin-top: 5px;
+        }
+        
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .chart-container {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        .chart-container h3 {
+            margin-bottom: 20px;
+            color: #333;
+            font-size: 1.2em;
+        }
+        .chart-container canvas {
+            max-height: 350px;
+        }
+        
+        .table-container {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+            overflow-x: auto;
+        }
+        .table-container h2 {
+            margin-bottom: 20px;
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th {
+            background: #f5f7fa;
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+            color: #333;
+            border-bottom: 2px solid #e0e0e0;
+        }
+        td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        tr:hover { background: #f9fafb; }
+        .positive { color: #10b981; font-weight: 600; }
+        .negative { color: #ef4444; font-weight: 600; }
+        
+        .footer {
+            text-align: center;
+            color: rgba(255,255,255,0.8);
+            padding: 20px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📊 Alpaca Trading Dashboard</h1>
+            <p>Combo B · 2025-07-11 to 2026-03-19 · 2822 trades over 252 days</p>
+        </div>
+        
+        <div class="metrics-grid">
+            <div class="metric-card">
+                <div class="label">Average Win Rate</div>
+                <div class="value">40.4%</div>
+            </div>
+            <div class="metric-card">
+                <div class="label">Profit Factor</div>
+                <div class="value">1.23</div>
+            </div>
+            <div class="metric-card">
+                <div class="label">Sharpe Ratio</div>
+                <div class="value">0.50</div>
+            </div>
+            <div class="metric-card">
+                <div class="label">Max Drawdown</div>
+                <div class="value">5.0%</div>
+            </div>
+            <div class="metric-card">
+                <div class="label">Annual Return</div>
+                <div class="value">40.2%</div>
+            </div>
+            <div class="metric-card">
+                <div class="label">Total Trades</div>
+                <div class="value">2822</div>
+            </div>
+        </div>
+        
+        <div class="charts-grid">
+            <div class="chart-container">
+                <h3>Equity Curve (Last 60 Days)</h3>
+                <canvas id="equityChart"></canvas>
+            </div>
+            <div class="chart-container">
+                <h3>Monthly Win Rate</h3>
+                <canvas id="wrChart"></canvas>
+            </div>
+            <div class="chart-container">
+                <h3>Monthly Trades & Profit</h3>
+                <canvas id="tradesChart"></canvas>
+            </div>
+            <div class="chart-container">
+                <h3>Performance Distribution</h3>
+                <canvas id="distChart"></canvas>
+            </div>
+        </div>
+        
+        <div class="table-container">
+            <h2>Monthly Summary</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Month</th>
+                        <th>Trades</th>
+                        <th>Profit</th>
+                        <th>Avg Win Rate</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <tr>
+                        <td>2025-07</td>
+                        <td>226</td>
+                        <td class="positive">$7.99</td>
+                        <td>41.0%</td>
+                    </tr>
+
+                    <tr>
+                        <td>2025-08</td>
+                        <td>359</td>
+                        <td class="negative">$-7.49</td>
+                        <td>41.7%</td>
+                    </tr>
+
+                    <tr>
+                        <td>2025-09</td>
+                        <td>346</td>
+                        <td class="positive">$22.51</td>
+                        <td>40.3%</td>
+                    </tr>
+
+                    <tr>
+                        <td>2025-10</td>
+                        <td>360</td>
+                        <td class="positive">$25.13</td>
+                        <td>39.5%</td>
+                    </tr>
+
+                    <tr>
+                        <td>2025-11</td>
+                        <td>327</td>
+                        <td class="positive">$14.86</td>
+                        <td>39.0%</td>
+                    </tr>
+
+                    <tr>
+                        <td>2025-12</td>
+                        <td>355</td>
+                        <td class="positive">$10.10</td>
+                        <td>39.9%</td>
+                    </tr>
+
+                    <tr>
+                        <td>2026-01</td>
+                        <td>346</td>
+                        <td class="positive">$32.59</td>
+                        <td>40.8%</td>
+                    </tr>
+
+                    <tr>
+                        <td>2026-02</td>
+                        <td>290</td>
+                        <td class="positive">$6.01</td>
+                        <td>41.0%</td>
+                    </tr>
+
+                    <tr>
+                        <td>2026-03</td>
+                        <td>213</td>
+                        <td class="negative">$-4.37</td>
+                        <td>40.6%</td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+    
+    <script>
+        const chartConfig = {
+            responsive: true,
+            maintainAspectRatio: true,
+            plugins: {
+                legend: { display: true, position: 'top' },
+                filler: { propagate: true }
+            }
+        };
+        
+        // Equity Curve Chart
+        new Chart(document.getElementById('equityChart'), {
+            type: 'line',
+            data: {
+                labels: ["2026-01-19", "2026-01-20", "2026-01-21", "2026-01-22", "2026-01-23", "2026-01-24", "2026-01-25", "2026-01-26", "2026-01-27", "2026-01-28", "2026-01-29", "2026-01-30", "2026-01-31", "2026-02-01", "2026-02-02", "2026-02-03", "2026-02-04", "2026-02-05", "2026-02-06", "2026-02-07", "2026-02-08", "2026-02-09", "2026-02-10", "2026-02-11", "2026-02-12", "2026-02-13", "2026-02-14", "2026-02-15", "2026-02-16", "2026-02-17", "2026-02-18", "2026-02-19", "2026-02-20", "2026-02-21", "2026-02-22", "2026-02-23", "2026-02-24", "2026-02-25", "2026-02-26", "2026-02-27", "2026-02-28", "2026-03-01", "2026-03-02", "2026-03-03", "2026-03-04", "2026-03-05", "2026-03-06", "2026-03-07", "2026-03-08", "2026-03-09", "2026-03-10", "2026-03-11", "2026-03-12", "2026-03-13", "2026-03-14", "2026-03-15", "2026-03-16", "2026-03-17", "2026-03-18", "2026-03-19"],
+                datasets: [{
+                    label: 'Account Equity',
+                    data: [100091.32, 100091.67, 100090.62, 100093.44, 100095.83, 100098.34, 100096.93, 100099.07, 100098.37, 100099.64, 100102.9, 100102.42, 100105.69, 100109.19, 100110.76, 100109.92, 100112.91, 100113.91, 100114.69, 100112.78, 100112.92, 100111.63, 100112.58, 100113.72, 100114.05, 100115.42, 100111.87, 100111.28, 100109.85, 100110.47, 100113.06, 100113.08, 100113.75, 100116.56, 100118.47, 100114.58, 100114.17, 100114.37, 100117.63, 100117.81, 100111.7, 100112.75, 100113.27, 100111.98, 100111.25, 100111.12, 100110.75, 100107.74, 100107.04, 100106.86, 100109.33, 100111.81, 100108.81, 100103.65, 100104.7, 100101.97, 100101.21, 100104.34, 100106.06, 100107.33],
+                    borderColor: '#667eea',
+                    backgroundColor: 'rgba(102, 126, 234, 0.1)',
+                    borderWidth: 2,
+                    fill: true,
+                    tension: 0.4,
+                    pointRadius: 2,
+                    pointBackgroundColor: '#667eea'
+                }]
+            },
+            options: {
+                ...chartConfig,
+                scales: {
+                    y: { beginAtZero: false, ticks: { formatter: (v) => '$' + v.toLocaleString() } }
+                }
+            }
+        });
+        
+        // Win Rate Chart
+        new Chart(document.getElementById('wrChart'), {
+            type: 'bar',
+            data: {
+                labels: ["2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03"],
+                datasets: [{
+                    label: 'Average Win Rate (%)',
+                    data: [41.0, 41.7, 40.3, 39.5, 39.0, 39.9, 40.8, 41.0, 40.6],
+                    backgroundColor: '#764ba2',
+                    borderRadius: 8
+                }]
+            },
+            options: { ...chartConfig, scales: { y: { max: 100 } } }
+        });
+        
+        // Trades & Profit Chart
+        new Chart(document.getElementById('tradesChart'), {
+            type: 'bar',
+            data: {
+                labels: ["2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03"],
+                datasets: [
+                    {
+                        label: 'Trades',
+                        data: [226, 359, 346, 360, 327, 355, 346, 290, 213],
+                        backgroundColor: '#667eea',
+                        yAxisID: 'y',
+                        borderRadius: 8
+                    },
+                    {
+                        label: 'Profit ($)',
+                        data: [7.99, -7.49, 22.51, 25.13, 14.86, 10.1, 32.59, 6.01, -4.37],
+                        backgroundColor: '#10b981',
+                        yAxisID: 'y1',
+                        borderRadius: 8
+                    }
+                ]
+            },
+            options: {
+                ...chartConfig,
+                scales: {
+                    y: { type: 'linear', position: 'left' },
+                    y1: { type: 'linear', position: 'right' }
+                }
+            }
+        });
+        
+        // Distribution Chart
+        new Chart(document.getElementById('distChart'), {
+            type: 'doughnut',
+            data: {
+                labels: ['Winning Days', 'Losing Days', 'Break-even'],
+                datasets: [{
+                    data: [151, 101, 0],
+                    backgroundColor: ['#10b981', '#ef4444', '#f59e0b'],
+                    borderColor: 'white',
+                    borderWidth: 2
+                }]
+            },
+            options: { ...chartConfig }
+        });
+    </script>
+    
+    <div class="footer">
+        <p>Generated: 2026-03-20 02:02:33 UTC</p>
+        <p>This dashboard shows backtested performance metrics only.</p>
+    </div>
+</body>
+</html>
