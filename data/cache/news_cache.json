@@ -1,0 +1,162 @@
+[
+  {
+    "date": "2025-01-10",
+    "time_et": "08:30",
+    "title": "NFP \u2014 January",
+    "category": "NFP",
+    "impact": "HIGH",
+    "source": "static",
+    "ticker": null,
+    "sentiment": null
+  },
+  {
+    "date": "2025-01-15",
+    "time_et": "08:30",
+    "title": "CPI \u2014 December",
+    "category": "CPI",
+    "impact": "HIGH",
+    "source": "static",
+    "ticker": null,
+    "sentiment": null
+  },
+  {
+    "date": "2025-01-29",
+    "time_et": "14:00",
+    "title": "FOMC Decision",
+    "category": "FOMC",
+    "impact": "HIGH",
+    "source": "static",
+    "ticker": null,
+    "sentiment": null
+  },
+  {
+    "date": "2025-02-07",
+    "time_et": "08:30",
+    "title": "NFP \u2014 February",
+    "category": "NFP",
+    "impact": "HIGH",
+    "source": "static",
+    "ticker": null,
+    "sentiment": null
+  },
+  {
+    "date": "2025-02-12",
+    "time_et": "08:30",
+    "title": "CPI \u2014 January",
+    "category": "CPI",
+    "impact": "HIGH",
+    "source": "static",
+    "ticker": null,
+    "sentiment": null
+  },
+  {
+    "date": "2025-03-07",
+    "time_et": "08:30",
+    "title": "NFP \u2014 March",
+    "category": "NFP",
+    "impact": "HIGH",
+    "source": "static",
+    "ticker": null,
+    "sentiment": null
+  },
+  {
+    "date": "2025-03-12",
+    "time_et": "08:30",
+    "title": "CPI \u2014 February",
+    "category": "CPI",
+    "impact": "HIGH",
+    "source": "static",
+    "ticker": null,
+    "sentiment": null
+  },
+  {
+    "date": "2025-03-19",
+    "time_et": "14:00",
+    "title": "FOMC Decision",
+    "category": "FOMC",
+    "impact": "HIGH",
+    "source": "static",
+    "ticker": null,
+    "sentiment": null
+  },
+  {
+    "date": "2025-04-04",
+    "time_et": "08:30",
+    "title": "NFP \u2014 April",
+    "category": "NFP",
+    "impact": "HIGH",
+    "source": "static",
+    "ticker": null,
+    "sentiment": null
+  },
+  {
+    "date": "2025-04-10",
+    "time_et": "08:30",
+    "title": "CPI \u2014 March",
+    "category": "CPI",
+    "impact": "HIGH",
+    "source": "static",
+    "ticker": null,
+    "sentiment": null
+  },
+  {
+    "date": "2025-05-02",
+    "time_et": "08:30",
+    "title": "NFP \u2014 May",
+    "category": "NFP",
+    "impact": "HIGH",
+    "source": "static",
+    "ticker": null,
+    "sentiment": null
+  },
+  {
+    "date": "2025-05-07",
+    "time_et": "14:00",
+    "title": "FOMC Decision",
+    "category": "FOMC",
+    "impact": "HIGH",
+    "source": "static",
+    "ticker": null,
+    "sentiment": null
+  },
+  {
+    "date": "2025-05-13",
+    "time_et": "08:30",
+    "title": "CPI \u2014 April",
+    "category": "CPI",
+    "impact": "HIGH",
+    "source": "static",
+    "ticker": null,
+    "sentiment": null
+  },
+  {
+    "date": "2025-06-06",
+    "time_et": "08:30",
+    "title": "NFP \u2014 June",
+    "category": "NFP",
+    "impact": "HIGH",
+    "source": "static",
+    "ticker": null,
+    "sentiment": null
+  },
+  {
+    "date": "2025-06-11",
+    "time_et": "08:30",
+    "title": "CPI \u2014 May",
+    "category": "CPI",
+    "impact": "HIGH",
+    "source": "static",
+    "ticker": null,
+    "sentiment": null
+  },
+  {
+    "date": "2025-06-18",
+    "time_et": "14:00",
+    "title": "FOMC Decision",
+    "category": "FOMC",
+    "impact": "HIGH",
+    "source": "static",
+    "ticker": null,
+    "sentiment": null
+  }
+]

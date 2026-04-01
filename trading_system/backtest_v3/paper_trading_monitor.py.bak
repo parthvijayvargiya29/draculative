@@ -1,0 +1,658 @@
+#!/usr/bin/env python3
+"""
+paper_trading_monitor.py  --  Phase 2: Paper Trading Calibration Monitor
+=========================================================================
+V3.5 pre-live validation framework.  Run daily after market close.
+
+PURPOSE
+-------
+Track paper-trade performance against the validated backtest over a 60-day
+calibration window.  Do NOT commit real capital until:
+  (a) ≥ 30 paper trades recorded in the live signal log
+  (b) Live profit factor ≥ 1.10  (test-period threshold)
+  (c) Live win rate within ±15pp of validated test win rate (52.9%)
+  (d) No catastrophic regime shift (live drawdown < 2× backtest drawdown)
+
+VALIDATED BASELINE (Phase 1 locked, 19-Mar-2026)
+-------------------------------------------------
+  RSI threshold : 15.0  (RSI(2) < 15, NOT 14-period RSI)
+  Volume gate   : NONE  (removed — anti-correlated with bb_lower breaks)
+  ACCEL_SL type : STATIC FLOOR = live bb_lower - 1.0 × ATR(10) per bar
+  BB period     : 20, StdDev mult: 2.0
+  ATR period    : 10
+  Time stop     : 10 bars
+  Instruments   : GLD, WMT, USMV, NVDA, AMZN, GOOGL, COST, XOM, HD, MA
+                  (≥ 1 instrument per day monitored)
+
+BACKTEST BENCHMARKS (test period Aug 2025–Mar 2026)
+----------------------------------------------------
+  Test PF       : 1.104  (lower bound: 1.10)
+  Win rate      : 52.94%  (acceptable range: 38%–68%)
+  Avg win       : $4.56
+  Avg loss      : $-2.63
+  W/L ratio     : 1.74x
+  OOS trades    : 34 (in 146 trading days = 0.23 trades/day across 10 instruments)
+  Sharpe        : not computed (small sample; focus on PF + WR)
+
+GO/NO-GO CRITERIA (all must pass for live capital deployment)
+--------------------------------------------------------------
+  REQUIRED:
+    ✓ N_live_trades ≥ 30         (statistical minimum sample)
+    ✓ live_PF ≥ 1.10             (matches test-period floor)
+    ✓ live_WR ≥ 38.0%            (test_WR − 15pp floor)
+    ✓ live_WR ≤ 68.0%            (test_WR + 15pp ceiling — avoids look-ahead luck)
+    ✓ max_live_drawdown < 25%    (2× typical backtest drawdown)
+  RECOMMENDED:
+    ~ N_live_trades ≥ 50         (preferred for more robust estimate)
+    ~ live_PF ≥ 1.20             (comfortable margin above baseline)
+
+USAGE
+-----
+    # Log a new trade
+    python paper_trading_monitor.py log \\
+        --symbol GLD \\
+        --entry-date 2026-03-20 \\
+        --entry-price 215.40 \\
+        --shares 12 \\
+        --exit-date 2026-03-25 \\
+        --exit-price 218.90 \\
+        --exit-reason BB_MID \\
+        --bars-held 4
+
+    # Run daily calibration check
+    python paper_trading_monitor.py check
+
+    # Show full trade log
+    python paper_trading_monitor.py show
+
+    # Export trade log to CSV
+    python paper_trading_monitor.py export
+
+Files
+-----
+    paper_trades.json     -- Trade log (append-only, human-readable)
+    paper_monitor.log     -- Daily check log (appended each run)
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import math
+import os
+import sys
+from datetime import datetime, date
+from pathlib import Path
+from typing import List, Optional
+
+HERE = Path(__file__).parent.resolve()
+TRADE_LOG   = HERE / "paper_trades.json"
+MONITOR_LOG = HERE / "paper_monitor.log"
+
+# ---------------------------------------------------------------------------
+# Validated backtest benchmarks (Phase 1 locked, 19-Mar-2026)
+# ---------------------------------------------------------------------------
+VALIDATED = {
+    # Core stats from test period (Aug 2025–Mar 2026)
+    "test_pf":          1.104,
+    "test_wr":          52.94,
+    "test_avg_win":     4.56,
+    "test_avg_loss":    -2.63,
+    "test_wl_ratio":    1.74,
+    "test_n_trades":    34,
+    "test_n_days":      146,
+
+    # Go/no-go thresholds
+    "go_min_trades":    30,        # minimum live trades before assessing
+    "go_pf_floor":      1.10,      # live PF must be ≥ this
+    "go_wr_floor":      38.0,      # live WR floor (test_WR - 15pp)
+    "go_wr_ceiling":    68.0,      # live WR ceiling (test_WR + 15pp)
+    "go_max_drawdown":  25.0,      # max % drawdown on paper capital
+
+    # Locked parameters (reference — trade these instruments on these signals)
+    "instruments":      ["GLD", "WMT", "USMV", "NVDA", "AMZN",
+                         "GOOGL", "COST", "XOM", "HD", "MA"],
+    "rsi_threshold":    15.0,
+    "bb_period":        20,
+    "bb_mult":          2.0,
+    "atr_period":       10,
+    "time_stop_bars":   10,
+    "accel_sl_formula": "bb_lower - 1.0 * ATR(10)",
+    "volume_gate":      None,   # NONE — do not apply any volume gate
+}
+
+# ---------------------------------------------------------------------------
+# Trade schema
+# ---------------------------------------------------------------------------
+REQUIRED_FIELDS = [
+    "symbol", "entry_date", "entry_price", "shares",
+    "exit_date", "exit_price", "exit_reason", "bars_held",
+]
+OPTIONAL_FIELDS = {
+    "bb_lower_at_entry":  None,
+    "bb_mid_at_entry":    None,
+    "rsi2_at_entry":      None,
+    "atr10_at_entry":     None,
+    "notes":              "",
+}
+
+VALID_EXIT_REASONS = {"BB_MID", "SL", "ACCEL_SL", "TIME", "MANUAL", "EOD", "EOB"}
+VALID_SYMBOLS = set(VALIDATED["instruments"])
+
+
+# ---------------------------------------------------------------------------
+# Trade log I/O
+# ---------------------------------------------------------------------------
+
+def load_trades() -> List[dict]:
+    if not TRADE_LOG.exists():
+        return []
+    with open(TRADE_LOG, "r") as f:
+        data = json.load(f)
+    return data.get("trades", [])
+
+
+def save_trades(trades: List[dict]):
+    data = {
+        "schema_version": "1.0",
+        "validated_baseline": VALIDATED,
+        "trades": trades,
+        "last_updated": datetime.now().isoformat(),
+    }
+    with open(TRADE_LOG, "w") as f:
+        json.dump(data, f, indent=2, default=str)
+
+
+# ---------------------------------------------------------------------------
+# Metrics
+# ---------------------------------------------------------------------------
+
+def compute_metrics(trades: List[dict]) -> dict:
+    if not trades:
+        return {"n": 0}
+
+    n     = len(trades)
+    pnls  = [t["net_pnl"] for t in trades]
+    wins  = [p for p in pnls if p > 0]
+    losses= [p for p in pnls if p <= 0]
+
+    wr       = len(wins) / n * 100
+    avg_win  = sum(wins) / len(wins) if wins else 0.0
+    avg_loss = sum(losses) / len(losses) if losses else 0.0
+    wl_ratio = abs(avg_win / avg_loss) if avg_loss != 0 else float("inf")
+
+    gross_wins  = sum(wins)
+    gross_loss  = abs(sum(losses))
+    pf          = gross_wins / gross_loss if gross_loss > 0 else float("inf")
+
+    # Running drawdown on cumulative P&L
+    equity    = 0.0
+    peak      = 0.0
+    max_dd_abs = 0.0
+    for p in pnls:
+        equity += p
+        if equity > peak:
+            peak = equity
+        dd = peak - equity
+        if dd > max_dd_abs:
+            max_dd_abs = dd
+    # Express drawdown as % of initial paper capital (if tracked) or peak
+    max_dd_pct = (max_dd_abs / peak * 100) if peak > 0 else 0.0
+
+    # Date range
+    dates = sorted(t["entry_date"] for t in trades)
+    first_date = dates[0]
+    last_date  = dates[-1]
+
+    return {
+        "n":            n,
+        "n_wins":       len(wins),
+        "n_losses":     len(losses),
+        "win_rate_%":   round(wr, 2),
+        "avg_win_$":    round(avg_win, 2),
+        "avg_loss_$":   round(avg_loss, 2),
+        "wl_ratio":     round(wl_ratio, 3),
+        "profit_factor":round(pf, 3),
+        "total_pnl_$":  round(sum(pnls), 2),
+        "max_drawdown_%":round(max_dd_pct, 2),
+        "first_trade":  first_date,
+        "last_trade":   last_date,
+    }
+
+
+# ---------------------------------------------------------------------------
+# Go/no-go assessment
+# ---------------------------------------------------------------------------
+
+def assess_go_nogo(metrics: dict) -> dict:
+    v = VALIDATED
+    n  = metrics.get("n", 0)
+
+    checks = {}
+
+    # 1. Sample size
+    checks["sample_size"] = {
+        "label": f"N trades ≥ {v['go_min_trades']}",
+        "value": n,
+        "threshold": v["go_min_trades"],
+        "pass": n >= v["go_min_trades"],
+        "severity": "REQUIRED",
+    }
+
+    # 2. Profit factor (only meaningful if sample ≥ threshold)
+    pf = metrics.get("profit_factor", 0.0)
+    checks["profit_factor"] = {
+        "label": f"Live PF ≥ {v['go_pf_floor']}",
+        "value": round(pf, 3),
+        "threshold": v["go_pf_floor"],
+        "pass": pf >= v["go_pf_floor"],
+        "severity": "REQUIRED",
+    }
+
+    # 3. Win rate floor
+    wr = metrics.get("win_rate_%", 0.0)
+    checks["wr_floor"] = {
+        "label": f"Live WR ≥ {v['go_wr_floor']}%",
+        "value": round(wr, 1),
+        "threshold": v["go_wr_floor"],
+        "pass": wr >= v["go_wr_floor"],
+        "severity": "REQUIRED",
+    }
+
+    # 4. Win rate ceiling (no luck inflation)
+    checks["wr_ceiling"] = {
+        "label": f"Live WR ≤ {v['go_wr_ceiling']}%",
+        "value": round(wr, 1),
+        "threshold": v["go_wr_ceiling"],
+        "pass": wr <= v["go_wr_ceiling"],
+        "severity": "REQUIRED",
+    }
+
+    # 5. Max drawdown
+    dd = metrics.get("max_drawdown_%", 0.0)
+    checks["drawdown"] = {
+        "label": f"Max drawdown < {v['go_max_drawdown']}%",
+        "value": round(dd, 1),
+        "threshold": v["go_max_drawdown"],
+        "pass": dd < v["go_max_drawdown"],
+        "severity": "REQUIRED",
+    }
+
+    # Recommended extras
+    checks["pf_comfortable"] = {
+        "label": f"Live PF ≥ 1.20 (preferred)",
+        "value": round(pf, 3),
+        "threshold": 1.20,
+        "pass": pf >= 1.20,
+        "severity": "RECOMMENDED",
+    }
+    checks["sample_preferred"] = {
+        "label": f"N trades ≥ 50 (preferred)",
+        "value": n,
+        "threshold": 50,
+        "pass": n >= 50,
+        "severity": "RECOMMENDED",
+    }
+
+    required_pass = all(c["pass"] for c in checks.values()
+                        if c["severity"] == "REQUIRED")
+    any_fail      = any(not c["pass"] for c in checks.values()
+                        if c["severity"] == "REQUIRED")
+
+    if n < v["go_min_trades"]:
+        verdict = "ACCUMULATING"
+        reason  = f"Only {n}/{v['go_min_trades']} required trades accumulated. Keep paper trading."
+    elif required_pass:
+        verdict = "GO"
+        reason  = "All required criteria pass. Strategy ready for real capital deployment."
+    else:
+        failed  = [k for k, c in checks.items()
+                   if c["severity"] == "REQUIRED" and not c["pass"]]
+        verdict = "NO-GO"
+        reason  = f"Failed required criteria: {', '.join(failed)}. Do NOT deploy real capital."
+
+    return {
+        "verdict":  verdict,
+        "reason":   reason,
+        "checks":   checks,
+        "n_trades": n,
+    }
+
+
+# ---------------------------------------------------------------------------
+# Deviation from baseline
+# ---------------------------------------------------------------------------
+
+def drift_analysis(metrics: dict) -> List[dict]:
+    """Compare live metrics to validated baseline and flag deviations."""
+    v = VALIDATED
+    flags = []
+
+    if metrics.get("n", 0) < 10:
+        return [{"level": "INFO", "msg": "Fewer than 10 trades — deviation analysis premature."}]
+
+    # PF drift
+    pf      = metrics.get("profit_factor", 0.0)
+    pf_diff = pf - v["test_pf"]
+    if pf < v["test_pf"] * 0.70:
+        flags.append({"level": "ALERT", "msg":
+            f"Live PF ({pf:.3f}) is >30% below validated test PF ({v['test_pf']:.3f}). "
+            f"Regime shift suspected. Review instrument-level breakdown."})
+    elif pf < v["test_pf"]:
+        flags.append({"level": "WARN", "msg":
+            f"Live PF ({pf:.3f}) below validated test PF ({v['test_pf']:.3f}) by {abs(pf_diff):.3f}. "
+            f"Normal sampling variance at low N; watch for continuation."})
+    else:
+        flags.append({"level": "OK", "msg":
+            f"Live PF ({pf:.3f}) ≥ validated test PF ({v['test_pf']:.3f}). Edge holding."})
+
+    # WR drift
+    wr      = metrics.get("win_rate_%", 0.0)
+    wr_diff = wr - v["test_wr"]
+    if abs(wr_diff) > 15:
+        flags.append({"level": "ALERT", "msg":
+            f"Live WR ({wr:.1f}%) deviates >15pp from validated ({v['test_wr']:.1f}%). "
+            f"Check for implementation error or structural regime change."})
+    else:
+        flags.append({"level": "OK", "msg":
+            f"Live WR ({wr:.1f}%) within ±15pp of validated ({v['test_wr']:.1f}%)."})
+
+    # W/L ratio drift
+    wl       = metrics.get("wl_ratio", 0.0)
+    wl_diff  = wl - v["test_wl_ratio"]
+    if wl < v["test_wl_ratio"] * 0.60:
+        flags.append({"level": "ALERT", "msg":
+            f"Live W/L ratio ({wl:.2f}x) is >40% below validated ({v['test_wl_ratio']:.2f}x). "
+            f"Wins are being cut short or losses are running longer than expected."})
+    elif wl < v["test_wl_ratio"]:
+        flags.append({"level": "WARN", "msg":
+            f"Live W/L ratio ({wl:.2f}x) below validated ({v['test_wl_ratio']:.2f}x). Monitor."})
+    else:
+        flags.append({"level": "OK", "msg":
+            f"Live W/L ratio ({wl:.2f}x) ≥ validated ({v['test_wl_ratio']:.2f}x)."})
+
+    return flags
+
+
+# ---------------------------------------------------------------------------
+# Commands
+# ---------------------------------------------------------------------------
+
+def cmd_log(args):
+    """Add a completed paper trade to the log."""
+    trades = load_trades()
+
+    # Validate required fields
+    symbol = args.symbol.upper()
+    if symbol not in VALID_SYMBOLS:
+        print(f"WARNING: {symbol} not in validated instrument list {sorted(VALID_SYMBOLS)}")
+        if not args.force:
+            print("Use --force to log non-standard instruments.")
+            return
+
+    exit_reason = args.exit_reason.upper()
+    if exit_reason not in VALID_EXIT_REASONS:
+        print(f"WARNING: exit_reason '{exit_reason}' not in {VALID_EXIT_REASONS}")
+
+    entry_price  = float(args.entry_price)
+    exit_price   = float(args.exit_price)
+    shares       = float(args.shares)
+    commission   = max(shares * 0.005, 1.00)  # matches backtest: $0.005/share, min $1
+    gross_pnl    = (exit_price - entry_price) * shares
+    net_pnl      = gross_pnl - commission * 2  # entry + exit commissions
+    won          = net_pnl > 0
+
+    trade = {
+        "trade_id":     len(trades) + 1,
+        "logged_at":    datetime.now().isoformat(),
+        "symbol":       symbol,
+        "entry_date":   args.entry_date,
+        "entry_price":  entry_price,
+        "shares":       shares,
+        "exit_date":    args.exit_date,
+        "exit_price":   exit_price,
+        "exit_reason":  exit_reason,
+        "bars_held":    int(args.bars_held),
+        "gross_pnl":    round(gross_pnl, 4),
+        "commission":   round(commission * 2, 4),
+        "net_pnl":      round(net_pnl, 4),
+        "won":          won,
+        # Optional diagnostic fields
+        "bb_lower_at_entry": args.bb_lower if hasattr(args, "bb_lower") else None,
+        "bb_mid_at_entry":   args.bb_mid   if hasattr(args, "bb_mid")   else None,
+        "rsi2_at_entry":     args.rsi2     if hasattr(args, "rsi2")     else None,
+        "atr10_at_entry":    args.atr10    if hasattr(args, "atr10")    else None,
+        "notes":             args.notes    if hasattr(args, "notes")    else "",
+    }
+
+    trades.append(trade)
+    save_trades(trades)
+
+    sign = "+" if net_pnl >= 0 else ""
+    print(f"\n  ✓ Trade #{trade['trade_id']} logged: {symbol} "
+          f"{args.entry_date}→{args.exit_date} | "
+          f"exit={exit_reason} | net_pnl={sign}{net_pnl:.2f} | "
+          f"{'WIN' if won else 'LOSS'}")
+    print(f"  Total trades in log: {len(trades)}")
+
+
+def cmd_check(args):
+    """Run daily calibration check and print go/no-go assessment."""
+    trades = load_trades()
+    metrics = compute_metrics(trades)
+    assessment = assess_go_nogo(metrics)
+    flags = drift_analysis(metrics) if trades else []
+
+    now = datetime.now()
+    sep  = "=" * 80
+    sep2 = "-" * 80
+
+    output_lines = []
+    output_lines.append(f"\n{sep}")
+    output_lines.append(f"  PHASE 2 PAPER TRADING CALIBRATION CHECK")
+    output_lines.append(f"  Run: {now.strftime('%Y-%m-%d %H:%M')}  |  Trades logged: {len(trades)}")
+    output_lines.append(sep)
+
+    # Metrics table
+    if trades:
+        output_lines.append(f"\n  LIVE METRICS ({metrics['n']} trades)")
+        output_lines.append(f"  {sep2}")
+        output_lines.append(f"  {'Metric':<25} {'Live':<15} {'Validated':<15} {'Delta'}")
+        output_lines.append(f"  {sep2}")
+
+        def row(label, live_val, val_key, fmt=".3f"):
+            base = VALIDATED.get(val_key, "—")
+            if isinstance(base, float) and isinstance(live_val, (int, float)):
+                delta = live_val - base
+                sign = "+" if delta >= 0 else ""
+                return (f"  {label:<25} {live_val:<{15}{fmt}} "
+                        f"{base:<{15}{fmt}} {sign}{delta:{fmt}}")
+            return f"  {label:<25} {live_val:<15} {base:<15} —"
+
+        output_lines.append(row("Profit Factor", metrics.get("profit_factor", 0), "test_pf"))
+        output_lines.append(row("Win Rate (%)", metrics.get("win_rate_%", 0), "test_wr", ".1f"))
+        output_lines.append(row("Avg Win ($)", metrics.get("avg_win_$", 0), "test_avg_win", ".2f"))
+        output_lines.append(row("Avg Loss ($)", metrics.get("avg_loss_$", 0), "test_avg_loss", ".2f"))
+        output_lines.append(row("W/L Ratio", metrics.get("wl_ratio", 0), "test_wl_ratio"))
+        output_lines.append(f"  {'Total P&L ($)':<25} {metrics.get('total_pnl_$', 0):<15.2f}")
+        output_lines.append(f"  {'Max Drawdown (%)':<25} {metrics.get('max_drawdown_%', 0):<15.1f}")
+    else:
+        output_lines.append(f"\n  No trades logged yet. Start paper trading to accumulate data.")
+
+    # Go/no-go verdict
+    output_lines.append(f"\n  {'─'*78}")
+    output_lines.append(f"  VERDICT: {assessment['verdict']}")
+    output_lines.append(f"  {assessment['reason']}")
+    output_lines.append(f"  {'─'*78}")
+
+    for key, check in assessment["checks"].items():
+        icon = "✓" if check["pass"] else "✗"
+        sev  = f"[{check['severity']}]"
+        output_lines.append(
+            f"  {icon} {sev:<14} {check['label']:<40} value={check['value']}")
+
+    # Drift flags
+    if flags:
+        output_lines.append(f"\n  DEVIATION ANALYSIS:")
+        for flag in flags:
+            icon = {"OK": "✓", "WARN": "⚠", "ALERT": "⛔", "INFO": "ℹ"}.get(flag["level"], "?")
+            output_lines.append(f"  {icon} [{flag['level']:<5}] {flag['msg']}")
+
+    # Daily checklist
+    output_lines.append(f"\n  {'─'*78}")
+    output_lines.append(f"  DAILY CHECKLIST (after market close)")
+    output_lines.append(f"  {'─'*78}")
+    checklist = [
+        "Run signals: cd backtest_v3 && python paper_trading_monitor.py check",
+        "Check each instrument (GLD WMT USMV NVDA AMZN GOOGL COST XOM HD MA):",
+        "  For each: is close < BB_lower(20,2) AND RSI(2) < 15?",
+        "  If YES: enter LONG at next open, set stop = entry - 1×ATR(10)",
+        "  Note entry price, ATR(10), bb_lower, bb_mid, rsi2 in trade log",
+        "For open positions:",
+        "  Exit if close >= BB_mid (BB_MID) OR close <= bb_lower-1×ATR(10) (ACCEL_SL)",
+        "  Exit if close <= hard_sl = entry - 1×ATR (SL)",
+        "  Exit at 10 bars if still open (TIME)",
+        "After any close: log trade with: python paper_trading_monitor.py log ...",
+        "Run check again to update go/no-go status",
+    ]
+    for i, item in enumerate(checklist, 1):
+        indent = "  " if item.startswith("  ") else f"  {i:2}. "
+        output_lines.append(f"  {i:2}. {item}" if not item.startswith("  ")
+                             else f"      {item.strip()}")
+
+    output_lines.append(f"\n{sep}\n")
+
+    full_output = "\n".join(output_lines)
+    print(full_output)
+
+    # Append to monitor log
+    with open(MONITOR_LOG, "a") as f:
+        f.write(full_output + "\n")
+
+
+def cmd_show(args):
+    """Display the full trade log."""
+    trades = load_trades()
+    if not trades:
+        print("No trades logged yet.")
+        return
+
+    print(f"\n  PAPER TRADE LOG  ({len(trades)} trades)")
+    print(f"  {'─'*100}")
+    header = (f"  {'#':<5} {'Sym':<6} {'Entry Date':<12} {'EntryPx':<10} "
+              f"{'Shrs':<7} {'Exit Date':<12} {'ExitPx':<10} "
+              f"{'Reason':<9} {'Bars':<6} {'Net P&L':<10} {'W/L'}")
+    print(header)
+    print(f"  {'─'*100}")
+
+    for t in trades:
+        sign = "+" if t["net_pnl"] >= 0 else ""
+        wl   = "WIN " if t["won"] else "LOSS"
+        print(f"  {t['trade_id']:<5} {t['symbol']:<6} {t['entry_date']:<12} "
+              f"{t['entry_price']:<10.2f} {t['shares']:<7.0f} "
+              f"{t['exit_date']:<12} {t['exit_price']:<10.2f} "
+              f"{t['exit_reason']:<9} {t['bars_held']:<6} "
+              f"{sign}{t['net_pnl']:<10.2f} {wl}")
+
+    print(f"  {'─'*100}")
+    metrics = compute_metrics(trades)
+    print(f"\n  Summary: N={metrics['n']} | "
+          f"PF={metrics.get('profit_factor', 0):.3f} | "
+          f"WR={metrics.get('win_rate_%', 0):.1f}% | "
+          f"Total_PnL=${metrics.get('total_pnl_$', 0):.2f}")
+    print()
+
+
+def cmd_export(args):
+    """Export trade log to CSV."""
+    import csv
+
+    trades = load_trades()
+    if not trades:
+        print("No trades to export.")
+        return
+
+    out_path = HERE / "paper_trades_export.csv"
+    fields = ["trade_id", "symbol", "entry_date", "entry_price", "shares",
+              "exit_date", "exit_price", "exit_reason", "bars_held",
+              "gross_pnl", "commission", "net_pnl", "won",
+              "bb_lower_at_entry", "bb_mid_at_entry", "rsi2_at_entry",
+              "atr10_at_entry", "notes"]
+
+    with open(out_path, "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
+        writer.writeheader()
+        writer.writerows(trades)
+
+    print(f"  Exported {len(trades)} trades to {out_path}")
+
+
+# ---------------------------------------------------------------------------
+# CLI
+# ---------------------------------------------------------------------------
+
+def parse_args():
+    p = argparse.ArgumentParser(
+        description="Paper Trading Monitor — Phase 2 Calibration Framework",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
+    sub = p.add_subparsers(dest="command")
+
+    # log command
+    log_p = sub.add_parser("log", help="Log a completed paper trade")
+    log_p.add_argument("--symbol",       required=True)
+    log_p.add_argument("--entry-date",   required=True, dest="entry_date",
+                       help="YYYY-MM-DD")
+    log_p.add_argument("--entry-price",  required=True, dest="entry_price", type=float)
+    log_p.add_argument("--shares",       required=True, type=float)
+    log_p.add_argument("--exit-date",    required=True, dest="exit_date",
+                       help="YYYY-MM-DD")
+    log_p.add_argument("--exit-price",   required=True, dest="exit_price", type=float)
+    log_p.add_argument("--exit-reason",  required=True, dest="exit_reason",
+                       choices=["BB_MID", "SL", "ACCEL_SL", "TIME", "MANUAL", "EOD", "EOB"],
+                       help="Exit reason (matches backtest categories)")
+    log_p.add_argument("--bars-held",    required=True, dest="bars_held", type=int)
+    log_p.add_argument("--bb-lower",     dest="bb_lower", type=float, default=None,
+                       help="BB lower value at entry (optional diagnostic)")
+    log_p.add_argument("--bb-mid",       dest="bb_mid",   type=float, default=None,
+                       help="BB midline at entry (optional diagnostic)")
+    log_p.add_argument("--rsi2",         dest="rsi2",     type=float, default=None,
+                       help="RSI(2) value at entry (must be < 15)")
+    log_p.add_argument("--atr10",        dest="atr10",    type=float, default=None,
+                       help="ATR(10) value at entry (sets stop distance)")
+    log_p.add_argument("--notes",        dest="notes",    default="",
+                       help="Freeform notes")
+    log_p.add_argument("--force",        action="store_true",
+                       help="Allow non-standard instruments")
+
+    # check command
+    sub.add_parser("check", help="Run daily calibration check")
+
+    # show command
+    sub.add_parser("show", help="Show full trade log")
+
+    # export command
+    sub.add_parser("export", help="Export trade log to CSV")
+
+    return p.parse_args()
+
+
+def main():
+    args = parse_args()
+
+    if args.command == "log":
+        cmd_log(args)
+    elif args.command == "check":
+        cmd_check(args)
+    elif args.command == "show":
+        cmd_show(args)
+    elif args.command == "export":
+        cmd_export(args)
+    else:
+        # Default: run check
+        args.command = "check"
+        cmd_check(args)
+
+
+if __name__ == "__main__":
+    main()

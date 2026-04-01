@@ -23,6 +23,25 @@ from realtime_data import RealTimeDataFetcher, LiveMarketData
 from news_tracker import NewsTracker, NewsAnalysis
 from fvg_analysis import FVGAnalyser, FVGAnalysisResult, print_fvg_report
 
+# ICT2 signal modules (optional; graceful degradation if not installed)
+try:
+    import sys as _sys
+    from pathlib import Path as _Path
+    _sys.path.insert(0, str(_Path(__file__).parent.parent.parent))
+    from trading_system.ict_signals.killzone_filter import KillZoneDetector
+    from trading_system.ict_signals.displacement_detector import DisplacementDetector
+    from trading_system.ict_signals.nwog_detector import NWOGDetector
+    from trading_system.ict_signals.propulsion_block_detector import PropulsionBlockDetector
+    from trading_system.ict_signals.balanced_price_range import BPRDetector
+    from trading_system.ict_signals.turtle_soup_detector import TurtleSoupDetector
+    from trading_system.ict_signals.power_of_three import PowerOfThreeDetector
+    from trading_system.ict_signals.silver_bullet_setup import SilverBulletDetector
+    from core.ict2_convergence_engine import ICT2ConvergenceEngine, ConvergenceScore
+    _ICT2_AVAILABLE = True
+except Exception as _e:  # noqa: BLE001
+    _ICT2_AVAILABLE = False
+    ConvergenceScore = None  # type: ignore
+
 
 @dataclass
 class TechnicalSignal:
@@ -111,6 +130,9 @@ class CombinedPrediction:
     # FVG / ICT analysis
     fvg: Optional[FVGAnalysisResult]
 
+    # ICT2 convergence (None when ict_signals package not installed)
+    ict2_convergence: Optional[object]  # ConvergenceScore
+
     # Price targets
     current_price: float
     target_price_bull: float
@@ -142,6 +164,8 @@ class StockPredictor:
         self.live_data: Optional[LiveMarketData] = None
         self.news_analysis: Optional[NewsAnalysis] = None
         self.fvg_result: Optional[FVGAnalysisResult] = None
+        self.ict2_results: Dict[str, object] = {}
+        self.ict2_convergence: Optional[object] = None  # ConvergenceScore
 
     def fetch_data(self):
         """Fetch all required data."""
@@ -160,6 +184,37 @@ class StockPredictor:
         df = yf.Ticker(self.ticker).history(period='1y', interval='1d').reset_index()
         analyser = FVGAnalyser(df, ticker=self.ticker)
         self.fvg_result = analyser.analyse()
+
+        # ICT2 signal modules
+        if _ICT2_AVAILABLE:
+            print("\n🔬 Running ICT2 signal detection...")
+            try:
+                _htf_bias = "bullish" if (self.fvg_result and self.fvg_result.bias == "bullish") else "bearish"
+                _kz_det   = KillZoneDetector(htf_bias=_htf_bias)
+                _disp_det = DisplacementDetector()
+                _nwog_det = NWOGDetector()
+                _pb_det   = PropulsionBlockDetector()
+                _bpr_det  = BPRDetector()
+                _ts_det   = TurtleSoupDetector()
+                _po3_det  = PowerOfThreeDetector(expected_direction=_htf_bias)
+                _sb_det   = SilverBulletDetector()
+
+                _price = float(df["Close"].iloc[-1]) if "Close" in df.columns else float(df["close"].iloc[-1])
+                self.ict2_results = {
+                    "fvg_result":       self.fvg_result,
+                    "kill_zone":        _kz_det.process(None, _price),
+                    "displacement":     _disp_det.update(df),
+                    "nwog":             _nwog_det.update(df),
+                    "propulsion_block": _pb_det.update(df),
+                    "bpr":              _bpr_det.update(df),
+                    "turtle_soup":      _ts_det.update(df),
+                    "po3":              _po3_det.update(df),
+                    "silver_bullet":    _sb_det.update(df),
+                    "current_price":    _price,
+                }
+            except Exception as _ex:
+                print(f"   ⚠️  ICT2 detection error: {_ex}")
+                self.ict2_results = {}
 
         # Fetch and analyze news
         print("\n📰 Analyzing news and events...")
@@ -485,14 +540,35 @@ class StockPredictor:
                     fvg_score -= 0.1
                     bearish.append(f"BSL sweep + rejection @ ${sw.level} ({sw.date})")
 
+        # === ICT2 CONVERGENCE SCORE ===
+        ict2_score = 0.0
+        if _ICT2_AVAILABLE and self.ict2_results:
+            try:
+                _conv_engine = ICT2ConvergenceEngine()
+                _conv_results = dict(self.ict2_results)
+                # Pass fundamental/news preliminary scores if available
+                _conv_results["nucleus_score"] = 0.70  # default; updated post-prediction
+                _conv = _conv_engine.score(_conv_results)
+                self.ict2_convergence = _conv
+                ict2_score = float(_conv.raw_score)
+                if ict2_score > 0.15:
+                    bullish.append(f"ICT2 convergence: {_conv.direction} (raw={ict2_score:+.2f}, top={_conv.top_signals[:2]})")
+                elif ict2_score < -0.15:
+                    bearish.append(f"ICT2 convergence: {_conv.direction} (raw={ict2_score:+.2f}, top={_conv.top_signals[:2]})")
+            except Exception as _ex:
+                pass  # ICT2 engine failure must never break the predictor
+
         # === COMBINE SCORES ===
+        # Weights: trend 0.18, momentum 0.22, volatility 0.13, volume 0.09,
+        #          options 0.09, fvg 0.17, ict2 0.12  (sum = 1.00)
         total_score = (
-            trend_score * 0.20 +
-            momentum_score * 0.25 +
-            volatility_score * 0.15 +
-            volume_score * 0.10 +
-            options_score * 0.10 +
-            fvg_score * 0.20          # FVG/ICT now 20% of technical signal
+            trend_score      * 0.18 +
+            momentum_score   * 0.22 +
+            volatility_score * 0.13 +
+            volume_score     * 0.09 +
+            options_score    * 0.09 +
+            fvg_score        * 0.17 +
+            ict2_score       * 0.12
         )
         
         # Direction
@@ -907,6 +983,7 @@ class StockPredictor:
             fundamental=fundamental,
             news=news,
             fvg=self.fvg_result,
+            ict2_convergence=self.ict2_convergence,
             current_price=round(current_price, 2),
             target_price_bull=round(target_bull, 2),
             target_price_bear=round(target_bear, 2),
@@ -969,6 +1046,18 @@ class StockPredictor:
 
         print(f"\n📝 SUMMARY:")
         print(f"   {pred.summary}")
+
+        # ICT2 convergence summary
+        if pred.ict2_convergence:
+            c = pred.ict2_convergence
+            print(f"\n\U0001f9e9 ICT2 CONVERGENCE")
+            print(f"   Direction  : {c.direction}  (raw={c.raw_score:+.4f}  final={c.final_score:+.4f})")
+            print(f"   Confidence : {c.confidence:.0%}   Nucleus×{c.nucleus_multiplier:.2f}")
+            print(f"   Top signals: {', '.join(c.top_signals)}")
+            if c.conflicting_signals:
+                print(f"   Conflicts  : {', '.join(c.conflicting_signals[:4])}")
+            print(f"   Breakdown  : ", end="")
+            print("  ".join(f"{g}={v:+.3f}" for g, v in c.signal_breakdown.items()))
 
         # Full FVG / ICT report
         if pred.fvg:

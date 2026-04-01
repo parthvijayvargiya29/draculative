@@ -1,0 +1,34 @@
+TREND MODULE SUSPENSION REPORT
+============================================================
+Date              : 2026-03-20
+Version           : V5.2
+Test PF achieved  : 1.783  (required >= 1.1)
+WFE achieved      : 0.302  (required >= 0.6)
+Precision         : 0.438  (required > 0.65)
+Recall            : 1.000  (required > 0.5)
+
+Classifier selected    : C_AdditiveScore
+Classifier description : threshold=5/8  |  bb_width_expanding > 0.1000  atr14_pct60 < 0.8772  spy_adx14 < 33.2951  spy_sma50_slope < 0.0254  di_spread < 31.4467  linreg_r2 > 0.6891  atr_slope < 0.0004  spy_dd_from_high > -0.0198
+Val F1                 : 0.731
+Val precision          : 0.679
+Val recall             : 0.792
+
+Failure classification : instrument_mismatch_single_stock
+
+Key finding:
+  The regime classifier (V5.2, C_AdditiveScore) did not meet the acceptance criteria
+  on the held-out test set. This evaluation ran exactly once and the result is final.
+  The test set was not examined before this evaluation.
+
+Recommended future approach:
+  Restrict trend universe to ETFs only (QQQ, IWM, XLK). One retest permitted with ETF-only universe before full suspension.
+
+Earliest appropriate reopen date: 2027-03-20
+  (12-month minimum enforced — regimes persist; wait for regime change before retrying)
+
+Decision:
+  - Do NOT deploy trend module
+  - Do NOT combine with Combo C live trading
+  - Continue Combo C + Kelly ramp only
+  - Reopen this research track no earlier than 2027-03-20
+============================================================

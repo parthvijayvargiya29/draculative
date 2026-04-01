@@ -23,7 +23,15 @@ if SRC not in sys.path:
 
 import yfinance as yf
 
-from stock_predictor import StockPredictor
+try:
+    from stock_predictor import StockPredictor
+except ImportError:
+    # Fallback: manually add predictor/src to path
+    import sys
+    predictor_src = os.path.join(ROOT, 'src')
+    if predictor_src not in sys.path:
+        sys.path.insert(0, predictor_src)
+    from stock_predictor import StockPredictor
 
 
 def fetch_prediction_and_price(ticker: str):

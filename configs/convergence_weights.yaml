@@ -1,0 +1,37 @@
+# configs/convergence_weights.yaml
+# Weight architecture for ICT2ConvergenceEngine.
+# All group weights must sum to 1.0.
+# Individual signal weights within each group are relative (they will be
+# normalised to 1.0 within the group before applying the group weight).
+
+groups:
+  structure:    0.25     # FVG bias, BOS/ChoCH, premium/discount
+  liquidity:    0.20     # SSL/BSL sweeps, turtle soup, NWOG/NMOG
+  entry_model:  0.20     # silver bullet, PO3, propulsion block, BPR
+  time_context: 0.10     # kill zone gate
+  displacement: 0.10     # displacement signal
+  fundamental:  0.10     # value, quality, growth, sentiment
+  news:         0.05     # news sentiment, event classification
+
+# Per-signal contribution limits (before group weight)
+signal_limits:
+  turtle_soup:          0.40   # highest weight — direct liquidity raid confirmation
+  po3_distribution:     0.35
+  silver_bullet:        0.30
+  displacement:         0.30
+  propulsion_block:     0.25
+  nwog_nmog:            0.20   # gap-based magnet
+  bpr_ce:               0.15
+  kill_zone:            1.0    # used as a multiplier, not an additive score
+
+# Nucleus multiplier range
+nucleus_min_multiplier: 0.5
+nucleus_max_multiplier: 1.5
+
+# Score-to-direction thresholds (applied to final_score)
+direction_thresholds:
+  strong_buy:   0.40
+  buy:          0.15
+  hold_lo:     -0.15
+  sell:        -0.40
+  strong_sell: -1.0    # anything below -0.40 is STRONG_SELL

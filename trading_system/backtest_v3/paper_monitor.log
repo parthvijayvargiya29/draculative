@@ -1,0 +1,156 @@
+
+================================================================================
+  COMBO C v4.0 -- LIVE DEPLOYMENT MONITOR  [PATH C]
+  2026-03-19 21:18  |  Total: 0  (Paper:0 Ramp:0 Full:0)
+================================================================================
+
+  No trades logged. Expected first signal soon at ~3.6 trades/month.
+  N=30 expected in ~8.3 months from first trade.
+
+  Open positions: NONE
+
+  DRAWDOWN STATE [NORMAL]: Normal trading. No size adjustments.
+
+  ------------------------------------------------------------------------------
+  VERDICT : ACCUMULATING
+  REASON  : N=0/30 trades. ~8.3 months to go at 3.6 trades/month.
+  ACTION  : Trade at 20% position size. Log every trade before next trading day.
+  ------------------------------------------------------------------------------
+  XX [REQUIRED]     N trades >= 30 (statistical minimum)          = 0
+  XX [REQUIRED]     Live PF >= 1.1 (test-period floor)            = 0.0
+  XX [REQUIRED]     Live WR >= 38.0% (backtest - 15pp)            = 0.0
+  OK [REQUIRED]     Live WR <= 68.0% (lookahead guard)            = 0.0
+  OK [REQUIRED]     Max drawdown < 25.0% (~2x backtest)           = 0.0
+  XX [RECOMMENDED]  Live PF >= 1.20 (comfortable margin, preferred) = 0.0
+  XX [RECOMMENDED]  N trades >= 50 (preferred robustness)         = 0
+
+  ------------------------------------------------------------------------------
+  DAILY CHECKLIST
+  ------------------------------------------------------------------------------
+  1. Open position audit: bar_count, current ACCEL_SL, distance to BB_MID
+  2. Signal scan: close < BB_lower(20,2) AND RSI(2) < 15 on any flat instrument
+  3. Pre-entry: earnings within 5 days? ex-div within 3 days? company news?
+  4. Concurrent cap: max 4 open; if >4 signals, pick lowest RSI(2) first
+  5. At-risk check: sum(stop_dist x shares) / equity < 5%
+  6. Log exits:  python paper_trading_monitor.py log ...
+  7. Update open: python paper_trading_monitor.py open list
+
+================================================================================
+
+
+================================================================================
+  COMBO C v4.0 -- LIVE DEPLOYMENT MONITOR  [PATH C]
+  2026-03-19 21:22  |  Total: 0  (Paper:0 Ramp:0 Full:0)
+================================================================================
+
+  No trades logged. Expected first signal soon at ~3.6 trades/month.
+  N=30 expected in ~8.3 months from first trade.
+
+  Open positions: NONE
+
+  DRAWDOWN STATE [NORMAL]: Normal trading. No size adjustments.
+
+  ------------------------------------------------------------------------------
+  VERDICT : ACCUMULATING
+  REASON  : N=0/30 trades. ~8.3 months to go at 3.6 trades/month.
+  ACTION  : Trade at 20% position size. Log every trade before next trading day.
+  ------------------------------------------------------------------------------
+  XX [REQUIRED]     N trades >= 30 (statistical minimum)          = 0
+  XX [REQUIRED]     Live PF >= 1.1 (test-period floor)            = 0.0
+  XX [REQUIRED]     Live WR >= 38.0% (backtest - 15pp)            = 0.0
+  OK [REQUIRED]     Live WR <= 68.0% (lookahead guard)            = 0.0
+  OK [REQUIRED]     Max drawdown < 25.0% (~2x backtest)           = 0.0
+  XX [RECOMMENDED]  Live PF >= 1.20 (comfortable margin, preferred) = 0.0
+  XX [RECOMMENDED]  N trades >= 50 (preferred robustness)         = 0
+
+  ------------------------------------------------------------------------------
+  DAILY CHECKLIST
+  ------------------------------------------------------------------------------
+  1. Open position audit: bar_count, current ACCEL_SL, distance to BB_MID
+  2. Signal scan: close < BB_lower(20,2) AND RSI(2) < 15 on any flat instrument
+  3. Pre-entry: earnings within 5 days? ex-div within 3 days? company news?
+  4. Concurrent cap: max 4 open; if >4 signals, pick lowest RSI(2) first
+  5. At-risk check: sum(stop_dist x shares) / equity < 5%
+  6. Log exits:  python paper_trading_monitor.py log ...
+  7. Update open: python paper_trading_monitor.py open list
+
+================================================================================
+
+
+================================================================================
+  COMBO C v4.0 -- LIVE DEPLOYMENT MONITOR  [PATH C]
+  2026-03-19 21:40  |  Total: 0  (Paper:0 Ramp:0 Full:0)
+================================================================================
+
+  No trades logged. Expected first signal soon at ~3.6 trades/month.
+  N=30 expected in ~8.3 months from first trade.
+
+  Open positions: NONE
+
+  DRAWDOWN STATE [NORMAL]: Normal trading. No size adjustments.
+
+  ------------------------------------------------------------------------------
+  VERDICT : ACCUMULATING
+  REASON  : N=0/30 trades. ~8.3 months to go at 3.6 trades/month.
+  ACTION  : Trade at 20% position size. Log every trade before next trading day.
+  ------------------------------------------------------------------------------
+  XX [REQUIRED]     N trades >= 30 (statistical minimum)          = 0
+  XX [REQUIRED]     Live PF >= 1.1 (test-period floor)            = 0.0
+  XX [REQUIRED]     Live WR >= 38.0% (backtest - 15pp)            = 0.0
+  OK [REQUIRED]     Live WR <= 68.0% (lookahead guard)            = 0.0
+  OK [REQUIRED]     Max drawdown < 25.0% (~2x backtest)           = 0.0
+  XX [RECOMMENDED]  Live PF >= 1.20 (comfortable margin, preferred) = 0.0
+  XX [RECOMMENDED]  N trades >= 50 (preferred robustness)         = 0
+
+  ------------------------------------------------------------------------------
+  DAILY CHECKLIST
+  ------------------------------------------------------------------------------
+  1. Open position audit: bar_count, current ACCEL_SL, distance to BB_MID
+  2. Signal scan: close < BB_lower(20,2) AND RSI(2) < 15 on any flat instrument
+  3. Pre-entry: earnings within 5 days? ex-div within 3 days? company news?
+  4. Concurrent cap: max 4 open; if >4 signals, pick lowest RSI(2) first
+  5. At-risk check: sum(stop_dist x shares) / equity < 5%
+  6. Log exits:  python paper_trading_monitor.py log ...
+  7. Update open: python paper_trading_monitor.py open list
+
+================================================================================
+
+
+================================================================================
+  COMBO C v4.0 -- LIVE DEPLOYMENT MONITOR  [PATH C]
+  2026-03-19 21:40  |  Total: 0  (Paper:0 Ramp:0 Full:0)
+================================================================================
+
+  No trades logged. Expected first signal soon at ~3.6 trades/month.
+  N=30 expected in ~8.3 months from first trade.
+
+  Open positions: NONE
+
+  DRAWDOWN STATE [NORMAL]: Normal trading. No size adjustments.
+
+  ------------------------------------------------------------------------------
+  VERDICT : ACCUMULATING
+  REASON  : N=0/30 trades. ~8.3 months to go at 3.6 trades/month.
+  ACTION  : Trade at 20% position size. Log every trade before next trading day.
+  ------------------------------------------------------------------------------
+  XX [REQUIRED]     N trades >= 30 (statistical minimum)          = 0
+  XX [REQUIRED]     Live PF >= 1.1 (test-period floor)            = 0.0
+  XX [REQUIRED]     Live WR >= 38.0% (backtest - 15pp)            = 0.0
+  OK [REQUIRED]     Live WR <= 68.0% (lookahead guard)            = 0.0
+  OK [REQUIRED]     Max drawdown < 25.0% (~2x backtest)           = 0.0
+  XX [RECOMMENDED]  Live PF >= 1.20 (comfortable margin, preferred) = 0.0
+  XX [RECOMMENDED]  N trades >= 50 (preferred robustness)         = 0
+
+  ------------------------------------------------------------------------------
+  DAILY CHECKLIST
+  ------------------------------------------------------------------------------
+  1. Open position audit: bar_count, current ACCEL_SL, distance to BB_MID
+  2. Signal scan: close < BB_lower(20,2) AND RSI(2) < 15 on any flat instrument
+  3. Pre-entry: earnings within 5 days? ex-div within 3 days? company news?
+  4. Concurrent cap: max 4 open; if >4 signals, pick lowest RSI(2) first
+  5. At-risk check: sum(stop_dist x shares) / equity < 5%
+  6. Log exits:  python paper_trading_monitor.py log ...
+  7. Update open: python paper_trading_monitor.py open list
+
+================================================================================
+

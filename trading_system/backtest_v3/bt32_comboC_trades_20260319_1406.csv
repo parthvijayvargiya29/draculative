@@ -1,0 +1,2 @@
+trade_id,symbol,combo,direction,signal_bar,signal_close,atr_at_signal,entry_bar,entry_price,shares,stop_loss,risk_amount,equity_at_entry,exit_bar,exit_price,exit_reason,bars_held_at_exit,gross_pnl,commission,net_pnl,net_pnl_pct,won,period
+1,MSFT,C,LONG,2026-02-05,393.65,13.451035243198076,2026-02-06,398.59419749999995,3.136,385.1432,50.0,4999.0,2026-02-20,397.0814,TIME,10,-4.7443,1.0,-5.7443,-0.001149,False,all

@@ -1,0 +1,3 @@
+This is a test transcription. The quick brown fox jumps over the lazy dog. 
+Machine learning models like Whisper can transcribe audio accurately.
+Draculative is a quantitative trading system built on Alpaca Markets API.

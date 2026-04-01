@@ -1,0 +1,43 @@
+{
+  "date": "2026-04-01",
+  "corpus": {
+    "source_count": 15,
+    "total_words": 108660,
+    "baseline_direction": "BULLISH",
+    "baseline_score": 65,
+    "topic_directions": {
+      "RATES": "BULLISH",
+      "DOLLAR": "BULLISH",
+      "EQUITIES": "BULLISH",
+      "COMMODITIES": "BULLISH",
+      "GEOPOLITICS": "BULLISH",
+      "INFLATION": "BULLISH",
+      "LABOUR": "NEUTRAL"
+    },
+    "topic_scores": {
+      "RATES": 1,
+      "DOLLAR": 7,
+      "EQUITIES": 13,
+      "COMMODITIES": 6,
+      "GEOPOLITICS": 37,
+      "INFLATION": 1,
+      "LABOUR": 0
+    }
+  },
+  "alignment": {
+    "generated_at": "2026-04-01 12:41 UTC",
+    "scored_items": 0,
+    "match_count": 0,
+    "partial_count": 0,
+    "mismatch_count": 0,
+    "overall_similarity_rate": 0.0,
+    "headline": "No scorable news items today.",
+    "topic_alignments": {},
+    "aligned_items": []
+  },
+  "model": {
+    "trained_at": "2026-04-01T14:41:50.070855",
+    "n_chunks": 730,
+    "accuracy": 0.926
+  }
+}

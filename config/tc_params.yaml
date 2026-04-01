@@ -1,0 +1,489 @@
+# Draculative Alpha Engine — TC Parameters
+# ==========================================
+# All Technical Concept (TC) thresholds and configurations.
+# Zero hardcoding in TC modules — all params loaded from here.
+#
+# Format per TC:
+#   tc_XX:
+#     param_name: value
+#     symbols: [list of tickers]
+#     regime_weights:
+#       TRENDING: 1.0
+#       CORRECTIVE: 0.5
+#       etc.
+
+# ── TC-01: Supertrend Pullback (from Combo B) ───────────────────────────────
+tc_01:
+  # SuperTrend parameters
+  st_period: 10
+  st_multiplier: 3.0
+  
+  # Entry gates
+  pullback_pct: 0.080          # Price must come within 8% of ST line
+  rsi_min: 50.0                # RSI(14) > 50 for LONG, < 50 for SHORT
+  adx_min: 20.0                # ADX(14) level gate at pullback entry
+  
+  # Window parameters
+  armed_window_bars: 15        # Bars after flip to watch for pullback
+  
+  # Exit parameters
+  sl_atr_mult: 1.5             # Hard stop 1.5x ATR below entry
+  time_bars: 15                # 15-bar time stop
+  
+  # Risk management
+  risk_per_trade: 0.01         # 1% portfolio risk per trade
+  
+  # Universe (Combo B symbols — trend instruments)
+  symbols:
+    - SPY
+    - QQQ
+    - IWM
+    - XLK
+    - XLY
+    - NVDA
+    - AAPL
+    - MSFT
+    - GOOGL
+    - META
+    - AMZN
+    - TSLA
+    - AMD
+    - MRVL
+    - PANW
+    - CRM
+    - NOW
+    - ADBE
+    - CRWD
+    - MU
+  
+  # Regime weights (trend-following TC, strong in TRENDING)
+  regime_weights:
+    TRENDING: 1.0
+    CORRECTIVE: 0.3
+    HIGH_VOL: 0.0
+    RANGING: 0.0
+
+
+# ── TC-02: Bollinger Band + RSI2 Mean Reversion (from Combo C) ──────────────
+tc_02:
+  # Bollinger Bands parameters
+  bb_period: 20
+  bb_std: 2.0
+  
+  # Entry gates
+  rsi2_max: 15.0               # RSI(2) < 15 deeply oversold
+  
+  # Exit parameters
+  sl_atr_mult: 1.0             # Acceleration SL: bb_lower - 1x ATR(10)
+  time_bars: 10                # 10-bar time stop
+  
+  # Risk management
+  risk_per_trade: 0.01
+  
+  # Universe (Combo C validated symbols — low-beta mean reversion)
+  symbols:
+    - GLD
+    - WMT
+    - USMV
+    - NVDA
+    - AMZN
+    - GOOGL
+    - COST
+    - XOM
+    - MA
+    - KR
+    - USO
+    - PM
+    - MO
+    - D
+    - TLT
+    - GIS
+    - HSY
+    - KO
+    - SYY
+    - VZ
+    - SPLV
+  
+  # Regime weights (mean reversion TC, strong in CORRECTIVE/RANGING)
+  regime_weights:
+    TRENDING: 0.3
+    CORRECTIVE: 1.0
+    HIGH_VOL: 0.5
+    RANGING: 1.0
+
+
+# ── TC-03: Breakout + ADX Gate (from Combo A) ───────────────────────────────
+tc_03:
+  # Breakout parameters
+  breakout_lookback: 20        # 20-bar highest-high lookback
+  adx_min: 15.0                # ADX(14) > 15 confirms trend presence
+  
+  # Exit parameters
+  tp_atr_mult: 3.0             # 3x ATR take profit
+  sl_atr_mult: 1.0             # 1x ATR stop loss
+  time_bars: 20                # 20-bar time stop
+  
+  # Risk management
+  risk_per_trade: 0.01
+  
+  # Universe (Combo A symbols — same as TC-01)
+  symbols:
+    - SPY
+    - QQQ
+    - IWM
+    - XLK
+    - XLY
+    - NVDA
+    - AAPL
+    - MSFT
+    - GOOGL
+    - META
+    - AMZN
+    - TSLA
+    - AMD
+    - MRVL
+    - PANW
+    - CRM
+    - NOW
+    - ADBE
+    - CRWD
+    - MU
+  
+  # Regime weights (breakout TC, works in TRENDING)
+  regime_weights:
+    TRENDING: 1.0
+    CORRECTIVE: 0.5
+    HIGH_VOL: 0.0
+    RANGING: 0.3
+
+
+# ── TC-04: Fair Value Gap Entry ─────────────────────────────────────────────
+tc_04:
+  # FVG detection
+  min_gap_pct: 0.003           # Minimum FVG size: 0.3% of price
+  volume_mult: 1.2             # Volume on gap candle > 1.2x average
+  
+  # Entry/Exit
+  risk_per_trade: 0.01
+  
+  # Universe
+  symbols:
+    - SPY
+    - QQQ
+    - AAPL
+    - NVDA
+    - MSFT
+  
+  # Regime weights
+  regime_weights:
+    TRENDING: 1.0
+    CORRECTIVE: 0.8
+    HIGH_VOL: 0.3
+    RANGING: 0.5
+
+
+# ── TC-05: Order Block Entry ────────────────────────────────────────────────
+tc_05:
+  # OB detection
+  impulse_atr_mult: 1.5        # Impulse candle body > 1.5x ATR(14)
+  lookback_bars: 30            # Maximum lookback for OB detection
+  buffer_pct: 0.001            # 0.1% buffer beyond OB edge
+  
+  # Risk management
+  risk_per_trade: 0.01
+  
+  # Universe
+  symbols:
+    - SPY
+    - QQQ
+    - AAPL
+    - NVDA
+    - AMZN
+  
+  # Regime weights
+  regime_weights:
+    TRENDING: 1.0
+    CORRECTIVE: 0.7
+    HIGH_VOL: 0.3
+    RANGING: 0.5
+
+
+# ── TC-06: VWAP Deviation Mean Reversion ────────────────────────────────────
+tc_06:
+  # Entry thresholds
+  vwap_deviation_pct: 0.020    # 2.0% above/below VWAP
+  rsi_long_max: 40             # RSI(14) < 40 for LONG
+  rsi_short_min: 60            # RSI(14) > 60 for SHORT
+  adx_max: 30                  # ADX < 30 (mean reversion less effective in strong trends)
+  
+  # Exit
+  sl_atr_mult: 1.5
+  risk_per_trade: 0.01
+  
+  # Universe (Combo C symbols — low-beta)
+  symbols:
+    - GLD
+    - WMT
+    - USMV
+    - COST
+    - XOM
+    - MA
+    - KR
+    - PM
+    - MO
+    - D
+    - TLT
+    - GIS
+    - HSY
+    - KO
+    - SYY
+    - VZ
+    - SPLV
+  
+  # Regime weights
+  regime_weights:
+    TRENDING: 0.3
+    CORRECTIVE: 1.0
+    HIGH_VOL: 0.5
+    RANGING: 1.0
+
+
+# ── TC-07: ADX Trend Strength Gate ──────────────────────────────────────────
+tc_07:
+  # ADX thresholds
+  adx_strong: 30               # ADX > 30 = TRENDING_STRONG
+  adx_moderate: 20             # ADX 20-30 = TRENDING_MODERATE
+  # ADX < 20 = RANGING
+  
+  # This is a gate, not a signal generator — no symbols/regime weights needed
+
+
+# ── TC-08: Golden/Death Cross Filter ────────────────────────────────────────
+tc_08:
+  # MA periods
+  fast_ma: 50
+  slow_ma: 200
+  fresh_cross_bars: 5          # Cross is "fresh" if within last 5 bars
+  
+  # This is a gate, not a signal generator
+
+
+# ── TC-09: Volume Climax Reversal ───────────────────────────────────────────
+tc_09:
+  # Volume spike detection
+  volume_mult: 2.5             # Volume > 2.5x 20-bar average
+  trend_lookback: 3            # Prior 3 bars define trend
+  wick_body_ratio: 2.0         # Long wick > 2x body size
+  
+  # Exit
+  sl_buffer_pct: 0.001         # 0.1% beyond signal bar extreme
+  tp_atr_mult: 1.5
+  risk_per_trade: 0.01
+  
+  # Universe
+  symbols:
+    - SPY
+    - QQQ
+    - IWM
+    - GLD
+    - TLT
+  
+  # Regime weights
+  regime_weights:
+    TRENDING: 0.3
+    CORRECTIVE: 1.0
+    HIGH_VOL: 0.5
+    RANGING: 1.0
+
+
+# ── TC-10: Liquidity Sweep + Rejection ──────────────────────────────────────
+tc_10:
+  # Sweep detection
+  swing_lookback: 20           # Last 20 bars for swing high/low
+  wick_atr_mult: 1.0           # Wick extends at least 1x ATR past level
+  
+  # Risk management
+  risk_per_trade: 0.01
+  
+  # Universe (Combo A symbols)
+  symbols:
+    - SPY
+    - QQQ
+    - IWM
+    - XLK
+    - NVDA
+    - AAPL
+    - MSFT
+    - GOOGL
+    - META
+    - AMZN
+    - TSLA
+    - AMD
+  
+  # Regime weights
+  regime_weights:
+    TRENDING: 0.7
+    CORRECTIVE: 1.0
+    HIGH_VOL: 0.3
+    RANGING: 0.8
+
+
+# ── TC-11: Change of Character (ChoCH) ──────────────────────────────────────
+tc_11:
+  # Swing detection (5-bar fractal, consistent with FVG analyzer)
+  fractal_bars: 5
+  
+  # Risk management
+  risk_per_trade: 0.01
+  
+  # Universe
+  symbols:
+    - SPY
+    - QQQ
+    - IWM
+    - AAPL
+    - NVDA
+  
+  # Regime weights (catches early trend shifts)
+  regime_weights:
+    TRENDING: 0.5
+    CORRECTIVE: 1.0
+    HIGH_VOL: 0.3
+    RANGING: 0.7
+
+
+# ── TC-12: PPO + PVO Dual Momentum ──────────────────────────────────────────
+tc_12:
+  # Oscillator parameters
+  fast_ema: 12
+  slow_ema: 26
+  signal_ema: 9
+  sync_window: 2               # Both conditions within 2 bars
+  
+  # Exit
+  tp_atr_mult: 2.0
+  risk_per_trade: 0.01
+  
+  # Universe (Combo A symbols)
+  symbols:
+    - SPY
+    - QQQ
+    - IWM
+    - NVDA
+    - AAPL
+    - MSFT
+    - GOOGL
+    - META
+    - AMZN
+    - TSLA
+  
+  # Regime weights
+  regime_weights:
+    TRENDING: 1.0
+    CORRECTIVE: 0.7
+    HIGH_VOL: 0.3
+    RANGING: 0.5
+
+
+# ── TC-13: Stochastic RSI Oversold Crossup ──────────────────────────────────
+tc_13:
+  # StochRSI parameters
+  rsi_period: 14
+  stoch_period: 14
+  k_smooth: 3
+  d_smooth: 3
+  
+  # Entry thresholds
+  k_oversold: 20               # %K < 20 for LONG
+  k_overbought: 80             # %K > 80 for SHORT
+  rsi_long_max: 45             # Additional gate: RSI < 45 for LONG
+  rsi_short_min: 55            # RSI > 55 for SHORT
+  
+  # Exit
+  sl_atr_mult: 1.0
+  target_k_level: 50           # StochRSI reaching 50 (neutralization)
+  risk_per_trade: 0.01
+  
+  # Universe (Combo C symbols — mean reversion)
+  symbols:
+    - GLD
+    - WMT
+    - USMV
+    - COST
+    - XOM
+    - MA
+    - KR
+    - PM
+    - MO
+    - D
+    - TLT
+    - GIS
+    - HSY
+    - KO
+    - SYY
+    - VZ
+    - SPLV
+  
+  # Regime weights
+  regime_weights:
+    TRENDING: 0.3
+    CORRECTIVE: 1.0
+    HIGH_VOL: 0.5
+    RANGING: 1.0
+
+
+# ── TC-14: Fibonacci OTE Zone Entry ─────────────────────────────────────────
+tc_14:
+  # Fibonacci levels
+  ote_min: 0.618               # 61.8% retracement
+  ote_max: 0.786               # 78.6% retracement
+  invalidation_level: 0.886    # Stop beyond 88.6%
+  
+  # Swing detection (5-bar fractal)
+  fractal_bars: 5
+  
+  # Risk management
+  risk_per_trade: 0.01
+  
+  # Universe
+  symbols:
+    - SPY
+    - QQQ
+    - NVDA
+    - AMZN
+    - MSFT
+  
+  # Regime weights
+  regime_weights:
+    TRENDING: 1.0
+    CORRECTIVE: 0.8
+    HIGH_VOL: 0.3
+    RANGING: 0.5
+
+
+# ── TC-15: Pivot Point Breakout/Breakdown ───────────────────────────────────
+tc_15:
+  # Volume confirmation
+  volume_mult: 1.3             # Volume > 1.3x average for breakout
+  
+  # Entry modes (both implemented, track which is better)
+  use_retest: true             # Wait for re-test of level (higher WR)
+  use_direct: true             # Direct break (more trades, lower WR)
+  
+  # Risk management
+  risk_per_trade: 0.01
+  
+  # Universe
+  symbols:
+    - SPY
+    - QQQ
+    - IWM
+    - DIA
+    - XLK
+  
+  # Regime weights
+  regime_weights:
+    TRENDING: 0.8
+    CORRECTIVE: 0.6
+    HIGH_VOL: 0.3
+    RANGING: 0.7

@@ -1,0 +1,50 @@
+PRODUCTION BACKTEST V3.3 - SUMMARY
+Generated: 2026-03-19 15:58:13.539053
+
+Buy-and-Hold Benchmark: 188.39%
+
+COMBO A (TEST OOS):
+  Trades:         1
+  Win Rate:       0.00%
+  Profit Factor:  0.000
+  Gross P&L:      $-69.10
+  Net P&L:        $-70.10
+  Commission:     $1.00
+  Avg Win/Loss:   $0.00 / $-70.10
+  Trades/Month:   1.0
+  Max Consec L:   1
+  Total Return:   -50.28%
+  vs Benchmark:   -238.67pp
+  WF Efficiency:  0.000 (OVERFIT WARNING)
+  Overfitting:    LIKELY OVERFIT
+
+COMBO B (TEST OOS):
+  Trades:         4
+  Win Rate:       0.00%
+  Profit Factor:  0.000
+  Gross P&L:      $-81.38
+  Net P&L:        $-85.38
+  Commission:     $4.00
+  Avg Win/Loss:   $0.00 / $-21.35
+  Trades/Month:   1.7
+  Max Consec L:   4
+  Total Return:   -80.25%
+  vs Benchmark:   -268.64pp
+  WF Efficiency:  0.000 (OVERFIT WARNING)
+  Overfitting:    LIKELY OVERFIT
+
+COMBO C (TEST OOS):
+  Trades:         9
+  Win Rate:       44.44%
+  Profit Factor:  0.885
+  Gross P&L:      $-21.13
+  Net P&L:        $-30.13
+  Commission:     $9.00
+  Avg Win/Loss:   $58.23 / $-52.61
+  Trades/Month:   4.4
+  Max Consec L:   3
+  Total Return:   -66.50%
+  vs Benchmark:   -254.89pp
+  WF Efficiency:  0.605 (MARGINAL (0.5-0.7))
+  Overfitting:    LIKELY OVERFIT
+

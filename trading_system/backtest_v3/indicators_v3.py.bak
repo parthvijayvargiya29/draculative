@@ -1,0 +1,404 @@
+"""
+Indicators V3 — Online Rolling State Machine
+═════════════════════════════════════════════
+All indicators computed bar-by-bar with ZERO lookahead.
+
+Design:
+  - Each IndicatorStateV3 instance is tied to ONE symbol
+  - Call .update(o, h, l, c, vol) on every closed bar → returns BarSnapshot
+  - No recalculation from scratch — pure online EWM/rolling state
+  - Warm-up enforced: snapshot.ready = False until MIN_WARMUP_BARS seen
+
+Indicators supported:
+  EMA(n)               — online EWM (alpha = 2/(n+1))
+  MACD(12,26,9)        — MACD line, signal, histogram + prev_histogram
+  Volume SMA(20)       — rolling mean volume (threshold comparison)
+  ATR(14)              — Wilder RMA true range
+  SuperTrend(10, 2.5)  — dynamic support/resistance trend flip
+  RSI(14)              — Wilder RMA gain/loss
+  Bollinger Bands(20)  — mid ± 2σ, pct_b
+  CCI(20)              — Commodity Channel Index
+  OBV                  — On-Balance Volume (running sum)
+  Momentum(10)         — (close[0] - close[-10]) / close[-10]
+"""
+
+import math
+from collections import deque
+from dataclasses import dataclass, field
+from typing import Optional
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Warmup: MACD needs slow(26) + signal(9) + a few extra = 40 bars minimum.
+# We use 60 to ensure all indicators including SuperTrend(10) are stable.
+# ─────────────────────────────────────────────────────────────────────────────
+MIN_WARMUP_BARS = 60
+
+# Indicator parameters
+MACD_FAST      = 12
+MACD_SLOW      = 26
+MACD_SIG       = 9
+RSI_PERIOD     = 14
+BB_PERIOD      = 20
+BB_STD_MULT    = 2.0
+ATR_PERIOD     = 14
+VOL_SMA_PERIOD = 20
+CCI_PERIOD     = 20
+MOM_PERIOD     = 10
+ST_PERIOD      = 10    # SuperTrend ATR period
+ST_MULT        = 2.5   # SuperTrend multiplier
+EMA_SHORT      = 20
+EMA_MED        = 50
+EMA_LONG       = 200
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Primitives
+# ─────────────────────────────────────────────────────────────────────────────
+
+class _EWM:
+    """Online EWM: alpha = 2/(span+1), equivalent to pandas ewm(adjust=False)."""
+    __slots__ = ("alpha", "value")
+
+    def __init__(self, span: int):
+        self.alpha = 2.0 / (span + 1)
+        self.value: Optional[float] = None
+
+    def update(self, x: float) -> float:
+        if self.value is None:
+            self.value = x
+        else:
+            self.value = self.alpha * x + (1 - self.alpha) * self.value
+        return self.value
+
+
+class _Wilder:
+    """Wilder RMA (1/period smoothing): used for RSI avg_gain/loss and ATR."""
+    __slots__ = ("period", "value")
+
+    def __init__(self, period: int):
+        self.period = period
+        self.value: Optional[float] = None
+
+    def update(self, x: float) -> float:
+        if self.value is None:
+            self.value = x
+        else:
+            self.value = (self.value * (self.period - 1) + x) / self.period
+        return self.value
+
+
+class _RollingBuf:
+    """Fixed-size deque for mean/std/sum."""
+    __slots__ = ("_d", "size")
+
+    def __init__(self, size: int):
+        self.size = size
+        self._d: deque = deque(maxlen=size)
+
+    def append(self, x: float): self._d.append(x)
+    def full(self) -> bool:     return len(self._d) == self.size
+    def mean(self) -> float:    return sum(self._d) / len(self._d)
+    def std(self) -> float:
+        if len(self._d) < 2:
+            return 0.0
+        m = self.mean()
+        return math.sqrt(sum((x - m) ** 2 for x in self._d) / (len(self._d) - 1))
+    def sum(self) -> float:     return sum(self._d)
+    def last(self) -> float:    return self._d[-1] if self._d else 0.0
+    def oldest(self) -> float:  return self._d[0]  if self._d else 0.0
+    def __len__(self):          return len(self._d)
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Snapshot
+# ─────────────────────────────────────────────────────────────────────────────
+
+@dataclass
+class BarSnapshot:
+    """All indicator values at one bar close. Read-only once created."""
+
+    # Raw OHLCV
+    open:   float = 0.0
+    high:   float = 0.0
+    low:    float = 0.0
+    close:  float = 0.0
+    volume: float = 0.0
+
+    # EMA Ribbon
+    ema20:  float = 0.0
+    ema50:  float = 0.0
+    ema200: float = 0.0
+
+    # MACD
+    macd_line:      float = 0.0
+    macd_signal:    float = 0.0
+    macd_hist:      float = 0.0
+    prev_macd_hist: float = 0.0    # One bar ago (for crossover detection)
+
+    # Volume
+    vol_sma:   float = 0.0         # 20-bar SMA
+    vol_ratio: float = 0.0         # volume / vol_sma
+
+    # ATR (Wilder)
+    atr:    float = 0.0
+
+    # SuperTrend
+    supertrend:       float = 0.0  # Band value (support or resistance)
+    supertrend_dir:   int   = 0    # +1 = uptrend, -1 = downtrend
+    prev_st_dir:      int   = 0    # For flip detection
+
+    # RSI (Wilder)
+    rsi:    float = 50.0
+
+    # Bollinger Bands
+    bb_upper: float = 0.0
+    bb_mid:   float = 0.0
+    bb_lower: float = 0.0
+    bb_pct_b: float = 0.5         # 0 = at lower, 1 = at upper
+
+    # CCI
+    cci:    float = 0.0
+
+    # OBV
+    obv:         float = 0.0
+    obv_slope:   float = 0.0      # obv[-1] - obv[-10] (trend direction)
+
+    # Momentum
+    momentum: float = 0.0         # (close - close[10 bars ago]) / close[10 bars ago]
+
+    # Meta
+    bars_seen: int  = 0
+    ready:     bool = False        # True once MIN_WARMUP_BARS seen
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# State machine
+# ─────────────────────────────────────────────────────────────────────────────
+
+class IndicatorStateV3:
+    """
+    Per-symbol rolling indicator engine.
+
+    Call .update(o, h, l, c, vol) once per closed bar → BarSnapshot
+    No batch recalculation; all state is accumulated incrementally.
+    """
+
+    def __init__(self):
+        # EMA Ribbon
+        self._ema20  = _EWM(EMA_SHORT)
+        self._ema50  = _EWM(EMA_MED)
+        self._ema200 = _EWM(EMA_LONG)
+
+        # MACD
+        self._macd_fast   = _EWM(MACD_FAST)
+        self._macd_slow   = _EWM(MACD_SLOW)
+        self._macd_sig    = _EWM(MACD_SIG)
+        self._prev_hist   = 0.0
+
+        # Volume SMA
+        self._vol_buf = _RollingBuf(VOL_SMA_PERIOD)
+
+        # ATR
+        self._atr_wilder   = _Wilder(ATR_PERIOD)
+        self._prev_close_atr: Optional[float] = None
+
+        # SuperTrend (period=ST_PERIOD)
+        self._st_atr_wilder = _Wilder(ST_PERIOD)
+        self._st_prev_close: Optional[float] = None
+        self._st_ub:   float = 0.0   # Upper band (final)
+        self._st_lb:   float = 0.0   # Lower band (final)
+        self._st_dir:  int   = 1     # +1 uptrend, -1 downtrend
+        self._prev_st_dir: int = 1
+
+        # RSI
+        self._rsi_gain = _Wilder(RSI_PERIOD)
+        self._rsi_loss = _Wilder(RSI_PERIOD)
+        self._rsi_seed_buf: list = []
+        self._rsi_seeded = False
+        self._prev_close_rsi: Optional[float] = None
+
+        # Bollinger Bands
+        self._bb_buf = _RollingBuf(BB_PERIOD)
+
+        # CCI
+        self._cci_buf = _RollingBuf(CCI_PERIOD)    # typical price buffer
+
+        # OBV
+        self._obv = 0.0
+        self._obv_buf = _RollingBuf(10)            # for slope
+
+        # Momentum
+        self._mom_buf = _RollingBuf(MOM_PERIOD + 1)
+
+        self._bars_seen = 0
+
+    # ── Public ────────────────────────────────────────────────────────────
+
+    def update(self, o: float, h: float, l: float,
+               c: float, vol: float) -> BarSnapshot:
+        """
+        Advance state by ONE closed bar.
+        Returns a BarSnapshot — all values from closed bars only.
+        """
+        self._bars_seen += 1
+        snap = BarSnapshot(open=o, high=h, low=l, close=c, volume=vol,
+                           bars_seen=self._bars_seen)
+
+        # ── EMA Ribbon ──────────────────────────────────────────────────────
+        snap.ema20  = self._ema20.update(c)
+        snap.ema50  = self._ema50.update(c)
+        snap.ema200 = self._ema200.update(c)
+
+        # ── MACD ────────────────────────────────────────────────────────────
+        fast = self._macd_fast.update(c)
+        slow = self._macd_slow.update(c)
+        line = fast - slow
+        sig  = self._macd_sig.update(line)
+        hist = line - sig
+        snap.macd_line      = line
+        snap.macd_signal    = sig
+        snap.macd_hist      = hist
+        snap.prev_macd_hist = self._prev_hist
+        self._prev_hist     = hist
+
+        # ── Volume SMA ──────────────────────────────────────────────────────
+        self._vol_buf.append(vol)
+        snap.vol_sma   = self._vol_buf.mean()
+        snap.vol_ratio = vol / snap.vol_sma if snap.vol_sma > 0 else 1.0
+
+        # ── ATR (Wilder) ────────────────────────────────────────────────────
+        snap.atr = self._update_atr(h, l, c)
+
+        # ── SuperTrend ──────────────────────────────────────────────────────
+        snap.supertrend, snap.supertrend_dir, snap.prev_st_dir = \
+            self._update_supertrend(h, l, c)
+
+        # ── RSI ─────────────────────────────────────────────────────────────
+        snap.rsi = self._update_rsi(c)
+
+        # ── Bollinger Bands ─────────────────────────────────────────────────
+        self._bb_buf.append(c)
+        if self._bb_buf.full():
+            mid   = self._bb_buf.mean()
+            std   = self._bb_buf.std()
+            upper = mid + BB_STD_MULT * std
+            lower = mid - BB_STD_MULT * std
+            bw    = upper - lower
+            snap.bb_upper = upper
+            snap.bb_mid   = mid
+            snap.bb_lower = lower
+            snap.bb_pct_b = (c - lower) / bw if bw > 0 else 0.5
+        else:
+            snap.bb_upper = snap.bb_lower = snap.bb_mid = c
+            snap.bb_pct_b = 0.5
+
+        # ── CCI ─────────────────────────────────────────────────────────────
+        typical = (h + l + c) / 3.0
+        self._cci_buf.append(typical)
+        if self._cci_buf.full():
+            tp_mean = self._cci_buf.mean()
+            md = sum(abs(x - tp_mean) for x in self._cci_buf._d) / len(self._cci_buf)
+            snap.cci = (typical - tp_mean) / (0.015 * md) if md > 0 else 0.0
+        else:
+            snap.cci = 0.0
+
+        # ── OBV ─────────────────────────────────────────────────────────────
+        if self._bars_seen > 1:
+            prev_c = self._mom_buf.last() if len(self._mom_buf) > 0 else c
+            self._obv += vol if c > prev_c else (-vol if c < prev_c else 0)
+        snap.obv = self._obv
+        self._obv_buf.append(self._obv)
+        snap.obv_slope = self._obv - self._obv_buf.oldest() if self._obv_buf.full() else 0.0
+
+        # ── Momentum ────────────────────────────────────────────────────────
+        self._mom_buf.append(c)
+        if self._mom_buf.full():
+            old = self._mom_buf.oldest()
+            snap.momentum = (c - old) / old if old > 0 else 0.0
+
+        # ── Validity gate ────────────────────────────────────────────────────
+        snap.ready = self._bars_seen >= MIN_WARMUP_BARS
+
+        return snap
+
+    # ── Private helpers ──────────────────────────────────────────────────
+
+    def _update_atr(self, h: float, l: float, c: float) -> float:
+        if self._prev_close_atr is None:
+            tr = h - l
+        else:
+            tr = max(h - l,
+                     abs(h - self._prev_close_atr),
+                     abs(l - self._prev_close_atr))
+        self._prev_close_atr = c
+        return self._atr_wilder.update(tr)
+
+    def _update_supertrend(self, h: float, l: float, c: float):
+        """
+        SuperTrend with Wilder ATR smoothing (matches TradingView default).
+        Returns (band_value, current_direction, prev_direction)
+        """
+        if self._st_prev_close is None:
+            tr = h - l
+        else:
+            tr = max(h - l,
+                     abs(h - self._st_prev_close),
+                     abs(l - self._st_prev_close))
+        self._st_prev_close = c
+
+        atr = self._st_atr_wilder.update(tr)
+        hl2 = (h + l) / 2.0
+        raw_ub = hl2 + ST_MULT * atr
+        raw_lb = hl2 - ST_MULT * atr
+
+        # Tighten bands when in trend
+        prev_ub = self._st_ub
+        prev_lb = self._st_lb
+
+        final_ub = raw_ub if (raw_ub < prev_ub or (prev_ub and c > prev_ub)) else prev_ub
+        final_lb = raw_lb if (raw_lb > prev_lb or (prev_lb and c < prev_lb)) else prev_lb
+
+        prev_dir = self._prev_st_dir
+
+        if self._st_dir == 1:
+            # In uptrend — watch for break below lower band
+            new_dir = -1 if c < final_lb else 1
+        else:
+            # In downtrend — watch for break above upper band
+            new_dir = 1 if c > final_ub else -1
+
+        self._prev_st_dir = self._st_dir
+        self._st_dir      = new_dir
+        self._st_ub       = final_ub
+        self._st_lb       = final_lb
+
+        band_val = final_lb if new_dir == 1 else final_ub
+        return band_val, new_dir, prev_dir
+
+    def _update_rsi(self, c: float) -> float:
+        """Wilder RSI. Seed phase first, then RMA."""
+        if self._prev_close_rsi is None:
+            self._prev_close_rsi = c
+            return 50.0
+
+        change = c - self._prev_close_rsi
+        self._prev_close_rsi = c
+        gain = max(change, 0.0)
+        loss = max(-change, 0.0)
+
+        if not self._rsi_seeded:
+            self._rsi_seed_buf.append((gain, loss))
+            if len(self._rsi_seed_buf) >= RSI_PERIOD:
+                avg_g = sum(g for g, _ in self._rsi_seed_buf) / RSI_PERIOD
+                avg_l = sum(lo for _, lo in self._rsi_seed_buf) / RSI_PERIOD
+                self._rsi_gain.value = avg_g
+                self._rsi_loss.value = avg_l
+                self._rsi_seeded = True
+            return 50.0
+
+        avg_g = self._rsi_gain.update(gain)
+        avg_l = self._rsi_loss.update(loss)
+        if avg_l == 0:
+            return 100.0
+        rs = avg_g / avg_l
+        return 100.0 - 100.0 / (1.0 + rs)

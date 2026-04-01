@@ -1,0 +1,24 @@
+PRODUCTION BACKTEST V3 — SUMMARY
+Generated: 2026-03-19 12:51:33.403063
+
+COMBO A (TEST):
+  Trades:        213
+  Win Rate:      31.92%
+  PF:            0.552
+  Return:        -1.49%
+  Overfitting:   PASSES ✓
+
+COMBO B (TEST):
+  Trades:        687
+  Win Rate:      33.48%
+  PF:            0.482
+  Return:        -6.79%
+  Overfitting:   PASSES ✓
+
+COMBO C (TEST):
+  Trades:        200
+  Win Rate:      26.50%
+  PF:            0.301
+  Return:        -2.35%
+  Overfitting:   LIKELY OVERFIT
+

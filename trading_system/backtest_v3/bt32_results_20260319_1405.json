@@ -1,0 +1,40 @@
+{
+  "C": {
+    "overall": {
+      "label": "Combo C Overall",
+      "n_trades": 0
+    },
+    "train": {
+      "label": "Train",
+      "n_trades": 0
+    },
+    "validate": {
+      "label": "Validate",
+      "n_trades": 0
+    },
+    "test": {
+      "label": "Test",
+      "n_trades": 0
+    },
+    "equity": {
+      "initial_capital_$": 25000,
+      "final_equity_$": 5000.0,
+      "total_return_%": -80.0,
+      "max_drawdown_%": 0.0,
+      "sharpe_ratio": 0.0,
+      "calmar_ratio": 0.0
+    },
+    "overfitting": {
+      "wr_drop_pp": 0,
+      "pf_drop_%": 0,
+      "flags": [
+        "< 30 test trades (STATISTICALLY UNRELIABLE)"
+      ],
+      "verdict": "POSSIBLE OVERFIT"
+    },
+    "wf_efficiency": {
+      "ratio": 0.0,
+      "verdict": "INSUFFICIENT DATA"
+    }
+  }
+}

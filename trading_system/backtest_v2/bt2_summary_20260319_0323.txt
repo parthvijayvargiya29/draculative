@@ -1,0 +1,24 @@
+PRODUCTION BACKTEST V2 — QUICK SUMMARY
+==================================================
+Generated:       2026-03-19 03:23
+
+EQUITY
+  Initial:       $   25,000.00
+  Final:         $   24,129.91
+  Return:             -3.48%
+  Max Drawdown:        3.76%
+  Sharpe Ratio:      -5.079
+  Calmar Ratio:      -0.925
+
+OVERALL
+  Trades:        162
+  Win Rate:      37.04%  [29.6%, 44.5%]
+  Profit Factor: 0.731
+  Expectancy:    $-4.37/trade
+  SQN:           -1.644
+
+VALIDITY
+  Sample size:   MARGINAL
+  Monte Carlo p: 1.0000
+  Significant:   NO
+  Overfitting:   LIKELY OVERFIT

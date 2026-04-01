@@ -1,0 +1,3 @@
+trade_id,symbol,combo,direction,signal_bar,signal_close,atr_at_signal,entry_bar,entry_price,shares,stop_loss,risk_amount,equity_at_entry,exit_bar,exit_price,exit_reason,bars_held_at_exit,gross_pnl,commission,net_pnl,net_pnl_pct,won,period
+1,AAPL,A,SHORT,2024-03-21,171.38,3.3671004127275856,2024-03-22,171.67412,18.2031,175.0412,125.0,12499.0,2024-04-11,175.1287,SL,14,-62.8848,1.0,-63.8848,-0.005111,False,all
+2,AAPL,A,SHORT,2025-04-04,188.5,5.716974639294871,2025-04-07,177.221345,17.5418,182.9383,124.35,12434.12,2025-04-07,183.0298,SL,1,-101.8905,1.0,-102.8905,-0.008275,False,all

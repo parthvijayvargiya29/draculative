@@ -1,0 +1,12 @@
+{
+  "trained_at": "2026-04-01T14:41:50.070855",
+  "n_chunks": 730,
+  "n_transcripts": 15,
+  "accuracy": 0.926,
+  "classes": [
+    "BEARISH",
+    "NEUTRAL",
+    "BULLISH"
+  ],
+  "vocab_size": 3000
+}

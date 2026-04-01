@@ -1,0 +1,206 @@
+22:55:38  INFO     
+Loading 27 symbols | 2yr | 15Min | universe=all
+22:55:38  INFO     
+  Walk-forward split (AAPL reference):
+    Train:    435 bars  (2023-04-26 -> 2025-01-17)
+    Validate: 145 bars  (2025-01-21 -> 2025-08-19)
+    Test:     146 bars  (2025-08-20 -> 2026-03-19)
+22:55:38  INFO     
+  Walk-forward split (AAPL reference):
+    Train:    435 bars  (2023-04-26 -> 2025-01-17)
+    Validate: 145 bars  (2025-01-21 -> 2025-08-19)
+    Test:     146 bars  (2025-08-20 -> 2026-03-19)
+22:55:39  INFO     
+  Walk-forward split (AAPL reference):
+    Train:    435 bars  (2023-04-26 -> 2025-01-17)
+    Validate: 145 bars  (2025-01-21 -> 2025-08-19)
+    Test:     146 bars  (2025-08-20 -> 2026-03-19)
+22:55:41  INFO     
+  Walk-forward split (AAPL reference):
+    Train:    435 bars  (2023-04-26 -> 2025-01-17)
+    Validate: 145 bars  (2025-01-21 -> 2025-08-19)
+    Test:     146 bars  (2025-08-20 -> 2026-03-19)
+22:55:42  INFO     
+  Walk-forward split (AAPL reference):
+    Train:    435 bars  (2023-04-26 -> 2025-01-17)
+    Validate: 145 bars  (2025-01-21 -> 2025-08-19)
+    Test:     146 bars  (2025-08-20 -> 2026-03-19)
+22:55:43  INFO     
+  Walk-forward split (AAPL reference):
+    Train:    435 bars  (2023-04-26 -> 2025-01-17)
+    Validate: 145 bars  (2025-01-21 -> 2025-08-19)
+    Test:     146 bars  (2025-08-20 -> 2026-03-19)
+22:55:45  INFO     
+  Walk-forward split (AAPL reference):
+    Train:    435 bars  (2023-04-26 -> 2025-01-17)
+    Validate: 145 bars  (2025-01-21 -> 2025-08-19)
+    Test:     146 bars  (2025-08-20 -> 2026-03-19)
+
+==================================================================================================================================
+  STEP 1: Reproduce Combo C Baseline
+==================================================================================================================================
+  Expected: ~131 trades, PF ~1.400, WFE ~0.719
+
+  N_total=131  N_test=34
+  PF_overall=1.403  PF_test=1.112  WFE=0.724
+  WR_test=52.9%  Exits: ACCEL_SL:3 BB_MID:14 EOB:2 SL:12 TIME:3
+
+  Baseline reproduction check:
+    PF_overall: OK (got 1.403, expected ~1.400)
+    WFE:        OK (got 0.724, expected ~0.719)
+    N_total:    OK (got 131, expected ~131)
+
+==================================================================================================================================
+  STEP 2: Module 2 — Dynamic Exit Variants
+==================================================================================================================================
+  Acceptance criterion: test PF improvement >= +0.05 vs baseline, WFE >= 0.65
+
+  Metric                                  Baseline        V2A_VolAdjTime     V2B_PartialProfit       V2C_FixedTarget
+  --------------------------------------------------------------------------------------------------------------------------------
+  N trades                                      34                    34                    34                    34
+  Win rate (%)                              52.900                50.000                47.100                50.000
+  PF (full)                                  1.112                 1.055                 0.902                 0.921
+  PF (test)                                  1.112                 1.055                 0.902                 0.921
+  WFE                                        0.724                 0.695                 1.010                 0.575
+  Avg win ($)                                3.580                 3.680                 3.530                 3.320
+  Avg loss ($)                              -3.620                -3.490                -3.470                -3.600
+  W/L ratio                                  0.989                 1.055                 1.015                 0.921
+  Expectancy ($)                             0.190                 0.100                -0.180                -0.140
+  Annual return (%)                          0.400                 0.200                -0.400                -0.300
+  Max drawdown (%)                           0.500                 0.500                 1.000                 0.800
+  Sharpe                                     0.340                 0.170                -0.331                -0.264
+  Calmar                                     0.851                 0.410                -0.426                -0.434
+  Trades/month                               4.900                 4.900                 4.900                 4.900
+  Eq curve corr                                N/A                   N/A                   N/A                   N/A
+
+
+==================================================================================================================================
+  STEP 3: Select Best Exit Variant
+==================================================================================================================================
+  V2A_VolAdjTime: test_pf_improvement=-0.057, WFE=0.695 → does not qualify
+  V2B_PartialProfit: test_pf_improvement=-0.210, WFE=1.010 → does not qualify
+  V2C_FixedTarget: test_pf_improvement=-0.191, WFE=0.575 → does not qualify
+
+  SELECTED: Baseline (no variant improved by +0.05 with WFE>=0.65)
+
+==================================================================================================================================
+  STEP 4: Module 1 — Entry Quality Scoring on Baseline exits
+==================================================================================================================================
+  Scoring does not change entry conditions; it adjusts position sizing.
+  Acceptance: PF_high_score - PF_low_score >= 0.15 with N>=10 in each band
+
+  Score band comparison:
+    N_high(>=60): 14  PF_high: 1.141
+    N_low(<60):   117   PF_low:  1.442
+    PF diff:      -0.301
+  [REJECT ✗] Module 1 (Scoring)
+    Criterion: PF_high - PF_low >= 0.15 with N ≥ 10 in each band
+    Value:     REJECT — no meaningful PF differential (revert to fixed sizing)
+
+  NOTE: Full scoring requires re-running with SPY RSI14 lookups.
+  The scoring system will be validated on live trades via paper_trading_monitor.py.
+  Size multiplier is applied at entry; the 4 component scores are logged per trade.
+
+==================================================================================================================================
+  STEP 5: Module 3 — Trend-Following Signal (Independent Validation)
+==================================================================================================================================
+  Universe: ['IWM', 'META', 'NVDA', 'QQQ', 'SPY', 'XLK']
+  Acceptance: test PF >= 1.10, WFE >= 0.60, N_total >= 40
+
+  N_total=54  N_test=7
+  PF_overall=2.328  PF_test=0.287  WFE=0.133
+  WR_test=42.9%  Exits: EMA21_TRAIL:7
+  [REJECT ✗] Module 3 (Trend)
+    Criterion: test_pf >= 1.10, WFE >= 0.60, N_total >= 40
+    Value:     test_pf=0.287, WFE=0.133, N=54
+  Metric                              Trend Module
+  --------------------------------------------------------------------------------------------------------------------------------
+  N trades                                       7
+  Win rate (%)                              42.900
+  PF (full)                                  0.287
+  PF (test)                                  0.287
+  WFE                                        0.133
+  Avg win ($)                                3.210
+  Avg loss ($)                              -8.380
+  W/L ratio                                  0.383
+  Expectancy ($)                            -3.410
+  Annual return (%)                         -1.000
+  Max drawdown (%)                           0.600
+  Sharpe                                    -1.611
+  Calmar                                    -1.548
+  Trades/month                               1.000
+  Eq curve corr                                N/A
+
+
+==================================================================================================================================
+  STEP 6: Correlation Check — Combo C vs Trend Module
+==================================================================================================================================
+
+  Rolling 60-bar equity curve correlation: nan
+  Target: < 0.30 (ideal), < 0.50 (acceptable)
+  Cannot compute: insufficient overlapping trade dates.
+
+==================================================================================================================================
+  STEP 7: Module 4 — Combined Portfolio Backtest
+==================================================================================================================================
+
+  Metric                            Combo C (test)          Trend (test)              Combined
+  --------------------------------------------------------------------------------------------------------------------------------
+  N trades                                      34                     7                    41
+  Win rate (%)                              52.900                42.900                51.200
+  PF (full)                                  1.112                 0.287                 0.883
+  PF (test)                                  1.112                 0.287                   N/A
+  WFE                                          N/A                   N/A                   N/A
+  Avg win ($)                                3.580                 3.210                 2.030
+  Avg loss ($)                              -3.620                -8.380                -2.410
+  W/L ratio                                  0.989                 0.383                 0.841
+  Expectancy ($)                             0.190                -3.410                -0.140
+  Annual return (%)                          0.100                -0.200                -0.100
+  Max drawdown (%)                           0.500                 0.600                 0.500
+  Sharpe                                     0.149                -0.708                -0.191
+  Calmar                                     0.164                -0.300                -0.144
+  Trades/month                               0.900                 0.200                 1.100
+  Eq curve corr                                N/A                   N/A                   nan
+
+  [REJECT ✗] Module 4 (Portfolio)
+    Criterion: combined Sharpe > individual, combined max DD < individual
+    Value:     Sharpe: C=0.149, Trend=-0.708, Combined=-0.191; DD: C=0.5%, Trend=0.6%, Combined=0.5%
+
+  HARD CONSTRAINT VIOLATED: combined Sharpe -0.191 < 0.80.
+  Enhancement cycle has not meaningfully improved on baseline.
+  Do NOT deploy combined system. Report this finding.
+
+==================================================================================================================================
+  STEP 8: Module 5 — Adaptive Sizing Analysis
+==================================================================================================================================
+  Note: Kelly deployment gated on 50+ live trades confirming WR/WL stability.
+
+  Kelly analysis (READY):
+    n_trades: 131
+    win_rate_%: 51.1
+    wl_ratio: 1.34
+    kelly_full: 0.1461
+    quarter_kelly: 0.0365
+    current_frac: 0.005
+    recommended_frac: 0.005
+    oversized: False
+    note: LIVE DEPLOYMENT: use recommended_frac as risk fraction per trade.
+  Ramp schedule: {'trades_31_60': 0.0208, 'trades_61_plus': 0.0365}
+
+  Volatility scaling:
+    avg_atr_at_signal: 5.7842
+    vol_ratio_min: 0.093
+    vol_ratio_max: 4.306
+    effective_size_min: 0.232
+    effective_size_max: 1.5
+    note: position_size = floor(equity * 0.005 / ATR10) / vol_ratio; cap multiplier at 1.5×
+
+  IMPLEMENTATION NOTE:
+  vol_ratio = ATR(10)_current / ATR(10)_60bar_avg
+  position_size = floor(equity * 0.005 / ATR10) / vol_ratio
+  (cap at 1.5× standard; already partially implemented via ATR denominator)
+
+==================================================================================================================================
+  V5.0 ENHANCEMENT CYCLE COMPLETE
+==================================================================================================================================
+

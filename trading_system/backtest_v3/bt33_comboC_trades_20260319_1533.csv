@@ -1,0 +1,3 @@
+trade_id,symbol,combo,direction,signal_bar,signal_close,atr_at_signal,entry_bar,entry_price,shares,stop_loss,risk_amount,equity_at_entry,exit_bar,exit_price,exit_reason,bars_held_at_exit,gross_pnl,commission,net_pnl,net_pnl_pct,won,period
+1,MSFT,C,LONG,2024-12-31,421.7,7.816427319523801,2025-01-02,425.6577225,4.8944,417.8413,83.33,8332.33,2025-01-02,417.6324,SL,1,-39.2792,1.0,-40.2792,-0.004834,False,all
+1,GOOGL,C,LONG,2026-02-10,318.59,10.135720917548245,2026-02-11,319.3245825,6.5242,309.1889,83.33,8332.33,2026-02-12,309.0343,SL,2,-67.1359,1.0,-68.1359,-0.008177,False,all

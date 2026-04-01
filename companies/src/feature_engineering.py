@@ -20,6 +20,14 @@ from typing import List, Optional
 import numpy as np
 import pandas as pd
 
+# Optional quantum transformer (PennyLane prototype with deterministic fallback)
+try:
+    from companies.src.quantum_features import quantum_transform_dataframe
+except Exception:
+    # If import fails for any reason, provide a local fallback that raises later when used.
+    def quantum_transform_dataframe(df, input_cols, prefix="q", n_qubits=4):
+        raise RuntimeError("quantum_transform_dataframe is unavailable. Ensure companies.src.quantum_features exists.")
+
 
 def parse_fiscal_period(fp: str):
     """Parse fiscal_period string to (year, quarter) tuple for sorting."""
@@ -207,7 +215,7 @@ def add_trend_features(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
-def engineer_features(ticker: str) -> pd.DataFrame:
+def engineer_features(ticker: str, use_quantum: bool = False) -> pd.DataFrame:
     """Load wide table and compute all features."""
     
     wide_path = f'companies/data/{ticker}_wide.parquet'
@@ -228,6 +236,19 @@ def engineer_features(ticker: str) -> pd.DataFrame:
     df = add_rolling_features(df)
     df = add_lag_features(df)
     df = add_trend_features(df)
+
+    # Optionally append quantum-derived features (prototype)
+    if use_quantum:
+        # Choose a compact set of numeric inputs to encode into the circuit
+        input_cols = [c for c in ['price', 'revenue', 'net_income', 'ebitda', 'eps'] if c in df.columns]
+        if len(input_cols) > 0:
+            try:
+                df = quantum_transform_dataframe(df, input_cols=input_cols, prefix='q', n_qubits=4)
+            except Exception as e:
+                # Do not fail the entire pipeline for experimental feature; log and continue
+                print(f"Warning: quantum_transform_dataframe failed: {e}")
+        else:
+            print("Warning: no input columns available for quantum transform; skipping.")
     
     return df
 
@@ -293,10 +314,11 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--ticker', '-t', required=True, help='Ticker symbol')
     parser.add_argument('--out-dir', default='companies/data', help='Output directory')
+    parser.add_argument('--use-quantum', action='store_true', help='Enable experimental quantum feature transform')
     args = parser.parse_args()
     
     print(f"Engineering features for {args.ticker}...")
-    df = engineer_features(args.ticker)
+    df = engineer_features(args.ticker, use_quantum=getattr(args, 'use_quantum', False))
     save_features(args.ticker, df, out_dir=args.out_dir)
     summarize_features(df)
 

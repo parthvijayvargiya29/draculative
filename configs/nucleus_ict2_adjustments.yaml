@@ -1,0 +1,75 @@
+# configs/nucleus_ict2_adjustments.yaml
+# =========================================================
+# Additive delta adjustments applied to nucleus candidate scores
+# when corresponding ICT2 signals fire.
+#
+# All deltas are additive. Scores are clamped to [0, 1] afterward.
+# Loaded by core/nucleus_validator.py — NucleusIdentificationEngine.apply_ict2_adjustments()
+# =========================================================
+
+displacement:
+  bullish:
+    INDEX_MOMENTUM:    0.08    # strong bullish displacement = momentum regime
+    LIQUIDITY_POOL:    0.05    # displacement often follows a liquidity grab
+  bearish:
+    VOLATILITY_REGIME: 0.06    # bearish displacement = vol-driven selling
+    DOLLAR_STRENGTH:   0.04    # USD strength often drives bearish displacement
+
+turtle_soup:
+  long:                        # raid of sell-side liquidity → reversal up
+    LIQUIDITY_POOL:    0.12    # strongest signal: confirms LP nucleus
+    VOLATILITY_REGIME: -0.04   # structured raid ≠ chaotic volatility
+  short:                       # raid of buy-side liquidity → reversal down
+    LIQUIDITY_POOL:    0.12
+    INDEX_MOMENTUM:    -0.06   # bearish raid weakens momentum nucleus
+
+nwog_ce_proximity:
+  # Applied when NWOG/NMOG is active AND price is within threshold of CE
+  LIQUIDITY_POOL: 0.08
+  ce_proximity_threshold_pct: 0.5    # 0.5% distance from CE triggers adjustment
+
+po3_distribution_bullish:
+  # Power of Three: distribution phase + expected direction = bullish
+  INDEX_MOMENTUM:  0.10        # distribution = institutional accumulation done, expansion next
+  SECTOR_ROTATION: 0.05        # distribution often precedes sector-level moves
+
+po3_distribution_bearish:
+  # Power of Three: distribution phase + expected direction = bearish
+  VOLATILITY_REGIME:  0.08     # bearish distribution = vol expansion likely
+  EARNINGS_MOMENTUM: -0.04     # bearish macro context suppresses earnings momentum
+
+kill_zone_amplifier:
+  # High-quality kill zone amplifies ALL nucleus scores (better time resolution)
+  all_types_multiplier: 1.05   # multiply all scores by this factor
+  min_zone_strength: 0.8       # only apply when zone_strength ≥ this value
+  qualifying_zones:            # which zones trigger the amplifier
+    - london
+    - ny_open
+
+bpr_proximity:
+  # Balanced Price Range CE within proximity of current price
+  LIQUIDITY_POOL: 0.07
+  proximity_threshold_pct: 1.0   # 1% distance from BPR CE triggers adjustment
+
+# Nucleus types recognised by the adjustment engine
+# Must match NUCLEUS_TYPES in nucleus_validator.py
+nucleus_types:
+  - MACRO_EVENT
+  - INDEX_MOMENTUM
+  - SECTOR_ROTATION
+  - SINGLE_STOCK_LEADERSHIP
+  - COMMODITY_REGIME
+  - CURRENCY_PRESSURE
+  - OPTIONS_EXPIRY
+  - GEOPOLITICAL
+  # Alias support for legacy nucleus_engine.py type names:
+  - VOLATILITY_REGIME      # mapped from MACRO_EVENT context
+  - LIQUIDITY_POOL         # conceptual alias — treated as independent type in scoring
+  - DOLLAR_STRENGTH        # alias for CURRENCY_PRESSURE
+  - EARNINGS_MOMENTUM      # alias for SINGLE_STOCK_LEADERSHIP
+
+# CHECK 6 gate
+check6:
+  liquidity_pool_score_threshold: 0.60    # bars where LP scores > this are "high-LP bars"
+  min_ict2_corroboration_rate:    0.40    # at least 40% of high-LP bars must have ICT2 confirmation
+  nwog_ce_proximity_for_check6:   1.0     # % distance for NWOG CE check in check 6

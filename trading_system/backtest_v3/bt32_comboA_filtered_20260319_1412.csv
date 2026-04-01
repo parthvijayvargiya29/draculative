@@ -1,0 +1,137 @@
+ts,symbol,combo,direction,filter_stage,reasons
+2023-09-08,NVDA,A,LONG,confirm,"not_bullish_close, vol_ratio=0.77<1.5, adx14=19.0<=25, adx14_slope=-1.33<=0"
+2023-12-01,NVDA,A,LONG,confirm,"vol_ratio=0.90<1.5, adx14=19.6<=25, adx14_slope=-1.18<=0"
+2024-01-03,NVDA,A,LONG,confirm,"vol_ratio=0.99<1.5, adx14=15.0<=25, adx14_slope=-0.40<=0"
+2024-04-05,NVDA,A,LONG,confirm,"vol_ratio=0.91<1.5, adx14_slope=-2.14<=0"
+2024-04-09,NVDA,A,LONG,confirm,"not_bullish_close, vol_ratio=0.91<1.5, adx14_slope=-2.58<=0"
+2024-04-16,NVDA,A,LONG,confirm,"vol_ratio=0.76<1.5, adx14_slope=-1.87<=0"
+2024-06-25,NVDA,A,LONG,confirm,"vol_ratio=0.82<1.5, adx14_slope=-1.22<=0"
+2024-07-18,NVDA,A,LONG,confirm,"not_bullish_close, vol_ratio=0.73<1.5, adx14_slope=-1.83<=0"
+2024-11-01,NVDA,A,LONG,confirm,"vol_ratio=0.89<1.5, adx14=19.4<=25, adx14_slope=-1.20<=0"
+2024-11-19,NVDA,A,LONG,confirm,"vol_ratio=1.19<1.5, adx14=17.0<=25, adx14_slope=-0.74<=0"
+2024-11-25,NVDA,A,LONG,confirm,"not_bullish_close, vol_ratio=1.34<1.5, adx14=16.3<=25, adx14_slope=-0.91<=0"
+2024-11-26,NVDA,A,LONG,confirm,"not_bullish_close, vol_ratio=0.96<1.5, adx14=15.4<=25, adx14_slope=-0.88<=0, ribbon_not_bull"
+2024-12-10,NVDA,A,LONG,confirm,"not_bullish_close, vol_ratio=0.73<1.5, adx14=12.9<=25, adx14_slope=-0.30<=0, ribbon_not_bull"
+2025-03-25,NVDA,A,SHORT,confirm,unknown
+2025-04-10,NVDA,A,SHORT,confirm,unknown
+2025-04-14,NVDA,A,SHORT,confirm,unknown
+2025-04-28,NVDA,A,SHORT,confirm,unknown
+2025-08-20,NVDA,A,LONG,confirm,"vol_ratio=1.23<1.5, adx14_slope=-1.83<=0"
+2025-09-02,NVDA,A,LONG,confirm,ribbon_not_bull
+2025-09-17,NVDA,A,LONG,confirm,"not_bullish_close, vol_ratio=1.29<1.5, adx14=24.2<=25, ribbon_not_bull"
+2025-10-15,NVDA,A,LONG,confirm,"not_bullish_close, adx14=16.3<=25"
+2025-10-21,NVDA,A,LONG,confirm,"not_bullish_close, vol_ratio=0.92<1.5, adx14=15.7<=25, adx14_slope=-0.03<=0"
+2025-11-07,NVDA,A,LONG,confirm,"vol_ratio=1.40<1.5, adx14=19.4<=25, adx14_slope=-0.18<=0"
+2025-11-14,NVDA,A,LONG,confirm,"vol_ratio=0.79<1.5, adx14=15.5<=25"
+2025-12-22,NVDA,A,SHORT,confirm,unknown
+2026-01-09,NVDA,A,LONG,confirm,"not_bullish_close, vol_ratio=0.78<1.5, adx14=10.8<=25, adx14_slope=-0.76<=0"
+2026-02-03,NVDA,A,LONG,confirm,"not_bullish_close, vol_ratio=1.41<1.5, adx14=10.2<=25"
+2026-03-11,NVDA,A,SHORT,confirm,unknown
+2023-10-09,AAPL,A,SHORT,confirm,unknown
+2023-11-02,AAPL,A,SHORT,confirm,unknown
+2023-12-27,AAPL,A,LONG,confirm,"vol_ratio=0.73<1.5, adx14_slope=-2.14<=0"
+2024-01-02,AAPL,A,LONG,confirm,"not_bullish_close, ribbon_not_bull"
+2024-03-21,AAPL,A,SHORT,confirm,unknown
+2024-04-12,AAPL,A,SHORT,confirm,unknown
+2024-04-26,AAPL,A,SHORT,confirm,unknown
+2024-04-30,AAPL,A,SHORT,confirm,unknown
+2024-07-25,AAPL,A,LONG,confirm,"not_bullish_close, vol_ratio=0.89<1.5, adx14_slope=-1.90<=0"
+2024-09-04,AAPL,A,LONG,confirm,"not_bullish_close, adx14=14.6<=25"
+2024-10-31,AAPL,A,LONG,confirm,"not_bullish_close, adx14=13.8<=25, adx14_slope=-0.35<=0"
+2025-01-03,AAPL,A,LONG,confirm,"vol_ratio=1.30<1.5, adx14_slope=-2.00<=0"
+2025-04-03,AAPL,A,SHORT,confirm,unknown
+2025-04-24,AAPL,A,SHORT,confirm,unknown
+2025-06-04,AAPL,A,SHORT,confirm,unknown
+2025-06-09,AAPL,A,SHORT,confirm,unknown
+2025-06-23,AAPL,A,SHORT,confirm,unknown
+2025-06-26,AAPL,A,SHORT,confirm,unknown
+2025-07-31,AAPL,A,LONG,confirm,"not_bullish_close, adx14=18.4<=25, adx14_slope=-0.78<=0"
+2025-09-11,AAPL,A,LONG,confirm,"vol_ratio=1.01<1.5, adx14_slope=-1.49<=0"
+2025-10-13,AAPL,A,LONG,confirm,"not_bullish_close, vol_ratio=0.62<1.5, adx14_slope=-2.34<=0"
+2025-10-17,AAPL,A,LONG,confirm,"vol_ratio=1.15<1.5, adx14_slope=-1.05<=0"
+2025-11-21,AAPL,A,LONG,confirm,"vol_ratio=1.25<1.5, adx14_slope=-0.29<=0"
+2025-12-16,AAPL,A,LONG,confirm,"vol_ratio=0.83<1.5, adx14_slope=-1.23<=0"
+2026-02-02,AAPL,A,SHORT,confirm,unknown
+2023-08-24,MSFT,A,SHORT,confirm,unknown
+2023-09-18,MSFT,A,LONG,confirm,"vol_ratio=0.77<1.5, adx14=18.1<=25, adx14_slope=-1.21<=0"
+2023-10-27,MSFT,A,LONG,confirm,"not_bullish_close, vol_ratio=1.10<1.5, adx14=13.5<=25, adx14_slope=-0.87<=0"
+2023-12-15,MSFT,A,LONG,confirm,adx14_slope=-1.71<=0
+2024-01-03,MSFT,A,LONG,confirm,"vol_ratio=1.02<1.5, adx14=20.7<=25, adx14_slope=-1.57<=0"
+2024-02-20,MSFT,A,LONG,confirm,"not_bullish_close, vol_ratio=0.84<1.5, adx14_slope=-2.50<=0"
+2024-03-06,MSFT,A,LONG,confirm,"not_bullish_close, adx14=23.5<=25, adx14_slope=-1.38<=0"
+2024-03-11,MSFT,A,LONG,confirm,"vol_ratio=0.89<1.5, adx14=19.5<=25, adx14_slope=-1.38<=0"
+2024-04-05,MSFT,A,LONG,confirm,"vol_ratio=0.78<1.5, adx14=22.1<=25"
+2024-04-16,MSFT,A,LONG,confirm,"vol_ratio=0.78<1.5, adx14=19.4<=25, adx14_slope=-1.31<=0, ribbon_not_bull"
+2024-07-17,MSFT,A,LONG,confirm,"vol_ratio=1.22<1.5, adx14=21.7<=25, adx14_slope=-0.07<=0"
+2024-08-16,MSFT,A,SHORT,confirm,unknown
+2024-08-20,MSFT,A,SHORT,confirm,unknown
+2024-09-11,MSFT,A,SHORT,confirm,unknown
+2024-11-07,MSFT,A,SHORT,confirm,unknown
+2024-11-26,MSFT,A,SHORT,confirm,unknown
+2024-12-19,MSFT,A,LONG,confirm,"not_bullish_close, vol_ratio=1.15<1.5, adx14_slope=-1.22<=0"
+2025-03-26,MSFT,A,SHORT,confirm,unknown
+2025-04-10,MSFT,A,SHORT,confirm,unknown
+2025-04-14,MSFT,A,SHORT,confirm,unknown
+2025-04-25,MSFT,A,SHORT,confirm,unknown
+2025-08-19,MSFT,A,LONG,confirm,"not_bullish_close, vol_ratio=0.96<1.5, adx14_slope=-2.57<=0"
+2025-08-20,MSFT,A,LONG,confirm,"not_bullish_close, vol_ratio=1.34<1.5, adx14_slope=-2.53<=0, ribbon_not_bull"
+2025-09-26,MSFT,A,LONG,confirm,"vol_ratio=0.71<1.5, adx14=14.2<=25, adx14_slope=-0.38<=0"
+2025-10-13,MSFT,A,LONG,confirm,"not_bullish_close, vol_ratio=0.82<1.5, adx14=17.6<=25, adx14_slope=-1.35<=0"
+2025-11-03,MSFT,A,LONG,confirm,"not_bullish_close, vol_ratio=1.41<1.5, adx14=17.1<=25, adx14_slope=-1.19<=0"
+2025-12-22,MSFT,A,SHORT,confirm,unknown
+2025-12-24,MSFT,A,SHORT,confirm,unknown
+2026-01-08,MSFT,A,SHORT,confirm,unknown
+2026-01-27,MSFT,A,SHORT,confirm,unknown
+2026-03-06,MSFT,A,SHORT,confirm,unknown
+2023-08-21,GOOGL,A,LONG,confirm,"vol_ratio=0.51<1.5, adx14=17.0<=25, adx14_slope=-1.31<=0"
+2023-09-21,GOOGL,A,LONG,confirm,"not_bullish_close, vol_ratio=1.41<1.5, adx14=20.2<=25, adx14_slope=-0.26<=0"
+2023-10-23,GOOGL,A,LONG,confirm,"vol_ratio=1.01<1.5, adx14=16.6<=25, adx14_slope=-0.51<=0"
+2023-11-08,GOOGL,A,SHORT,confirm,unknown
+2023-12-12,GOOGL,A,LONG,confirm,"vol_ratio=0.72<1.5, adx14=14.2<=25, adx14_slope=-0.66<=0, ribbon_not_bull"
+2024-01-05,GOOGL,A,LONG,confirm,"not_bullish_close, vol_ratio=0.67<1.5, adx14=15.7<=25, adx14_slope=-0.91<=0"
+2024-02-16,GOOGL,A,LONG,confirm,"not_bullish_close, vol_ratio=0.67<1.5, adx14=18.2<=25, ribbon_not_bull"
+2024-07-18,GOOGL,A,LONG,confirm,"not_bullish_close, vol_ratio=1.09<1.5, adx14=24.9<=25, adx14_slope=-0.71<=0"
+2024-08-21,GOOGL,A,SHORT,confirm,unknown
+2024-09-18,GOOGL,A,SHORT,confirm,unknown
+2024-11-18,GOOGL,A,LONG,confirm,"vol_ratio=0.73<1.5, adx14_slope=-0.83<=0"
+2025-01-15,GOOGL,A,LONG,confirm,"vol_ratio=1.01<1.5, adx14=21.7<=25, adx14_slope=-0.24<=0"
+2025-01-28,GOOGL,A,LONG,confirm,"vol_ratio=1.06<1.5, adx14=20.2<=25, adx14_slope=-1.50<=0"
+2025-02-06,GOOGL,A,LONG,confirm,"vol_ratio=0.95<1.5, adx14=18.8<=25, adx14_slope=-0.52<=0"
+2025-03-26,GOOGL,A,SHORT,confirm,unknown
+2025-04-15,GOOGL,A,SHORT,confirm,unknown
+2025-04-25,GOOGL,A,SHORT,confirm,unknown
+2025-05-13,GOOGL,A,SHORT,confirm,unknown
+2025-10-10,GOOGL,A,LONG,confirm,"not_bullish_close, vol_ratio=1.02<1.5, adx14_slope=-1.92<=0"
+2025-12-17,GOOGL,A,LONG,confirm,"not_bullish_close, vol_ratio=0.80<1.5, adx14_slope=-1.94<=0"
+2025-12-18,GOOGL,A,LONG,confirm,"vol_ratio=0.59<1.5, adx14_slope=-1.80<=0"
+2026-02-09,GOOGL,A,LONG,confirm,"vol_ratio=1.06<1.5, adx14=24.4<=25"
+2026-03-18,GOOGL,A,SHORT,confirm,unknown
+2023-09-18,QQQ,A,LONG,confirm,"vol_ratio=0.95<1.5, adx14=12.9<=25, adx14_slope=-0.97<=0"
+2023-10-09,QQQ,A,SHORT,confirm,unknown
+2024-01-04,QQQ,A,LONG,confirm,"not_bullish_close, vol_ratio=0.88<1.5, adx14_slope=-2.15<=0"
+2024-02-22,QQQ,A,LONG,confirm,"vol_ratio=1.48<1.5, adx14_slope=-0.24<=0"
+2024-03-18,QQQ,A,LONG,confirm,"not_bullish_close, vol_ratio=0.90<1.5, adx14=18.3<=25, adx14_slope=-0.67<=0"
+2024-04-05,QQQ,A,LONG,confirm,"vol_ratio=1.43<1.5, adx14=12.6<=25, adx14_slope=-0.78<=0"
+2024-04-11,QQQ,A,LONG,confirm,"vol_ratio=1.23<1.5, adx14=11.4<=25, adx14_slope=-0.11<=0"
+2024-04-15,QQQ,A,LONG,confirm,"not_bullish_close, vol_ratio=1.15<1.5, adx14=11.0<=25, adx14_slope=-0.00<=0, ribbon_not_bull"
+2024-07-18,QQQ,A,LONG,confirm,"not_bullish_close, adx14_slope=-1.56<=0"
+2024-08-14,QQQ,A,SHORT,confirm,unknown
+2024-10-24,QQQ,A,LONG,confirm,"vol_ratio=0.79<1.5, adx14=17.3<=25, adx14_slope=-1.28<=0"
+2024-11-18,QQQ,A,LONG,confirm,"vol_ratio=0.94<1.5, adx14=19.1<=25, adx14_slope=-0.89<=0"
+2024-12-19,QQQ,A,LONG,confirm,"not_bullish_close, adx14=22.9<=25, adx14_slope=-1.54<=0"
+2024-12-31,QQQ,A,LONG,confirm,"not_bullish_close, vol_ratio=0.94<1.5, adx14=18.4<=25"
+2025-02-04,QQQ,A,LONG,confirm,"vol_ratio=0.83<1.5, adx14=11.5<=25, adx14_slope=-0.86<=0"
+2025-02-24,QQQ,A,LONG,confirm,"not_bullish_close, vol_ratio=1.47<1.5, adx14=9.3<=25"
+2025-03-26,QQQ,A,SHORT,confirm,unknown
+2025-04-25,QQQ,A,SHORT,confirm,unknown
+2025-08-04,QQQ,A,LONG,confirm,"vol_ratio=1.36<1.5, adx14_slope=-0.96<=0"
+2025-08-21,QQQ,A,LONG,confirm,"not_bullish_close, vol_ratio=1.19<1.5, adx14_slope=-1.25<=0"
+2025-09-03,QQQ,A,LONG,confirm,"vol_ratio=0.85<1.5, adx14=18.3<=25, adx14_slope=-1.35<=0"
+2025-10-13,QQQ,A,LONG,confirm,"vol_ratio=1.16<1.5, adx14=22.0<=25, adx14_slope=-0.26<=0"
+2025-11-07,QQQ,A,LONG,confirm,adx14=17.0<=25
+2025-11-14,QQQ,A,LONG,confirm,"vol_ratio=1.11<1.5, adx14=15.5<=25"
+2025-12-15,QQQ,A,LONG,confirm,"not_bullish_close, vol_ratio=0.54<1.5, adx14=11.4<=25"
+2026-01-02,QQQ,A,LONG,confirm,"not_bullish_close, vol_ratio=1.28<1.5, adx14=12.2<=25"
+2026-01-15,QQQ,A,LONG,confirm,"not_bullish_close, vol_ratio=1.05<1.5, adx14=11.3<=25, adx14_slope=-0.11<=0"
+2026-02-02,QQQ,A,LONG,confirm,"vol_ratio=1.19<1.5, adx14=12.0<=25"
+2026-03-05,QQQ,A,SHORT,confirm,unknown

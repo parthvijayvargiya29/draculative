@@ -1,0 +1,153 @@
+{
+  "C": {
+    "overall": {
+      "label": "Combo C Overall",
+      "n_trades": 56,
+      "n_wins": 27,
+      "win_rate_%": 48.21,
+      "ci_lo_%": 35.13,
+      "ci_hi_%": 61.3,
+      "avg_win_$": 4.29,
+      "avg_loss_$": -4.2,
+      "avg_wl_ratio": 1.022,
+      "profit_factor": 0.952,
+      "total_gross_$": 50.13,
+      "total_net_$": -5.87,
+      "total_return_%": -0.02,
+      "expectancy_$": -0.1,
+      "sqn": -0.161,
+      "tp_rate_%": 44.6,
+      "avg_hold_bars": 4.4,
+      "trades_per_month": 2.1,
+      "max_consec_losses": 4,
+      "exit_reasons": {
+        "SL": 28,
+        "BB_MID": 25,
+        "TIME": 3
+      },
+      "top5_conc_%": -769.1,
+      "pnl_ex_top5_$": -51.04,
+      "total_commission_$": 56.0,
+      "mc_p_value": 1.0,
+      "significant": false,
+      "sample_adequacy": "INSUFFICIENT"
+    },
+    "train": {
+      "label": "Train",
+      "n_trades": 25,
+      "n_wins": 15,
+      "win_rate_%": 60.0,
+      "ci_lo_%": 40.8,
+      "ci_hi_%": 79.2,
+      "avg_win_$": 4.07,
+      "avg_loss_$": -3.61,
+      "avg_wl_ratio": 1.13,
+      "profit_factor": 1.695,
+      "total_gross_$": 50.05,
+      "total_net_$": 25.05,
+      "total_return_%": 0.1,
+      "expectancy_$": 1.0,
+      "sqn": 1.141,
+      "tp_rate_%": 48.0,
+      "avg_hold_bars": 5.4,
+      "trades_per_month": 1.9,
+      "max_consec_losses": 4,
+      "exit_reasons": {
+        "BB_MID": 12,
+        "SL": 10,
+        "TIME": 3
+      },
+      "top5_conc_%": 143.3,
+      "pnl_ex_top5_$": -10.84,
+      "total_commission_$": 25.0,
+      "mc_p_value": 1.0,
+      "significant": false,
+      "sample_adequacy": "INSUFFICIENT"
+    },
+    "validate": {
+      "label": "Validate",
+      "n_trades": 9,
+      "n_wins": 7,
+      "win_rate_%": 77.78,
+      "ci_lo_%": 50.62,
+      "ci_hi_%": 104.94,
+      "avg_win_$": 3.99,
+      "avg_loss_$": -5.08,
+      "avg_wl_ratio": 0.785,
+      "profit_factor": 2.747,
+      "total_gross_$": 26.75,
+      "total_net_$": 17.75,
+      "total_return_%": 0.07,
+      "expectancy_$": 1.97,
+      "sqn": 1.168,
+      "tp_rate_%": 77.8,
+      "avg_hold_bars": 4.3,
+      "trades_per_month": 1.5,
+      "max_consec_losses": 1,
+      "exit_reasons": {
+        "BB_MID": 7,
+        "SL": 2
+      },
+      "top5_conc_%": 147.1,
+      "pnl_ex_top5_$": -8.36,
+      "total_commission_$": 9.0,
+      "mc_p_value": 1.0,
+      "significant": false,
+      "sample_adequacy": "INSUFFICIENT"
+    },
+    "test": {
+      "label": "Test",
+      "n_trades": 22,
+      "n_wins": 5,
+      "win_rate_%": 22.73,
+      "ci_lo_%": 5.22,
+      "ci_hi_%": 40.24,
+      "avg_win_$": 5.38,
+      "avg_loss_$": -4.45,
+      "avg_wl_ratio": 1.21,
+      "profit_factor": 0.356,
+      "total_gross_$": -26.68,
+      "total_net_$": -48.68,
+      "total_return_%": -0.19,
+      "expectancy_$": -2.21,
+      "sqn": -2.195,
+      "tp_rate_%": 27.3,
+      "avg_hold_bars": 3.2,
+      "trades_per_month": 4.2,
+      "max_consec_losses": 8,
+      "exit_reasons": {
+        "SL": 16,
+        "BB_MID": 6
+      },
+      "top5_conc_%": -55.3,
+      "pnl_ex_top5_$": -75.57,
+      "total_commission_$": 22.0,
+      "mc_p_value": 1.0,
+      "significant": false,
+      "sample_adequacy": "INSUFFICIENT"
+    },
+    "equity": {
+      "initial_capital_$": 25000,
+      "final_equity_$": 2500.0,
+      "total_return_%": -90.0,
+      "max_drawdown_%": 1.19,
+      "sharpe_ratio": 0.126,
+      "calmar_ratio": -75.726
+    },
+    "overfitting": {
+      "wr_drop_pp": 37.27,
+      "pf_drop_%": 79.0,
+      "flags": [
+        "Win rate drops 37.3pp (threshold: 3pp)",
+        "PF drops 79.0% (threshold: 15%)",
+        "< 30 test trades (STATISTICALLY UNRELIABLE)"
+      ],
+      "verdict": "LIKELY OVERFIT"
+    },
+    "wf_efficiency": {
+      "ratio": 0.21,
+      "verdict": "OVERFIT WARNING",
+      "n_test": 22
+    }
+  }
+}

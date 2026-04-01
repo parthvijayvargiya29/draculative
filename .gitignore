@@ -1,0 +1,4 @@
+
+# Ignore bulky media
+transcriptions/
+yt_audio.*

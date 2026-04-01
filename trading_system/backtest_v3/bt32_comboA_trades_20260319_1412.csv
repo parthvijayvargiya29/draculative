@@ -1,0 +1,2 @@
+trade_id,symbol,combo,direction,signal_bar,signal_close,atr_at_signal,entry_bar,entry_price,shares,stop_loss,risk_amount,equity_at_entry,exit_bar,exit_price,exit_reason,bars_held_at_exit,gross_pnl,commission,net_pnl,net_pnl_pct,won,period
+1,MSFT,A,SHORT,2025-12-09,492.04,9.342364013494304,2025-12-11,476.00188,2.626,485.3442,50.0,4999.0,2025-12-11,485.5869,SL,1,-25.1707,1.0,-26.1707,-0.005235,False,all

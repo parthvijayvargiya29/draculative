@@ -1,0 +1,58 @@
+
+# Trading System Configuration
+# ============================
+
+## Account Settings
+account:
+  initial_capital: 10000              # Starting capital in USD
+  max_daily_loss_pct: 3.0             # Stop trading if daily loss > 3%
+  max_concurrent_positions: 2         # Max open trades at once
+
+## Trading Parameters
+trading:
+  symbol: "NVDA"                      # Stock ticker
+  interval_minutes: 15                # Candle interval (15 = 15-min bars)
+  max_risk_per_trade_pct: 1.0         # Risk % of capital per trade
+  convergence_threshold: 3            # Min # indicators that must agree (3/3 = 100%)
+  
+  # Position management
+  stop_loss_pct: 1.5                  # Stop loss % below entry
+  take_profit_1_pct: 1.0              # First profit target %
+  take_profit_2_pct: 1.5              # Second profit target %
+  take_profit_3_pct: 2.0              # Third profit target %
+  max_hold_minutes: 45                # Exit after N minutes
+
+## Indicators
+indicators:
+  macd:
+    enabled: true
+    fast_ema: 12
+    slow_ema: 26
+    signal_ema: 9
+  
+  bollinger_bands:
+    enabled: true
+    period: 20
+    std_dev: 2.0
+  
+  stochastic:
+    enabled: true
+    period: 14
+    smooth_k: 3
+    smooth_d: 3
+
+## Broker Settings
+broker:
+  type: "alpaca"                      # 'alpaca' or 'ib'
+  paper_trading: true                 # Use paper trading account
+  # api_key: "${ALPACA_KEY}"          # Set via env var
+  # api_secret: "${ALPACA_SECRET}"    # Set via env var
+
+## Monitoring & Logging
+logging:
+  log_dir: "trading_system/data"
+  log_level: "INFO"                   # DEBUG, INFO, WARNING, ERROR
+  save_state_interval_minutes: 5      # Save state every N minutes
+
+## Mode
+mode: "paper"                         # 'paper' (paper trading) or 'live' (real money)

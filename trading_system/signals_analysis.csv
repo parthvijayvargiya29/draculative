@@ -1,0 +1,651 @@
+date,macd,signal,histogram,rsi,bb_upper,bb_lower,bb_mid,atr,entry_price,current_price,prev_close,close_range,volume,price_momentum,direction,signals,won,pnl_pct
+2025-01-22,"Ticker
+IONQ   -0.043886
+Name: 2025-01-22 19:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.045343
+Name: 2025-01-22 19:30:00+00:00, dtype: float64","Ticker
+IONQ    0.001457
+Name: 2025-01-22 19:30:00+00:00, dtype: float64",24.090827121904297,"Ticker
+IONQ    43.692881
+dtype: float64","Ticker
+IONQ    40.432119
+dtype: float64","Ticker
+IONQ    42.0625
+dtype: float64",3.159900665283203,"Ticker
+IONQ    43.669998
+Name: 2025-01-22 14:30:00+00:00, dtype: float64","Ticker
+IONQ    41.959999
+Name: 2025-01-22 19:30:00+00:00, dtype: float64","Ticker
+IONQ    41.740002
+Name: 2025-01-22 18:30:00+00:00, dtype: float64","Ticker
+IONQ    2.304996
+dtype: float64","Ticker
+IONQ    23525704
+dtype: int64","Ticker
+IONQ   -0.039157
+dtype: float64",BUY,"MACD_BULLISH,RSI_OVERSOLD,BB_LOWER_HALF",False,-3.915729691256717
+2025-02-03,"Ticker
+IONQ    0.16136
+Name: 2025-02-03 19:30:00+00:00, dtype: float64","Ticker
+IONQ    0.097266
+Name: 2025-02-03 19:30:00+00:00, dtype: float64","Ticker
+IONQ    0.064094
+Name: 2025-02-03 19:30:00+00:00, dtype: float64",0.0,"Ticker
+IONQ    43.070693
+dtype: float64","Ticker
+IONQ    38.03664
+dtype: float64","Ticker
+IONQ    40.553666
+dtype: float64",1.6200027465820312,"Ticker
+IONQ    38.59
+Name: 2025-02-03 14:30:00+00:00, dtype: float64","Ticker
+IONQ    42.019501
+Name: 2025-02-03 19:30:00+00:00, dtype: float64","Ticker
+IONQ    41.349998
+Name: 2025-02-03 18:30:00+00:00, dtype: float64","Ticker
+IONQ    3.429501
+dtype: float64","Ticker
+IONQ    14400864
+dtype: int64","Ticker
+IONQ    0.08887
+dtype: float64",BUY,"MACD_BULLISH,RSI_OVERSOLD,BB_UPPER_HALF",True,8.887018829420757
+2025-04-14,"Ticker
+IONQ   -0.035757
+Name: 2025-04-14 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.039927
+Name: 2025-04-14 18:30:00+00:00, dtype: float64","Ticker
+IONQ    0.00417
+Name: 2025-04-14 18:30:00+00:00, dtype: float64",27.193564220128565,"Ticker
+IONQ    26.642831
+dtype: float64","Ticker
+IONQ    24.197136
+dtype: float64","Ticker
+IONQ    25.419984
+dtype: float64",2.065000534057617,"Ticker
+IONQ    26.530001
+Name: 2025-04-14 13:30:00+00:00, dtype: float64","Ticker
+IONQ    25.439899
+Name: 2025-04-14 18:30:00+00:00, dtype: float64","Ticker
+IONQ    25.15
+Name: 2025-04-14 17:30:00+00:00, dtype: float64","Ticker
+IONQ    1.74
+dtype: float64","Ticker
+IONQ    17368124
+dtype: int64","Ticker
+IONQ   -0.041089
+dtype: float64",BUY,"MACD_BULLISH,RSI_OVERSOLD,BB_UPPER_HALF",False,-4.108937858468121
+2025-04-23,"Ticker
+IONQ   -0.010843
+Name: 2025-04-23 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.011852
+Name: 2025-04-23 18:30:00+00:00, dtype: float64","Ticker
+IONQ    0.00101
+Name: 2025-04-23 18:30:00+00:00, dtype: float64",30.271728417756137,"Ticker
+IONQ    27.501024
+dtype: float64","Ticker
+IONQ    26.271709
+dtype: float64","Ticker
+IONQ    26.886367
+dtype: float64",1.201700210571289,"Ticker
+IONQ    27.4
+Name: 2025-04-23 13:30:00+00:00, dtype: float64","Ticker
+IONQ    26.7204
+Name: 2025-04-23 18:30:00+00:00, dtype: float64","Ticker
+IONQ    27.1014
+Name: 2025-04-23 17:30:00+00:00, dtype: float64","Ticker
+IONQ    0.82
+dtype: float64","Ticker
+IONQ    12905166
+dtype: int64","Ticker
+IONQ   -0.024803
+dtype: float64",BUY,"MACD_BULLISH,BB_LOWER",False,-2.4802911365855858
+2025-05-02,"Ticker
+IONQ    0.038428
+Name: 2025-05-02 18:30:00+00:00, dtype: float64","Ticker
+IONQ    0.026321
+Name: 2025-05-02 18:30:00+00:00, dtype: float64","Ticker
+IONQ    0.012107
+Name: 2025-05-02 18:30:00+00:00, dtype: float64",0.0,"Ticker
+IONQ    31.451673
+dtype: float64","Ticker
+IONQ    30.118093
+dtype: float64","Ticker
+IONQ    30.784883
+dtype: float64",2.6200008392333984,"Ticker
+IONQ    30.215
+Name: 2025-05-02 13:30:00+00:00, dtype: float64","Ticker
+IONQ    31.059999
+Name: 2025-05-02 18:30:00+00:00, dtype: float64","Ticker
+IONQ    31.0168
+Name: 2025-05-02 17:30:00+00:00, dtype: float64","Ticker
+IONQ    0.844999
+dtype: float64","Ticker
+IONQ    21235150
+dtype: int64","Ticker
+IONQ    0.027966
+dtype: float64",BUY,"MACD_BULLISH,RSI_OVERSOLD,BB_UPPER",True,2.796621906626463
+2025-05-05,"Ticker
+IONQ   -0.003732
+Name: 2025-05-05 18:30:00+00:00, dtype: float64","Ticker
+IONQ    0.003378
+Name: 2025-05-05 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.007109
+Name: 2025-05-05 18:30:00+00:00, dtype: float64",48.132776799041416,"Ticker
+IONQ    30.513067
+dtype: float64","Ticker
+IONQ    29.850266
+dtype: float64","Ticker
+IONQ    30.181667
+dtype: float64",1.219900131225586,"Ticker
+IONQ    30.030001
+Name: 2025-05-05 13:30:00+00:00, dtype: float64","Ticker
+IONQ    29.985001
+Name: 2025-05-05 18:30:00+00:00, dtype: float64","Ticker
+IONQ    30.275
+Name: 2025-05-05 17:30:00+00:00, dtype: float64","Ticker
+IONQ    0.389999
+dtype: float64","Ticker
+IONQ    7926464
+dtype: int64","Ticker
+IONQ   -0.001499
+dtype: float64",SELL,"MACD_BEARISH,RSI_NEUTRAL,BB_UPPER",True,0.1498504004828647
+2025-05-20,"Ticker
+IONQ   -0.013379
+Name: 2025-05-20 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.005332
+Name: 2025-05-20 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.008047
+Name: 2025-05-20 18:30:00+00:00, dtype: float64",55.27481302462716,"Ticker
+IONQ    35.778177
+dtype: float64","Ticker
+IONQ    34.595555
+dtype: float64","Ticker
+IONQ    35.186866
+dtype: float64",1.7999000549316406,"Ticker
+IONQ    35.055
+Name: 2025-05-20 13:30:00+00:00, dtype: float64","Ticker
+IONQ    35.244999
+Name: 2025-05-20 18:30:00+00:00, dtype: float64","Ticker
+IONQ    34.6745
+Name: 2025-05-20 17:30:00+00:00, dtype: float64","Ticker
+IONQ    0.8055
+dtype: float64","Ticker
+IONQ    15565559
+dtype: int64","Ticker
+IONQ    0.00542
+dtype: float64",SELL,"MACD_BEARISH,RSI_NEUTRAL,BB_UPPER",False,-0.5420014978032437
+2025-05-28,"Ticker
+IONQ    0.136095
+Name: 2025-05-28 18:30:00+00:00, dtype: float64","Ticker
+IONQ    0.077951
+Name: 2025-05-28 18:30:00+00:00, dtype: float64","Ticker
+IONQ    0.058143
+Name: 2025-05-28 18:30:00+00:00, dtype: float64",0.0,"Ticker
+IONQ    49.004486
+dtype: float64","Ticker
+IONQ    44.90008
+dtype: float64","Ticker
+IONQ    46.952283
+dtype: float64",2.4098968505859375,"Ticker
+IONQ    45.439999
+Name: 2025-05-28 13:30:00+00:00, dtype: float64","Ticker
+IONQ    48.139999
+Name: 2025-05-28 18:30:00+00:00, dtype: float64","Ticker
+IONQ    47.940899
+Name: 2025-05-28 17:30:00+00:00, dtype: float64","Ticker
+IONQ    2.700001
+dtype: float64","Ticker
+IONQ    24972644
+dtype: int64","Ticker
+IONQ    0.059419
+dtype: float64",BUY,"MACD_BULLISH,RSI_OVERSOLD,BB_UPPER",True,5.941903267031419
+2025-06-02,"Ticker
+IONQ    0.083241
+Name: 2025-06-02 18:30:00+00:00, dtype: float64","Ticker
+IONQ    0.037102
+Name: 2025-06-02 18:30:00+00:00, dtype: float64","Ticker
+IONQ    0.046139
+Name: 2025-06-02 18:30:00+00:00, dtype: float64",0.0,"Ticker
+IONQ    40.998922
+dtype: float64","Ticker
+IONQ    38.499144
+dtype: float64","Ticker
+IONQ    39.749033
+dtype: float64",2.720001220703125,"Ticker
+IONQ    39.209999
+Name: 2025-06-02 13:30:00+00:00, dtype: float64","Ticker
+IONQ    40.630001
+Name: 2025-06-02 18:30:00+00:00, dtype: float64","Ticker
+IONQ    40.439999
+Name: 2025-06-02 17:30:00+00:00, dtype: float64","Ticker
+IONQ    1.420002
+dtype: float64","Ticker
+IONQ    12841663
+dtype: int64","Ticker
+IONQ    0.036215
+dtype: float64",BUY,"MACD_BULLISH,RSI_OVERSOLD,BB_UPPER",True,3.621530264725014
+2025-06-03,"Ticker
+IONQ   -0.018775
+Name: 2025-06-03 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.012833
+Name: 2025-06-03 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.005942
+Name: 2025-06-03 18:30:00+00:00, dtype: float64",31.391149985965598,"Ticker
+IONQ    40.720538
+dtype: float64","Ticker
+IONQ    39.954697
+dtype: float64","Ticker
+IONQ    40.337617
+dtype: float64",2.3899993896484375,"Ticker
+IONQ    40.639999
+Name: 2025-06-03 13:30:00+00:00, dtype: float64","Ticker
+IONQ    40.265701
+Name: 2025-06-03 18:30:00+00:00, dtype: float64","Ticker
+IONQ    40.060001
+Name: 2025-06-03 17:30:00+00:00, dtype: float64","Ticker
+IONQ    0.579998
+dtype: float64","Ticker
+IONQ    10321361
+dtype: int64","Ticker
+IONQ   -0.00921
+dtype: float64",SELL,"MACD_BEARISH,BB_UPPER",True,0.9210091075898584
+2025-06-16,"Ticker
+IONQ   -0.000619
+Name: 2025-06-16 18:30:00+00:00, dtype: float64","Ticker
+IONQ    0.002239
+Name: 2025-06-16 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.002857
+Name: 2025-06-16 18:30:00+00:00, dtype: float64",42.22233524913959,"Ticker
+IONQ    38.335158
+dtype: float64","Ticker
+IONQ    37.981509
+dtype: float64","Ticker
+IONQ    38.158333
+dtype: float64",2.4037017822265625,"Ticker
+IONQ    38.130001
+Name: 2025-06-16 13:30:00+00:00, dtype: float64","Ticker
+IONQ    38.060001
+Name: 2025-06-16 18:30:00+00:00, dtype: float64","Ticker
+IONQ    38.209999
+Name: 2025-06-16 17:30:00+00:00, dtype: float64","Ticker
+IONQ    0.25
+dtype: float64","Ticker
+IONQ    25049280
+dtype: int64","Ticker
+IONQ   -0.001836
+dtype: float64",SELL,"MACD_BEARISH,RSI_NEUTRAL,BB_UPPER",True,0.18358167548742435
+2025-07-15,"Ticker
+IONQ   -0.011507
+Name: 2025-07-15 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.01002
+Name: 2025-07-15 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.001487
+Name: 2025-07-15 18:30:00+00:00, dtype: float64",30.82710217380705,"Ticker
+IONQ    42.056255
+dtype: float64","Ticker
+IONQ    41.171213
+dtype: float64","Ticker
+IONQ    41.613734
+dtype: float64",1.3299980163574219,"Ticker
+IONQ    41.959999
+Name: 2025-07-15 13:30:00+00:00, dtype: float64","Ticker
+IONQ    41.450001
+Name: 2025-07-15 18:30:00+00:00, dtype: float64","Ticker
+IONQ    41.810001
+Name: 2025-07-15 17:30:00+00:00, dtype: float64","Ticker
+IONQ    0.559998
+dtype: float64","Ticker
+IONQ    13654395
+dtype: int64","Ticker
+IONQ   -0.012154
+dtype: float64",SELL,"MACD_BEARISH,BB_UPPER",True,1.2154393056741712
+2025-07-28,"Ticker
+IONQ   -0.035727
+Name: 2025-07-28 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.027122
+Name: 2025-07-28 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.008605
+Name: 2025-07-28 18:30:00+00:00, dtype: float64",42.508033043199916,"Ticker
+IONQ    43.0566
+dtype: float64","Ticker
+IONQ    41.297401
+dtype: float64","Ticker
+IONQ    42.177
+dtype: float64",2.0049972534179688,"Ticker
+IONQ    42.525002
+Name: 2025-07-28 13:30:00+00:00, dtype: float64","Ticker
+IONQ    42.200001
+Name: 2025-07-28 18:30:00+00:00, dtype: float64","Ticker
+IONQ    41.540001
+Name: 2025-07-28 17:30:00+00:00, dtype: float64","Ticker
+IONQ    1.246998
+dtype: float64","Ticker
+IONQ    13609412
+dtype: int64","Ticker
+IONQ   -0.007643
+dtype: float64",SELL,"MACD_BEARISH,RSI_NEUTRAL,BB_UPPER",True,0.7642580864851268
+2025-07-29,"Ticker
+IONQ    0.004029
+Name: 2025-07-29 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.00438
+Name: 2025-07-29 18:30:00+00:00, dtype: float64","Ticker
+IONQ    0.008409
+Name: 2025-07-29 18:30:00+00:00, dtype: float64",36.51768164551161,"Ticker
+IONQ    42.092981
+dtype: float64","Ticker
+IONQ    40.400251
+dtype: float64","Ticker
+IONQ    41.246616
+dtype: float64",2.4995994567871094,"Ticker
+IONQ    41.790001
+Name: 2025-07-29 13:30:00+00:00, dtype: float64","Ticker
+IONQ    41.183998
+Name: 2025-07-29 18:30:00+00:00, dtype: float64","Ticker
+IONQ    41.540699
+Name: 2025-07-29 17:30:00+00:00, dtype: float64","Ticker
+IONQ    1.07
+dtype: float64","Ticker
+IONQ    17596353
+dtype: int64","Ticker
+IONQ   -0.014501
+dtype: float64",BUY,"MACD_BULLISH,BB_LOWER",False,-1.4501143678894328
+2025-08-06,"Ticker
+IONQ   -0.014407
+Name: 2025-08-06 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.009437
+Name: 2025-08-06 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.00497
+Name: 2025-08-06 18:30:00+00:00, dtype: float64",6.379765949414875,"Ticker
+IONQ    41.493376
+dtype: float64","Ticker
+IONQ    40.996456
+dtype: float64","Ticker
+IONQ    41.244916
+dtype: float64",2.4099998474121094,"Ticker
+IONQ    41.465
+Name: 2025-08-06 13:30:00+00:00, dtype: float64","Ticker
+IONQ    41.130001
+Name: 2025-08-06 18:30:00+00:00, dtype: float64","Ticker
+IONQ    41.169998
+Name: 2025-08-06 17:30:00+00:00, dtype: float64","Ticker
+IONQ    0.334999
+dtype: float64","Ticker
+IONQ    16400809
+dtype: int64","Ticker
+IONQ   -0.008079
+dtype: float64",SELL,"MACD_BEARISH,RSI_OVERSOLD,BB_UPPER",True,0.8079080748580402
+2025-08-13,"Ticker
+IONQ   -0.009815
+Name: 2025-08-13 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.009377
+Name: 2025-08-13 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.000438
+Name: 2025-08-13 18:30:00+00:00, dtype: float64",55.07246109731017,"Ticker
+IONQ    42.048505
+dtype: float64","Ticker
+IONQ    40.824828
+dtype: float64","Ticker
+IONQ    41.436666
+dtype: float64",2.270000457763672,"Ticker
+IONQ    41.41
+Name: 2025-08-13 13:30:00+00:00, dtype: float64","Ticker
+IONQ    41.619999
+Name: 2025-08-13 18:30:00+00:00, dtype: float64","Ticker
+IONQ    41.0
+Name: 2025-08-13 17:30:00+00:00, dtype: float64","Ticker
+IONQ    0.91
+dtype: float64","Ticker
+IONQ    17021164
+dtype: int64","Ticker
+IONQ    0.005071
+dtype: float64",SELL,"MACD_BEARISH,RSI_NEUTRAL,BB_UPPER",False,-0.5071216741039907
+2025-08-25,"Ticker
+IONQ   -0.015283
+Name: 2025-08-25 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.006636
+Name: 2025-08-25 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.008647
+Name: 2025-08-25 18:30:00+00:00, dtype: float64",21.969771407103437,"Ticker
+IONQ    39.276628
+dtype: float64","Ticker
+IONQ    38.738373
+dtype: float64","Ticker
+IONQ    39.0075
+dtype: float64",1.2900009155273438,"Ticker
+IONQ    39.145
+Name: 2025-08-25 13:30:00+00:00, dtype: float64","Ticker
+IONQ    38.775002
+Name: 2025-08-25 18:30:00+00:00, dtype: float64","Ticker
+IONQ    39.0
+Name: 2025-08-25 17:30:00+00:00, dtype: float64","Ticker
+IONQ    0.369999
+dtype: float64","Ticker
+IONQ    9875201
+dtype: int64","Ticker
+IONQ   -0.009452
+dtype: float64",SELL,"MACD_BEARISH,RSI_OVERSOLD,BB_UPPER",True,0.9452009900574246
+2025-08-27,"Ticker
+IONQ   -0.005368
+Name: 2025-08-27 18:30:00+00:00, dtype: float64","Ticker
+IONQ    0.004992
+Name: 2025-08-27 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.01036
+Name: 2025-08-27 18:30:00+00:00, dtype: float64",45.315549181741446,"Ticker
+IONQ    42.64673
+dtype: float64","Ticker
+IONQ    41.643871
+dtype: float64","Ticker
+IONQ    42.145301
+dtype: float64",1.2599983215332031,"Ticker
+IONQ    41.952499
+Name: 2025-08-27 13:30:00+00:00, dtype: float64","Ticker
+IONQ    41.794998
+Name: 2025-08-27 18:30:00+00:00, dtype: float64","Ticker
+IONQ    42.455002
+Name: 2025-08-27 17:30:00+00:00, dtype: float64","Ticker
+IONQ    0.660004
+dtype: float64","Ticker
+IONQ    13920322
+dtype: int64","Ticker
+IONQ   -0.003754
+dtype: float64",SELL,"MACD_BEARISH,RSI_NEUTRAL,BB_UPPER",True,0.3754275025196416
+2025-09-04,"Ticker
+IONQ   -0.017405
+Name: 2025-09-04 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.017165
+Name: 2025-09-04 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.00024
+Name: 2025-09-04 18:30:00+00:00, dtype: float64",31.174103360632586,"Ticker
+IONQ    42.609275
+dtype: float64","Ticker
+IONQ    41.323725
+dtype: float64","Ticker
+IONQ    41.9665
+dtype: float64",1.7999992370605469,"Ticker
+IONQ    42.560001
+Name: 2025-09-04 13:30:00+00:00, dtype: float64","Ticker
+IONQ    41.909
+Name: 2025-09-04 18:30:00+00:00, dtype: float64","Ticker
+IONQ    41.779999
+Name: 2025-09-04 17:30:00+00:00, dtype: float64","Ticker
+IONQ    0.900002
+dtype: float64","Ticker
+IONQ    11016825
+dtype: int64","Ticker
+IONQ   -0.015296
+dtype: float64",SELL,"MACD_BEARISH,BB_UPPER",True,1.5296075083565261
+2025-09-08,"Ticker
+IONQ   -0.016416
+Name: 2025-09-08 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.015316
+Name: 2025-09-08 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.0011
+Name: 2025-09-08 18:30:00+00:00, dtype: float64",34.492292459967814,"Ticker
+IONQ    41.505799
+dtype: float64","Ticker
+IONQ    40.501735
+dtype: float64","Ticker
+IONQ    41.003767
+dtype: float64",1.6500015258789062,"Ticker
+IONQ    41.34
+Name: 2025-09-08 13:30:00+00:00, dtype: float64","Ticker
+IONQ    40.959999
+Name: 2025-09-08 18:30:00+00:00, dtype: float64","Ticker
+IONQ    40.997601
+Name: 2025-09-08 17:30:00+00:00, dtype: float64","Ticker
+IONQ    0.764999
+dtype: float64","Ticker
+IONQ    8834203
+dtype: int64","Ticker
+IONQ   -0.009192
+dtype: float64",SELL,"MACD_BEARISH,BB_UPPER",True,0.9192091599241231
+2025-09-09,"Ticker
+IONQ    0.102716
+Name: 2025-09-09 18:30:00+00:00, dtype: float64","Ticker
+IONQ    0.056956
+Name: 2025-09-09 18:30:00+00:00, dtype: float64","Ticker
+IONQ    0.04576
+Name: 2025-09-09 18:30:00+00:00, dtype: float64",0.0,"Ticker
+IONQ    44.416146
+dtype: float64","Ticker
+IONQ    41.265822
+dtype: float64","Ticker
+IONQ    42.840984
+dtype: float64",1.1599998474121094,"Ticker
+IONQ    41.610001
+Name: 2025-09-09 13:30:00+00:00, dtype: float64","Ticker
+IONQ    43.970001
+Name: 2025-09-09 18:30:00+00:00, dtype: float64","Ticker
+IONQ    43.191299
+Name: 2025-09-09 17:30:00+00:00, dtype: float64","Ticker
+IONQ    2.360001
+dtype: float64","Ticker
+IONQ    14023458
+dtype: int64","Ticker
+IONQ    0.056717
+dtype: float64",BUY,"MACD_BULLISH,RSI_OVERSOLD,BB_UPPER",True,5.67171491404509
+2025-09-10,"Ticker
+IONQ   -0.022994
+Name: 2025-09-10 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.007778
+Name: 2025-09-10 18:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.015216
+Name: 2025-09-10 18:30:00+00:00, dtype: float64",45.342823198219826,"Ticker
+IONQ    44.782785
+dtype: float64","Ticker
+IONQ    43.682083
+dtype: float64","Ticker
+IONQ    44.232434
+dtype: float64",1.1399002075195312,"Ticker
+IONQ    44.119499
+Name: 2025-09-10 13:30:00+00:00, dtype: float64","Ticker
+IONQ    43.990002
+Name: 2025-09-10 18:30:00+00:00, dtype: float64","Ticker
+IONQ    44.014999
+Name: 2025-09-10 17:30:00+00:00, dtype: float64","Ticker
+IONQ    0.75
+dtype: float64","Ticker
+IONQ    12217980
+dtype: int64","Ticker
+IONQ   -0.002935
+dtype: float64",SELL,"MACD_BEARISH,RSI_NEUTRAL,BB_UPPER",True,0.29351540793773845
+2025-11-24,"Ticker
+IONQ    0.14301
+Name: 2025-11-24 19:30:00+00:00, dtype: float64","Ticker
+IONQ    0.074921
+Name: 2025-11-24 19:30:00+00:00, dtype: float64","Ticker
+IONQ    0.068088
+Name: 2025-11-24 19:30:00+00:00, dtype: float64",0.0,"Ticker
+IONQ    46.841181
+dtype: float64","Ticker
+IONQ    42.625985
+dtype: float64","Ticker
+IONQ    44.733583
+dtype: float64",1.55999755859375,"Ticker
+IONQ    43.330002
+Name: 2025-11-24 14:30:00+00:00, dtype: float64","Ticker
+IONQ    46.32
+Name: 2025-11-24 19:30:00+00:00, dtype: float64","Ticker
+IONQ    45.246498
+Name: 2025-11-24 18:30:00+00:00, dtype: float64","Ticker
+IONQ    2.989998
+dtype: float64","Ticker
+IONQ    15674242
+dtype: int64","Ticker
+IONQ    0.069005
+dtype: float64",BUY,"MACD_BULLISH,RSI_OVERSOLD,BB_UPPER",True,6.900525588315565
+2025-11-25,"Ticker
+IONQ    0.095693
+Name: 2025-11-25 19:30:00+00:00, dtype: float64","Ticker
+IONQ    0.052189
+Name: 2025-11-25 19:30:00+00:00, dtype: float64","Ticker
+IONQ    0.043504
+Name: 2025-11-25 19:30:00+00:00, dtype: float64",0.0,"Ticker
+IONQ    47.438528
+dtype: float64","Ticker
+IONQ    44.419804
+dtype: float64","Ticker
+IONQ    45.929166
+dtype: float64",2.6293983459472656,"Ticker
+IONQ    44.700001
+Name: 2025-11-25 14:30:00+00:00, dtype: float64","Ticker
+IONQ    47.029999
+Name: 2025-11-25 19:30:00+00:00, dtype: float64","Ticker
+IONQ    46.23
+Name: 2025-11-25 18:30:00+00:00, dtype: float64","Ticker
+IONQ    2.329998
+dtype: float64","Ticker
+IONQ    13238589
+dtype: int64","Ticker
+IONQ    0.052125
+dtype: float64",BUY,"MACD_BULLISH,RSI_OVERSOLD,BB_UPPER",True,5.212523437559338
+2025-12-09,"Ticker
+IONQ   -0.027595
+Name: 2025-12-09 19:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.025542
+Name: 2025-12-09 19:30:00+00:00, dtype: float64","Ticker
+IONQ   -0.002053
+Name: 2025-12-09 19:30:00+00:00, dtype: float64",44.923831820039,"Ticker
+IONQ    55.106241
+dtype: float64","Ticker
+IONQ    53.399925
+dtype: float64","Ticker
+IONQ    54.253083
+dtype: float64",1.4199981689453125,"Ticker
+IONQ    54.619999
+Name: 2025-12-09 14:30:00+00:00, dtype: float64","Ticker
+IONQ    54.419998
+Name: 2025-12-09 19:30:00+00:00, dtype: float64","Ticker
+IONQ    53.665001
+Name: 2025-12-09 18:30:00+00:00, dtype: float64","Ticker
+IONQ    1.084999
+dtype: float64","Ticker
+IONQ    9907997
+dtype: int64","Ticker
+IONQ   -0.003662
+dtype: float64",SELL,"MACD_BEARISH,RSI_NEUTRAL,BB_UPPER",True,0.36616764344662306
+2025-12-16,"Ticker
+IONQ    0.078496
+Name: 2025-12-16 19:30:00+00:00, dtype: float64","Ticker
+IONQ    0.03614
+Name: 2025-12-16 19:30:00+00:00, dtype: float64","Ticker
+IONQ    0.042356
+Name: 2025-12-16 19:30:00+00:00, dtype: float64",0.0,"Ticker
+IONQ    49.663514
+dtype: float64","Ticker
+IONQ    47.360685
+dtype: float64","Ticker
+IONQ    48.5121
+dtype: float64",2.3499984741210938,"Ticker
+IONQ    47.989601
+Name: 2025-12-16 14:30:00+00:00, dtype: float64","Ticker
+IONQ    49.395
+Name: 2025-12-16 19:30:00+00:00, dtype: float64","Ticker
+IONQ    48.91
+Name: 2025-12-16 18:30:00+00:00, dtype: float64","Ticker
+IONQ    1.405399
+dtype: float64","Ticker
+IONQ    11994469
+dtype: int64","Ticker
+IONQ    0.029285
+dtype: float64",BUY,"MACD_BULLISH,RSI_OVERSOLD,BB_UPPER",True,2.9285497050679536

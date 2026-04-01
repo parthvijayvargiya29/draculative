@@ -1,0 +1,78 @@
+ts,symbol,combo,direction,filter_stage,reasons
+2023-10-09,NVDA,B,LONG,confirm,macd_cross_bars_ago=5>3
+2023-12-05,NVDA,B,SHORT,confirm,macd_cross_bars_ago=5>3
+2024-02-22,NVDA,B,SHORT,confirm,"adx_slope=-1.45<=0, price_wrong_side_of_st"
+2024-04-10,NVDA,B,SHORT,confirm,macd_cross_bars_ago=17>3
+2024-06-25,NVDA,B,SHORT,confirm,adx_slope=-6.86<=0
+2024-08-16,NVDA,B,LONG,confirm,adx_slope=-0.46<=0
+2024-09-26,NVDA,B,LONG,confirm,macd_cross_bars_ago=9>3
+2024-11-26,NVDA,B,SHORT,confirm,"adx_slope=-2.30<=0, macd_cross_bars_ago=7>3"
+2025-01-06,NVDA,B,LONG,confirm,macd_cross_bars_ago=7>3
+2025-04-10,NVDA,B,LONG,confirm,adx_slope=-4.53<=0
+2025-09-03,NVDA,B,SHORT,confirm,macd_cross_bars_ago=30>3
+2026-01-21,NVDA,B,SHORT,confirm,"adx_slope=-2.05<=0, macd_cross_bars_ago=5>3"
+2026-02-10,NVDA,B,LONG,confirm,adx_slope=-1.00<=0
+2023-09-08,AAPL,B,SHORT,confirm,"adx_slope=-1.20<=0, macd_cross_bars_ago=9>3"
+2023-10-10,AAPL,B,LONG,confirm,macd_cross_bars_ago=4>3
+2023-10-26,AAPL,B,SHORT,confirm,macd_cross_bars_ago=4>3
+2023-11-03,AAPL,B,LONG,confirm,adx_slope=-4.74<=0
+2024-01-03,AAPL,B,SHORT,confirm,macd_cross_bars_ago=9>3
+2024-03-21,AAPL,B,LONG,confirm,adx_slope=-3.12<=0
+2024-04-11,AAPL,B,SHORT,confirm,"price_wrong_side_of_st, macd_cross_bars_ago=17>3"
+2024-04-12,AAPL,B,LONG,confirm,macd_cross_bars_ago=18>3
+2024-04-18,AAPL,B,SHORT,confirm,"adx_slope=-1.04<=0, macd_cross_bars_ago=22>3"
+2024-04-30,AAPL,B,LONG,confirm,adx_slope=-0.61<=0
+2024-07-25,AAPL,B,SHORT,confirm,macd_cross_bars_ago=5>3
+2024-08-16,AAPL,B,LONG,confirm,adx_slope=-0.58<=0
+2024-09-17,AAPL,B,SHORT,confirm,macd_cross_bars_ago=9>3
+2024-11-04,AAPL,B,SHORT,confirm,macd_cross_bars_ago=6>3
+2024-11-26,AAPL,B,LONG,confirm,macd_cross_bars_ago=5>3
+2025-01-03,AAPL,B,SHORT,confirm,adx_slope=-0.46<=0
+2025-01-29,AAPL,B,LONG,confirm,adx_slope=-2.49<=0
+2025-03-12,AAPL,B,SHORT,confirm,macd_cross_bars_ago=6>3
+2025-04-25,AAPL,B,LONG,confirm,"adx_slope=-0.52<=0, macd_cross_bars_ago=7>3"
+2025-07-02,AAPL,B,LONG,confirm,macd_cross_bars_ago=7>3
+2025-08-04,AAPL,B,SHORT,confirm,macd_cross_bars_ago=4>3
+2025-10-21,AAPL,B,LONG,confirm,macd_cross_bars_ago=10>3
+2025-12-18,AAPL,B,SHORT,confirm,macd_cross_bars_ago=8>3
+2026-02-03,AAPL,B,LONG,confirm,macd_cross_bars_ago=4>3
+2026-02-13,AAPL,B,SHORT,confirm,adx_slope=-0.67<=0
+2023-09-06,MSFT,B,LONG,confirm,macd_cross_bars_ago=9>3
+2024-04-19,MSFT,B,SHORT,confirm,macd_cross_bars_ago=15>3
+2024-05-15,MSFT,B,LONG,confirm,macd_cross_bars_ago=7>3
+2024-07-17,MSFT,B,SHORT,confirm,macd_cross_bars_ago=4>3
+2024-08-21,MSFT,B,LONG,confirm,macd_cross_bars_ago=5>3
+2024-10-30,MSFT,B,LONG,confirm,macd_cross_bars_ago=6>3
+2024-11-01,MSFT,B,SHORT,confirm,adx_slope=-1.23<=0
+2024-12-03,MSFT,B,LONG,confirm,macd_cross_bars_ago=4>3
+2024-12-24,MSFT,B,SHORT,confirm,adx_slope=-2.56<=0
+2025-04-10,MSFT,B,LONG,confirm,adx_slope=-4.61<=0
+2025-08-19,MSFT,B,SHORT,confirm,macd_cross_bars_ago=8>3
+2025-10-02,MSFT,B,LONG,confirm,macd_cross_bars_ago=13>3
+2025-11-03,MSFT,B,SHORT,confirm,adx_slope=-3.35<=0
+2026-01-27,MSFT,B,LONG,confirm,adx_slope=-1.80<=0
+2023-10-26,GOOGL,B,SHORT,confirm,macd_cross_bars_ago=4>3
+2023-11-09,GOOGL,B,LONG,confirm,adx_slope=-3.36<=0
+2024-02-01,GOOGL,B,SHORT,confirm,adx_slope=-3.34<=0
+2024-02-12,GOOGL,B,LONG,confirm,"adx_slope=-2.75<=0, macd_cross_bars_ago=8>3"
+2024-02-20,GOOGL,B,SHORT,confirm,macd_cross_bars_ago=13>3
+2024-07-18,GOOGL,B,SHORT,confirm,macd_cross_bars_ago=4>3
+2024-09-20,GOOGL,B,LONG,confirm,macd_cross_bars_ago=4>3
+2024-11-22,GOOGL,B,SHORT,confirm,macd_cross_bars_ago=4>3
+2025-04-28,GOOGL,B,LONG,confirm,"adx_slope=-0.62<=0, macd_cross_bars_ago=11>3"
+2025-05-08,GOOGL,B,SHORT,confirm,macd_cross_bars_ago=19>3
+2025-05-22,GOOGL,B,LONG,confirm,macd_cross_bars_ago=8>3
+2025-10-13,GOOGL,B,SHORT,confirm,macd_cross_bars_ago=13>3
+2025-10-21,GOOGL,B,LONG,confirm,"adx_slope=-1.45<=0, macd_cross_bars_ago=19>3"
+2025-12-18,GOOGL,B,SHORT,confirm,macd_cross_bars_ago=8>3
+2026-02-11,GOOGL,B,SHORT,confirm,macd_cross_bars_ago=5>3
+2024-01-11,QQQ,B,LONG,confirm,"adx_slope=-0.74<=0, macd_cross_bars_ago=8>3"
+2024-04-16,QQQ,B,SHORT,confirm,macd_cross_bars_ago=29>3
+2024-05-06,QQQ,B,LONG,confirm,adx_slope=-0.31<=0
+2024-09-09,QQQ,B,SHORT,confirm,macd_cross_bars_ago=4>3
+2024-09-16,QQQ,B,LONG,confirm,adx_slope=-2.43<=0
+2024-11-18,QQQ,B,SHORT,confirm,adx_slope=-0.54<=0
+2025-04-10,QQQ,B,LONG,confirm,"adx_slope=-3.08<=0, macd_cross_bars_ago=5>3"
+2025-08-04,QQQ,B,SHORT,confirm,"adx_slope=-4.23<=0, macd_cross_bars_ago=16>3"
+2025-08-11,QQQ,B,LONG,confirm,macd_cross_bars_ago=21>3
+2025-08-22,QQQ,B,SHORT,confirm,adx_slope=-4.70<=0

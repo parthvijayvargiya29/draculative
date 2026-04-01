@@ -1,0 +1,41 @@
+================================================================================
+  COMBO C V4.0 -- WEEKLY HEALTH CHECK
+  Week ending: 2026-03-19 21:45
+  Total trades logged: 0
+================================================================================
+
+  MARKET REGIME
+  ------------------------------------------------------------------------------
+  Classification   : UNKNOWN
+  >>> Cannot classify. Proceed with caution.
+
+  OPEN POSITIONS (0 open)
+  ------------------------------------------------------------------------------
+  No open positions this week.
+
+  THIS WEEK'S ACTIVITY
+  ------------------------------------------------------------------------------
+  No entries or exits this week.
+
+  RUNNING METRICS
+  ------------------------------------------------------------------------------
+  No trades logged yet.
+
+  GO/NO-GO STATUS
+  ------------------------------------------------------------------------------
+  ACCUMULATING: 0/30 trades. ~8.3 months to go/no-go gate.
+
+  DRAWDOWN STATE
+  ------------------------------------------------------------------------------
+  [NORMAL] No size adjustments needed.
+
+  MONTHLY REGIME TABLE ENTRY (add to running log)
+  ------------------------------------------------------------------------------
+  Month     : 2026-03
+  Regime    : UNKNOWN
+  N signals : [ fill in from weekly scan logs ]
+  N trades  : 0
+  Monthly PF: [ fill in from: python paper_trading_monitor.py monthly --month 2026-03 ]
+  Notes     :
+
+================================================================================

@@ -1,0 +1,63 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+/Users/parthvijayvargiya/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.178.69:8501
+  External URL: http://212.114.181.180:8501
+
+  For better performance, install the Watchdog module:
+
+  $ xcode-select --install
+  $ pip install watchdog
+            
+
+============================================================
+STOCK PREDICTOR: NVDA
+============================================================
+
+📊 Fetching live market data...
+Fetching live data for NVDA...
+
+📐 Running FVG / ICT analysis...
+
+📰 Analyzing news and events...
+Analyzing news for NVDA...
+  Found 10 news items
+
+🔮 Generating predictions...
+
+============================================================
+STOCK PREDICTOR: IONQ
+============================================================
+
+📊 Fetching live market data...
+Fetching live data for IONQ...
+
+📐 Running FVG / ICT analysis...
+
+📰 Analyzing news and events...
+Analyzing news for IONQ...
+  Found 10 news items
+
+🔮 Generating predictions...
+
+============================================================
+STOCK PREDICTOR: NVDA
+============================================================
+
+📊 Fetching live market data...
+Fetching live data for NVDA...
+
+📐 Running FVG / ICT analysis...
+
+📰 Analyzing news and events...
+Analyzing news for NVDA...
+  Found 10 news items
+
+🔮 Generating predictions...
+  Stopping...

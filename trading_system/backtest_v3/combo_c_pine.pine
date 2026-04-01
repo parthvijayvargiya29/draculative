@@ -1,0 +1,270 @@
+// ============================================================================
+// COMBO C — Beta-Filtered Mean Reversion  |  V3.4 Validated
+// ============================================================================
+// Phase 1 validation (Alpaca daily, Aug 2023 – Mar 2026):
+//   Overall PF = 1.400  |  Train PF = 1.536  |  Val PF = 1.440  |  Test PF = 1.104
+//   WFE = 0.719  |  OOS trades = 34  |  Win Rate (test) = 52.9%
+//
+// Phase 1 parameter lock (19-Mar-2026):
+//   RSI threshold = 15  (NOT 10; loosened in V3.4 calibration for signal frequency)
+//   Volume gate   = NONE  (removed from backtest — bb_lower breaks occur on HIGH volume;
+//                          volume < 0.8x gate is anti-correlated by construction)
+//   ACCEL_SL type = STATIC FLOOR: live bb_lower - 1.0 × ATR(10) per bar
+//                   (NOT ratcheting trailing stop — prior Pine Script had this wrong)
+//   Variant comparison (5 variants tested): baseline confirmed as optimal.
+//   V2_RSI5 showed marginal Test_PF=1.199 vs baseline 1.112 but only +0.087 improvement
+//   (threshold was +0.10), and the volume gate (V3) killed signal frequency (N=2 test).
+//
+// Universe: GLD, WMT, USMV, NVDA, AMZN, GOOGL, COST, XOM, HD, MA
+//   (Do NOT trade SPY, QQQ, IWM, AAPL, MSFT — BB mean-reversion fails on
+//    correlated market indices in 2024-2026 regime; validated PF 0.39-0.60)
+//
+// Signal logic:
+//   Entry LONG at next bar open when ALL of:
+//     1. close < BB lower band   (BB period=20, mult=2.0)
+//     2. RSI(2) < 15             (oversold; NOT RSI(14))
+//     3. beta_60 < 1.5           (approximate via STDEV ratio; enforced by instrument list)
+//     [NO volume gate — removed from backtest in V3.4; removed from Pine Script here too]
+//
+//   Exit (first triggered — exact priority order from backtest):
+//     Layer 0: hard stop_loss = entry_price − 1.0 × ATR(10)  [fires as "SL"]
+//     Layer 1: ACCEL_SL = live bb_lower − 1.0 × ATR(10)      [fires as "ACCEL_SL", static per-bar]
+//     Layer 2: close >= BB midline                            [fires as "BB_MID", primary TP]
+//     Layer 3: 10 bars held                                   [fires as "TIME", confirmed optimal]
+//
+// W/L compression diagnostic result (19-Mar-2026):
+//   TIME stop = 10 bars confirmed correct:
+//     - 3 test TIME exits were winners (avg +$1.98) still $29.9 from BB_mid
+//     - Avg win by hold bar: 6=$7.50, 7=$6.43, 8=$7.14, 9=$7.45, 10=$5.41
+//     - Win size compression is regime-driven (wider BB bands), NOT time-stop driven
+//
+// ATR-based position sizing:
+//   risk_per_trade = 0.5% of equity  (conservative; scale up after 30-trade live sample)
+//   shares = floor(risk_amount / (1.0 × ATR(10)))
+//   max position = 10% of equity
+// ============================================================================
+
+//@version=5
+strategy(
+    title       = "Combo C — BB Mean Reversion V3.4",
+    shorttitle  = "MR-V34",
+    overlay     = true,
+    initial_capital    = 25000,
+    default_qty_type   = strategy.fixed,
+    default_qty_value  = 1,
+    commission_type    = strategy.commission.cash_per_order,
+    commission_value   = 1.0,
+    calc_on_every_tick = false
+)
+
+// ─────────────────────────────────────────────────────────────────────────────
+// INPUTS
+// ─────────────────────────────────────────────────────────────────────────────
+i_bb_len       = input.int(20,    "BB Period",          minval=10, maxval=50)
+i_bb_mult      = input.float(2.0, "BB StdDev Mult",     minval=1.0, maxval=3.0, step=0.1)
+i_rsi2_len     = input.int(2,     "RSI Length",         minval=2,  maxval=5)
+i_rsi2_level   = input.float(15.0,"RSI Oversold Level", minval=5.0, maxval=25.0, step=1.0)
+// Volume gate intentionally removed — BB lower breaks occur on HIGH volume by construction;
+// vol < 0.8x gate is anti-correlated with the entry signal. Backtest validation confirmed
+// adding volume gate (V3 variant) reduced N_Test from 34 → 2 trades.
+i_atr_len      = input.int(10,    "ATR Period",         minval=5,  maxval=20)
+i_sl_mult      = input.float(1.0, "Hard SL (× ATR)",   minval=0.5, maxval=2.0, step=0.1)
+i_time_bars    = input.int(10,    "Time Stop (bars)",   minval=5,  maxval=20)
+i_risk_pct     = input.float(0.5, "Risk Per Trade (%)", minval=0.1, maxval=2.0, step=0.1)
+i_max_pos_pct  = input.float(10.0,"Max Position (% equity)", minval=2.0, maxval=25.0, step=1.0)
+
+// Beta gate: approximate rolling 60-day beta to SPY using close StdDev ratio
+// Full beta requires SPY data; approximate via relative volatility
+// True beta gate (BETA_MAX=1.5) enforced by instrument selection — only trade
+// the 10 validated instruments listed in the header comment
+i_beta_approx  = input.bool(false, "Use Approx Beta Gate (StdDev ratio ≤ 1.5×SPY)")
+i_beta_spy_src = input.source(close, "SPY Proxy Source (use SPY chart close)")
+i_beta_max     = input.float(1.5,  "Max Beta (approx)", minval=0.5, maxval=3.0, step=0.1)
+
+// ─────────────────────────────────────────────────────────────────────────────
+// INDICATORS
+// ─────────────────────────────────────────────────────────────────────────────
+[bb_upper, bb_mid, bb_lower] = ta.bb(close, i_bb_len, i_bb_mult)
+rsi2    = ta.rsi(close, i_rsi2_len)
+atr10   = ta.atr(i_atr_len)
+// Note: vol_avg removed — no volume gate in validated backtest
+
+// Approximate beta: ratio of 60-bar close StdDev to proxy StdDev
+// In practice: add SPY to the chart as a secondary symbol or use a fixed multiplier
+beta_approx = ta.stdev(close, 60) / ta.stdev(i_beta_spy_src, 60)
+beta_ok     = not i_beta_approx or (beta_approx <= i_beta_max)
+
+// ─────────────────────────────────────────────────────────────────────────────
+// ENTRY CONDITIONS  (two conditions — volume gate absent per validated backtest)
+// ─────────────────────────────────────────────────────────────────────────────
+cond_bb_lower  = close < bb_lower                    // price below lower band
+cond_rsi2      = rsi2  < i_rsi2_level                // RSI(2) deeply oversold
+// No volume gate: cond_volume REMOVED — see header comment
+cond_beta      = beta_ok
+
+entry_signal   = cond_bb_lower and cond_rsi2 and cond_beta
+
+// ─────────────────────────────────────────────────────────────────────────────
+// POSITION SIZING  (ATR-based, risk-per-trade)
+// ─────────────────────────────────────────────────────────────────────────────
+risk_amount  = strategy.equity * (i_risk_pct / 100.0)
+sl_distance  = math.max(i_sl_mult * atr10, close * 0.001)  // floor at 0.1% to avoid div/0
+raw_shares   = math.floor(risk_amount / sl_distance)
+max_shares   = math.floor(strategy.equity * (i_max_pos_pct / 100.0) / close)
+qty          = math.max(1, math.min(raw_shares, max_shares))
+
+// ─────────────────────────────────────────────────────────────────────────────
+// STATE TRACKING
+// ─────────────────────────────────────────────────────────────────────────────
+var float entry_price     = na
+var float hard_sl         = na
+var int   bars_held       = 0
+var bool  in_trade        = false
+// ACCEL_SL: static floor recalculated each bar = live bb_lower - 1.0 × ATR(10)
+// This matches the backtest exactly (combo_c_exit in combos.py).
+// NOT ratcheting — the floor moves with the current bb_lower, which typically
+// shifts downward as the price tests lower levels during mean-reversion entries.
+// The floor rises as BB bands re-center during the recovery, providing dynamic protection.
+
+// Compute static ACCEL_SL floor every bar (updates even when not in trade)
+accel_sl = bb_lower - i_sl_mult * atr10
+
+// Update bars held while in a trade
+if in_trade
+    bars_held := bars_held + 1
+
+// ─────────────────────────────────────────────────────────────────────────────
+// ENTRY
+// ─────────────────────────────────────────────────────────────────────────────
+if entry_signal and strategy.position_size == 0 and not na(atr10) and bar_index >= i_bb_len
+    strategy.entry("Long", strategy.long, qty=qty)
+    entry_price    := close
+    hard_sl        := close - sl_distance   // hard floor fixed at entry ATR
+    bars_held      := 0                     // reset; update block incremented once already
+    in_trade       := true
+
+// ─────────────────────────────────────────────────────────────────────────────
+// EXIT CONDITIONS
+// Priority order mirrors backtest simulator exactly:
+//   Layer 0: hard_sl   (fixed at entry: entry_price − 1×ATR)  → "SL"
+//   Layer 1: accel_sl  (static floor: live bb_lower − 1×ATR)  → "ACCEL_SL"
+//   Layer 2: bb_mid    (close >= bb_mid)                       → "BB_MID"
+//   Layer 3: time      (bars_held >= 10)                       → "TIME"
+// ─────────────────────────────────────────────────────────────────────────────
+exit_hard_sl = in_trade and close < hard_sl
+exit_accel   = in_trade and close <= accel_sl            // static floor, checked every bar
+exit_bb_mid  = in_trade and close >= bb_mid
+exit_time    = in_trade and bars_held >= i_time_bars
+
+if exit_hard_sl
+    strategy.close("Long", comment="SL")
+    in_trade       := false
+    entry_price    := na
+    hard_sl        := na
+    bars_held      := 0
+else if exit_accel
+    strategy.close("Long", comment="ACCEL_SL")
+    in_trade       := false
+    entry_price    := na
+    hard_sl        := na
+    bars_held      := 0
+else if exit_bb_mid
+    strategy.close("Long", comment="BB_MID")
+    in_trade       := false
+    entry_price    := na
+    hard_sl        := na
+    bars_held      := 0
+else if exit_time
+    strategy.close("Long", comment="TIME")
+    in_trade       := false
+    entry_price    := na
+    hard_sl        := na
+    bars_held      := 0
+
+// ─────────────────────────────────────────────────────────────────────────────
+// PLOTS
+// ─────────────────────────────────────────────────────────────────────────────
+plot(bb_upper, "BB Upper", color=color.new(color.gray, 70), linewidth=1)
+plot(bb_mid,   "BB Mid",   color=color.new(color.blue, 50), linewidth=1)
+plot(bb_lower, "BB Lower", color=color.new(color.gray, 70), linewidth=1)
+
+// Entry signal marker (only show when not already in a position)
+plotshape(
+    entry_signal and strategy.position_size == 0,
+    title     = "Entry Signal",
+    style     = shape.triangleup,
+    location  = location.belowbar,
+    color     = color.new(color.green, 0),
+    size      = size.small
+)
+
+// Stop loss level while in trade
+plot(
+    in_trade ? hard_sl : na,
+    "Hard SL",
+    color     = color.new(color.red, 30),
+    style     = plot.style_linebr,
+    linewidth  = 1
+)
+
+// BB_MID target while in trade
+plot(
+    in_trade ? bb_mid : na,
+    "Target (BB_Mid)",
+    color     = color.new(color.green, 30),
+    style     = plot.style_linebr,
+    linewidth  = 1
+)
+
+// ACCEL_SL floor (static: bb_lower - 1×ATR) — shown while in trade for reference
+plot(
+    in_trade ? accel_sl : na,
+    "ACCEL_SL Floor",
+    color     = color.new(color.orange, 30),
+    style     = plot.style_linebr,
+    linewidth  = 1
+)
+
+// Background colour for active trade
+bgcolor(in_trade ? color.new(color.green, 93) : na, title="In Trade")
+
+// Condition indicators in a separate pane (via indicator overlay = false)
+// RSI(2) displayed via a separate indicator — add manually on chart
+
+// ─────────────────────────────────────────────────────────────────────────────
+// INFO TABLE  (top-right, shows current bar's signal conditions)
+// ─────────────────────────────────────────────────────────────────────────────
+var table info = table.new(position.top_right, 2, 6,
+    bgcolor=color.new(color.white, 10),
+    border_width=1, border_color=color.gray,
+    frame_width=1,  frame_color=color.gray
+)
+
+if barstate.islast
+    ok  = color.new(color.green, 20)
+    nok = color.new(color.red,   20)
+    na_c= color.new(color.gray,  40)
+
+    table.cell(info, 0, 0, "Condition",   text_color=color.white, bgcolor=color.new(color.navy, 20))
+    table.cell(info, 1, 0, "Status",      text_color=color.white, bgcolor=color.new(color.navy, 20))
+
+    table.cell(info, 0, 1, "BB Lower",    text_color=color.black)
+    table.cell(info, 1, 1, cond_bb_lower  ? "✓ " + str.tostring(math.round(close,2)) + " < " + str.tostring(math.round(bb_lower,2)) : "✗",
+        bgcolor = cond_bb_lower ? ok : nok, text_color=color.white)
+
+    table.cell(info, 0, 2, "RSI(2) < " + str.tostring(i_rsi2_level), text_color=color.black)
+    table.cell(info, 1, 2, cond_rsi2     ? "✓ " + str.tostring(math.round(rsi2,1)) : "✗ " + str.tostring(math.round(rsi2,1)),
+        bgcolor = cond_rsi2 ? ok : nok, text_color=color.white)
+    // Row 3 (volume gate) removed — no volume condition in validated backtest
+
+    table.cell(info, 0, 3, "In Trade",    text_color=color.black)
+    table.cell(info, 1, 3, in_trade ? "YES  bar " + str.tostring(bars_held) + "/" + str.tostring(i_time_bars) : "NO",
+        bgcolor = in_trade ? color.new(color.orange,20) : na_c, text_color=color.white)
+
+    table.cell(info, 0, 4, "Hard SL",     text_color=color.black)
+    table.cell(info, 1, 4, in_trade ? str.tostring(math.round(hard_sl,2)) : "—",
+        bgcolor = na_c, text_color=color.black)
+
+    table.cell(info, 0, 5, "Target / ACCEL_SL", text_color=color.black)
+    table.cell(info, 1, 5, in_trade ? str.tostring(math.round(bb_mid,2)) + " / " + str.tostring(math.round(accel_sl,2)) : "—",
+        bgcolor = na_c, text_color=color.black)

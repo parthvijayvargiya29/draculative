@@ -1,0 +1,104 @@
+{
+  "run_date": "2026-03-30T13:37:54.455532",
+  "data_period": {
+    "start": "2024-01-02",
+    "end": "2026-04-20"
+  },
+  "total_bars": 520,
+  "checks": [
+    {
+      "name": "Distribution",
+      "passed": false,
+      "value": 0.47115384615384615,
+      "gate": 0.35,
+      "message": "FAIL: CURRENCY_PRESSURE dominates 47.1% of days (gate: \u226435%)",
+      "detail": {
+        "CURRENCY_PRESSURE": 47.1,
+        "COMMODITY_REGIME": 5.0,
+        "SECTOR_ROTATION": 21.9,
+        "MACRO_EVENT": 6.9,
+        "OPTIONS_EXPIRY": 12.1,
+        "GEOPOLITICAL": 5.4,
+        "INDEX_MOMENTUM": 1.3,
+        "SINGLE_STOCK_LEADERSHIP": 0.2
+      }
+    },
+    {
+      "name": "Persistence",
+      "passed": true,
+      "value": 2.0,
+      "gate": 2,
+      "message": "PASS: avg persistence = 2.0 bars (gate: 2\u201320)",
+      "detail": {
+        "CURRENCY_PRESSURE": 2.8,
+        "COMMODITY_REGIME": 1.5,
+        "SECTOR_ROTATION": 1.7,
+        "MACRO_EVENT": 1.2,
+        "OPTIONS_EXPIRY": 2.7,
+        "GEOPOLITICAL": 1.1,
+        "INDEX_MOMENTUM": 1.2,
+        "SINGLE_STOCK_LEADERSHIP": 1.0
+      }
+    },
+    {
+      "name": "Transitions",
+      "passed": true,
+      "value": 0.4981,
+      "gate": 0.05,
+      "message": "PASS: transition rate = 49.8% (gate: \u22655%)",
+      "detail": {
+        "total_transitions": 259,
+        "total_bars": 520,
+        "known_event_dates": 38,
+        "events_with_transition": 36,
+        "event_hit_rate": 94.7
+      }
+    },
+    {
+      "name": "Predictive",
+      "passed": true,
+      "value": 0.5809,
+      "gate": 0.52,
+      "message": "PASS: 5D SPY directional accuracy = 58.1% on 241 strong-signal bars (gate: \u226552%)",
+      "detail": {
+        "correct": 140,
+        "total": 241,
+        "score_threshold": 0.65
+      }
+    },
+    {
+      "name": "Calibration",
+      "passed": false,
+      "value": 0.2493,
+      "gate": 0.3,
+      "message": "FAIL: avg score spread = 0.249 (gate: \u22650.3)",
+      "detail": {
+        "avg_top_score": 0.769,
+        "avg_second_score": 0.52,
+        "full_range": 0.763,
+        "ceiling_clip_pct": 37.5,
+        "floor_clip_pct": 0.0
+      }
+    }
+  ],
+  "gate_pass": false,
+  "recalibration": [
+    "DISTRIBUTION: 'CURRENCY_PRESSURE' fires 47% of days. Reduce its scorer sensitivity by 30% OR add a minimum-bar cooldown (e.g., nucleus can't repeat within 3 bars unless score > 0.85).",
+    "CALIBRATION: Score spread = 0.249 \u2014 scores are bunched. Apply a power transform to each scorer output: score = score^0.5 will spread values. Or add competitive normalization: divide each score by the sum of all scores, then multiply back by the winner's raw value to preserve magnitude while increasing discrimination."
+  ],
+  "raw_results": [],
+  "distribution": {
+    "CURRENCY_PRESSURE": 0.47115384615384615,
+    "COMMODITY_REGIME": 0.05,
+    "SECTOR_ROTATION": 0.21923076923076923,
+    "MACRO_EVENT": 0.06923076923076923,
+    "OPTIONS_EXPIRY": 0.12115384615384615,
+    "GEOPOLITICAL": 0.05384615384615385,
+    "INDEX_MOMENTUM": 0.013461538461538462,
+    "SINGLE_STOCK_LEADERSHIP": 0.0019230769230769232
+  },
+  "transition_rate": 0.4981,
+  "accuracy_5d": 0.5809,
+  "avg_persistence": 2.0,
+  "score_spread": 0.2493
+}

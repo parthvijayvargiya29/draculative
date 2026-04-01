@@ -1,0 +1,92 @@
+{
+  "C": {
+    "overall": {
+      "label": "Combo C Overall",
+      "n_trades": 1,
+      "n_wins": 0,
+      "win_rate_%": 0.0,
+      "ci_lo_%": 0.0,
+      "ci_hi_%": 0.0,
+      "avg_win_$": 0.0,
+      "avg_loss_$": -5.74,
+      "avg_wl_ratio": 0.0,
+      "profit_factor": 0.0,
+      "total_gross_$": -4.74,
+      "total_net_$": -5.74,
+      "total_return_%": -0.02,
+      "expectancy_$": -5.74,
+      "sqn": 0.0,
+      "tp_rate_%": 0.0,
+      "avg_hold_bars": 10.0,
+      "trades_per_month": 1.0,
+      "max_consec_losses": 1,
+      "exit_reasons": {
+        "TIME": 1
+      },
+      "top5_conc_%": 100.0,
+      "pnl_ex_top5_$": 0.0,
+      "total_commission_$": 1.0,
+      "mc_p_value": 1.0,
+      "significant": false,
+      "sample_adequacy": "INSUFFICIENT"
+    },
+    "train": {
+      "label": "Train",
+      "n_trades": 0
+    },
+    "validate": {
+      "label": "Validate",
+      "n_trades": 0
+    },
+    "test": {
+      "label": "Test",
+      "n_trades": 1,
+      "n_wins": 0,
+      "win_rate_%": 0.0,
+      "ci_lo_%": 0.0,
+      "ci_hi_%": 0.0,
+      "avg_win_$": 0.0,
+      "avg_loss_$": -5.74,
+      "avg_wl_ratio": 0.0,
+      "profit_factor": 0.0,
+      "total_gross_$": -4.74,
+      "total_net_$": -5.74,
+      "total_return_%": -0.02,
+      "expectancy_$": -5.74,
+      "sqn": 0.0,
+      "tp_rate_%": 0.0,
+      "avg_hold_bars": 10.0,
+      "trades_per_month": 1.0,
+      "max_consec_losses": 1,
+      "exit_reasons": {
+        "TIME": 1
+      },
+      "top5_conc_%": 100.0,
+      "pnl_ex_top5_$": 0.0,
+      "total_commission_$": 1.0,
+      "mc_p_value": 1.0,
+      "significant": false,
+      "sample_adequacy": "INSUFFICIENT"
+    },
+    "equity": {
+      "initial_capital_$": 25000,
+      "final_equity_$": 5000.0,
+      "total_return_%": -80.0,
+      "max_drawdown_%": 0.13,
+      "sharpe_ratio": 0.013,
+      "calmar_ratio": -593.472
+    },
+    "overfitting": {
+      "wr_drop_pp": 0.0,
+      "pf_drop_%": 0,
+      "flags": [
+        "< 30 test trades (STATISTICALLY UNRELIABLE)"
+      ],
+      "verdict": "POSSIBLE OVERFIT"
+    },
+    "wf_efficiency": {
+      "ratio": 0.0,
+      "verdict": "INSUFFICIENT DATA"
+    }
+  }
+}

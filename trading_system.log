@@ -1,0 +1,237 @@
+2026-03-19 01:26:54,229 - __main__ - INFO - Loading config from trading_system/config.yml
+2026-03-19 01:26:54,231 - __main__ - INFO - Setting up TradingView integration...
+2026-03-19 01:26:54,231 - trading_system.tradingview_webhook - INFO - TradingViewDataBuffer initialized with max_size=500
+2026-03-19 01:26:54,232 - trading_system.tradingview_webhook - INFO - TradingViewWebhookServer initialized on port 5001
+2026-03-19 01:26:54,232 - trading_system.tradingview_integration - INFO - TradingViewDataAdapter initialized for 3 symbols: ['AAPL', 'GOOGL', 'MSFT']
+2026-03-19 01:26:54,232 - __main__ - INFO - ✓ TradingView integration ready on port 5001
+2026-03-19 01:26:54,232 - __main__ - INFO -   Webhook URL: http://localhost:5001/webhook/tradingview
+2026-03-19 01:26:54,232 - __main__ - INFO -   Monitoring symbols: AAPL, GOOGL, MSFT
+2026-03-19 01:26:54,232 - __main__ - INFO - 🟢 Starting PAPER Trading with TradingView
+2026-03-19 01:26:54,233 - __main__ - INFO -    Data Source: TradingView Webhooks
+2026-03-19 01:26:54,233 - __main__ - INFO -    Webhook Port: 5001
+2026-03-19 01:26:54,233 - __main__ - INFO -    Symbols: AAPL, GOOGL, MSFT
+2026-03-19 01:26:54,233 - __main__ - INFO -    Mode: paper
+2026-03-19 01:26:54,233 - trading_system.tradingview_webhook - INFO - ✓ Webhook server started on port 5001
+2026-03-19 01:26:54,233 - trading_system.tradingview_webhook - INFO -   Webhook URL: http://localhost:5001/webhook/tradingview
+2026-03-19 01:26:54,233 - trading_system.tradingview_webhook - INFO -   Status URL:  http://localhost:5001/tradingview/status
+
+================================================================================
+ENHANCED TRADING SYSTEM - TradingView Integration
+================================================================================
+
+Configuration:
+  Mode:              PAPER
+  Config File:       trading_system/config.yml
+  TradingView:       ✓ Enabled
+
+TradingView Setup:
+  Webhook Port:      5001
+  Webhook URL:       http://localhost:5001/webhook/tradingview
+  Symbols:           AAPL, GOOGL, MSFT
+  Auth Token:        ✗ Disabled
+
+Trading Configuration:
+  Initial Capital:   $10,000.00
+  Max Risk/Trade:    1.00%
+  Daily Loss Limit:  3.00%
+  Max Positions:     2
+
+Indicators:
+  macd                 ✓
+  bollinger_bands      ✓
+  stochastic           ✓
+
+================================================================================
+
+ * Serving Flask app 'trading_system.tradingview_webhook'
+ * Debug mode: off
+2026-03-19 01:26:54,243 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.178.69:5001
+2026-03-19 01:26:54,243 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-03-19 01:26:55,233 - trading_system.tradingview_integration - INFO - ✓ TradingView adapter started, monitoring 3 symbols
+2026-03-19 01:26:55,234 - trading_system.tradingview_integration - INFO - 🟢 Starting trading system with TradingView data...
+2026-03-19 01:26:55,234 - trading_system.tradingview_integration - INFO - Starting candle processing loop...
+2026-03-19 01:26:55,897 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:26:55] "GET / HTTP/1.1" 200 -
+2026-03-19 01:28:16,076 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:16] "GET / HTTP/1.1" 200 -
+2026-03-19 01:28:19,405 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:19] "GET /?id=6f2db1d6-34a7-40cb-b3a1-769a6fdc13c1&vscodeBrowserReqId=1773880099403 HTTP/1.1" 200 -
+2026-03-19 01:28:19,439 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:19] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:21,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:21] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:23,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:23] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:25,442 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:25] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:27,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:27] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:29,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:29] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:31,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:31] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:33,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:33] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:35,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:35] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:37,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:37] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:39,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:39] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:39,928 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:39] "GET / HTTP/1.1" 200 -
+2026-03-19 01:28:39,933 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:39] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:41,442 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:41] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:41,937 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:41] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:43,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:43] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:43,939 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:43] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:45,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:45] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:45,939 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:45] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:47,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:47] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:47,940 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:47] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:49,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:49] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:49,942 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:49] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:51,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:51] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:51,943 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:51] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:53,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:53] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:53,944 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:53] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:55,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:55] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:55,944 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:55] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:57,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:57] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:57,945 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:57] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:59,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:59] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:28:59,944 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:28:59] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:01,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:01] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:01,947 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:01] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:03,442 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:03] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:03,948 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:03] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:05,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:05] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:05,948 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:05] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:07,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:07] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:07,950 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:07] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:09,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:09] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:09,952 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:09] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:11,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:11] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:11,952 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:11] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:13,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:13] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:13,953 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:13] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:15,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:15] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:15,955 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:15] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:17,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:17] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:17,956 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:17] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:19,441 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:19] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:19,957 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:19] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:21,442 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:21] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:21,957 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:21] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:23,442 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:23] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:23,959 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:23] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:25,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:25] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:25,960 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:25] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:27,442 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:27] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:27,962 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:27] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:29,440 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:29] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:29,961 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:29] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:31,442 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:31] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:31,964 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:31] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:33,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:33] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:33,964 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:33] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:35,440 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:35] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:35,964 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:35] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:37,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:37] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:37,965 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:37] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:39,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:39] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:39,967 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:39] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:41,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:41] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:41,967 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:41] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:43,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:43] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:43,969 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:43] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:45,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:45] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:45,969 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:45] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:47,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:47] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:47,969 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:47] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:49,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:49] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:49,971 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:49] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:51,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:51] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:51,972 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:51] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:53,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:53] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:53,972 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:53] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:55,440 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:55] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:55,972 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:55] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:57,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:57] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:57,973 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:57] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:59,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:59] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:29:59,975 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:29:59] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:01,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:01] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:02,481 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:02] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:03,442 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:03] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:05,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:05] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:05,871 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:05] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:07,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:07] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:09,440 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:09] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:10,492 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:10] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:11,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:11] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:13,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:13] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:15,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:15] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:17,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:17] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:19,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:19] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:21,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:21] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:23,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:23] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:25,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:25] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:27,441 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:27] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:29,440 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:29] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:31,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:31] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:33,440 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:33] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:35,442 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:35] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:37,440 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:37] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:39,440 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:39] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:41,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:41] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:43,440 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:43] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:45,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:45] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:47,440 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:47] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:49,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:49] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:51,442 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:51] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:53,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:53] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:55,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:55] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:57,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:57] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:30:59,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:30:59] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:01,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:01] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:03,440 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:03] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:05,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:05] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:07,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:07] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:09,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:09] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:11,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:11] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:13,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:13] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:15,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:15] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:17,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:17] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:19,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:19] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:21,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:21] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:23,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:23] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:25,442 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:25] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:27,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:27] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:29,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:29] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:31,442 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:31] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:33,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:33] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:35,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:35] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:37,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:37] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:39,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:39] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:41,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:41] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:43,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:43] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:45,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:45] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:47,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:47] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:49,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:49] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:51,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:51] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:53,441 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:53] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:55,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:55] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:57,441 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:57] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:31:59,442 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:31:59] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:32:01,444 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:32:01] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:32:03,440 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:32:03] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:32:05,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:32:05] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:32:07,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:32:07] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:32:09,443 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:32:09] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 01:32:12,677 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 01:32:12] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 02:09:17,015 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 02:09:17] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 02:09:19,010 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 02:09:19] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 02:09:20,934 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 02:09:20] "GET / HTTP/1.1" 200 -
+2026-03-19 02:09:20,944 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 02:09:20] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+2026-03-19 02:09:21,003 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 02:09:21] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+2026-03-19 02:09:21,007 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 02:09:21] "GET /tradingview/status HTTP/1.1" 200 -
+2026-03-19 02:09:21,048 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 02:09:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-19 02:09:21,054 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 02:09:21] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+2026-03-19 02:09:21,058 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 02:09:21] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+2026-03-19 02:09:21,062 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 02:09:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-19 02:09:21,067 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 02:09:21] "GET / HTTP/1.1" 200 -
+2026-03-19 02:09:21,071 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 02:09:21] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+2026-03-19 02:09:21,075 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 02:09:21] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+2026-03-19 02:09:21,078 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 02:09:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-19 02:09:21,081 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 02:09:21] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+2026-03-19 02:09:21,085 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 02:09:21] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+2026-03-19 02:09:21,089 - werkzeug - INFO - 127.0.0.1 - - [19/Mar/2026 02:09:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
