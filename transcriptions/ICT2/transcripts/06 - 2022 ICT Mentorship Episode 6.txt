@@ -1,0 +1,484 @@
+All right, folks, welcome back.
+This is episode six in our ongoing ICT mentorship on YouTube for 2022.
+And the market efficiency paradigm and institutional order flow will be our topic for this evening.
+All right, so how do we internalize price delivery?
+First, we do not trade patterns for pattern sake.
+We do not trade indicator readings or momentum.
+We look to enter longs where retail sells.
+We look to enter shorts where retail buys.
+Usually when you hear me say something like that or someone that's been trained by me speak like that,
+it sounds like, well, you know, you're talking like you work for an institution.
+You work at a bank. You know, you're trading retail, too.
+Yes, we are all operating through retail avenues to get to the marketplace.
+What I'm teaching you is the internal dialogue of what we're doing when we're looking at price.
+We're not thinking like the collective that is commonly referred to as the retail trader
+because majority of retail traders lose.
+They have a failed logic.
+They don't have consistency.
+They don't have longevity.
+So we want to try to think and engage differently with price that is opposed to the majority of what retail analysis,
+concepts, whatever it is that you subscribe to as a retail trader.
+All those things, unless they're rooted in the basis of liquidity and order flow, it's made up.
+It's a religion. And I'm not here to argue beyond that.
+That's what I have come to believe. And that's how I operate.
+And my results and the things that my students see speak for themselves.
+We anticipate price seeking opposing liquidity.
+OK, so what does that mean?
+Well, if you're looking at this diagram, imagine if we could take price as a conceptual idea.
+It doesn't matter what market it is. But let's just say there's two camps.
+There's the informed or smart money, and that's represented by this small little circle over here.
+And then there's a larger collective, which is the speculative uninformed money.
+There's a large influx all the time of new uninformed money coming in,
+because there's a large influx of uninformed money going out because they lose their account.
+They blow up whatever equity they have in their trading account.
+It's gone because of lack of discipline and a flawed logic.
+Smart money traders, when they look at the marketplace, they're not looking at secret trading indicators.
+OK, there is no secret indicators.
+Just let me put that to bed right now. Now, there may be traders that have tools that they like to measure price action with.
+That's not like a stochastics. It's not like an RSI.
+It's not like a well, anything you find on a trading platform list of indicators.
+Those things are not reached for by informed money.
+What they're specifically looking at is time and price.
+The most important thing is time, because time, that is the most crucial element.
+So time of day is vital when we're engaging price.
+Retail doesn't really have any understanding or affinity for time,
+except for the fact that they have time now to trade because they're in front of their computer,
+or they have time to look at their phone while they're at work and they're putting on trades.
+That's the extent of time when it comes to a retail average trader.
+Time for a professional, through the lens of smart money, time is crucial,
+because time of day, there's specific elements in a daily range that really build the likelihood of volatility to come in,
+and also when short-term reversals are likely to occur.
+OK, so I mentioned in previous lessons that there's algorithms that will start to gyrate and cause price to run at specific times of the day.
+If you were watching the e-mini markets today, you saw it happen at four o'clock.
+That was one of the times I gave and it was relentless today.
+Smart money, so that way I can make this real short and to the point,
+smart money looks to cannibalize this group of trader.
+So because they're typically wrong in their directional bias, in their stop placement,
+should they choose to use one, because a lot of traders don't use a stop loss as a retail trader because they're afraid,
+they may expect the market to go lower.
+And they understand that the highs above where they're at, if they're in a very small window of profitability,
+unrealized profit means they're still in the trade, but they don't have a stop loss in.
+Now, logic dictates that they should have a buy stop in to protect their position in case the market screams against them.
+At least it limits the amount of equity loss, but they may look at an old high and say,
+OK, I understand that my stop should be above that.
+But because of their infancy, they have no idea where to put it above that high.
+They don't want to put it too shallow because it might go up and hit it and stop out their trade prematurely.
+And or they don't want to put it up too high and then it spikes through that reaches for them and then it reverses and goes in the direction they're holding.
+So they take a big loss and get stopped out.
+So those are the two conundrums that a retail trader falls in to that pitfall, that trap.
+And maybe you're nodding your head and smirking, thinking, I was there a lot.
+I know and I can admit back in the 90s, 1992, 1993, that was what I was doing all the time.
+You know, I just didn't know what I was doing and I was falling victim to myself and just infancy, not knowing.
+But the smart money traders are not looking at price with give me a pattern to trade off of, you know, a bull flag, a wedge pattern, something to that effect.
+They're looking at liquidity. What is the underlying narrative right now in the marketplace?
+Is it bullish? Is it bearish? Is the day's daily range going to go higher?
+But how is it going to go higher?
+Is it likely to go lower at the beginning of the day first to sucker traders in going short, run out sell stops?
+They can acquire long positions at and then rally going into the close or maybe into the afternoon.
+And that would be the extent of their plan of action.
+And how does that speculative uninformed money and its liquidity that it provides, how can they utilize that?
+That's the market efficiency paradigm.
+It's efficient for smart money traders to view the marketplace in that perspective versus technical analysis, the mumbo jumbo things that traders put on their charts.
+OK, and you can lock me in there, too, because the times where I'm trying to use the logic that I trade with and if it fails, I've done something wrong.
+I've interpreted price wrong.
+I thought something was in price and it wasn't there and it rolled over the top of it and there it is.
+And that's a loss. Everybody's going to have a losing trade.
+OK, but I'm not looking at price with patterns on the sake of just trading for the pattern sake.
+In other words, just because I think I see a pattern there because there's a misnomer that goes around trade what you see.
+Just like the trend is your friend, that trend is not your friend when it's at the end and it's reversing.
+OK, so there's always a rule to the rule.
+There's always an exception to every rule.
+OK, and that's experience.
+But what I've hopefully done in this model so far, and I promise this is the end of the boring stuff.
+We'll get into the nuts and bolts.
+I'm stripping everything down and placing components at their logical place in order so that way you can go in the price immediately.
+You don't need 18 months.
+You don't even need four months.
+It's immediate.
+I've received a ton of feedback and I appreciate all that, that you all can go into the charts and see these things right away.
+And some of you actually started trading it.
+I'm not asking you to do that.
+I'm not trying to inspire you to do that.
+You need to study it more.
+But that's how quick and different all this is.
+OK, this is not your typical ICT, you know, the stale boring stuff.
+This is the things that really work in the marketplace.
+So with that in mind, let's continue.
+So I want to give a little bit more specifics about the fair value gap.
+That way you have the rules, what it looks like.
+So that way you understand exactly what it is and where it forms, because this is going to repeat every single time.
+It's going to be the same logic that I'm going to show you here.
+OK, do not try to fancy dance this and try to turn it into some kind of a mentorship course and rename everything with your name.
+And don't do that.
+OK, just take it for what it is.
+I already know people are going to try to take this and copy it and make courses out of it.
+OK, I've already given it to you for free.
+If it helps you, then God bless you.
+OK, all I'm asking for is just to appreciate the fact that I've taken the time to put it out here for you.
+So the bearish ICT fair value gap.
+This is institutional order flow and it's a pattern that you can see the order flow actually coming into the marketplace.
+When you look at like depth of market, OK, or if you study volume profile.
+That's a religion.
+OK, what you're looking at is data.
+Yes, but your interpretation is a private interpretation.
+It's what you believe.
+There may be a lot of other traders that have a similar mindset about that very thing.
+But simply because you think that doesn't make it true.
+It doesn't.
+OK, so what I'm trying to do is take my students into the marketplace with a chart, a time based chart.
+OK, there's some out there that will say time based charts are useless.
+That's because they don't know how to use a time based chart because algorithms.
+The first element they operate under is time.
+Hello, quants.
+So we're looking at what does a bearish ICT fair value gap look like?
+Well, if you take a look at this diagram, it's rather crude, I know.
+But you have a run preferably above some kind of old high.
+So the first candle is the high.
+And the next candle is the extended low that goes below it.
+And the third candle is another continuation candle.
+But the main important factors are this.
+It's a three candle formation.
+The first candle's low has to be traded below on the immediate following candle.
+The next candle has to trade with an extended low as well that went below candle number two.
+But does not trade with a high that trades back to candle number one's low.
+What that creates is this small little gap where one candle only traded from the range
+of the candle number one's low to candle number three's high.
+So that little space that's occupied right there, what is actually occurring there is
+price is only being offered on the sell side there.
+So imagine if you're painting your wall at your home.
+And you take your roller, you put it in the paint, and you put the paint up against the wall
+and you roll down.
+Okay, at first, the first foot or so, there's going to be an ample amount of paint delivered
+to the wall from your paint roller.
+But then as you keep rolling down towards the floor, what will happen?
+You'll start seeing these little pockets that look really porous.
+What do you have to do to fix that?
+You just change directions and start rolling the paint roller back up.
+The same place you roll down.
+That's exactly what price does.
+There's an algorithm that delivers efficient market delivery.
+You can argue with me all you want.
+You're not going to convince me I know it.
+If you go into price action with that market efficiency paradigm perception
+looking for this characteristic in price, I promise you, you will never look at charts
+the same way again.
+It'll unlock a lot of things.
+Remember the movie The Matrix?
+And Neo finally sees The Matrix as it really is in binary code, ones and zeros.
+He has clarity.
+Well, that same event, as silly as it may sound, ends up happening when you look at
+price action, when you start looking at it from this perspective.
+So let's go back into that analogy with this.
+Between this candle's low and this candle's high, we only have sell side offers.
+So that's like taking the paint and applying it to the wall and drawing down with the roller.
+But now as you pull down, there's little pockets right in here between this candle's low and
+this candle's high where price has not been efficiently offered for buyers.
+Why?
+How's that working?
+Well, you have sell side being offered here because the market's delivering lower prices.
+It's offering continuously lower prices between this candle's low and this candle's high.
+To efficiently balance out that little inefficient area,
+at some future time, the market's going to want to trade back into that area.
+When it does, in your bearish, that's a short signal.
+You can go short and sell there with the expectation it's going to start to move lower.
+Optimal formations of the bearish ICT fair value gap will be found after a run into buy side
+liquidity. So it's not a matter of going into charts and looking for this little gap all the time.
+This model I'm teaching you on this YouTube channel is meant for you to look for periods
+where price runs above an old high. Then it breaks down and then you look for this pattern.
+This is what it looks like. You're not looking at anything price is above an old high.
+You're not looking at anything prior to this candle has absolutely nothing to do with anything
+except for the fact that we traded above an old high. That's a very simple logic, isn't it?
+And the run above a single high or multiple highs, like a double top,
+either one of those fits this criteria. So what you're looking for is a pool of liquidity
+of buy stops resting above these highs. That's buy side liquidity.
+The smart money will want to trade up into that and go short. They may not be engaging above the
+high. They may miss it. Just like any one of us that haven't been ready to take an order and place
+it in the marketplace. They may miss that. This is their saving grace right here. This pattern.
+That's what smart money is looking for. They're looking for that right there.
+And then once they see that they go in either with their limit order,
+mark it in something to that effect and get short and the stop would be above the high.
+There you go. Short and sweet. Done.
+That is exactly what you're looking for for a fair value gap. So when you're doing your
+annotations on your charts, this is what you want to be doing. All your back testing label,
+number one candle, the number two candle is always going to be where the gap resides.
+And then the number three candle gives you the lower end. The upper end of the fair value gap
+is going to be the low of candle number one. The lower end of the fair value gap is going to be
+the high of candle number three. And the difference between candle number one's low
+and candle number three's high, that's the fair value gap. So the easiest entry would be
+trading just above candle number three's high. You can put a limit order right there and be done.
+Simple. Don't have to worry about guessing where to put your limit order in. It's right there.
+Place your stop right above candle number one, or you can put it above candle number two.
+But while you're learning how to use this, that may seem like a lot of range. You want a lot of
+range when you first start out. I'm assuming that all of you are brand new. You may not be,
+but I'm teaching it with that perspective in mind. Some of you that have been with me for a longer
+time, you know how to reduce that stop. And I know hearing that by some of you that are new,
+you feel like you're being slighted. Oh, you're holding back. No, I'm protecting you,
+because I know already some of you already are going out there trying to trade live money,
+and you may be reporting you're doing good, but you don't know what you're doing yet.
+Okay. Just trust me. You got to practice and do a lot of back testing, then demo it. Then you'll get
+it. The bearish market structure shift. What does that look like conceptually? Well, you have the
+market trading higher, short-term little retracement, then it trades above an old high,
+or the initial short-term high that it trades above here, and then it breaks down. Once that
+low is broken, that's when the new trade idea is now being birthed. You don't even know where
+you're getting in at yet until you go through this process. I'm going to show you right now.
+Now, the market will see a price delivery of a rally above an old high or highs,
+and then quickly shift lower. That's this right here. Now, the significance I'm placing on the
+term quick is linked directly to the term displacement. It's got to be energetic.
+It can't be a little lethargic little move. It's got to show a real willingness to want to go lower
+and preferably close below that. If it does that, that to me is a little bit more significant.
+Whereas if we just go through this low a little bit like a wick and come back up,
+that to me is not all that convincing. I want to see that it has absolutely displaced,
+and then the candle closed, and then we look inside this range here.
+When you're looking at market structure shifts, this is all timeframes, so don't think this is
+just the intraday version of it, but I'm specifically dealing with intraday.
+When we create that high, that high down to the low that breaks the short-term low here,
+so now we have that shift in market structure there, right below that low,
+that is the displacement low. This is your displacement high.
+What's the big deal about that? Oh, you're just trying to add some words, I see.
+You sound smart that way, don't you? No, it's conceptual ideas being expressed. What you have
+in between that range, that right there, you're going to be hunting your fair value gaps because
+that's exactly where it's going to form. Don't take my word for it. Every one of your examples
+are going to have this. Oh, don't take my word. As the only thing to believe, go into your charts
+and you will be convinced of it in short order, period. If you're bearish and you see price run
+above an old high, then it breaks below the old high and takes out a short-term low
+prior to that run above. That short-term low being broken, draw that out in time,
+that's your displacement low and the high is your displacement high. That range between here and here,
+that's displacement. How do you know it's displacement? How it closes down here below
+that low? Is it just a real short little drop below it? It might have a fair value gap but it
+also might be likely to go higher and create another high. This is the secret to it here,
+knowing how we trade below that and if it's energetic, a lot of movement, a big beefy bearish
+candle that closes low below this low right there. As soon as we have that candle form,
+start watching to see if it creates a fair value gap in between this low and this candle's high
+or that range. That's exactly where the fair value gap to sell short will form. If there is no fair
+value gap in here, guess what? You don't have a trade. You wait or go to another market because
+one of them is going to be there every single trading day. Every single trading day,
+this pattern forms. Yes, I'm telling you just like that. Every single trading day,
+this pattern forms every single day, long and short but you have to look for it with this process.
+Everything I teach obviously is reversed the same way so I'll just go through this a lot quicker
+because this is already becoming a longer video than I wanted it to be. Bullish ICT fair value gap,
+again institutional order flow pattern and it's three candles formation. The candle here is number
+one, the second candle here and the third candle there. Candle number one's high, that is the low
+of the fair value gap. Candle number three's low is the high of the fair value gap. Candle number
+two is where the fair value gap will be formed. So that is your fair value gap and everything
+you would expect to see in form of a market run below an old low or multiple lows for sell side
+liquidity. Once it starts trading higher and takes it out a short term high that's not being shown
+here because I'm showing you the pattern itself. This is what you're looking for. This separation
+between three candles. That's the criteria. You have to blend in the logic of a market
+structure shift that's bullish. So what does that look like? You have a market trade below an old
+low and maybe go another leg lower and create a run into sell stops. Once that occurs then you're
+looking for a run higher that takes out a short term high and it closes above it with an energetic
+displacement higher. Once you see that then you have a trade idea being birthed. You don't have
+a trade entry yet until you determine if it has a fair value gap. Where does that reside?
+Between the displacement high and the displacement low. In between right before the market structure
+is broken foolishly and the low that ran into the sell stops that is your range. This is exactly
+where you're looking for a fair value gap. So in that range that's where your bullish fair value
+gap resides. If there isn't one there you don't have a trade. Is that not specific and clear?
+It's perfectly illustrated. There's no ambiguity to it. It's exactly the logic you're going to use.
+Going forward it does not change. It doesn't mutate into anything. You don't bring something
+else into it. You don't add something else that some other educators take in my stuff and twist
+it up and try to make it sound like something new and they've created themselves. No.
+This is what you're supposed to be doing. If you do anything other than this
+you're not going to get the results you're looking for and you're not going to find my ICT fair value
+gap. Okay. All right so let's go into the price action. You survived. You made it here.
+So here we have the 15 minute time frame from today. This is the e-mini NASDAQ and it's the 15
+minute time frame. This is where I tell you to start. This is your bellwether chart.
+Naked chart. Okay. Pause the video and look and see if you see anything of any importance.
+Which swing high would you anchor? Where is there a stop run on buy stops?
+And when you're ready to listen to the rest of the video unpause the video.
+Some of you never pause the video. All right. So we have 830 marked here. Okay. Very specific.
+Right. Element of time. 830. Why? Because there's news that comes out. Okay. Employment data came
+out today. So at 830 the market from that point on here look to the left. What do you see? What's
+the first swing high come to? Right there. Is that hard? Was that complicated? No. Very simple.
+So this high here. Draw that out in time and you'll get this right here. Okay. But watch.
+With this run right there on a 15 minute time frame what do you do with it? Well you start
+stripping down from a top down 5 minute, 4 minute, 3 minute, 2 minute, 1 minute.
+So once you have this level on your chart on a 15 minute time frame
+you drop down to your 5. Everything's transposed from the 15 to the 5 minute. You can see it trades
+above it here and the market starts to trade lower. When it's trading lower in here you're
+going down into what? The 4 minute. Here we have it here. Is there a fair value gap in here yet?
+Nope. There's one right there. See that? Right there. So we traded below this swing low.
+There's a fair value gap right there. You can enter there. Right on this candle's high.
+You can go short there. What's the rules? Do you remember what the rules were? You can put your
+stop above this here or the swing high. There's a swing high right there. Candle number one
+or the swing high. Does it hit your stop? No. This might be more than you're willing to absorb
+but there's micros. You're only trading $2 per handle there. It's not $20 per handle
+or four ticks. It's $2 for each tick or 50 cents each tick. So that's not a lot of money being
+risked there but I want to go down and really fine-tune it. So I'm dropping down through
+all the time frames. Five, four, three, two, one. And if I'm being completely honest with you I have
+those charts all open at the same time across my desk. So I'm constantly referring to all of them.
+Now you can do that cycling through rather quickly and just look for the form.
+In the two-minute chart you don't have a fair value gap in here until there as well. Same entry
+and you can put a stop there as well. And on the one-minute chart we have the run here,
+the break below, the short-term low here,
+fair value gap, trade up into that. Look how many times it gives you a chance to get in.
+This candle that's one, two, three.
+Then it continues even lower. So you're getting a really, really tight entry there.
+Now some of you are going to say, oh yes guys talk about hindsight.
+I got you covered. I actually went in and traded this today on TradingView and you'll see me
+entering right here and riding down and taking out my exits below an old low. But I'm going to
+also teach you how you can use the model here and use the exit strategy I used today
+for external range liquidity. Oh something new. So let's go over to TradingView.
+All right so I'm going to kill two birds with one stone here. I don't use the replay button.
+This is going to be the first time you've ever seen me use it but it's only for the purpose of
+teaching how you, if you can't watch live data, just use this. I guess this is the best thing you
+can have as an alternative. But also, I'm not sure if I mentioned this in the past, but if you are
+going to TradingView.com and you're pulling up the symbol NQH2022 and you go down to a one minute
+chart, the data is delayed here. And to be quite honest with you, I don't recall if it's 10 minutes
+or 20 minutes. I don't know exactly. I don't remember what the delay was. But I pay the $4
+a month subscription rate to get the e-mini data and I also have a professional account. So I'm
+not sure if that $4 a month is because I have a professional account or if it's just $4 for anyone.
+So you'll have to investigate yourself to see if that's something you want to do. You don't need
+to have that data while you're learning. You can use this function here. So while I do have
+real time data, because if I didn't, you'd see like a little arms D up here, letter D.
+That would basically communicate to anyone that would see the chart that it's a delayed data.
+This is live data and I have it scrolled to this morning for February 3rd, 2022.
+And I have my chart delineated with the 15 minute high with that level. And I'll show you this and
+I'll zoom back out to a 15 minute chart. You see everything as it was because I'm going to show
+you there was actually a trading and entered on this today. But you want to have a vertical line
+delineated on trading. The only way you would do that is simply go in here, pick the vertical
+line and drop it right there at 830. And there it is. Okay. So for the replay button, and I feel
+weird just doing this because I just don't do it, but I have to do it because I know students
+need this resource while they're learning. Okay. But I don't use this. My mentorship that paid me
+to get education knows I never even use this. Okay. But I'm showing you so that way you can back
+test and practice and look at price action in a way where it means something more than just
+looking at a static chart. All right. So it started at the 830 hour. Our line here is at
+that 15 minute high. So what we're expecting is a run above that high. Okay. And I'll keep
+it kind of quick. I don't want to spend too much time with this. So clicking the play button,
+we're running above a short-term high right here. There's a fair day you got right there. Hit that
+now watch. It should sell off. That's not what I want. I want to use this high back here. But
+if you're a scalper, you could take that low out right there and that would have been a trade there
+as well. But for the daily range, which is much more significant, I'm using the 15 minute high.
+I'm bearish on day. I'm expecting lower prices because we've already went up a lot on the daily
+chart. So now if you're waiting all day, you might look at this and say, Oh, I've missed it. There's
+nothing for me to do. Don't think like that. Okay. Because the equity market opens at 930.
+Stock markets start getting really busy and volatile around that time frame.
+And we're coming up on it in a few minutes here.
+And usually, not always, but usually the first run at 930 is opposite to what the real move you want
+to be doing. Not every time. Now here's a 930 volatility. Look how crazy it is.
+Okay. It's creating a low with another low here. So there's what's building underneath that.
+Sell stops. Traders are being induced into thinking long trades. Go long, go long, go buy
+and get in there and go high. Buy low, sell high, right? But it's sloppy in here,
+but it's keeping these lows over here intact.
+Above these highs, that's where my interest is. Okay. So I don't have a trade until
+we get up above this level there. And this is on a one minute chart.
+Okay. Small little shallow run. We want something that's going to push through it.
+Okay. I just paused it right there. Now look at this initial poke above that high
+that we've drawn a line on. It went above it. It went down. Yes. Did it create any fair value
+gaps in there? No. Every candle overlaps. There's no gaps there. Okay. There's also no swing low
+taken out. Okay. So let's look at this. So let's look at this. So let's look at this.
+Okay. There's also no swing low taken out. So there's nothing in here yet. Now we have a higher
+high running above this high and the high we were looking at on the 15 minute time frame,
+which is denoted by that horizontal line right there. Now we have the likelihood.
+If we're watching it live, we're waiting to see, does it break lower? If it breaks lower,
+where is there a swing low? Right there. So if we can trade down below that swing low,
+and as soon as it does that, look in the highest high that forms in that low.
+See if there's a fair value gap that forms. Right there. We went below it.
+But after taking out the high, here's your number one candle,
+the number two candle, and the number three candle. So there's your gap right in here.
+So if it trades back to this candle's high plus, I don't know, one handle or one tick,
+maybe two ticks, whatever you believe is that an ideal entry for you. The easiest one is just
+go one tick above that and remove all the doubt. There's no guesswork there. There it is.
+And where's your stop loss going to be above the high of candle number two? Or you can use above
+candle number one, which creates a swing high. Whichever one you can afford and allows you to
+put the trade on. Some of you are going to look at this and say, oh, this is too much risk. Okay,
+then don't take the trade. I'm just, I'm giving you a model that works.
+Boom, right there. That candle, if you had a limit order right there,
+that would trip you in going short and your stop would have to be above here.
+Another one right there. There's your second entry right above this candle here.
+That's entering. That's your limit order getting in. Go short. Same stop.
+Third opportunity. Almost completely closes in all that range right there. See that?
+Right there, if you see that live, it feels like it's going to keep going higher because this
+candle at one time when it was at the high was all green and bold. You need to trust and train
+yourself to look at this pattern as it's forming because once you see dozens of it occurring,
+it changes your perspective. You don't get scared. In fact, it's
+fascinating to anticipate. Okay, it went here. So now it's going to go lower. So at that point,
+right there at that entry, from this candle's low to this candle's high, where's about 50%?
+About right here, right? So before we go any further, where do we take our profits?
+Well, you have a fair value gap right there, right? See that? Same thing, just going up.
+Candle number one, it's high. Candle number two, candle number three, the low. The range
+between candle number one's high and the third candle's low, that's your fair value gap.
+So if you're selling short up here, you can buy it back below here because you're below
+50% of the range that it range from high to low, you're at a discount down here.
+So there's your first target. Remember those equal lows down here I was telling you about?
+What's below that? Sell stops. So you want to be taking profits here
+and or here. This is ideal. Okay. Let's go back and watch the rest of it.
+Right there. That's it. These are minute candles. So you're selling short here,
+or maybe you entered on the first one here. So that's minute one. So one minute, two minute,
+three minute, four minute, five minute, six minute, seven, eight, nine, 10, 11 minutes.
+And you have 10, 20, 30, 40, 50, 60. We'll call it 60. We'll just call it 60. 60 handles in minutes.
+That's literally over a thousand dollars in a matter of time that would probably
+longer spent for someone that smokes a cigarette.
+Think about that. If you are going to hold it,
+focusing below these lows down here. Okay.
+Okay.
+Trust the bias.
+That type of move right there is intended to upset traders and get out.
+And if they trailer stop loss too short and aggressively,
+they get knocked out right before the big move comes down, takes out the, the lows down here.
+So we're looking at
+right in here. Well, let's look for 14680.
+There it is. Now, is that a lot of time getting short here, weathering some of this,
+you already took first partial down here. So even with this pulling back, your stop stays here.
+You use the first partial to kind of like quench that desire to roll your stop. Don't do that.
+If you do that, you're probably going to get stopped out because you don't have the understanding
+or the experience and know where to place a protective stop while it's being trailed.
+Once it takes this low out down here, and if you want to hold onto position,
+then you can roll your stop to here, but not before. Why? Because you've taken out a significant
+intermediate term low. This low to this high on a one minute chart, that's an intermediate term
+price swing. So it's taken out here, but it's also a full target for selling short up here
+and getting out down here. So what was the rough price level we used? Well, let's look at the high
+here. We'll just call it 14,800 just for the sake of the math. So 100
+handles is 14,700 and then we have the 80, 14,680. So 120 handles. That's a significant price move
+using exactly what I've taught in this model. Now, for those out there to say, oh, this replay
+button, he uses the replay button. That's the first time, and make sure you remember the date,
+because that's the first time you see me ever do market replay on TradingView. So if you look
+at this area in here, I'm going to show you paper trading account. Oh, I said we were going to talk
+about that. Here is the account history. Here you go, the time.
+Put a short one. Let's take a look at where that actually occurs on the chart.
+I'll show you the execution right there. Two minis,
+14,792.5. And I think I was reading that wrong down here because I was showing you the exit.
+Close to short position. Yeah, I read it wrong. Sorry. So the entry price here,
+selling short two minis at 14,792.5 using the fair value gap, holding on to it,
+the first partial here, 14,675. And then the limit order I had here was 14,647.
+So how does that look on the grand scheme of things?
+Getting short here with that logic, below the sell stops,
+down here, and then the limit order there. And hopefully you've got something from this
+and you've seen that there is obviously more to it than just fluff. It keeps repeating. How
+many examples have you seen already since I started teaching this? It's there. And these are the two.
+This is the first order covered and this is the second one. Okay. Don't look at this and say,
+don't look at this and say, oh my goodness, he's got a 52% return in one day on the first trade.
+That's nothing. That's nothing. But I don't want you thinking that's what you can do.
+Okay. Don't think that. Please don't think that at all. All I want you to do is practice on
+this logic. It's a simple process. So now in closing, I revisited the idea of
+this high to that low. That's your range. Okay. And if you put a Fibonacci on that,
+man, I tell you, I wish I had this stuff and I was coming up.
+Guy coming in here for free. Look at this. So we have 50%. That's your equilibrium. So everything
+above that price level, because this low to that high, that's our price run. And 50% below it is
+discount. So there's your little fair value gap right there. You see that? That right there.
+That's your target going short there. But this is internal range liquidity because it's internal
+relative to this low and this high, that range. So it's in the middle of that range,
+which makes it internal range liquidity. What is the stops below these lows down here?
+External range liquidity. So partials, internal range, external range, closed your trade.
+Very simple logic, isn't it? Is there a lot of moving parts? Did I confuse you? Simple, isn't it?
+You may still have questions because you may be entirely brand new to charting and trading.
+Brand new to charting and trading. That's normal. But by practicing and following along in this
+video series, it's an ongoing mentorship. It's not going to stop next week. This will help you
+understand, but I have to give it to you in bite-sized pieces because it's going to be too much.
+It's not going to be meaningful to you. But the logic, hopefully, even if you don't understand
+what I'm drawing you to in your own chart, like you can't find it yet on your own chart,
+I'm showing you exactly where it forms. And is every example I've shown you happening in
+the time of the day the same way each time? And is it performing as I taught it? Yes.
+That's a model. That's a trading plan. That's an executable idea that you can go in and engage
+with a demo account. And over time, you get good at this, you determine what you want to do with it.
+I'm never going to say go and trade live money with it. But I already have people already that
+have been trading for a while. They're a little bit more versed than some of you. If you're brand
+new, it's OK. But traders that have been doing live fun trading for a while, this really resonated
+with them. And they could see it. And they went in there this week and they were catching trades,
+real trades. And like I said, I don't want the credit for that. But I already know this stuff
+works. So sending me emails telling me that this is amazing and it's great, please don't do that.
+You don't need to do that. I already know it works. I'm giving it to you so that way you can
+be fascinated by it. This is just one model of dozens that I have. And this is the stripped down
+version. So hopefully you find insight and obviously benefit from following it. And if you
+don't, I'm sorry I didn't scratch that itch for you. I'm sure if you study other things in my
+YouTube channel, you'll probably find something else that tickles your fancy. Until I talk to
+you next Tuesday, enjoy your weekend and be safe.

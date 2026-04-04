@@ -1,0 +1,1604 @@
+1
+00:00:00,000 --> 00:00:04,000
+What the fuck is up, guys? Welcome to our first ever official YouTube video.
+
+2
+00:00:04,000 --> 00:00:06,800
+If you don't know who we are, we are PB Trading.
+
+3
+00:00:06,800 --> 00:00:07,600
+I'm Patrick.
+
+4
+00:00:07,600 --> 00:00:08,240
+I'm Blake.
+
+5
+00:00:08,240 --> 00:00:09,840
+And that's what PB Trading is.
+
+6
+00:00:09,840 --> 00:00:13,840
+Maybe you know us from the skits online or maybe you know us from the Discord.
+
+7
+00:00:13,840 --> 00:00:17,040
+We have a trading Discord and we also make comedy videos on the internet.
+
+8
+00:00:17,040 --> 00:00:19,920
+If you find those videos funny, it's probably because you related to them once.
+
+9
+00:00:19,920 --> 00:00:20,960
+We all have been there.
+
+10
+00:00:20,960 --> 00:00:22,480
+We've all full ported accounts before.
+
+11
+00:00:22,480 --> 00:00:24,240
+We've all blown fucking 100 accounts.
+
+12
+00:00:24,240 --> 00:00:27,040
+We all started at rock bottom.
+
+13
+00:00:27,600 --> 00:00:29,120
+But we want to get more serious here.
+
+14
+00:00:29,120 --> 00:00:34,000
+I want to give you guys essentially an ICT for dummies series,
+
+15
+00:00:34,000 --> 00:00:37,200
+which is all you will ever need to achieve profitability.
+
+16
+00:00:37,200 --> 00:00:41,440
+I guarantee you guys, if you just watch this from the start to the finish,
+
+17
+00:00:41,440 --> 00:00:43,040
+this is literally going to be all you need.
+
+18
+00:00:43,040 --> 00:00:47,840
+Scrap everything that you ever have learned or seen in any YouTube video.
+
+19
+00:00:47,840 --> 00:00:51,040
+We're going to teach it to you in a way where even your fucking grandma could learn this.
+
+20
+00:00:51,040 --> 00:00:53,520
+I mean, I learned how to trade through Blake.
+
+21
+00:00:53,520 --> 00:00:54,000
+All right.
+
+22
+00:00:54,000 --> 00:00:57,120
+I was able to understand his strategy in maybe two to three months.
+
+23
+00:00:57,120 --> 00:00:58,640
+And it's the most digestible thing ever.
+
+24
+00:00:58,640 --> 00:00:59,120
+It's easy.
+
+25
+00:00:59,120 --> 00:01:02,160
+When information is filtered, it's easy to understand, right?
+
+26
+00:01:02,160 --> 00:01:05,120
+A huge problem just with any information online.
+
+27
+00:01:05,120 --> 00:01:07,520
+So there's so much of it online and you don't know what to look for.
+
+28
+00:01:07,520 --> 00:01:08,800
+You don't know what to consume.
+
+29
+00:01:08,800 --> 00:01:09,600
+That's why we're here.
+
+30
+00:01:09,600 --> 00:01:13,200
+We're here to filter this for you and structure it in a way where it's essentially.
+
+31
+00:01:13,200 --> 00:01:18,320
+Why do we just get more where it's going to speed run this profitability process, right?
+
+32
+00:01:18,320 --> 00:01:22,080
+And we're not saying like rushing the process or leaving out information.
+
+33
+00:01:22,080 --> 00:01:24,560
+We're just not adding unnecessary information.
+
+34
+00:01:24,560 --> 00:01:27,280
+We're making this as efficient as possible.
+
+35
+00:01:27,280 --> 00:01:27,600
+All right.
+
+36
+00:01:27,600 --> 00:01:30,320
+And I think you guys deserve like a little introduction.
+
+37
+00:01:30,320 --> 00:01:31,600
+So my name is Blake.
+
+38
+00:01:31,600 --> 00:01:34,000
+I've been trading for four years now.
+
+39
+00:01:34,000 --> 00:01:36,960
+I made my first hundred thousand dollars trading when I was 19 years old.
+
+40
+00:01:36,960 --> 00:01:40,480
+How I started was pretty much just like you guys.
+
+41
+00:01:40,480 --> 00:01:43,360
+I bet you guys searched up how to start trading on YouTube.
+
+42
+00:01:43,360 --> 00:01:47,040
+First video I saw was this dude named Warrior Trading.
+
+43
+00:01:47,040 --> 00:01:48,560
+I don't know if any of you guys have seen him.
+
+44
+00:01:48,560 --> 00:01:50,560
+Turns out he was a complete fraud.
+
+45
+00:01:50,560 --> 00:01:54,160
+He got sued by the FTC for three point five million dollars.
+
+46
+00:01:54,160 --> 00:01:55,760
+And I was learning from him.
+
+47
+00:01:55,840 --> 00:01:57,520
+And that was that was my start.
+
+48
+00:01:57,520 --> 00:01:59,760
+And I was learning basically just options.
+
+49
+00:01:59,760 --> 00:02:02,400
+You know, I flipped 5K into 12K.
+
+50
+00:02:02,400 --> 00:02:03,280
+Lucky.
+
+51
+00:02:03,280 --> 00:02:03,600
+Yeah.
+
+52
+00:02:03,600 --> 00:02:05,680
+Lucky like I was not.
+
+53
+00:02:05,680 --> 00:02:06,320
+I had no.
+
+54
+00:02:06,320 --> 00:02:09,200
+When I tell you guys I had zero clue what I was doing, like zero clue.
+
+55
+00:02:09,200 --> 00:02:12,640
+Like I would remember going into this dude's like YouTube because he used to do like free
+
+56
+00:02:12,640 --> 00:02:13,840
+YouTube live streams.
+
+57
+00:02:13,840 --> 00:02:16,960
+He would show you like like the stocks that he was looking at.
+
+58
+00:02:16,960 --> 00:02:19,680
+Bro, I would literally be like, yo, what time does market open?
+
+59
+00:02:19,680 --> 00:02:20,720
+It says like nine thirty.
+
+60
+00:02:20,720 --> 00:02:21,600
+I'm like bet.
+
+61
+00:02:21,600 --> 00:02:25,120
+So I'll just like buy the stock at nine thirty open.
+
+62
+00:02:25,280 --> 00:02:26,880
+Thinking like that's what you're supposed to do.
+
+63
+00:02:27,440 --> 00:02:28,720
+Bro, I worked out for a bit.
+
+64
+00:02:28,720 --> 00:02:34,000
+This kid visited me my first year in college and he just showed up decked out in chrome.
+
+65
+00:02:34,000 --> 00:02:35,040
+And I'm like, what the fuck?
+
+66
+00:02:35,040 --> 00:02:37,680
+I'm like, where'd you even get all this jewelry from?
+
+67
+00:02:37,680 --> 00:02:38,320
+Yeah.
+
+68
+00:02:38,320 --> 00:02:39,440
+You ended up selling that.
+
+69
+00:02:39,440 --> 00:02:40,560
+Yeah.
+
+70
+00:02:40,560 --> 00:02:43,920
+And like a matter of like a few days, I had to sell all of that.
+
+71
+00:02:45,040 --> 00:02:46,560
+Yeah, I ended up blowing all that money.
+
+72
+00:02:46,560 --> 00:02:49,600
+I was basically all the money that I saved up from when I was working.
+
+73
+00:02:49,600 --> 00:02:54,000
+Working at this job at this place called Care Express.
+
+74
+00:02:54,080 --> 00:02:56,960
+I was cleaning dishes fucking 24 seven.
+
+75
+00:02:56,960 --> 00:03:00,400
+I smelled like straight bleach and shit all the time.
+
+76
+00:03:00,400 --> 00:03:03,440
+My boss, like everything sucked about the job.
+
+77
+00:03:03,440 --> 00:03:07,120
+And I remember like there was one night I was taking out the trash
+
+78
+00:03:08,240 --> 00:03:10,320
+and it was like a five minute walk to the dumpster.
+
+79
+00:03:10,320 --> 00:03:13,280
+Trash just spilled all over me, all on my back.
+
+80
+00:03:13,280 --> 00:03:15,440
+At this point, I'm like, I have to put it in the dumpster,
+
+81
+00:03:15,440 --> 00:03:18,560
+but there's just smoothie juice like all over my back and all on the ground.
+
+82
+00:03:18,560 --> 00:03:19,920
+So I'm like trying to pick it up.
+
+83
+00:03:19,920 --> 00:03:21,040
+It's like nine p.m.
+
+84
+00:03:21,040 --> 00:03:22,960
+It was like, no, it was like past closing time, bro.
+
+85
+00:03:22,960 --> 00:03:25,040
+I was so late and it sucked.
+
+86
+00:03:25,040 --> 00:03:27,200
+And then my boss outed me the next morning.
+
+87
+00:03:27,200 --> 00:03:29,760
+He comes to me, he's like, Blake, I saw you on the security cam footage.
+
+88
+00:03:29,760 --> 00:03:31,600
+Like in front of everyone, in front of everyone.
+
+89
+00:03:31,600 --> 00:03:33,440
+Like you left all the trash out and I'm like,
+
+90
+00:03:33,440 --> 00:03:34,480
+there's nothing I could have done, brother.
+
+91
+00:03:34,480 --> 00:03:35,360
+It's like smoothie juice.
+
+92
+00:03:35,360 --> 00:03:36,880
+He's like, well, you got fined by this.
+
+93
+00:03:36,880 --> 00:03:40,240
+We got fined by the state or by the city, like three hundred dollars.
+
+94
+00:03:40,240 --> 00:03:41,520
+And I'm taking it out of your check.
+
+95
+00:03:42,080 --> 00:03:45,440
+And I'm like, bro, like that is literally like the three hundred dollars.
+
+96
+00:03:45,440 --> 00:03:46,800
+I made like three hundred dollars a month.
+
+97
+00:03:46,800 --> 00:03:48,320
+Like that's that's what I was making.
+
+98
+00:03:48,320 --> 00:03:49,680
+Like three to four hundred dollars a month, bro.
+
+99
+00:03:49,680 --> 00:03:51,600
+At that moment, I was like, dude, fuck this job.
+
+100
+00:03:51,600 --> 00:03:52,080
+Fuck this.
+
+101
+00:03:52,240 --> 00:03:54,320
+I've saved up enough money because at the end of the day,
+
+102
+00:03:54,320 --> 00:03:55,440
+I wanted to be my own boss.
+
+103
+00:03:55,440 --> 00:03:57,120
+I don't want to have a boss.
+
+104
+00:03:57,120 --> 00:03:58,800
+So I saved up all that money.
+
+105
+00:03:58,800 --> 00:04:01,120
+Really, the first thing I started doing was searching up online.
+
+106
+00:04:01,120 --> 00:04:04,320
+The second I got home, how to start making money online.
+
+107
+00:04:04,880 --> 00:04:06,800
+SMMA, tried that, failed.
+
+108
+00:04:06,800 --> 00:04:08,400
+Drop shipping, tried that, failed.
+
+109
+00:04:08,400 --> 00:04:10,480
+Every single side hustle you could think of.
+
+110
+00:04:10,480 --> 00:04:16,480
+I was even doing fucking pressure washing for around my place just to like get more money.
+
+111
+00:04:16,480 --> 00:04:17,760
+I was actually doing that for a while.
+
+112
+00:04:18,160 --> 00:04:20,880
+Then I eventually found trading and fell in love with it.
+
+113
+00:04:21,440 --> 00:04:23,360
+It was really the only thing that stuck with me.
+
+114
+00:04:23,360 --> 00:04:26,480
+Shortly after that, I found ICT concepts, right?
+
+115
+00:04:26,480 --> 00:04:28,000
+So this was six months in.
+
+116
+00:04:28,000 --> 00:04:32,800
+And I mean, ICT, like it was the only thing that made sense in my head.
+
+117
+00:04:32,800 --> 00:04:33,840
+Support and resistance.
+
+118
+00:04:33,840 --> 00:04:35,280
+There's no like narrative behind it.
+
+119
+00:04:35,280 --> 00:04:39,520
+With ICT, there's always like a story behind like every trade that you're taking.
+
+120
+00:04:39,520 --> 00:04:45,280
+So it really made sense in my head and it kind of like changed the way I view trading.
+
+121
+00:04:45,280 --> 00:04:46,880
+And I think like that's like really the goal.
+
+122
+00:04:46,880 --> 00:04:51,760
+We're going to explain it to you in ways that not only make sense like technically,
+
+123
+00:04:51,760 --> 00:04:53,200
+but logically as well.
+
+124
+00:04:53,200 --> 00:04:57,840
+Because that's the way Blake explained it for me when he was teaching me.
+
+125
+00:04:57,840 --> 00:05:01,680
+So I mean, I don't know if I mentioned this already, but Blake essentially mentored me.
+
+126
+00:05:01,680 --> 00:05:06,960
+He's my best friend growing up for maybe the last fuck, I don't know, eight years.
+
+127
+00:05:07,760 --> 00:05:09,360
+Eight fucking years, maybe more.
+
+128
+00:05:09,360 --> 00:05:11,360
+One day we were on a trip together over summer.
+
+129
+00:05:11,360 --> 00:05:12,080
+We're just hanging out.
+
+130
+00:05:12,080 --> 00:05:12,960
+He shows me his phone.
+
+131
+00:05:12,960 --> 00:05:14,240
+He's like, yo, look at this shit.
+
+132
+00:05:14,240 --> 00:05:16,080
+I just made fucking thousand dollars.
+
+133
+00:05:16,080 --> 00:05:17,360
+I'm like, what?
+
+134
+00:05:17,360 --> 00:05:19,360
+How did you just make a thousand dollars?
+
+135
+00:05:19,360 --> 00:05:21,920
+We're posted up right now on the beach and he's just like, yeah, I just made a band.
+
+136
+00:05:21,920 --> 00:05:23,760
+I'm like, dude, teach me.
+
+137
+00:05:23,760 --> 00:05:24,640
+I didn't even say teach me.
+
+138
+00:05:24,640 --> 00:05:26,080
+I said, let me copy you.
+
+139
+00:05:26,960 --> 00:05:30,560
+And I think like everyone, that's like sort of everyone's first instinct.
+
+140
+00:05:30,560 --> 00:05:35,120
+When they see someone like make money, you just kind of want the easy route.
+
+141
+00:05:35,120 --> 00:05:36,800
+And Blake kept it straight up with me.
+
+142
+00:05:36,800 --> 00:05:39,280
+And he was like, no, I'm not letting you copy me,
+
+143
+00:05:39,280 --> 00:05:42,560
+but I will send you over every single video I've watched.
+
+144
+00:05:42,560 --> 00:05:44,800
+You can watch them learn and then I'll help you.
+
+145
+00:05:44,800 --> 00:05:45,280
+You know what I mean?
+
+146
+00:05:45,280 --> 00:05:46,160
+But first, you need to understand.
+
+147
+00:05:46,160 --> 00:05:47,520
+You need to build your foundation.
+
+148
+00:05:47,520 --> 00:05:48,960
+And I was like, all right, fair enough.
+
+149
+00:05:48,960 --> 00:05:52,720
+And so he sent me hundreds, thousands of fucking videos.
+
+150
+00:05:52,720 --> 00:05:54,240
+I watched every single one.
+
+151
+00:05:54,240 --> 00:05:57,280
+And then I would FaceTime him every single morning, market open.
+
+152
+00:05:57,280 --> 00:05:58,880
+And I'd have him there on FaceTime.
+
+153
+00:05:58,880 --> 00:06:01,520
+And he'd be like helping me sort of go about the trades.
+
+154
+00:06:01,520 --> 00:06:02,880
+He wouldn't just be like, yo, I'm in now.
+
+155
+00:06:02,880 --> 00:06:04,720
+But he'd be like, yeah, like this looks good.
+
+156
+00:06:04,720 --> 00:06:05,360
+This looks good.
+
+157
+00:06:05,360 --> 00:06:09,840
+And shout out pack because he's like the only person I've had in my life
+
+158
+00:06:09,840 --> 00:06:11,440
+that when I tell them what to do.
+
+159
+00:06:11,440 --> 00:06:14,560
+So when I was in college and I was like making a shit ton of money,
+
+160
+00:06:14,560 --> 00:06:17,200
+obviously all my friends were asking me like, yo, put me on.
+
+161
+00:06:17,200 --> 00:06:17,840
+What are you doing?
+
+162
+00:06:17,840 --> 00:06:19,040
+And I'm like, what's the method?
+
+163
+00:06:19,040 --> 00:06:19,840
+Whatever, right?
+
+164
+00:06:19,840 --> 00:06:21,920
+And I would tell them like, yo, this is what you have to do.
+
+165
+00:06:21,920 --> 00:06:23,760
+And I'll give them what they have to do.
+
+166
+00:06:23,760 --> 00:06:25,040
+Watch these videos.
+
+167
+00:06:25,040 --> 00:06:26,160
+It's going to be a pain in the ass.
+
+168
+00:06:26,160 --> 00:06:26,800
+Do this.
+
+169
+00:06:26,800 --> 00:06:28,240
+Nobody went through with it.
+
+170
+00:06:28,240 --> 00:06:29,920
+Patrick and I was thinking like, yeah, I'm
+
+171
+00:06:29,920 --> 00:06:31,600
+going to send him these videos, bro.
+
+172
+00:06:31,600 --> 00:06:34,080
+And like, it's going to be another story, you know?
+
+173
+00:06:34,080 --> 00:06:37,360
+And eventually, bro, he just kept up with me every day.
+
+174
+00:06:37,360 --> 00:06:38,080
+And I was like, fuck it.
+
+175
+00:06:38,080 --> 00:06:38,640
+I love this.
+
+176
+00:06:38,640 --> 00:06:39,600
+I love teaching people.
+
+177
+00:06:39,600 --> 00:06:41,200
+And he was obviously locked in.
+
+178
+00:06:41,200 --> 00:06:42,320
+He's a smart as fuck.
+
+179
+00:06:42,560 --> 00:06:45,360
+Bro, it's just like awesome having someone there side by side with you
+
+180
+00:06:45,360 --> 00:06:48,480
+who you trust, who you can see their success right in front of you.
+
+181
+00:06:48,480 --> 00:06:50,480
+And it makes it feel that much more possible.
+
+182
+00:06:50,480 --> 00:06:53,040
+Because I knew he was, I was just like, dude, this kid's fucking killing it.
+
+183
+00:06:53,040 --> 00:06:55,200
+Like, there's no reason I can't do it.
+
+184
+00:06:55,200 --> 00:06:58,160
+Having like an accountability partner like Blake or something like that,
+
+185
+00:06:58,160 --> 00:07:01,120
+just to keep you motivated, to keep you ambitious, to keep you on track
+
+186
+00:07:01,120 --> 00:07:02,560
+is so fucking amazing in life.
+
+187
+00:07:02,560 --> 00:07:05,280
+And we want to build that relationship with you guys through these videos,
+
+188
+00:07:05,280 --> 00:07:06,480
+like through this series.
+
+189
+00:07:07,120 --> 00:07:09,360
+And it's going to be fucking amazing.
+
+190
+00:07:09,360 --> 00:07:13,360
+Anyways, I tried like a million entrepreneurial ventures growing up.
+
+191
+00:07:13,360 --> 00:07:16,000
+I mean, the idea of obviously being independent,
+
+192
+00:07:16,000 --> 00:07:19,040
+letting my creativity navigate my success was so cool to me.
+
+193
+00:07:19,040 --> 00:07:20,240
+I tried starting a clothing brand.
+
+194
+00:07:20,240 --> 00:07:23,040
+I think that was like my biggest really venture ever that I went through with.
+
+195
+00:07:23,040 --> 00:07:24,640
+I did it for about a year and a half, two years.
+
+196
+00:07:24,640 --> 00:07:25,600
+And it went well.
+
+197
+00:07:25,600 --> 00:07:27,120
+I saw like short term success with it.
+
+198
+00:07:27,120 --> 00:07:29,200
+I was making decent amount of money for a bit,
+
+199
+00:07:29,200 --> 00:07:31,600
+but I could never figure out how to make it sustainable.
+
+200
+00:07:31,600 --> 00:07:32,480
+Just wasn't there.
+
+201
+00:07:32,480 --> 00:07:34,400
+It's like such a, it's fucking hard, bro.
+
+202
+00:07:34,400 --> 00:07:35,840
+It's a lot of luck involved.
+
+203
+00:07:35,840 --> 00:07:37,280
+I also tried drop shipping.
+
+204
+00:07:37,280 --> 00:07:38,400
+Didn't fucking work.
+
+205
+00:07:38,400 --> 00:07:41,520
+I tried, you know, investing in crypto early as fuck.
+
+206
+00:07:41,520 --> 00:07:42,560
+I didn't know what I was doing.
+
+207
+00:07:42,560 --> 00:07:43,920
+Um, lost my money.
+
+208
+00:07:43,920 --> 00:07:47,200
+I took like a year off university to just only trade.
+
+209
+00:07:47,200 --> 00:07:49,040
+And it was the best decision I ever made.
+
+210
+00:07:49,040 --> 00:07:52,800
+Obviously I had a skill that I had honed and I didn't want to put it to waste.
+
+211
+00:07:52,800 --> 00:07:54,960
+Everything I tried, I kind of just lost my money,
+
+212
+00:07:54,960 --> 00:07:56,160
+but that's not a bad thing.
+
+213
+00:07:56,160 --> 00:07:57,680
+Like failure is inevitable.
+
+214
+00:07:57,680 --> 00:07:59,600
+And you learn something from all those things.
+
+215
+00:07:59,600 --> 00:08:01,840
+You just need to keep trying until something fucking clicks.
+
+216
+00:08:01,840 --> 00:08:06,640
+Like a lot of you guys have this horrible, horrible connotation with failing
+
+217
+00:08:06,960 --> 00:08:10,640
+and you tie it to worthlessness that you're not going to get anywhere and,
+
+218
+00:08:10,640 --> 00:08:12,880
+and all this bullshit, but you need to realize that like,
+
+219
+00:08:12,880 --> 00:08:14,960
+you're going to fail a million fucking times.
+
+220
+00:08:14,960 --> 00:08:17,520
+Life is dead ass like trading.
+
+221
+00:08:17,520 --> 00:08:19,280
+What does a bullish fucking move look like?
+
+222
+00:08:19,840 --> 00:08:23,040
+It's up and down, but you keep getting higher every single time
+
+223
+00:08:23,040 --> 00:08:24,240
+that you make another low, right?
+
+224
+00:08:24,240 --> 00:08:26,240
+You break that high every single fucking time.
+
+225
+00:08:26,240 --> 00:08:28,400
+And you got to be the same way with anything in life.
+
+226
+00:08:28,400 --> 00:08:31,360
+No success on this planet is linear.
+
+227
+00:08:31,360 --> 00:08:32,960
+Never will you see linear success.
+
+228
+00:08:32,960 --> 00:08:35,200
+Like you're going to fucking hit these new lows.
+
+229
+00:08:35,200 --> 00:08:38,800
+Your job is to never make that low lower than the one before.
+
+230
+00:08:38,800 --> 00:08:40,320
+That's all you need to know.
+
+231
+00:08:40,320 --> 00:08:43,200
+I kind of want to like look at you guys
+
+232
+00:08:43,200 --> 00:08:45,520
+and I want you to answer this for yourself.
+
+233
+00:08:45,520 --> 00:08:47,360
+Do you fucking want this, right?
+
+234
+00:08:47,360 --> 00:08:51,840
+Do you actually want to succeed or are you just looking for short-term gain?
+
+235
+00:08:51,840 --> 00:08:53,360
+Are you looking for quick money?
+
+236
+00:08:53,360 --> 00:08:54,960
+Because if that's what you're looking for,
+
+237
+00:08:54,960 --> 00:08:56,880
+you're not going to make a fucking dollar with trading.
+
+238
+00:08:56,880 --> 00:09:01,680
+This isn't one of those things where like you just magically make money after two weeks.
+
+239
+00:09:01,760 --> 00:09:03,840
+It requires you putting your fucking head down
+
+240
+00:09:03,840 --> 00:09:06,400
+and actually enjoying every second of the process.
+
+241
+00:09:06,960 --> 00:09:10,560
+Whether it is fucking hard, whether you are not seeing results,
+
+242
+00:09:10,560 --> 00:09:11,840
+you need to enjoy that.
+
+243
+00:09:11,840 --> 00:09:15,120
+Nothing in life that is rewarding is easy.
+
+244
+00:09:15,120 --> 00:09:18,880
+Take the time to sit down and ask yourself those three questions.
+
+245
+00:09:18,880 --> 00:09:20,400
+Do I really want this?
+
+246
+00:09:20,400 --> 00:09:21,520
+Why do I want this?
+
+247
+00:09:22,080 --> 00:09:23,680
+And how the fuck am I going to get there?
+
+248
+00:09:23,680 --> 00:09:25,680
+And we're not here to only just make you better traders.
+
+249
+00:09:25,680 --> 00:09:27,200
+We want to make you better people as well.
+
+250
+00:09:27,200 --> 00:09:30,960
+Let's give you a quick breakdown of what you can expect with this ICT for Dummies course.
+
+251
+00:09:30,960 --> 00:09:32,000
+Blake has a list right here.
+
+252
+00:09:32,000 --> 00:09:32,960
+He's going to go over it.
+
+253
+00:09:32,960 --> 00:09:36,480
+First off, guys, we're going to just do like a quick introduction to futures.
+
+254
+00:09:36,480 --> 00:09:40,240
+And then we're going to basically just go over every single ICT concept.
+
+255
+00:09:40,240 --> 00:09:44,560
+If you are brand new, like complete beginner in a trading,
+
+256
+00:09:44,560 --> 00:09:46,320
+we are going to be helping you with that.
+
+257
+00:09:46,320 --> 00:09:47,920
+All right, so we have candlesticks.
+
+258
+00:09:47,920 --> 00:09:49,440
+We're going to go over market structure.
+
+259
+00:09:49,440 --> 00:09:51,520
+We're going to go over, again, every ICT concept.
+
+260
+00:09:51,520 --> 00:09:56,480
+So fibs, liquidity for value gaps, order blocks, breaker blocks, CISD, SMT,
+
+261
+00:09:56,480 --> 00:09:59,680
+time risk management, market maker models, daily bias,
+
+262
+00:09:59,760 --> 00:10:03,440
+understanding manipulation, recognizing market conditions due to swings.
+
+263
+00:10:03,440 --> 00:10:05,120
+We're going to go over my model,
+
+264
+00:10:05,120 --> 00:10:08,320
+which is my mechanical model that I teach every single day in our Discord.
+
+265
+00:10:09,200 --> 00:10:11,200
+And I'm also going to go over my discretionary model
+
+266
+00:10:11,200 --> 00:10:13,600
+and also has over a 70% win rate.
+
+267
+00:10:13,600 --> 00:10:15,600
+We'll also be going over my model, which is a PDI model.
+
+268
+00:10:15,600 --> 00:10:17,520
+I mean, if you're in the Discord, you obviously know this model
+
+269
+00:10:17,520 --> 00:10:19,680
+and it's super fucking easy to understand.
+
+270
+00:10:19,680 --> 00:10:21,440
+It kind of plays off Blake's mechanical model.
+
+271
+00:10:21,440 --> 00:10:24,480
+We're going to talk about your success plan, how to journal.
+
+272
+00:10:24,480 --> 00:10:26,320
+We're going to go over pro firms and brokers, of course,
+
+273
+00:10:26,320 --> 00:10:28,560
+how to pass a pro firm and get a payout,
+
+274
+00:10:28,560 --> 00:10:29,680
+plenty of psychology lessons.
+
+275
+00:10:29,680 --> 00:10:30,640
+This is crucial.
+
+276
+00:10:30,640 --> 00:10:33,040
+As you guys know, trading isn't just technical.
+
+277
+00:10:33,040 --> 00:10:35,040
+It's very psychology-based.
+
+278
+00:10:35,040 --> 00:10:38,640
+At this bootcamp, guys, I want you to be fully locked in.
+
+279
+00:10:38,640 --> 00:10:41,280
+Know that every single video that we're going to be putting out here
+
+280
+00:10:41,280 --> 00:10:42,560
+is for a fucking reason.
+
+281
+00:10:42,560 --> 00:10:46,320
+It's everything that I've known and that I need to know
+
+282
+00:10:46,320 --> 00:10:47,680
+to be a profitable trader.
+
+283
+00:10:47,680 --> 00:10:49,760
+Anyways, guys, we want you to get fucking hyped
+
+284
+00:10:49,760 --> 00:10:52,000
+because it really is possible, dude.
+
+285
+00:10:52,000 --> 00:10:55,040
+It's fucking possible and it's not hard
+
+286
+00:10:55,040 --> 00:10:57,680
+when you have the right information and the right people.
+
+287
+00:10:57,920 --> 00:10:58,880
+Fucking god, this shit.
+
+288
+00:10:58,880 --> 00:11:00,400
+It is not hard, bro.
+
+289
+00:11:00,400 --> 00:11:02,480
+I am a dumbass, bro.
+
+290
+00:11:02,480 --> 00:11:03,440
+He is a dumbass.
+
+291
+00:11:03,440 --> 00:11:04,800
+I am a dumbass, bro.
+
+292
+00:11:04,800 --> 00:11:07,280
+I'm telling you guys, this shit is possible.
+
+293
+00:11:07,280 --> 00:11:10,640
+There is a statistic where it is 99% of people
+
+294
+00:11:10,640 --> 00:11:12,080
+do not make it in day trading.
+
+295
+00:11:12,080 --> 00:11:13,920
+What is that statistic based off, though?
+
+296
+00:11:13,920 --> 00:11:17,520
+It's going to be the people that don't do what they're told to do.
+
+297
+00:11:17,520 --> 00:11:20,880
+When we're telling you right now, watch everything.
+
+298
+00:11:20,880 --> 00:11:22,400
+We're going to give you homework every night.
+
+299
+00:11:22,400 --> 00:11:23,680
+Do all of the homework, right?
+
+300
+00:11:24,240 --> 00:11:27,200
+The people that don't make it, that are part of the 99%,
+
+301
+00:11:27,280 --> 00:11:28,960
+are most likely going to start dropping off.
+
+302
+00:11:28,960 --> 00:11:29,920
+What do the 1% do?
+
+303
+00:11:29,920 --> 00:11:30,960
+They have discipline.
+
+304
+00:11:30,960 --> 00:11:33,600
+Not only on the charts, which we're going to teach you how,
+
+305
+00:11:33,600 --> 00:11:35,280
+but in your day-to-day life.
+
+306
+00:11:35,280 --> 00:11:37,360
+If you're not even going to the gym every single day,
+
+307
+00:11:37,360 --> 00:11:38,640
+I'm going to tell you this straight up,
+
+308
+00:11:38,640 --> 00:11:40,400
+or fucking making your bed,
+
+309
+00:11:40,400 --> 00:11:42,720
+or doing the easy shit in life, bro.
+
+310
+00:11:42,720 --> 00:11:43,760
+Trading is not for you.
+
+311
+00:11:43,760 --> 00:11:44,640
+I'm going to be straight up.
+
+312
+00:11:44,640 --> 00:11:45,680
+Trading is not for you.
+
+313
+00:11:45,680 --> 00:11:47,440
+I'm going to tell you, click off this video,
+
+314
+00:11:47,440 --> 00:11:49,760
+stop watching this, go try something else.
+
+315
+00:11:49,760 --> 00:11:52,640
+If you're watching this video and you grew up
+
+316
+00:11:52,640 --> 00:11:53,920
+playing video games or some shit,
+
+317
+00:11:53,920 --> 00:11:55,600
+because I can tell you personally,
+
+318
+00:11:55,600 --> 00:11:58,560
+I've invested thousands of hours into video games,
+
+319
+00:11:58,560 --> 00:12:01,680
+CSGO, Rocket League, and all this shit growing up.
+
+320
+00:12:01,680 --> 00:12:02,960
+When I wanted to learn how to trade,
+
+321
+00:12:02,960 --> 00:12:05,280
+I told myself there is absolutely zero reason
+
+322
+00:12:05,280 --> 00:12:07,440
+why I can't have that same devotion
+
+323
+00:12:07,440 --> 00:12:09,440
+to a skill that's going to change my life.
+
+324
+00:12:09,440 --> 00:12:11,840
+This is not something I was going to put to waste.
+
+325
+00:12:11,840 --> 00:12:13,920
+This is obviously a skill I wanted to be good at.
+
+326
+00:12:13,920 --> 00:12:15,840
+And I made that a promise to myself.
+
+327
+00:12:15,840 --> 00:12:18,400
+I made it a promise that with that success,
+
+328
+00:12:18,400 --> 00:12:21,440
+I'd be able to support my friends, my family, travel,
+
+329
+00:12:21,440 --> 00:12:22,880
+and do everything I ever fucking wanted to.
+
+330
+00:12:22,880 --> 00:12:24,000
+We really just want to teach people
+
+331
+00:12:24,000 --> 00:12:26,160
+who actually give a fuck and want to change their lives.
+
+332
+00:12:26,160 --> 00:12:28,400
+We know a lot of you probably hate the position
+
+333
+00:12:28,400 --> 00:12:29,520
+you are in right now.
+
+334
+00:12:29,520 --> 00:12:30,960
+And that's probably why you're watching this video.
+
+335
+00:12:30,960 --> 00:12:32,720
+I fucking hated the position I was in.
+
+336
+00:12:32,720 --> 00:12:35,520
+I also can't thank enough Blake for what he taught me.
+
+337
+00:12:36,320 --> 00:12:38,240
+We're really living our fucking dream now.
+
+338
+00:12:38,240 --> 00:12:41,600
+Once you learn how to make your first thousand dollars,
+
+339
+00:12:41,600 --> 00:12:42,880
+the next 10,000 comes easier.
+
+340
+00:12:42,880 --> 00:12:44,240
+And then before you know it, bro,
+
+341
+00:12:44,240 --> 00:12:46,000
+you got a hundred thousand dollars in your bank account.
+
+342
+00:12:46,000 --> 00:12:48,720
+The beginning is always the hardest and slowest process.
+
+343
+00:12:48,720 --> 00:12:52,000
+But if you can just sit through those fucking boring chapters,
+
+344
+00:12:52,720 --> 00:12:54,640
+things get real fucking fun.
+
+345
+00:12:54,640 --> 00:12:57,120
+If you've made it this far into this video,
+
+346
+00:12:57,120 --> 00:12:58,560
+do me a favor right now.
+
+347
+00:12:58,560 --> 00:13:00,400
+Go into the comment section.
+
+348
+00:13:00,400 --> 00:13:01,440
+Tell me your story.
+
+349
+00:13:01,440 --> 00:13:02,880
+It can be a short story.
+
+350
+00:13:02,880 --> 00:13:04,880
+And make a promise to yourself at the end of this.
+
+351
+00:13:04,880 --> 00:13:08,000
+Say in six months or in three months,
+
+352
+00:13:08,000 --> 00:13:09,280
+this is where I'm going to be.
+
+353
+00:13:09,280 --> 00:13:11,360
+This is how my day to day is going to look like.
+
+354
+00:13:11,360 --> 00:13:13,920
+And if you can look back at this comment
+
+355
+00:13:13,920 --> 00:13:17,680
+and actually be practicing everything that you preach there,
+
+356
+00:13:17,680 --> 00:13:18,720
+congratulations, bro.
+
+357
+00:13:18,720 --> 00:13:20,880
+You're going to see success in everything you do in your life.
+
+358
+00:13:20,880 --> 00:13:22,240
+And meet that fucking goal.
+
+359
+00:13:22,240 --> 00:13:23,840
+Because I fucking believe in you.
+
+360
+00:13:23,840 --> 00:13:25,120
+Blake believes in you.
+
+361
+00:13:25,120 --> 00:13:26,400
+I fucking believe in Blake.
+
+362
+00:13:26,400 --> 00:13:26,720
+All right.
+
+363
+00:13:26,720 --> 00:13:28,560
+And like Blake said, bro, I think this is...
+
+364
+00:13:28,560 --> 00:13:29,680
+I tell everyone this.
+
+365
+00:13:29,680 --> 00:13:31,200
+Never say anything negative about yourself.
+
+366
+00:13:31,200 --> 00:13:33,440
+You need to wake up every fucking morning and tell yourself,
+
+367
+00:13:33,440 --> 00:13:34,240
+I'm rich.
+
+368
+00:13:34,240 --> 00:13:35,120
+I'm happy.
+
+369
+00:13:35,120 --> 00:13:35,920
+I'm loving.
+
+370
+00:13:35,920 --> 00:13:37,040
+I'm successful.
+
+371
+00:13:37,040 --> 00:13:37,920
+I'm great.
+
+372
+00:13:37,920 --> 00:13:38,560
+I'm amazing.
+
+373
+00:13:38,560 --> 00:13:40,880
+Bro, fucking brainwash yourself.
+
+374
+00:13:40,880 --> 00:13:42,000
+It is so important.
+
+375
+00:13:42,000 --> 00:13:45,280
+That's how I've gotten every single thing I've ever fucking wanted in life.
+
+376
+00:13:45,280 --> 00:13:47,840
+It's because I actually told myself I'd fucking do it.
+
+377
+00:13:47,840 --> 00:13:49,040
+I don't say I wish this.
+
+378
+00:13:49,040 --> 00:13:50,320
+I don't give a fuck, bro.
+
+379
+00:13:50,480 --> 00:13:52,960
+If I want something, I fucking have it already.
+
+380
+00:13:52,960 --> 00:13:55,840
+Your future is written if you believe in yourself.
+
+381
+00:13:55,840 --> 00:13:58,400
+It's all already fucking carved in.
+
+382
+00:13:58,400 --> 00:13:59,920
+It is etched into the ground.
+
+383
+00:13:59,920 --> 00:14:01,440
+There is a story about you.
+
+384
+00:14:01,440 --> 00:14:03,200
+And you're just going to bring that shit to life.
+
+385
+00:14:03,200 --> 00:14:05,840
+You're going to take the same steps that your future self,
+
+386
+00:14:05,840 --> 00:14:08,480
+your future successful self took to get there.
+
+387
+00:14:08,480 --> 00:14:10,320
+There is no reason you can't do it.
+
+388
+00:14:10,320 --> 00:14:14,400
+You know exactly what you need to do in life to become successful.
+
+389
+00:14:14,400 --> 00:14:17,040
+You know exactly every step you need to take.
+
+390
+00:14:17,040 --> 00:14:20,160
+So every day that goes by where you're not taking those steps,
+
+391
+00:14:20,560 --> 00:14:24,560
+you need to fucking slap yourself in the face and wake up because it's possible.
+
+392
+00:14:24,560 --> 00:14:26,800
+Anyways, now you know our names.
+
+393
+00:14:27,760 --> 00:14:29,040
+Patrick, Blake.
+
+394
+00:14:29,840 --> 00:14:33,520
+We're PB Trading and we're going to make sure we change your fucking life.
+
+395
+00:14:33,520 --> 00:14:34,400
+All right, boys.
+
+396
+00:14:34,400 --> 00:14:36,320
+We'll see you guys for the next video.
+
+397
+00:14:36,320 --> 00:14:38,240
+It's going to be on Introduction to Futures.
+
+398
+00:14:38,240 --> 00:14:39,600
+Get your fucking notebooks out.
+
+399
+00:14:39,600 --> 00:14:40,480
+It's going to be a good one.
+
+400
+00:14:41,040 --> 00:14:42,000
+And yeah.
+
+401
+00:14:42,720 --> 00:14:43,440
+Fuck yeah, guys.
+

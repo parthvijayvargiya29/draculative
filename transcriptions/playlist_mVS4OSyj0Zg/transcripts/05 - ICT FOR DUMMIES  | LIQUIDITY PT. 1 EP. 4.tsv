@@ -1,0 +1,178 @@
+start	end	text
+400	5540	What is going on guys welcome to ict for dummies episode four today
+5540	11140	We're gonna be going over liquidity, which is essentially the foundation of ict concepts
+11140	14560	So we hinted a little bit at this with the previous video on market structure
+14560	21020	We showed you how the bodies and the wicks tell two very different stories and we're gonna elaborate on this today with liquidity
+21020	26640	So the market moves in two ways it moves to seek liquidity and it also moves to
+27000	31560	Rebalance the range and we'll talk about rebalancing the range in the next video, but for this video
+31560	35780	We're gonna be talking about liquidity. So liquidity is essentially fuel for the next move
+35780	40100	So the market makers the big money when they need to fill their orders
+40100	48000	They need to grab this cash that is resting in the market to then move price and the way that they want to and where
+48000	50560	Is this cash that is lying? You may ask
+50560	57360	Well, it's going to be resting in swing highs and swing lows. This candle formation is a three candle pattern
+57360	64520	So a swing high is a lower high a high and then another lower high and then a swing low is a higher low a
+64720	66480	Low and then a higher low
+66480	72720	I also see a lot of beginner traders getting messed up thinking that the actual color of the candle matters when we are creating
+72720	75640	A swing high and we are creating a swing low for example here
+75640	80280	We have two green candles and then one red candle these colors don't matter, right?
+80320	81440	This can be a red candle
+81440	86600	This can be a red candle like bearish bearish bullish these candles here. These can be two green candles
+86600	88600	This can be a red candle the colors do not matter
+88600	94960	What you should be focusing on is the lows and the highs that are created to make these swing lows and to make the swing highs
+95000	95500	Okay
+95500	102440	So what does buy side liquidity and sell side liquidity actually mean we have to understand first the psychology of traders?
+102440	104920	Let's say you want to take a short position, right?
+104920	107760	You're betting that the market is going to move down in this scenario
+108240	112200	Where are 90% of traders putting their stop losses?
+112200	116320	Well, you're most likely gonna put it at that recent swing high, right?
+116320	118800	So this is referred to as buy side liquidity
+118800	122320	If you are in a short position you put your stop loss at this high
+122320	127160	So you have sold contracts here and then you need to buy them back to actually get out of that position
+127320	133840	So there is a lot of cash that is resting here. So what is big money going to do to enter into the market?
+133880	138280	Well, they're gonna take all that cash and then they're going to move towards the direction
+138280	142120	They want it to go versus here when you have swing lows resting here
+142120	146600	If you are in a long position, where are 90% of traders putting their stop losses?
+146600	150480	Well, they're going to be putting it at that low at that swing low
+150600	153880	So what's resting here is sell stops, right?
+153880	160040	You have sell side liquidity here because if you're in a buy position you then need to sell those orders to get out and this
+160040	167600	Is just a huge pool of liquidity and a huge pool of cash for the market makers and for big money to then step in
+167600	169440	And take this to then move higher
+169440	175200	So these newly initiated swing highs and lows are gonna serve as stop losses for retail traders
+175200	181040	Which is gonna act as a magnet for price to trade back in to grab that liquidity before the real move is actually initiated
+181040	186600	and the reason liquidity and this lesson in general is so important is because it's gonna help you understand how to
+186760	192240	Avoid being liquidity how to avoid being stopped out unnecessarily. Alright guys think about it this way
+192240	196100	You want to go buy some drip, but you got no money on but your homie
+196240	202200	He's always leaving cash at his crib just laying around $100 bills on his nightstand. So what do you do?
+202200	205000	Obviously, you can't go buy clothes if you got no money
+205080	209720	so you hit a lick on this kid take all that cash cash grab liquidity sweep and
+209880	211960	Then you go buy all the drip
+211960	216580	There's cash that's resting and it needs to be taken if you want to get dripped up
+216600	217260	Okay guys
+217260	221140	So start getting in the habit of marking out those obvious swing highs and swing lows
+221140	224400	Which is gonna serve as sell side liquidity and buy side liquidity doing at the charts
+224400	228720	You can clearly see that here. We have sell side liquidity and then at the swing high we have buy side liquidity
+228720	230720	So as you can see here, we make our new swing low
+230720	233560	This is gonna serve as our sell side liquidity and then we deliver higher
+233560	237360	We take out this buy side liquidity and we create our new buy side liquidity, right?
+237440	243320	This is our new swing high then what happens we deliver lower and we create a swing low here
+243320	246440	We generate a new level of sell side liquidity
+246440	252320	This is gonna be our new swing low and then price delivers higher and starts delivering lower
+252440	257680	This becomes our new buy side level. This is gonna be our buy side liquidity price delivers lower and
+258160	262040	Creates this new swing low is our new sell side liquidity
+262040	268200	And then we create another swing high which is gonna be our new buy side liquidity once again
+268200	272920	So as you can see now, right? There's a sequence of buy side and sell side being generated. We have the sell side
+272920	273920	We had this buy side
+273920	280400	We create a new swing low sell side new swing high buy side new swing low sell side new swing high buy side
+280400	285000	New swing low sell side new swing high buy side and then this move
+285280	291200	Runs through all of this liquidity comes down all the way back to this first level and now this becomes our new
+291480	292680	sell side liquidity
+292680	293200	finally
+293200	299280	You can see that price runs through all this liquidity and takes out all these buy side levels and this is our new
+299440	303080	Swing low and this is our new swing high right here
+303080	304540	So from this range guys
+304540	311000	Just mark out the most obvious swing highs and swing lows that you see the most obvious in this scenario is going to be
+311000	317080	This high here and then this low here. This is sell side liquidity here. This is buy side liquidity here
+317120	321140	These liquidity levels should be sticking out like a sore thumb guys, right?
+321140	326080	They should be easy to spot and the more you practice spotting these liquidity pools the easier it's gonna get
+326080	330040	Also when you're starting out like Blake said focus on these major liquidity pools, right?
+330040	335720	You don't want to just mark out every single high and low you see and then cram up your charts with unnecessary information
+335720	340440	This is gonna end up putting you into a gnosis paralysis and you're gonna get more confused than you have to be keep your charts
+340440	345640	Clean guys. Alright, so we're now going to be talking about liquidity sweeps and what that actually means
+345640	351640	I'm sure you guys have heard this term used a lot by a lot of smart money concepts traders and ICT traders what this refers
+351640	354760	To is when big money and the market makers are grabbing
+355360	361280	Sell stops or grabbing these buy stops that we have marked out to then move the market in their direction
+361280	365920	So we have to think about in this way 90% of retail traders fail in the market
+365920	371140	What do 90% of retail traders trade so they either trade support and resistance
+371140	376300	So they trade very objectively in the sense that okay, they see this move getting made, right?
+376300	381620	We have a really big uptrend here. So they think well if we come down and retest this low
+381620	387220	We should do the same exact move since you know, we just have that move. So this is called support
+387220	393780	So they'll see this as a big support level and so they'll see this big support level and they'll go long here thinking that this
+393780	398580	Same move is going to happen and will push up higher and where will they'll put their stop losses?
+398820	406140	Well at that low so they think about trading in a really objective way and you end up seeing that these stop losses end up
+406140	409580	Getting ran before price actually wants to make its move
+409580	414660	Now there's also another way that retail traders often trade and this is using breakouts
+414660	419420	So what this breakout looks like is they'll think okay if we break below this low
+419420	425720	Then we should continue trading lower and they'll put a short position here. And where are their buy stops going to be rested?
+425720	428120	Well at that swing high that we had right
+428120	434800	This is our buy side liquidity level and then they will get stopped out of their position and smart money and the market makers end
+434800	435720	Up winning in the end
+435720	440960	So it's a really simplify that whole analysis just understand that when one person is getting out of the market
+440960	447760	Another person is getting put into the market because not only are people looking to get long here off that support level and then getting stopped
+447760	452200	Out what this liquidity sweep is essentially doing is also putting people in order
+452200	458840	So they're also filling orders and getting people into short positions and generating even more liquidity at these buy side levels
+458840	464400	And this is why I love ICT concepts so much because there's always this narrative behind every single trade that I'm taking, right?
+464400	467880	I'm not just marking out random support levels and random resistance levels
+467880	474720	Like there's a reasoning for every single trade that I'm taking and this is I think absolutely necessary when you're first learning to actually
+475000	479760	Understand how the market is truly moving the thing with ICT concepts is that you'll actually
+480120	484040	Understand why you're taking a win or why you're taking a loss every single time
+484040	488880	You'll understand why price is going to the next target as you get better at understanding liquidity
+488880	491840	You'll get better at determining the overall narrative of price
+491840	497640	This is why liquidity is so essential to ICT concepts because it is how the market moves, right guys
+497640	501560	The market moves in two ways to either seek liquidity or rebalance ranges
+501560	503480	We'll get into the whole ranges thing in the next video
+503480	507280	but eventually you'll see after this whole series that everything ties together and
+507360	514020	Plays off of each other one way or another and that's why ICT is so effective because not only does it make sense technically
+514020	518040	But it makes sense logically as well. And if you feel lost right now, don't worry
+518040	521200	We're gonna keep showing you some more examples to help you get the understanding of it
+521200	522820	We'll even give you some homework at the ends
+522820	526040	You can look over shit on your own and just get better at analyzing this whole thing
+526040	531720	But right the general consensus is that swing highs are gonna serve as buy side liquidity swing lows are gonna serve a sell side liquidity
+531720	537160	the reason we're teaching you how to identify this liquidity is because if you can learn to identify where that liquidity lies is
+537280	541800	Then you'll also be able to identify when it is taken and when it is the right time to enter a trade
+541800	545120	But for now just focus on learning how to identify liquidity
+545120	545560	Alright guys
+545560	551960	So looking at this chart take a few minutes here pause the video and mark out your significant swing highs that you see in your
+552040	558240	Significant swing lows. So this is going to be your major buy side levels and your major sell side levels that you're seeing right now
+558240	561640	On this chart and we're gonna give you guys some background music while you're doing this
+568200	576240	We go swing high swing low liquidity we take it then we go
+588400	592240	Okay, so here we have your major buy side liquidity and then your major sell side liquidity
+592680	597940	Look at what has been taken and then also we have sell side liquidity resting here in the form of swing low
+598240	603720	Sell side liquidity here sell side liquidity resting here and also sell side liquidity resting here
+603960	607100	We also then have buy side liquidity resting here
+607900	613800	Resting here and then this buy side liquidity to the left of us has been taken so this buy side level here
+614360	615360	here and here
+615360	620680	And if you're wondering why it has been quote-unquote taken it's because price already traded above these levels meaning
+620680	626440	Therefore that liquidity has been taken and these three buy side levels that haven't been taken is going to be the liquidity that is still
+626440	628400	Valid and where stop losses are going to be placed
+628400	633800	so once again here you have your two major liquidity levels your buy side up here and your sell side right here and then you have
+633800	638880	The sell side liquidity right here and this buy side liquidity right here. This has already been taken
+638880	642320	So watch as I play out price now and it targets this buy side liquidity up here
+642320	644400	Which is going to be holding a bunch of buy stops
+644700	650240	Right for anyone who's in a short anyone who's in a short is stopped out right here because this is where all the stop losses
+650240	655760	Are resting for shorts and then we go ahead and trade towards that sell side liquidity
+656040	662240	Bang and after all of these sell stops are ran and these retail traders are taken out of the market and once the market
+662240	665640	Makers have grabbed all of that cash and grabbed all that liquidity
+665640	671560	They then move price towards the direction that they want it to and they target this buy side liquidity here
+671560	674780	And also these swing highs that are put into the market here
+675780	679540	So guys as we wrap up this video on liquidity
+679540	684860	I decided to show you a four-part illustration which summarizes exactly what we had taught you
+684860	686660	So if you look all the way on the left here
+686660	692580	The first thing that happens is a swing high is created that swing high becomes a buy side liquidity, right?
+692580	694140	If people are going to be shorting their market
+694140	698500	Where are the buy stops going to be sitting at the swing high at this buy side liquidity?
+698580	704020	Remember those are interchangeable words buy side liquidity swing high then what happens?
+704060	709980	This buy side liquidity is traded away from people are shorting and their buy stops are resting right here
+710020	715740	Why is it called buy stops because they're shorting the market and so if they get stopped out in the case where you're trading futures
+715740	722180	Your contracts are being bought back then third step in the process of buy side liquidity being traded away from
+722700	724900	sell side liquidity is created and
+725340	731220	After the sell side liquidity is created price goes ahead and takes out the buy side liquidity
+731260	737660	So now we are stopping out all the people who were shorting the market where buy stops are resting at this swing high and
+738340	743380	Finally price trades now to the next liquidity, which is gonna be you know
+743380	748880	That's sell side liquidity we had created or any other liquidity that is resting further down in the market
+748880	753620	So break it down into four parts guys first identify worthy swing highs and swing lows are created
+753660	759380	Once you find that notice how price will typically trade away from this level which ends up resulting in a manipulation
+759380	764700	Move for 90% of retail traders then that level is traded back into
+764940	769360	Those retail traders are stopped out and then the real move is initiated
+769360	776580	The whole reason that ICT concepts is so important and that liquidity is so important is because it one serves as a foundation
+777100	780800	But two is gonna help you avoid being liquidity, right?
+780800	787960	You need to understand liquidity to avoid ending up as liquidity that being said this practically concludes our
+788880	795320	ICT for dummies episode 4 liquidity. We teach you how to make money
+806160	810020	And now for your homework after that lovely song on liquidity
+810040	816440	We're gonna give you two assignments first being identify simply buy side and sell side liquidity levels on the chart
+816480	818800	And then also identify liquidity sweeps
+818800	824680	So first find out where these swing highs and swing lows are being created and then when price goes ahead and takes them and try
+824680	829700	To start noticing how price reacts off of these liquidity levels. We're gonna get way more into liquidity with more videos
+829700	832640	It's actually gonna be three parts of liquidity. So this is the quiddity part one
+832640	836720	You're gonna have liquidity part two and the quiddity part three because there is a lot to talk about but for now
+836720	841000	Let's keep it simple. This is your homework fellas. That being said, that's it
+846440	848440	But it's time for you

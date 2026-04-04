@@ -1,0 +1,106 @@
+start	end	text
+0	18680	All right, folks, welcome back.
+18680	26120	All right, so this is the Tuesday, January 25th, 2022, ITT mentorship on the YouTube
+26120	27120	channel.
+27120	28120	All right.
+28560	32400	This is the internal range liquidity and market structure shift lecture.
+32400	38240	All right, so I gave you homework on the community tab.
+38240	42000	If you have not been paying attention to that, that's where I'm kind of keeping you abreast
+42000	47040	as to what you should be expecting next or something that just comes to mind that I feel
+47040	48040	like sharing.
+48040	50640	So this is the link I sent out the other day.
+50640	57080	And I wanted you to go through this particular chart and look for reasons that provided the
+57120	62520	market structure shift and the buy side and sell side liquidity.
+62520	66480	So if you have not done that, please stop the video and do that now.
+66480	69880	Otherwise, you're cheating yourself of learning opportunity.
+69880	78840	All right, so here is that chart, again, 15 minute time frame on the e-mini NASDAQ 100
+78840	83120	futures contract for March delivery 2022.
+83120	85240	And take your attention over here.
+85240	86540	OK.
+86540	94020	This old low and these relative equal highs, see that?
+94020	97820	Old low below that is sell stops.
+97820	100380	And relative equal highs above that is buy stops.
+100380	102420	Now, you could have used this high here.
+102420	104260	There's nothing inherently wrong about that.
+104260	109180	But whenever I see equal highs like this, and if it's higher than an old high over here,
+109180	110180	I'm going to use that.
+110180	115300	So that way, there's a little bit of insight for you for your study journal.
+115300	120060	The sell side liquidity, you can see that the market trades down, hits that, runs through
+120060	125820	it and rallies all the way back up, clearing equal highs.
+125820	127780	So the buy stops have been taken here.
+127780	128780	OK.
+128780	137780	So at both of these price points here and here, that's the, I guess, the point at which
+137980	142900	you'll look for or anticipate a market structure shift and you don't force it.
+142900	143900	OK.
+143940	145180	I'll try to teach my concepts.
+145180	150540	It'll talk about market structure breaks or shifts, and we'll use that term interchangeably.
+150540	157580	But for intraday, I want you to think about intraday market structure shifts because it's
+157580	164900	not necessarily a break in market structure that leads to prolonged multi-day movement.
+164900	165900	OK.
+165900	169660	What do I mean by that?
+169660	176420	If you see a market structure that's bearish and it's broken to the downside, intraday,
+176420	182500	that may just lead to an intraday price lag that may eventually see that high be taken
+182500	184200	out in the same day.
+184200	190740	So that's why I'm using the term market structure shift, not market structure break.
+190740	195300	For our conversation here on this mentorship, just know that when I'm going to lean on that
+195300	201780	term market structure break, it means a little bit more in context versus an intraday shift
+201780	202780	in market structure.
+202780	209460	It just means that there's likely a downside draw or an upside draw intraday by saying
+209460	210460	the term shift.
+210460	211460	OK.
+211460	213140	So there's a little bit of semantics there.
+213140	214140	All right.
+214140	221860	So we have both of these areas here and here where there would be a likelihood of a market
+221860	223620	structure shift.
+223620	227780	Up here, we look for a fake run above here.
+227780	231260	So that fake run above, how do we know it's going to be a market structure shift that's
+231260	232260	bearish?
+232260	236620	I get that question a lot, even from mentorship students.
+236620	239460	What you're looking for is the evidence I'm going to show you here tonight.
+239460	240460	OK.
+240460	243180	Forget everything else everybody else says about market structure breaks and shifts
+243180	244740	and all that stuff.
+244740	245740	This is it.
+245740	246740	OK.
+246740	247740	This is the brass tacks.
+247740	251300	There's absolutely nothing else that you need to know about it, I promise you.
+251300	255020	If they add anything to it, it's just because they want to sound and look different.
+255020	261700	But this is the algorithmic perspective of a market structure shift intraday.
+261700	268420	Now keep this price level in mind, so it's essentially $14,600 and $14,820.
+268420	272540	We're just eyeballing it, OK?
+272540	279460	Now dropping all the way down into a two-minute chart, this is that same particular day.
+279460	282900	There's those relative equal highs.
+282900	288780	And this run down here, OK?
+288780	299260	If you recall, $14,600 and around that $14,860 or so, OK?
+299260	307340	If you look at this market structure, without having the levels on your chart, it's easy
+307340	313420	to get lost in all of the quote unquote noise, the uninitiated, and I know it's going to
+313420	316500	razz the people that don't care to really learn here.
+316500	320620	But the uninitiated folks that will watch a video or listen to some of the lectures
+320620	326140	I'll put out, they're trying to bring something in, they're trying to bring in their preconceived
+326140	330980	notions and ideas about what they think they understand about markets or technical analysis
+330980	334260	or something in price action.
+334300	340900	I want to kind of like allow you to just put that aside for a moment and just imagine this
+340900	345740	chart is the first time you looked at price action for the first time, and that's hard,
+345740	350620	but kind of like strip away everything else that you want to bring to the conversation.
+350620	354580	No order block discussion, no breaker, none of that stuff, OK?
+354580	357020	Supply and demand, Elliott Wave, all that garbage.
+357020	364300	If you look at this price action here, when we had this low form, right before this low
+364300	369980	was formed, there's a swing high right there.
+369980	377380	Now in the first mentorship video I gave you, I mentioned that high frequency trading algorithms
+377380	382060	will use market structure on a three minute, two minute, and one minute chart many times
+382060	384100	sub one minute.
+384140	391460	That would be like 45 second, 30 second, 15 second intervals, OK?
+391460	397140	What the algorithms are actually doing, and this is also going to correct a lot of people
+397140	403900	out there because they put out misinformation, it's so nonsensical, but I'm challenging you
+403900	407660	to go into your charts and see if this is not what's actually going on because it happens
+407660	408660	every day.
+408660	412660	If high frequency algorithms are operating every single day, then these signatures will
+412700	416700	be in the chart, OK?
+416700	422900	If you look at this short term high here, right before this low formed, when this high
+422900	427540	is taken out right there on that candle, that's significant.
+427540	437980	Only, only if this run down here has traded into sell stops, OK, below an old low of some
+438300	443980	kind, it could be a double bottom, it could be a single low, OK, but it's got to be trading
+443980	451980	under some retail idea that would be viewed as support.
+451980	461660	Up here the same thing, we're trading above highs, so we know that above old highs a neophyte's
+461660	463300	perspective will be.
+463300	465540	These are unknown orders, so therefore that's a

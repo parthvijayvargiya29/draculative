@@ -1,0 +1,177 @@
+What is going on guys welcome to ict for dummies episode four today
+We're gonna be going over liquidity, which is essentially the foundation of ict concepts
+So we hinted a little bit at this with the previous video on market structure
+We showed you how the bodies and the wicks tell two very different stories and we're gonna elaborate on this today with liquidity
+So the market moves in two ways it moves to seek liquidity and it also moves to
+Rebalance the range and we'll talk about rebalancing the range in the next video, but for this video
+We're gonna be talking about liquidity. So liquidity is essentially fuel for the next move
+So the market makers the big money when they need to fill their orders
+They need to grab this cash that is resting in the market to then move price and the way that they want to and where
+Is this cash that is lying? You may ask
+Well, it's going to be resting in swing highs and swing lows. This candle formation is a three candle pattern
+So a swing high is a lower high a high and then another lower high and then a swing low is a higher low a
+Low and then a higher low
+I also see a lot of beginner traders getting messed up thinking that the actual color of the candle matters when we are creating
+A swing high and we are creating a swing low for example here
+We have two green candles and then one red candle these colors don't matter, right?
+This can be a red candle
+This can be a red candle like bearish bearish bullish these candles here. These can be two green candles
+This can be a red candle the colors do not matter
+What you should be focusing on is the lows and the highs that are created to make these swing lows and to make the swing highs
+Okay
+So what does buy side liquidity and sell side liquidity actually mean we have to understand first the psychology of traders?
+Let's say you want to take a short position, right?
+You're betting that the market is going to move down in this scenario
+Where are 90% of traders putting their stop losses?
+Well, you're most likely gonna put it at that recent swing high, right?
+So this is referred to as buy side liquidity
+If you are in a short position you put your stop loss at this high
+So you have sold contracts here and then you need to buy them back to actually get out of that position
+So there is a lot of cash that is resting here. So what is big money going to do to enter into the market?
+Well, they're gonna take all that cash and then they're going to move towards the direction
+They want it to go versus here when you have swing lows resting here
+If you are in a long position, where are 90% of traders putting their stop losses?
+Well, they're going to be putting it at that low at that swing low
+So what's resting here is sell stops, right?
+You have sell side liquidity here because if you're in a buy position you then need to sell those orders to get out and this
+Is just a huge pool of liquidity and a huge pool of cash for the market makers and for big money to then step in
+And take this to then move higher
+So these newly initiated swing highs and lows are gonna serve as stop losses for retail traders
+Which is gonna act as a magnet for price to trade back in to grab that liquidity before the real move is actually initiated
+and the reason liquidity and this lesson in general is so important is because it's gonna help you understand how to
+Avoid being liquidity how to avoid being stopped out unnecessarily. Alright guys think about it this way
+You want to go buy some drip, but you got no money on but your homie
+He's always leaving cash at his crib just laying around $100 bills on his nightstand. So what do you do?
+Obviously, you can't go buy clothes if you got no money
+so you hit a lick on this kid take all that cash cash grab liquidity sweep and
+Then you go buy all the drip
+There's cash that's resting and it needs to be taken if you want to get dripped up
+Okay guys
+So start getting in the habit of marking out those obvious swing highs and swing lows
+Which is gonna serve as sell side liquidity and buy side liquidity doing at the charts
+You can clearly see that here. We have sell side liquidity and then at the swing high we have buy side liquidity
+So as you can see here, we make our new swing low
+This is gonna serve as our sell side liquidity and then we deliver higher
+We take out this buy side liquidity and we create our new buy side liquidity, right?
+This is our new swing high then what happens we deliver lower and we create a swing low here
+We generate a new level of sell side liquidity
+This is gonna be our new swing low and then price delivers higher and starts delivering lower
+This becomes our new buy side level. This is gonna be our buy side liquidity price delivers lower and
+Creates this new swing low is our new sell side liquidity
+And then we create another swing high which is gonna be our new buy side liquidity once again
+So as you can see now, right? There's a sequence of buy side and sell side being generated. We have the sell side
+We had this buy side
+We create a new swing low sell side new swing high buy side new swing low sell side new swing high buy side
+New swing low sell side new swing high buy side and then this move
+Runs through all of this liquidity comes down all the way back to this first level and now this becomes our new
+sell side liquidity
+finally
+You can see that price runs through all this liquidity and takes out all these buy side levels and this is our new
+Swing low and this is our new swing high right here
+So from this range guys
+Just mark out the most obvious swing highs and swing lows that you see the most obvious in this scenario is going to be
+This high here and then this low here. This is sell side liquidity here. This is buy side liquidity here
+These liquidity levels should be sticking out like a sore thumb guys, right?
+They should be easy to spot and the more you practice spotting these liquidity pools the easier it's gonna get
+Also when you're starting out like Blake said focus on these major liquidity pools, right?
+You don't want to just mark out every single high and low you see and then cram up your charts with unnecessary information
+This is gonna end up putting you into a gnosis paralysis and you're gonna get more confused than you have to be keep your charts
+Clean guys. Alright, so we're now going to be talking about liquidity sweeps and what that actually means
+I'm sure you guys have heard this term used a lot by a lot of smart money concepts traders and ICT traders what this refers
+To is when big money and the market makers are grabbing
+Sell stops or grabbing these buy stops that we have marked out to then move the market in their direction
+So we have to think about in this way 90% of retail traders fail in the market
+What do 90% of retail traders trade so they either trade support and resistance
+So they trade very objectively in the sense that okay, they see this move getting made, right?
+We have a really big uptrend here. So they think well if we come down and retest this low
+We should do the same exact move since you know, we just have that move. So this is called support
+So they'll see this as a big support level and so they'll see this big support level and they'll go long here thinking that this
+Same move is going to happen and will push up higher and where will they'll put their stop losses?
+Well at that low so they think about trading in a really objective way and you end up seeing that these stop losses end up
+Getting ran before price actually wants to make its move
+Now there's also another way that retail traders often trade and this is using breakouts
+So what this breakout looks like is they'll think okay if we break below this low
+Then we should continue trading lower and they'll put a short position here. And where are their buy stops going to be rested?
+Well at that swing high that we had right
+This is our buy side liquidity level and then they will get stopped out of their position and smart money and the market makers end
+Up winning in the end
+So it's a really simplify that whole analysis just understand that when one person is getting out of the market
+Another person is getting put into the market because not only are people looking to get long here off that support level and then getting stopped
+Out what this liquidity sweep is essentially doing is also putting people in order
+So they're also filling orders and getting people into short positions and generating even more liquidity at these buy side levels
+And this is why I love ICT concepts so much because there's always this narrative behind every single trade that I'm taking, right?
+I'm not just marking out random support levels and random resistance levels
+Like there's a reasoning for every single trade that I'm taking and this is I think absolutely necessary when you're first learning to actually
+Understand how the market is truly moving the thing with ICT concepts is that you'll actually
+Understand why you're taking a win or why you're taking a loss every single time
+You'll understand why price is going to the next target as you get better at understanding liquidity
+You'll get better at determining the overall narrative of price
+This is why liquidity is so essential to ICT concepts because it is how the market moves, right guys
+The market moves in two ways to either seek liquidity or rebalance ranges
+We'll get into the whole ranges thing in the next video
+but eventually you'll see after this whole series that everything ties together and
+Plays off of each other one way or another and that's why ICT is so effective because not only does it make sense technically
+But it makes sense logically as well. And if you feel lost right now, don't worry
+We're gonna keep showing you some more examples to help you get the understanding of it
+We'll even give you some homework at the ends
+You can look over shit on your own and just get better at analyzing this whole thing
+But right the general consensus is that swing highs are gonna serve as buy side liquidity swing lows are gonna serve a sell side liquidity
+the reason we're teaching you how to identify this liquidity is because if you can learn to identify where that liquidity lies is
+Then you'll also be able to identify when it is taken and when it is the right time to enter a trade
+But for now just focus on learning how to identify liquidity
+Alright guys
+So looking at this chart take a few minutes here pause the video and mark out your significant swing highs that you see in your
+Significant swing lows. So this is going to be your major buy side levels and your major sell side levels that you're seeing right now
+On this chart and we're gonna give you guys some background music while you're doing this
+We go swing high swing low liquidity we take it then we go
+Okay, so here we have your major buy side liquidity and then your major sell side liquidity
+Look at what has been taken and then also we have sell side liquidity resting here in the form of swing low
+Sell side liquidity here sell side liquidity resting here and also sell side liquidity resting here
+We also then have buy side liquidity resting here
+Resting here and then this buy side liquidity to the left of us has been taken so this buy side level here
+here and here
+And if you're wondering why it has been quote-unquote taken it's because price already traded above these levels meaning
+Therefore that liquidity has been taken and these three buy side levels that haven't been taken is going to be the liquidity that is still
+Valid and where stop losses are going to be placed
+so once again here you have your two major liquidity levels your buy side up here and your sell side right here and then you have
+The sell side liquidity right here and this buy side liquidity right here. This has already been taken
+So watch as I play out price now and it targets this buy side liquidity up here
+Which is going to be holding a bunch of buy stops
+Right for anyone who's in a short anyone who's in a short is stopped out right here because this is where all the stop losses
+Are resting for shorts and then we go ahead and trade towards that sell side liquidity
+Bang and after all of these sell stops are ran and these retail traders are taken out of the market and once the market
+Makers have grabbed all of that cash and grabbed all that liquidity
+They then move price towards the direction that they want it to and they target this buy side liquidity here
+And also these swing highs that are put into the market here
+So guys as we wrap up this video on liquidity
+I decided to show you a four-part illustration which summarizes exactly what we had taught you
+So if you look all the way on the left here
+The first thing that happens is a swing high is created that swing high becomes a buy side liquidity, right?
+If people are going to be shorting their market
+Where are the buy stops going to be sitting at the swing high at this buy side liquidity?
+Remember those are interchangeable words buy side liquidity swing high then what happens?
+This buy side liquidity is traded away from people are shorting and their buy stops are resting right here
+Why is it called buy stops because they're shorting the market and so if they get stopped out in the case where you're trading futures
+Your contracts are being bought back then third step in the process of buy side liquidity being traded away from
+sell side liquidity is created and
+After the sell side liquidity is created price goes ahead and takes out the buy side liquidity
+So now we are stopping out all the people who were shorting the market where buy stops are resting at this swing high and
+Finally price trades now to the next liquidity, which is gonna be you know
+That's sell side liquidity we had created or any other liquidity that is resting further down in the market
+So break it down into four parts guys first identify worthy swing highs and swing lows are created
+Once you find that notice how price will typically trade away from this level which ends up resulting in a manipulation
+Move for 90% of retail traders then that level is traded back into
+Those retail traders are stopped out and then the real move is initiated
+The whole reason that ICT concepts is so important and that liquidity is so important is because it one serves as a foundation
+But two is gonna help you avoid being liquidity, right?
+You need to understand liquidity to avoid ending up as liquidity that being said this practically concludes our
+ICT for dummies episode 4 liquidity. We teach you how to make money
+And now for your homework after that lovely song on liquidity
+We're gonna give you two assignments first being identify simply buy side and sell side liquidity levels on the chart
+And then also identify liquidity sweeps
+So first find out where these swing highs and swing lows are being created and then when price goes ahead and takes them and try
+To start noticing how price reacts off of these liquidity levels. We're gonna get way more into liquidity with more videos
+It's actually gonna be three parts of liquidity. So this is the quiddity part one
+You're gonna have liquidity part two and the quiddity part three because there is a lot to talk about but for now
+Let's keep it simple. This is your homework fellas. That being said, that's it
+But it's time for you

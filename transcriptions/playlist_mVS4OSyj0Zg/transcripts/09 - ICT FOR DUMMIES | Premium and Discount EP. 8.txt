@@ -1,0 +1,421 @@
+Welcome to ICT for Dummies Episode 8
+Premium and discount
+Premium and discount
+Buy low and sell high
+Yeah, keep it short in there
+Add to premium
+And keep longin' at the discount
+Cause this is
+Buying low
+And sell high
+If it would not, she won't get you right
+Find six liquidity and rebalance ranges
+That's how you trade this
+With the premium and discount
+You will maybe probably get laid
+What? That's a crazy last one
+Alright everyone, so today for this video we're going to be going over premium and discount
+We're going to be going over what these ranges actually mean
+I'm sure you've heard the term used a lot inside of a premium range or inside of a discount range
+So we'll get into how you can actually use them
+It might be a little bit confusing cause there's going to be a lot of different ranges
+But we're going to get into some examples and again show you how to actually use them
+The first step is whipping out your fib retracement tool
+This is going to be your best friend when it comes to marking out premium and discount
+Blake, show them what that looks like
+Oh, they actually did bring my
+Your nutsack ointment
+My nutsack ointment is here, be right back
+So first things first guys, I just want to explain to you guys why this is actually important, premium and discount
+And just give you an analogy for like real life
+For example, when you're at the store and you want to buy something, right
+You want to buy it at a discount
+For example, for PD Premium, you want to be getting it on those sales, right
+When we have 25% off for National Woman's Day for celebrating Patrick, right
+So you want to be getting it during times like that
+You do not want to be getting it at a premium when prices are inflated or when prices are raised
+No, no, no, don't join the Discord at a discount
+That's when we get all you damn brain rotters who just don't even care to learn
+All you care about is just
+Some of you guys just like sometimes just fricking join the Discord
+And just like signal, signal
+And you don't even care about my feelings
+I'm there to teach you, bro
+I just want to change your life and stuff
+All you care about is like yo, PB, when's the next discount
+Not everything's about a discount
+They always ask when the next signal is coming out
+But never how's the signaler
+How's the signaler doing
+I mean again guys, for example, you're in the store
+You want to be buying eggs when they're on a discount
+Not when it's premium, not when the prices are inflated
+That's essentially the whole reasoning behind premium and discount, right
+You want to be getting in on the market at a good price
+So with this lesson, we're really going to show you how to utilize the Fibonacci tool as effectively as possible
+And what this is going to do is going to optimize your entries
+If you're longing from a premium or you're shorting from a discount
+It's not going to be as optimal as if you're longing from the discount or shorting from the premium
+So let's show you guys where actually premium and discount lies
+So for example, in this trading leg, we have a very obvious impulsive swing high and a swing low
+And let's say in this scenario that we are bearish
+We're going to be drawing out our Fib tool from the swing high all the way down here towards this swing low
+Now really quick, if you guys want to just look at the Fib retracement
+I just have 0.5 here and 1
+Now if I want to be shorting, I want to see price trade into equilibrium of this range
+This is called equilibrium
+The 0.5 is called equilibrium
+In this bearish scenario, anything here is considered discount
+Anything here is considered premium, right?
+So if we're shorting, we want to be in premium
+Now, like we've said before, and we say this all the time
+Price is always doing one of two things
+What is that? It is either seeking liquidity or rebalancing ranges
+So like Blake mentioned, when you do have these super impulsive moves
+For example, this very strong bearish order flow that leaves little to no retracement
+If you want to short, you at least want to see a rebalance of this range before you take shorts lower
+You want to be shorting from the premium of this range
+You want to be shorting once equilibrium has been hit and that range has been rebalanced
+And the main point of premium and discount, guys, all comes down to risk to reward
+So if I bring out my risk to reward tool, you can see here at exactly equilibrium
+This will give me a one-to-one risk to reward from the buy side liquidity to the sell side liquidity
+And as we get deeper into the premium of this range, the better my risk to reward will be
+And as you see, as we keep going deeper into this range, the better my risk to reward becomes
+So this is going to be really helpful for you guys to actually get better risk to reward on your trades
+Because you do not want to be shorting, for example, here when price hasn't even reached equilibrium of this range
+Because your risk to reward will be negative and that is not good
+So now we can mark out this bullish leg bottom to top
+And as you can see here, we now have the premium and the discount marked out, right?
+So if you want to take longs, ideally, this is not the area we want to be longing in
+Why? Because we are very premiumed right now
+You would want to see price rebalance this range, which means at least trade up until equilibrium
+And now this imbalance has been corrected and now longs are going to be far more optimal
+And you're going to get better risk to reward because we are discounted now
+So obviously, if you're longing near equilibrium, you're going to get at least a one-to-one back to this high
+And like Blake said, you know, the deeper you go into this range, into the discount for longs
+The better that your risk to reward is going to be
+I'll say it a million times, all these concepts and everything we teach you, you don't just use them individually
+You pair them with everything else we've taught you
+But this is very important to know because this is going to optimize your entries
+It's going to optimize your RR, it's going to help you avoid getting stop rated
+And it's going to allow you to achieve more consistent trading results
+So let's pair this with something like fair value gaps, right?
+If we want to be longing a fair value gap of this bullish leg
+Ideally, we wouldn't want to long the one that's premiumed all the way here
+Because we're obviously not going to get good risk reward
+And chances are that price won't reject this premium bullish value gap
+Like it will reject this discounted bullish value gap
+Why is that? Because if you're going to be longing this fair value gap up here, this range has still yet to be rebalanced
+Ideally, you'd want to wait for the range to get rebalanced
+If you're going to enter off a fair value gap, you'd want it to be the discounted one if you're going to enter long
+So this is going to have a way higher probability of actually being respected and then trading to the desired level
+Now again, guys, this might get a little bit confusing because obviously there's going to be ranges inside of ranges
+For example, here we have this dealing range that we just had
+But then also, once this swing gets made, we're going to be having another dealing range right here
+So we're going to get into some examples on how to actually draw out your ranges correctly
+So you don't just get lost because this is a very confusing ICT concept that I feel like a lot of people get mixed up with
+Like where do I draw our ranges?
+But we're going to go into some examples right now to hopefully clear things up
+So again, guys, with this concept, you want to be utilizing it with other confluences, right?
+So as we talked about in our liquidity video, right?
+We had a sweep here of this liquidity right here
+Nice little sell side sweep
+Yes. What do we notice we got above guys?
+Some nice buy side liquidity
+We have buy side liquidity resting here
+And we also have that low resistance liquidity as a liquidity pool
+So obviously once we've identified that we have that sell side sweep on the higher time frame and we swept that 15 minute low
+Now we have this impulse leg on the one minute time frame, right?
+We clearly have very strong bullish reaction here after that sell side sweep
+And now we can mark out this range top to bottom, right?
+So here we have equilibrium resting, which is going to be the point five
+So ideally I'd want to be longing from a retracement into at least equilibrium
+But something I do want to say is that we don't necessarily need to be in the trade at discount
+As long as we know that this range has been rebalanced, we should be okay to be longing
+So if you're feeling confident enough with price where you're telling yourself, okay, this range has been rebalanced
+I have all the bullish conflicts that I need to be longing and we're in this discount
+This range has gone rebalanced as well. You know, this is looking good for longs
+I'll enter off here
+But sometimes you might want to wait for a little bit of structure
+So you'll probably wait for a reaction off of equilibrium
+And maybe once you get that reaction, you're like, okay, I'll take longs from here
+Stop, I'll have to swing low and then I'll target all this, right?
+So what I'm trying to get out here is you don't necessarily need to be in the trade at discount
+But you do want to see that range get rebalanced before you enter long
+But before price truly enters bullish order flow, you're going to notice that it's going to want to rebalance this range
+Which you can see right here. It taps into equilibrium
+It hits this discounted fair value gap. And then what happens after we get that delivery higher, right?
+And we go ahead and run all these levels that we have marked out
+So this is why understanding how to use this fit retracement tool is really important
+Because if you are able to mark out premiums and discounts of legs, then you're going to optimize your entry
+But before we even go about executing on the lower time frame, we also still want to be analyzing if these ranges are being rebalanced on the higher time frame
+So right now we're on the five minute chart. We were previously on the one minute chart
+If we mark out this leg right here on the five minute chart, you can clearly see that price goes ahead trades higher really impulsively
+And then before it continues higher and breaks its high once again, what do we get?
+We get that rebalanced equilibrium
+Why is this important? Because it's the same things that you want to see on the lower time frame
+You want to see in the higher time frame same things you want to see on the higher time frame
+You want to see in the lower time frame. It's all fractal. You want to be able to apply it across all time frames
+So if you're seeing a range get rebalanced on the higher time frame, what's it going to help you do?
+It's going to help you determine your bias. It's going to help you go about your next strong liquidity
+And you can see this is literally constantly happening. We get this strong move up price rebalances hits equilibrium goes up higher
+What do we get here? Price moves up rebalance this range goes up higher. Do you get what I'm trying to say now?
+There's always going to be a stronger reaction when price is rebalancing these ranges and tapping into these significant PDR race
+So hopefully you guys see what I'm trying to get at here, right?
+Price usually needs to rebalance these ranges before it can continue in the direction that it wants to
+So now that we know that the higher time frame leg is rebalanced, we don't really have to worry about price trading lower here
+We just want to pair these exact same confluences on the lower time frame so we can execute properly
+So we know the higher time from got rebalanced, right?
+We trade it into equilibrium and then we also get that trade back into equilibrium here and everything is aligning
+We're clearly seeing that every time we have a leg up price goes back
+Rebalances that range and then gets a reaction and we know from here we are ready for longs, baby
+And with this guys also is that ranges are always expanding, right?
+So every time we take out a new swing your range is constantly expanding
+So for example here we have this swing low and then this major swing high point
+And what you should be looking for underneath equilibrium of this range is liquidity pools or fair value gaps
+And in this scenario here we have both
+We have this liquidity pool being the south side liquidity and then we have this bullish fair value gap
+And that's how we were able to come to that conclusion of that bullish bias on the higher time frame because we expanded this range
+And we saw that price traded below equilibrium of this range and then we got our lower time frame entry
+Now we're going to get into a bearish example of premium discount. Good one
+Alright guys, so right here we have a very strong impulsive down move
+And this was probably from news, right? So we can mark out the swing high
+This is our swing high and then this is our swing low
+And this does go lower and as I was saying ranges are always expanding
+So you just draw it out a little bit lower now
+Now that that swing low is put in place
+We want to see price trade into premium of this range before entering into any sort of shorts, right?
+We want to see price get rebalanced and then we want to see that lower time frame confirmation get out of this to then enter a short
+So I'm going to go down now to the five minute
+So as you guys can see here, we have this bearish five minute for value gap sitting at equilibrium of this range, right?
+So I want to see this get traded to before entering into a short
+You do not want to be shorting, you know, when we're down here before hitting equilibrium, right?
+Because there's still room for price to move
+We still need price to trade into equilibrium orders are getting filled here, right?
+Nobody in the market is entering at this low into discount, right?
+So once price trades into this five minute for value gap
+I'm then going to look for that lower time frame structure to get confirmation that we're going to go lower towards this sell side liquidity down here
+And from here price ends up trading back down towards the sell side liquidity as you can see
+And I want you guys to know also to not be marking out every single range that you guys see, right?
+For example here in this scenario, if I'm going to be bearish, right?
+And I'm looking for shorts down towards this sell side liquidity
+I'm not going to be marking out, you know, impulse legs from here to here, right?
+Because that's not what I'm looking to see price get traded into
+I'm not looking for longs, right? I'm looking for shorts
+So all I'm caring about is this impulse like here
+And then if I'm going to be dropping down to the lower time frame, right?
+I'm going to be looking for those impulse legs on the lower time frame
+So we're going to get into a couple more examples now guys, just instill this into your brain
+So here we've identified another super strong impulsive leg down, right?
+We have this very, very blatantly voluminous, juicy, ginormous fricking...
+Hey yo!
+Okay, we know that now since there's a huge imbalance in price
+It most likely needs to be corrected if it is going to sell off again, right?
+But like we said before, ranges can be confusing
+And just because we hit equilibrium of this doesn't mean that order flow has to flip completely bearish
+We can always continue to analyze the ranges as we go to see where price truly wants to go
+So if we play this out, we see that price trades up until equilibrium
+And naturally we do get a reaction
+But instead of expanding lower, we can see that price actually ends up respecting this newly formed range and continues higher
+And notice what price keeps doing, right?
+If we continue focusing on these new ranges and these new impulse legs being created
+Which are now towards the upside and we keep marking them out
+What do we realize?
+Well, we notice that price will continue rebalancing these and then expanding higher
+So we do have a flip in order flow here
+This range itself is getting ran through
+But at first we did get a reaction from the equilibrium
+However, with these new ranges being formed, we are now getting reactions to the upside
+And these bullish ranges are getting rebalanced and continuing to expand higher
+And this happens nearly all the time, right?
+Sometimes it's not perfect
+But for the most part, you are getting these rebalances pretty frequently before price continues to expand higher
+So yeah guys, I know this might seem like a little bit confusing now
+But guys, trust me, once you start adding this with all of your other confluence like we've taught you
+Like liquidity sweeps, like for value gaps, right?
+We're going to get into daily bias and all of that later on
+But you guys will slowly start piecing together all of these concepts that we teach you
+And it will make a lot more sense later on
+So if we use something like the fib tool and premiums and discounts
+And just a simple understanding that ranges naturally need to get rebalanced almost all the time to continue in the corresponding direction
+Then you can use that to help you determine something like your bias, right?
+So let's say we mark out this leg top to bottom
+We have this really strong leg, this impulsive bearish leg
+And we're trading AM session
+Then we're most likely thinking that for AM session we'd want to see price rebalance this range
+So maybe during AM session we're going to be looking for longs
+We're going to have a bullish bias because we know there's a huge imbalance in this leg
+And it most likely needs to be corrected
+You can mark something out like this hourly bearish fair value gap
+You can anticipate, okay, going into this morning
+I probably want to see if I can catch some longs
+Maybe trade up into this hourly bearish fair value gap that's sitting at the premium of the range
+And so obviously you can see during AM session that's exactly what you get
+Price goes ahead, rebalances this range
+And now if you're trading PM session
+You can use that higher time from analysis with premiums and discounts to also determine your next bias and your next draw on liquidity
+So now you know, okay, we're sitting inside this hourly bearish fair value gap
+It's PM session now
+This range has already been rebalanced
+Do I really want to keep looking for longs?
+Most likely not
+And you can see that PM session goes ahead and has a strong reaction down because we rebalance this range
+So this is like very vaguely just showing you how you can use this to help determine your bias
+Simply analyzing where these imbalances in price are lying
+Whether we are trading in the premium or discount
+And this will help you get a more accurate narrative of price in general
+So we can almost piece this in like three parts, right?
+You have like your higher timeframe leg
+We have this really strong bullish leg
+If we're going to be bullish going into the morning
+Then we want to make sure this range is rebalanced
+Awesome
+We know that we have this higher timeframe leg being rebalanced
+Let's consider the green zone to be like the hourly timeframe
+Maybe the one hour, the four hour
+We know that this higher timeframe leg has gotten rebalanced
+And we know that we're getting a reaction from it
+So then if we're like looking at relatively lower timeframes
+Like the 15 minute, let's make this like orange
+Then this is most likely the current trading range that we're in of the session
+And we'd also want to see this get rebalanced
+And this get respected
+If we want to have more confirmation for a bullish bias
+So we sort of start off on the higher timeframe
+When we drop down and continue receiving that confirmation from price action
+We know that this higher timeframe hourly leg has gotten rebalanced and respected
+We get a reaction
+Now if we're looking at like a 15 minute chart
+We know that this range has also gotten rebalanced and respected
+And now if we go down all the way to like where we're executing
+Which is mainly going to be on the one to five minute timeframe
+With the way Blake and I trade
+We'll mark this out as yellow
+Then we can get our final confirmation to see if these lower, lower timeframe ranges are also getting rebalanced
+You know, we're probably looking for an entry now
+So we'll have like a bullish value gap sitting right here
+And we want to see, you know, maybe this range got rebalanced
+Trade into a bullish value gap, respect that
+And from there, we're locked in for longs
+And we can anticipate that price will run higher
+So I know this looks pretty sloppy and it's like all jumbled up together
+But you get what I'm trying to say, right?
+You always want to keep dropping down into the timeframes
+Making sure that everything is truly being respected and building up that confirmation
+The more confirmation you can build across each timeframe
+The higher probability that your trade is going to play out
+Okay guys, so going off what Patrick just said
+I'm going to be pairing everything together in an example right here on the chart
+So on the higher timeframe, I'm bullish
+So I'm going to be marking out this swing low here to this swing high, right?
+And underneath that, what do we see?
+We have a bullish fair value gap here on the hourly timeframe
+So for me to be taking longs, what I want to see price do
+Is for price to trade back into this bullish fair value gap
+Get some reaction out of that
+Maybe form that lower timeframe confirmation
+And then we can get some longs out of there to target this buy-side liquidity
+So now I'm going to drop down into the 15-minute timeframe
+And I'm going to wait for this fair value gap to get traded into
+So once this fair value gap gets traded into and we respect it
+I'm now on the 15-minute timeframe
+I'm going to wait for that structure to then validate this bias
+I'm going to go down now to this 5-minute timeframe
+To see if we can actually get an entry and if we can get some reaction off of this level
+So now I'm going to whip out this Fib
+I'm going to go from the swing low to the swing high
+And I'm going to wait for price to trade into equilibrium
+Into this fair value gap to then get a trade idea off this
+I keep expanding this range here, keep expanding this
+Now that the swing high is put into place
+I'm looking to see price trade below equilibrium of this range
+And what do we see here?
+Well, we have sell-side liquidity resting right here
+As well as we have this bullish fair value gap right here in discount
+So I want to see price then trade lower into this fair value gap
+Sweeping out the sell-side liquidity
+And then getting along towards this buy-side liquidity above us
+Then price ends up sweeping out this low
+Trading into this bullish fair value gap
+We get a reaction off this
+And here I can enter longs with a stop loss of this swing
+TP at this high, for example
+And maybe you can even leave runners for that buy-side liquidity on the hourly timeframe
+And then we can play out price here
+And it ends up smacking all of these take profits
+So you want to be marking out your Fibonacci guys for everything
+On the daily timeframe, on the hourly
+To really get a sense of where your bias is
+And then for your actual entry point
+It's going to be really, really helpful in getting that risk reward
+Because the Fibonacci and equilibrium and premium and discount
+It's useful for those two reasons
+One is for actual imbalances in price
+The market likes to trade towards discount
+Because that's where a lot of buyers are stepping in
+And price likes to trade towards premium
+Because that's where a lot of sellers are stepping in
+So a lot of orders are getting filled at those areas
+And then for us, for traders
+We want to be using that as an actual entry point for risk reward reasons
+So understanding the two reasons of why the Fib tool
+And why premium discount is so helpful
+Is going to help you guys a lot in just your overall trading
+So yeah guys, that pretty much wraps up premium and discount
+You can really apply this to nearly everything in life
+So the way you should think about it is if you pull up to a party
+And you see a girl that you really like
+It's almost like longing at a discount
+You want to start, you know, chopping it up with her
+Sort of getting in nice before that range gets rebalanced
+Before other people start talking
+And it's going to allow you to get that optimal entry
+Because if you wait like too late into the night
+Then chances are that range has already been rebalanced
+Someone already talked to her
+Someone already got the reps in
+And you just missed out on the greatest long opportunity of your life
+If you're not taking advice from us
+You're probably never going to be rich
+Nah, I'm kidding
+But seriously, thank you guys so much for watching
+ICT for dummies episode 8
+Premium and discount
+Using Fibonacci
+Homework, homework guys
+Is going to be mark out your premium and discount ranges
+Just go into the chart
+Look at the swing highs, look at the swing lows
+Mark out your buy side liquidity, mark out that sell side liquidity
+And you know, just be marking out your overall ranges
+Seeing where price is going to trade towards
+Last thing I do want to say
+If you are looking for some mentoring from us
+We do have applications open for our mentorship right now
+You can apply through like our Instagram bio link
+We'll probably toss it in the YouTube description too
+When you join our mentorship
+If you are more like the beginner side
+We do give you like a whole 20 course video
+Before we get into the live calls
+And those videos will essentially explain every single concept that you need
+And then we'll get more into like model breakdown
+Bias, draw liquidity when the mentorship starts
+And there's a lot of really fun interactive
+And just great community overall in this mentorship
+So if that's something you're interested in
+Apply, if that's not something you're interested in
+Keep watching this YouTube series
+We're going to keep releasing banger videos
+We're going to explain really everything for free
+And give you all the sauce you need
+But for those of you who do want I guess a little bit extra mentoring
+Some accountability
+And just overall cool community to learn with
+Then link in description
+Check that out
+Make sure to subscribe, like, comment
+Tell me what concept you're looking forward to learning most
+Drop that comment below
+Much love fellas
+Peace out

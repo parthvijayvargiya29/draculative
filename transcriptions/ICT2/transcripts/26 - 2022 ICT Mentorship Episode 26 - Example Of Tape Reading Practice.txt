@@ -1,0 +1,168 @@
+All right, so we're going to be doing a quick little ditty on institutional order flow.
+I'm going to be trading against the daily bias.
+Okay, I'm going long here, and it's on the basis of the sell-stop or sell-side liquidity
+being taken.
+I traded into a fair value gap around that $4,000 level, and I'm trading with the idea
+that it could run up here and take out the buy stops above the high of the day.
+It doesn't need to do that to be profitable.
+So my draw liquidity is here, and noting the buy-side liquidity will take in a clear profitable
+shorts.
+So this is kind of like the idea, the draw on liquidity.
+Now it doesn't need to trade here to be profitable.
+That's just my best case scenario.
+So what I want to do now is draw the buy-side and sell-side liquidity pools, and I'll show
+you the framework for the logic of why I'm entering where I'm entering at, and I want
+you to take a look at the chart first and see if you understand what I'm capitalizing
+on.
+Pause the video.
+This here is the sell-side liquidity.
+So the market has dropped below those relative equal lows.
+I bought those sell-stops.
+So sell-side is taken, so you can see that here.
+And now what I'm going to target, even though I think it could go, but it may not really
+get there, it can go to $40.51 and take out the high of the day.
+But let's say I'm wrong.
+What am I going to aim for?
+This is where I'm going to take the bulk of my position off at, and I'm going to make
+this show on top of the line.
+Okay, and put that on top.
+All right, so I'm reaching for that.
+Now the bulk of my position, I'm going to try to pyramid and build this position a little
+bit bigger than just the four contracts, but we'll see what I get.
+Now try not to worry about that profit and loss.
+That's a distraction.
+Pay attention to the price.
+Okay, we dipped inside that fair value gap just to the left of us, and we went below
+to take out the relative equal lows.
+That's noted here for the sell-side liquidity being taken.
+So I'm looking for expansion to the upside.
+Retail sees that as a bear flag.
+Okay, so they're thinking lower prices, I'm not.
+Even if I'm wrong about it not going to $40.51, I'm confident that we're going to go up into
+the buy-side liquidity that's noted in blue.
+Okay, so far price looks nice.
+It's respecting the underlying narrative I'm acting upon.
+Now I want you to also monitor how I manage my stop loss.
+Even though I'm trading against the daily bias, the fact that we traded down three times
+yesterday and took out yesterday's low by doing so, that lack of follow-through, kind
+of like bolsters.
+I'm going to do two more here trading onto the order block.
+Okay, so now I have six contracts long, and I'll move my stop off just a little bit underneath
+that low rate there.
+Should not trade back down into that.
+If it does, I'm wrong and that's fine.
+Why do I feel confident about placing my stop loss there?
+Because if you look where I have my stop, it's basically inside of the lower end of
+the fair value gap and the old short-term high around $9.30.
+So I have market structure supporting the idea, and we've already taken sell-side liquidity
+out.
+We're back inside the range between where my stop loss order is and the short-term high
+I have noted for buy-side liquidity.
+So buy-side liquidity is the next draw on liquidity.
+I'll take four of the contracts off.
+So I'm going to annotate what we're doing here.
+We're just bumping the order block there.
+Straighten this line out here.
+Okay, hold down shift when you're dragging your trend lines and trading with you.
+It'll automatically straighten them out.
+And that is an order block.
+Bullish order block is what I'm annotating here.
+So you can see this is all being done as it happens.
+I can chew bubblegum and walk at the same time.
+And that's what I'm looking for.
+I'm looking for that type of movement.
+That way we understand what I'm internalizing, what am I seeing, what's likely to pan out.
+That's what I want.
+So now I'm going to study to see if price does, in fact, deliver with that premise in
+mind.
+Again, if I'm lucky, it could expand up into that 40.51 in the quarter, but I don't need
+it to because the bulk of the position, which is now six contracts, I'm going to take four
+off above that buy-side liquidity should I get the opportunity to do so.
+And I'll do it on the basis of a market order.
+All right.
+So far we're getting some response off that order block level I've annotated.
+OCD is flaring.
+I like things the way I like them, folks.
+All right.
+Nice little caffeine bar there.
+Caffeine bar is something I named Big Green Candles.
+If I'm bullish, I want to see that.
+If I'm embarrassed and I see it, I don't like it.
+Okay, so I'm just being a little facetious here.
+You don't see that type of stuff called before it happens, that precise, but it's okay.
+I'm going to give you some more evidence here today.
+Now this is what you want to do also if you're practicing reading order flow, tape reading.
+You don't have to necessarily put a demo account position on.
+I'm doing it just simply because a lot of people like to see it.
+Okay, this is me just making sure you understand that I see this before it happens.
+Not speaking in waffle ease where it's hard to tell what I'm saying, what I'm expecting.
+It's very, very specific.
+Nothing ambiguous is being hinted at in here.
+Okay, so sell-side has been taken.
+This is now being dimmed so that way the focus is on the levels that are more pronounced
+in color.
+Now see, there's two down close candles.
+The higher candle of the two, I'm going to draw an order block on, it can drop down into
+that, pick up momentum from there, and then the algorithm will likely reprice higher to
+the buy-side liquidity or around that 40-36 level.
+So I'm allowing for and preparing myself, should it trade down into that level, it might
+just touch the higher wick of the two down close candles I'm anchoring to, but I'm using
+the uppermost opening price as kind of like the level I'm looking for, but that small
+wick high, it might just touch that and be enough, or it may not even touch it at all.
+But when you're watching order flaming, make this a little bit more thicker so you can
+see it, be able to track what price is doing.
+Now this is one of those instances where you're looking for price to kind of like drive higher
+You want to do it in like big candles, speed, delivery right to where you're looking for.
+Traders are now trying to go short because they looked at that imbalance at 8.30, the
+quick sudden drop, the market has come back and rebalanced that.
+Now it's starting to drift lower.
+People that follow imbalances and things like that, because it's gotten real popular lately,
+that idea they're trying to sell short on, I'm going against that and I'm targeting them.
+Okay, so that's a buy right there.
+So, order block right there, right.
+I would adjust that line, but I've already outlined what I'm saying here.
+It's basically touched the little wick.
+So if I wanted to add one more, which I guess I could, I could buy one here just to prove
+the point, but it is what it is.
+Let's assume that this is all we're going to build on.
+I want to see it rally higher from here.
+Notice I'm not in a hurry to rush my stop-loss up.
+Very nice price delivery there.
+So think about what's being shown here.
+The down-closed candles are supporting price, we're seeing expansion, and where is the bullseye?
+Okay, can't return 50.
+My eyes are not what they used to be, folks.
+I'm sure if it was a rattlesnake, I'd be bit by now.
+There it is.
+I should have checked my most recent ones at the top.
+All right, so we'll put that right here.
+That's our bullseye, okay.
+And I can bring my stop-loss up to break even.
+Actually, let me get that a little bit higher.
+And we can see the profit and loss for these guys that like to see those numbers flashing.
+All right, so I'm going to take four off when it runs above that high, and then I'll
+consider moving my stop-up and see if I can get lucky the rest of the day.
+I have things I have to take care of, administrative things.
+Video production, so should we get this run up above?
+I'm going to close four at market.
+Okay, just sitting here waiting for it to deliver.
+And again, those order blocks were drawn real time.
+You saw it happen.
+I've outlined it, gave you the logic, and we'll see if we can get some magic.
+There we go.
+So I'm going to show you the executions here, and we can see the business.
+Okay, and I'll leave it up to the market to decide whether or not it wants to go up
+and take the 40, 51 and a quarter level.
+It doesn't need to at this point.
+I've booked over five hypothetical thousand dollars in this example here,
+reading order flow, and that will be it for this one, I believe.
+And I'll just change this color here because now it's been fulfilled.
+And my typical sarcastic ripping.
+It's got to be me.
+So here is the final.
+Here is the buying 4,006 and a half, and then buying this here.
+So the initial was buying the fair value gap sell stops, then the order block,
+then selling four above here, and I moved the stop loss up,
+and it tripped me out right there on the final two.
+So hopefully you found this insightful.
+Until next time, be safe.

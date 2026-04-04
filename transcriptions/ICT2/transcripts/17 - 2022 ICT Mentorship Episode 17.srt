@@ -1,0 +1,1448 @@
+1
+00:00:00,000 --> 00:00:19,480
+Alright folks, welcome back.
+
+2
+00:00:19,480 --> 00:00:28,200
+This lesson is going to be on Forex and how we can apply this model to the FX market.
+
+3
+00:00:28,200 --> 00:00:34,800
+Now if you are a long time student of mine, a lot of the things I'm going to talk about
+
+4
+00:00:34,800 --> 00:00:38,120
+in here are going to be very familiar to you.
+
+5
+00:00:38,120 --> 00:00:43,920
+I promise you the things that the newer students that just found this channel are going to
+
+6
+00:00:43,920 --> 00:00:52,440
+feel like they're stuck on, majority of it is in the free lessons in this YouTube channel.
+
+7
+00:00:52,440 --> 00:00:56,720
+So I'm going to count you to go through those videos and you'll get your answers there.
+
+8
+00:00:57,600 --> 00:01:02,840
+Alright, so if we're looking at the Euro dollar, and I'll let you know that's what this is.
+
+9
+00:01:02,840 --> 00:01:04,800
+This is the daily chart for Euro.
+
+10
+00:01:04,800 --> 00:01:14,520
+I want you to take a look at how price moved above these relative equal highs, right here.
+
+11
+00:01:14,520 --> 00:01:24,880
+Now once it did that, this took the buy side or buy stops out of the marketplace here.
+
+12
+00:01:25,440 --> 00:01:27,960
+Then it started going lower.
+
+13
+00:01:27,960 --> 00:01:30,360
+What would it likely be reaching for?
+
+14
+00:01:30,360 --> 00:01:36,080
+Next, well it took buy side out here.
+
+15
+00:01:36,080 --> 00:01:39,760
+What do you think is resting below here?
+
+16
+00:01:39,760 --> 00:01:42,840
+Sell stops or sell side liquidity.
+
+17
+00:01:42,840 --> 00:01:53,360
+Now just to the left, notice these two little devils here, relative equal lows, and with
+
+18
+00:01:53,360 --> 00:02:01,240
+this one and this one, we have two areas of sell side liquidity.
+
+19
+00:02:01,240 --> 00:02:08,440
+Notice this candle here, which happens to be Monday's trading or yesterday's trading.
+
+20
+00:02:08,440 --> 00:02:13,400
+This low did not take out that low yet, notice that?
+
+21
+00:02:13,400 --> 00:02:19,800
+So we have unfinished business below here and potentially below here.
+
+22
+00:02:19,800 --> 00:02:26,960
+So if this is a daily chart, even though we've come from this high and had three consecutive
+
+23
+00:02:26,960 --> 00:02:31,560
+down close candles, what is the bias?
+
+24
+00:02:31,560 --> 00:02:36,120
+The very next candle, what's the bias going to be?
+
+25
+00:02:36,120 --> 00:02:41,080
+Bearish, we're anticipating bearishness going in.
+
+26
+00:02:41,080 --> 00:02:44,680
+So let's take that and flesh that out a little bit more.
+
+27
+00:02:44,680 --> 00:02:50,800
+So here is your chart that would be annotated and you'd have this level on your chart.
+
+28
+00:02:50,800 --> 00:02:55,040
+While you're learning, it's important to have these types of things on your chart.
+
+29
+00:02:55,040 --> 00:03:01,000
+Over time, all you need is a pad and something to write with and you'll write down the levels.
+
+30
+00:03:01,000 --> 00:03:07,040
+Majority of the time, the only time I'm showing a level on my chart is for teaching purposes.
+
+31
+00:03:07,040 --> 00:03:11,520
+I like to keep my chart clean and that way I'm not forcing that bias.
+
+32
+00:03:11,520 --> 00:03:19,080
+If I see something that would allow me to negate the whole premise that I went into
+
+33
+00:03:19,080 --> 00:03:26,160
+the market with and either reverse or move to the sidelines, I want that clarity.
+
+34
+00:03:26,160 --> 00:03:30,520
+Now I say that and some of you purists in here, they just simply want to do everything
+
+35
+00:03:30,520 --> 00:03:33,640
+I say and hang on every single one of my words.
+
+36
+00:03:33,640 --> 00:03:43,520
+Don't avoid or don't try to do it without having annotations like having levels drawn
+
+37
+00:03:43,520 --> 00:03:47,560
+on your chart because you need to train yourself to see it.
+
+38
+00:03:47,560 --> 00:03:53,000
+And what I mean by that, while having these relative equal highs highlighted, your buy
+
+39
+00:03:53,000 --> 00:03:57,280
+stops would be resting above here and the market will go just above that a little bit
+
+40
+00:03:57,280 --> 00:04:01,800
+and then once those buy stops are taken for anyone that's short, they're getting knocked
+
+41
+00:04:01,800 --> 00:04:09,720
+down in a loss and that flood of orders to be buying at the market is counter-party
+
+42
+00:04:09,720 --> 00:04:12,920
+to individuals that want to sell short.
+
+43
+00:04:12,920 --> 00:04:16,840
+So smart money is selling short up here with the expectation that it's going to go below
+
+44
+00:04:16,840 --> 00:04:24,300
+this low here, below here and potentially below that low down there.
+
+45
+00:04:24,300 --> 00:04:30,860
+So today's trading we had the open, it rallies up a little bit, then careens through the
+
+46
+00:04:30,900 --> 00:04:35,180
+short-term low here and below the relative equal lows here.
+
+47
+00:04:35,180 --> 00:04:38,540
+Not by much, we'll see it, but it's still there.
+
+48
+00:04:38,540 --> 00:04:46,140
+Now what level on the downside after this day closed, if we're looking for lower prices,
+
+49
+00:04:46,140 --> 00:04:48,300
+what could we expect it to draw to?
+
+50
+00:04:48,300 --> 00:04:52,300
+Obviously below here and below here, but what price level?
+
+51
+00:04:52,300 --> 00:04:55,560
+109, big figure.
+
+52
+00:04:55,560 --> 00:05:01,400
+So the big figure numbers or the zero levels, they're very influential because there's
+
+53
+00:05:01,400 --> 00:05:07,840
+lots of liquidity that is used around those levels, a lot of commerce, a lot of business
+
+54
+00:05:07,840 --> 00:05:13,440
+transactions that come in just for the sake of simplicity, zero zero level, the 20 levels,
+
+55
+00:05:13,440 --> 00:05:15,640
+the 50 levels and the 80 levels.
+
+56
+00:05:15,640 --> 00:05:21,080
+So I dubbed them institutional price levels, I teach that in the free videos in this YouTube
+
+57
+00:05:21,080 --> 00:05:22,680
+channel too.
+
+58
+00:05:23,560 --> 00:05:27,320
+All right, so we're going to drop down to an hourly chart, but before we get into that
+
+59
+00:05:27,320 --> 00:05:33,040
+I'm going to revisit the swing trading idea that I taught.
+
+60
+00:05:33,040 --> 00:05:40,480
+Highest up close or opening in this retracement up and the lowest open or close is here.
+
+61
+00:05:40,480 --> 00:05:45,400
+So I left the highlighted candles, so you can match that up on yours.
+
+62
+00:05:45,400 --> 00:05:51,880
+And then we have this old low, so below this old low, if it goes below that how many pips
+
+63
+00:05:51,880 --> 00:05:53,760
+can it go below that?
+
+64
+00:05:53,760 --> 00:06:00,440
+Well, we have the big figure 109, right?
+
+65
+00:06:00,440 --> 00:06:02,240
+Remember the previous chart here?
+
+66
+00:06:02,240 --> 00:06:03,240
+Watch.
+
+67
+00:06:03,240 --> 00:06:09,840
+Over here, that's essentially the 1.09 big figure.
+
+68
+00:06:09,840 --> 00:06:14,080
+So do we have any levels in here on the fib that correspond to that?
+
+69
+00:06:14,080 --> 00:06:18,160
+Well, we have 1.0919, that's possible.
+
+70
+00:06:18,160 --> 00:06:23,240
+Then we have 1.09101, that's another level that's possible.
+
+71
+00:06:23,240 --> 00:06:31,080
+And we have 1.09011, essentially almost the big figure, right?
+
+72
+00:06:31,080 --> 00:06:35,840
+So we have a standard deviation from this swing to here.
+
+73
+00:06:35,840 --> 00:06:42,120
+If this is broken, these are only true if this low is broken, okay?
+
+74
+00:06:42,120 --> 00:06:46,400
+So this is a fall crumb point and this is a fall crumb point.
+
+75
+00:06:46,400 --> 00:06:48,800
+So how do we know which level we're going to aim for?
+
+76
+00:06:48,800 --> 00:06:54,440
+Well, we have those relative equal lows at the 109 big figure level.
+
+77
+00:06:54,440 --> 00:07:00,120
+And then we have our fib calling for these levels down here and the lowest one without
+
+78
+00:07:00,120 --> 00:07:04,680
+going through 1.09 is this one here.
+
+79
+00:07:04,680 --> 00:07:12,440
+All right, on the hourly chart with our buy-side liquidity pool level here, the market trades
+
+80
+00:07:12,480 --> 00:07:19,800
+up into that area, absorbing all of that liquidity, then breaking down, takes out a short turn
+
+81
+00:07:19,800 --> 00:07:29,520
+low here and here and here, retraces up in, breaks lower, then we go into today's trading,
+
+82
+00:07:29,520 --> 00:07:32,000
+the fib.
+
+83
+00:07:32,000 --> 00:07:36,720
+Prior to the day starting, we know that it's likely to draw below here and then down to
+
+84
+00:07:36,720 --> 00:07:38,200
+that 109 big figure.
+
+85
+00:07:39,080 --> 00:07:44,040
+We have a lot of convergence around that 109 big figure.
+
+86
+00:07:44,040 --> 00:07:49,080
+At the beginning of the day at midnight, New York local time, that's going to be right
+
+87
+00:07:49,080 --> 00:07:55,720
+in here, if we see the market rally up, which is what we want to see, we want to see a protraction
+
+88
+00:07:55,720 --> 00:08:00,960
+in the marketplace where it starts to go against the expected direction of the move intraday.
+
+89
+00:08:00,960 --> 00:08:05,520
+So if we're bearish and we're looking for that 109 level to be traded to and attack
+
+90
+00:08:05,520 --> 00:08:09,720
+the liquidity below here, preferably we want to see it rally first.
+
+91
+00:08:09,720 --> 00:08:11,200
+That's the Judas swing.
+
+92
+00:08:11,200 --> 00:08:16,800
+That market protraction is what we're looking for for manipulation part of my concept Power
+
+93
+00:08:16,800 --> 00:08:22,200
+3, which is accumulation, manipulation, distribution.
+
+94
+00:08:22,200 --> 00:08:27,240
+So once the day begins at midnight, we're anticipating a move up.
+
+95
+00:08:27,240 --> 00:08:29,360
+What's it going to be trading up into?
+
+96
+00:08:29,360 --> 00:08:32,440
+This imbalance in here.
+
+97
+00:08:32,440 --> 00:08:37,520
+So once it does that, it kind of like forms the daily high and then the rest of the day
+
+98
+00:08:37,520 --> 00:08:44,240
+you're going to be looking for distribution throughout the day, looking for lower prices.
+
+99
+00:08:44,240 --> 00:08:49,680
+So inside that little shaded area, we're going to use that going forward.
+
+100
+00:08:49,680 --> 00:08:54,840
+So let's drop down to a lower time frame, 15 minute time frame.
+
+101
+00:08:54,840 --> 00:09:01,360
+Here is that imbalance that doesn't look that clean on a 15 minute time frame, but the hourly
+
+102
+00:09:01,480 --> 00:09:02,480
+is what we're framing it on.
+
+103
+00:09:02,480 --> 00:09:03,480
+Okay.
+
+104
+00:09:03,480 --> 00:09:05,920
+So the market trades up into that.
+
+105
+00:09:05,920 --> 00:09:13,160
+Here is the midnight New York local time candle on the 15 minute time frame chart.
+
+106
+00:09:13,160 --> 00:09:16,560
+Opening price is here, extended out throughout the day.
+
+107
+00:09:16,560 --> 00:09:23,840
+That is your midnight New York candle opening price.
+
+108
+00:09:24,840 --> 00:09:33,480
+If we're selling short, we want to see price trade above this opening price.
+
+109
+00:09:33,480 --> 00:09:37,560
+This is where smart money is accumulating short positions.
+
+110
+00:09:37,560 --> 00:09:38,560
+See that?
+
+111
+00:09:38,560 --> 00:09:45,560
+So the algorithm goes higher, once more higher, once more higher, and then again right here
+
+112
+00:09:45,560 --> 00:09:50,480
+and then begins its descent into the daily range low.
+
+113
+00:09:50,480 --> 00:09:54,760
+Now what's occurring here, this is not buying and selling pressure.
+
+114
+00:09:54,760 --> 00:10:00,240
+The algorithm is offering constantly price above this opening price.
+
+115
+00:10:00,240 --> 00:10:03,760
+Now every single time it rallies up, just because it does that doesn't necessarily mean
+
+116
+00:10:03,760 --> 00:10:05,600
+that's the time for you to get in.
+
+117
+00:10:05,600 --> 00:10:15,600
+But when you couple that with time of day and price, it becomes a lot better.
+
+118
+00:10:15,600 --> 00:10:17,360
+Notice we have an imbalance in here.
+
+119
+00:10:17,360 --> 00:10:24,400
+We have a fair value gap there and price runs up during the New York open kill zone.
+
+120
+00:10:24,400 --> 00:10:25,400
+Okay.
+
+121
+00:10:25,400 --> 00:10:28,760
+So I dubbed this specific time of day between seven o'clock in the morning New York time
+
+122
+00:10:28,760 --> 00:10:30,560
+to ten o'clock in the morning.
+
+123
+00:10:30,560 --> 00:10:32,800
+This is specific to Forex.
+
+124
+00:10:32,800 --> 00:10:34,000
+Okay.
+
+125
+00:10:34,000 --> 00:10:38,120
+These times are specific to FX pairs.
+
+126
+00:10:38,120 --> 00:10:40,900
+If you're going to trade an index, don't worry about that.
+
+127
+00:10:40,900 --> 00:10:45,380
+You can work with the 830 to 11 o'clock New York local time.
+
+128
+00:10:45,380 --> 00:10:51,600
+But for Forex, the algorithm is going to operate on these specific elements of time.
+
+129
+00:10:51,600 --> 00:10:55,220
+So if we're looking at this imbalance here, the market runs up and it overshoots the imbalance
+
+130
+00:10:55,220 --> 00:10:56,220
+a little bit.
+
+131
+00:10:56,220 --> 00:10:57,220
+But what's it really go to?
+
+132
+00:10:57,220 --> 00:10:59,380
+The last up close candle, which is a bearish order block.
+
+133
+00:10:59,380 --> 00:11:01,460
+How do we know it's a bearish order block?
+
+134
+00:11:01,460 --> 00:11:08,180
+Because we have the imbalance here and it's trading back up into after a nice move lower.
+
+135
+00:11:08,180 --> 00:11:13,700
+So this displacement, fair value gap, last up close candle, touches it, there's your
+
+136
+00:11:13,700 --> 00:11:18,700
+bearish order block.
+
+137
+00:11:18,700 --> 00:11:24,220
+Dropping down into a five minute chart, everything being as it was on the 15.
+
+138
+00:11:24,220 --> 00:11:28,740
+That's that order block here, just being shown on a five minute chart, but I'm adding now
+
+139
+00:11:28,740 --> 00:11:31,380
+the annotation of the New York open kill zone.
+
+140
+00:11:31,380 --> 00:11:35,500
+Seven o'clock in the morning begins here at the end of that line segment and ten o'clock
+
+141
+00:11:35,500 --> 00:11:36,580
+is here.
+
+142
+00:11:36,580 --> 00:11:42,700
+So everything underneath this end of the trend line here and below this part of it, this
+
+143
+00:11:42,700 --> 00:11:46,140
+all is during the New York open kill zone.
+
+144
+00:11:46,140 --> 00:11:51,660
+So you're hunting your setup for forex pairs within that little block of time.
+
+145
+00:11:51,660 --> 00:11:54,780
+So during this time, you're hunting your setup.
+
+146
+00:11:54,780 --> 00:11:55,980
+What price are you looking for?
+
+147
+00:11:55,980 --> 00:11:59,700
+Preferably at or just above the opening price at midnight.
+
+148
+00:11:59,700 --> 00:12:06,780
+Now if you are a New York session trader, you want to refer to the opening price at
+
+149
+00:12:06,780 --> 00:12:11,820
+midnight, but then you want to recalibrate at 830 and we'll look at that in a moment.
+
+150
+00:12:11,820 --> 00:12:19,180
+So for now, just notice looking at this particular day on the economic calendar, we had a high
+
+151
+00:12:19,180 --> 00:12:22,420
+impact news driver at ten o'clock in the morning.
+
+152
+00:12:22,420 --> 00:12:25,300
+It was the ISM services PMI number.
+
+153
+00:12:25,300 --> 00:12:32,620
+Now before you want to start sending me emails or start sending me essay questions in the
+
+154
+00:12:32,620 --> 00:12:39,180
+comment section of this video about what does the ISM PMI number do, what's it?
+
+155
+00:12:39,180 --> 00:12:43,100
+I don't care what these numbers are really discussing.
+
+156
+00:12:43,100 --> 00:12:44,100
+I don't care.
+
+157
+00:12:44,100 --> 00:12:45,780
+I don't care about the raw data.
+
+158
+00:12:45,780 --> 00:12:47,700
+I don't care what the expectation is.
+
+159
+00:12:47,700 --> 00:12:49,860
+I don't care.
+
+160
+00:12:49,860 --> 00:12:55,620
+What I'm expecting is the volatility in the marketplace at or around these specific times
+
+161
+00:12:55,620 --> 00:13:04,420
+because the algorithm is going to use that injection of volatility to facilitate trades.
+
+162
+00:13:04,420 --> 00:13:07,140
+Now is it trying to give you good trades?
+
+163
+00:13:07,140 --> 00:13:08,140
+No.
+
+164
+00:13:08,140 --> 00:13:16,940
+It's trying to move and rebook and reprice to levels to allow those in the know to participate.
+
+165
+00:13:16,940 --> 00:13:18,780
+It's a rigged game.
+
+166
+00:13:18,780 --> 00:13:20,820
+You're not supposed to be in it.
+
+167
+00:13:20,820 --> 00:13:25,300
+Not consistently profitable, let's say it that way, but for those that are in the know,
+
+168
+00:13:25,300 --> 00:13:27,700
+they're looking for these types of signatures and price action.
+
+169
+00:13:27,700 --> 00:13:31,500
+So they know what they're looking for in terms of when they're going to operate.
+
+170
+00:13:31,500 --> 00:13:36,820
+So as a technician, they're looking for a specific element of time, which is encapsulated
+
+171
+00:13:36,940 --> 00:13:40,220
+with this segment right here, seven o'clock to ten o'clock.
+
+172
+00:13:40,220 --> 00:13:45,060
+So that little bracket of time right there on a five minute chart, you're hunting your
+
+173
+00:13:45,060 --> 00:13:46,540
+setup.
+
+174
+00:13:46,540 --> 00:13:48,580
+What is the thresholds that make it high probability?
+
+175
+00:13:48,580 --> 00:13:52,260
+Well, if you're going short or looking to go short and you want to be above the midnight
+
+176
+00:13:52,260 --> 00:13:57,180
+opening price, that's here, extended out in time.
+
+177
+00:13:57,180 --> 00:14:02,300
+But now once we hit this order block here, that was during the early stages of the New
+
+178
+00:14:02,300 --> 00:14:08,020
+York open right around the seven o'clock hour.
+
+179
+00:14:08,020 --> 00:14:17,940
+The market drops and then retraces back into that news driver here at ten.
+
+180
+00:14:17,940 --> 00:14:23,180
+So what's happening here is look closely with this swing low.
+
+181
+00:14:23,180 --> 00:14:29,020
+It went below this low here and then it rallied back up once more above the opening price
+
+182
+00:14:29,020 --> 00:14:30,180
+at midnight.
+
+183
+00:14:30,180 --> 00:14:31,860
+Does it take out this high?
+
+184
+00:14:32,100 --> 00:14:33,100
+No.
+
+185
+00:14:33,100 --> 00:14:35,820
+Why doesn't it take out this high?
+
+186
+00:14:35,820 --> 00:14:38,380
+Because it has an imbalance here.
+
+187
+00:14:38,380 --> 00:14:41,100
+That imbalance tells you this is an intermediate term high.
+
+188
+00:14:41,100 --> 00:14:43,740
+If we're bearish, it shouldn't take this high out.
+
+189
+00:14:43,740 --> 00:14:47,500
+Now again, I mentioned this in a recent video.
+
+190
+00:14:47,500 --> 00:14:51,700
+I think if I'm not mistaken, it was episode 12.
+
+191
+00:14:51,700 --> 00:14:55,860
+I'm going by memory, so please don't roast me in the comment section if that's the wrong
+
+192
+00:14:55,860 --> 00:14:56,860
+one.
+
+193
+00:14:56,860 --> 00:14:59,140
+But it's basically when I'm talking about intermediate term and short term and long
+
+194
+00:14:59,180 --> 00:15:04,460
+term highs and lows or swing highs and lows.
+
+195
+00:15:04,460 --> 00:15:11,100
+An imbalance or a fair value gap associated with a swing high or swing low, in this case
+
+196
+00:15:11,100 --> 00:15:13,140
+this is an intermediate term high.
+
+197
+00:15:13,140 --> 00:15:17,300
+Not because it just simply has an imbalance, but because the narrative is we're expecting
+
+198
+00:15:17,300 --> 00:15:25,140
+lower prices and it went above the opening price at midnight and the imbalance there
+
+199
+00:15:25,140 --> 00:15:30,900
+when it retraces back up into this fake run ahead of the news driver at 10 o'clock.
+
+200
+00:15:30,900 --> 00:15:32,780
+The news, if you will.
+
+201
+00:15:32,780 --> 00:15:37,260
+This movement here is only running right back up into the bearish order block.
+
+202
+00:15:37,260 --> 00:15:39,180
+Last up close candle, the body.
+
+203
+00:15:39,180 --> 00:15:42,140
+I don't like to use these long tails and wicks.
+
+204
+00:15:42,140 --> 00:15:48,220
+I'll refer to them, but I'd like to prefer to annotate if I'm going to show it in my
+
+205
+00:15:48,220 --> 00:15:54,300
+examples or look to price returning back to the body of the candle.
+
+206
+00:15:54,980 --> 00:16:02,220
+So this return into that order block sets the stage for another move lower.
+
+207
+00:16:02,220 --> 00:16:09,620
+We get a swing high, lower high to the right of this candle and a lower high to the left
+
+208
+00:16:09,620 --> 00:16:10,620
+of it here.
+
+209
+00:16:10,620 --> 00:16:13,140
+So we have three candles making a swing high.
+
+210
+00:16:13,140 --> 00:16:16,460
+So we start looking for displacement and movement lower.
+
+211
+00:16:16,500 --> 00:16:24,820
+Looking closer, after we had that shift in market structure here on a five minute chart,
+
+212
+00:16:24,820 --> 00:16:31,220
+it retraces back up, fair value gap, bearish order block, and news.
+
+213
+00:16:31,220 --> 00:16:32,940
+This is the wild card.
+
+214
+00:16:32,940 --> 00:16:37,700
+When you have high impact news drivers, this is going to many times scare you out of the
+
+215
+00:16:37,700 --> 00:16:38,980
+trade or stop you out in the words.
+
+216
+00:16:38,980 --> 00:16:42,420
+If you went short back here and you started trailing your stop loss, this is what that's
+
+217
+00:16:42,420 --> 00:16:44,840
+designed to do, take you out.
+
+218
+00:16:44,840 --> 00:16:49,640
+So if you're short back here or here or here, how are you protecting the trade?
+
+219
+00:16:49,640 --> 00:16:53,240
+You're putting up a buy stop above recent swing highs.
+
+220
+00:16:53,240 --> 00:16:58,240
+So they're jamming it up against that back above the opening price because your buy stops
+
+221
+00:16:58,240 --> 00:17:02,640
+going to flood the market with buyers willing to pay a higher price than it was here before
+
+222
+00:17:02,640 --> 00:17:08,120
+it runs higher and you're going to buy or those individuals that had their stops, they're
+
+223
+00:17:08,120 --> 00:17:13,720
+going to buy the counterparty side of the smart money that wants to sell short because
+
+224
+00:17:13,880 --> 00:17:17,200
+every buyer has to have a seller, every seller has to have a buyer.
+
+225
+00:17:17,200 --> 00:17:18,560
+So that's what's occurring here.
+
+226
+00:17:18,560 --> 00:17:25,560
+But inside this shaded area, I want to show you how this model is applicable here in FX.
+
+227
+00:17:27,860 --> 00:17:29,080
+So here's the four minute chart.
+
+228
+00:17:29,080 --> 00:17:30,960
+We were just looking at five.
+
+229
+00:17:30,960 --> 00:17:36,200
+So we start stripping down this price leg here and we're looking for any fair value
+
+230
+00:17:36,200 --> 00:17:37,200
+gap.
+
+231
+00:17:37,200 --> 00:17:42,280
+Do you see it?
+
+232
+00:17:42,280 --> 00:17:43,280
+Pause the video.
+
+233
+00:17:43,280 --> 00:17:44,280
+Look for it.
+
+234
+00:17:44,280 --> 00:17:48,280
+All right, I'm about to show you.
+
+235
+00:17:48,280 --> 00:17:49,620
+This candle's low.
+
+236
+00:17:49,620 --> 00:17:50,620
+This candle's high.
+
+237
+00:17:50,620 --> 00:17:51,620
+There's your fair value gap.
+
+238
+00:17:51,620 --> 00:17:56,680
+Isn't it interesting how this goes right up in there, closes that in, then and only then
+
+239
+00:17:56,680 --> 00:18:00,800
+the market starts to aggressively run below the short term low here and then reaching
+
+240
+00:18:00,800 --> 00:18:05,440
+into our objective down here at that 109 big figure.
+
+241
+00:18:05,440 --> 00:18:12,440
+Now it doesn't quite get to 1.09 even, but it does get to our Fibonacci extension for
+
+242
+00:18:12,520 --> 00:18:13,720
+the standard deviation.
+
+243
+00:18:13,720 --> 00:18:17,360
+It does get down to the old relative equal lows on the daily chart, which is what that
+
+244
+00:18:17,360 --> 00:18:19,520
+blue line is.
+
+245
+00:18:19,520 --> 00:18:21,720
+Look at the bodies respecting that level.
+
+246
+00:18:21,720 --> 00:18:26,360
+Not much movement below it.
+
+247
+00:18:26,360 --> 00:18:31,300
+Now for all of you raw dogs out there, okay, this is too much, Michael.
+
+248
+00:18:31,300 --> 00:18:33,820
+You're overcomplicating it.
+
+249
+00:18:33,820 --> 00:18:35,160
+You're confusing me, Michael.
+
+250
+00:18:35,160 --> 00:18:37,800
+You're talking about the midnight candle for the opening price and now you're talking
+
+251
+00:18:37,800 --> 00:18:38,800
+about the 8.30.
+
+252
+00:18:38,800 --> 00:18:39,800
+Which one do I use?
+
+253
+00:18:39,800 --> 00:18:40,800
+Why do I use it?
+
+254
+00:18:40,800 --> 00:18:41,800
+This, that, I don't think.
+
+255
+00:18:41,800 --> 00:18:42,800
+All right.
+
+256
+00:18:42,800 --> 00:18:48,320
+If you're going to be trading FX, you're going to be using the 8.30 in the morning for New
+
+257
+00:18:48,320 --> 00:18:55,240
+York Session trades, but refer to the New York open at midnight as well.
+
+258
+00:18:55,240 --> 00:19:02,200
+If the opening price is lower at the 8.30 than that of the opening price at midnight,
+
+259
+00:19:02,200 --> 00:19:04,680
+use the lower one.
+
+260
+00:19:04,680 --> 00:19:09,320
+Reason why is you want to set the minimum threshold for a Judas swing or a market protraction
+
+261
+00:19:09,320 --> 00:19:11,160
+to the upside when you're bearish.
+
+262
+00:19:11,160 --> 00:19:14,440
+And everything that I just said would be reversed if you're bullish.
+
+263
+00:19:14,440 --> 00:19:20,920
+You'd be looking for a move below the opening at 8.30 to go long after it moves below it.
+
+264
+00:19:20,920 --> 00:19:24,480
+But we're focusing primarily on the shorting opportunity here in hindsight so that way
+
+265
+00:19:24,480 --> 00:19:28,680
+you can get a better feel for how to use this model with FX.
+
+266
+00:19:28,680 --> 00:19:33,640
+So there's a subtle little group of nuances that you have to be aware of when you're looking
+
+267
+00:19:33,640 --> 00:19:38,120
+at FX, but it's not terribly, you know, harsh.
+
+268
+00:19:38,120 --> 00:19:41,840
+It's pretty easy to work with.
+
+269
+00:19:41,840 --> 00:19:45,760
+So we have the market trading above the opening price here.
+
+270
+00:19:45,760 --> 00:19:51,280
+Market protraction, Judas swing, it rallies up and then breaks down in here.
+
+271
+00:19:51,280 --> 00:20:00,640
+Now this run here above the opening price, does it have a fair value gap?
+
+272
+00:20:00,640 --> 00:20:03,840
+Here's the four minute chart.
+
+273
+00:20:03,840 --> 00:20:07,800
+Opening price now doesn't look the same because we're looking at a four minute chart.
+
+274
+00:20:07,800 --> 00:20:11,600
+So it was anchored on a five minute chart.
+
+275
+00:20:11,600 --> 00:20:16,000
+It rallies up and break lower.
+
+276
+00:20:16,000 --> 00:20:21,640
+Fair value gap right there, trades up into it, hammers it beautifully, and then displacement
+
+277
+00:20:21,640 --> 00:20:29,120
+trades lower down into that 109, what was it, 1.0901 something or other.
+
+278
+00:20:29,120 --> 00:20:32,160
+I can't remember what thought I had, but it hit it.
+
+279
+00:20:32,160 --> 00:20:37,120
+And I think the low of the day was 1.0901.
+
+280
+00:20:37,120 --> 00:20:42,700
+So not bad, I mean, it's pretty close to perfect, right?
+
+281
+00:20:42,700 --> 00:20:48,600
+But by itself, you don't want to try to aim for just that level because that's the best
+
+282
+00:20:48,600 --> 00:20:49,600
+exit strategy.
+
+283
+00:20:49,600 --> 00:20:51,000
+You don't want to do that.
+
+284
+00:20:51,000 --> 00:20:55,080
+You want to fluff up your exits with a couple pips.
+
+285
+00:20:55,080 --> 00:20:58,360
+I like to teach my students three to five pips.
+
+286
+00:20:58,360 --> 00:21:03,640
+And if you're thinking a target is going to be like, for instance, we'll say 1.0900 level.
+
+287
+00:21:03,640 --> 00:21:09,800
+If that's what you think it's going to trade to, put your limit order to cover your shorts
+
+288
+00:21:09,800 --> 00:21:15,920
+if you're short at 1.0905.
+
+289
+00:21:15,920 --> 00:21:20,000
+You're not going to get the best exit that way, but you have a spread that you have to
+
+290
+00:21:20,000 --> 00:21:24,040
+incorporate when you're working with 4X and FX pairs.
+
+291
+00:21:24,120 --> 00:21:29,280
+And I've had a lot of this happen over the years as an FX trader where my limit order
+
+292
+00:21:29,280 --> 00:21:33,600
+was a little too overzealous.
+
+293
+00:21:33,600 --> 00:21:36,200
+I was trying to be a little too perfect.
+
+294
+00:21:36,200 --> 00:21:46,820
+And I've had many amazing exits elude me because of my overzealous targeting.
+
+295
+00:21:46,820 --> 00:21:51,200
+So be a little bit more forgiving when you're trading, especially 4X, you've got to incorporate
+
+296
+00:21:51,200 --> 00:21:52,200
+the spread.
+
+297
+00:21:52,200 --> 00:21:55,040
+And I know some of you have brokers where it's like, oh, I have a really tight spread.
+
+298
+00:21:55,040 --> 00:21:56,040
+Let me tell you something.
+
+299
+00:21:56,040 --> 00:21:58,760
+Every broker has the ability to open that spread up on you.
+
+300
+00:21:58,760 --> 00:22:02,720
+You're seeing the best case scenario when that ticker is showing.
+
+301
+00:22:02,720 --> 00:22:09,720
+But trust me, when it's advantageous for them, they'll work it in their behalf, not yours.
+
+302
+00:22:09,720 --> 00:22:11,720
+So make it easier for yourself.
+
+303
+00:22:11,720 --> 00:22:14,520
+Just fluff up your exits with five pips.
+
+304
+00:22:14,520 --> 00:22:17,720
+And if you're really new, just use 10 pips.
+
+305
+00:22:17,720 --> 00:22:20,760
+And if you're struggling with the idea that, oh, I don't want to do that, I'll give up
+
+306
+00:22:21,760 --> 00:22:26,160
+Well, let me show you this.
+
+307
+00:22:26,160 --> 00:22:29,920
+This would be your entry candle, trading right back to this old high here.
+
+308
+00:22:29,920 --> 00:22:33,840
+So one pip at or thereabouts.
+
+309
+00:22:33,840 --> 00:22:40,640
+Once it hits that candle with this run here, that right there would be your entry candle.
+
+310
+00:22:40,640 --> 00:22:43,360
+Your stop would be right above this candle's high.
+
+311
+00:22:43,360 --> 00:22:47,760
+Now if you're scared or whatever, you can use this swing high and that's fine.
+
+312
+00:22:47,760 --> 00:22:57,560
+Now in terms of math, the entry price would be 1.09653 and your stop would be 1.09728
+
+313
+00:22:57,560 --> 00:22:58,880
+hypothetically.
+
+314
+00:22:58,880 --> 00:23:01,040
+That's not a lot of pips.
+
+315
+00:23:01,040 --> 00:23:03,520
+I would generally round that to 10.
+
+316
+00:23:03,520 --> 00:23:08,440
+Even though it's not technically 10 pips here, I would round it to 10 and just be done with
+
+317
+00:23:08,440 --> 00:23:09,640
+it.
+
+318
+00:23:09,640 --> 00:23:17,000
+And looking at that model here, and you're aiming for that essentially 1.09 big figure,
+
+319
+00:23:17,000 --> 00:23:21,280
+bluffing it up a little bit so our exit price would be a little bit higher than that.
+
+320
+00:23:21,280 --> 00:23:25,160
+You guys see these things all the time and I just felt like using it, you know, just
+
+321
+00:23:25,160 --> 00:23:28,240
+because I want to be cool.
+
+322
+00:23:28,240 --> 00:23:30,560
+The risk is here.
+
+323
+00:23:30,560 --> 00:23:37,480
+Entry to stop and the distribution to your target down here.
+
+324
+00:23:37,480 --> 00:23:46,200
+Risk to reward ratio better than 8 to 1 and using a hypothetical $100,000 demo account
+
+325
+00:23:46,200 --> 00:23:49,480
+if you're doing one of those funded account challenges or whatever.
+
+326
+00:23:49,480 --> 00:23:58,720
+In this trade here, this gives you basically what you're looking for in one trade.
+
+327
+00:23:58,720 --> 00:24:04,600
+I don't know if this scratches the itch for you, but the stuff works in Forex.
+
+328
+00:24:04,600 --> 00:24:07,440
+It works in index trading.
+
+329
+00:24:07,440 --> 00:24:13,720
+So it's a matter of adjusting to what it is you're trying to trade and then there's a
+
+330
+00:24:13,720 --> 00:24:18,400
+little bit of rule following that you have to know when it comes to index trading and
+
+331
+00:24:18,400 --> 00:24:19,400
+FX.
+
+332
+00:24:19,400 --> 00:24:23,640
+FX predominantly, you're working with 7 o'clock in the morning to 10 o'clock in the morning.
+
+333
+00:24:23,640 --> 00:24:28,120
+That's your New York open kill zone.
+
+334
+00:24:28,120 --> 00:24:38,360
+Index trading, I'm focusing on 830 to 11 and I can take a trade all the way up to 1040-1045
+
+335
+00:24:38,360 --> 00:24:39,640
+and still be okay.
+
+336
+00:24:39,720 --> 00:24:47,080
+I'm not interested in taking new trades generally after 10 o'clock in the morning in the FX pair
+
+337
+00:24:48,040 --> 00:24:56,360
+unless there is a news driver like we had this morning with the ISM number, the PMI number I
+
+338
+00:24:56,360 --> 00:24:57,400
+mentioned earlier in the video.
+
+339
+00:24:58,520 --> 00:25:04,440
+So that was allowing me to be a little bit more forgiving with expectations for price.
+
+340
+00:25:04,920 --> 00:25:13,320
+You may not want to trade high impact news drivers and that's understandable if you don't
+
+341
+00:25:13,320 --> 00:25:16,840
+know what you're doing, but don't be afraid of them.
+
+342
+00:25:16,840 --> 00:25:21,960
+Now with the economic counter having that high impact news driver at 10 o'clock that
+
+343
+00:25:21,960 --> 00:25:30,760
+extends the New York session kill zone into the 11, 1130 time window because the volatility
+
+344
+00:25:30,760 --> 00:25:31,640
+that it will bring in.
+
+345
+00:25:31,800 --> 00:25:33,240
+Now, I didn't take this trade.
+
+346
+00:25:34,280 --> 00:25:43,800
+I haven't taken any FX pair trades at all, not for 2022 at least, but if you're looking at a model
+
+347
+00:25:43,800 --> 00:25:51,960
+that works in index futures, you're looking at that 830 to 11 o'clock window and if you're
+
+348
+00:25:51,960 --> 00:25:55,720
+trying to apply this model to FX, it's 7 o'clock in the morning to 10 o'clock in the morning.
+
+349
+00:25:55,800 --> 00:26:05,000
+Now, the high impact news drivers that come out after 10 o'clock, like for instance, if
+
+350
+00:26:05,000 --> 00:26:11,000
+you're a Canadian dollar trader and the crude oil inventory number comes out usually like 1030 in
+
+351
+00:26:11,000 --> 00:26:17,400
+the morning, you have to make allowances for that and just expect there'd be a likely move
+
+352
+00:26:18,520 --> 00:26:20,840
+on that oil number at 1030.
+
+353
+00:26:21,640 --> 00:26:24,760
+So just something to throw out there.
+
+354
+00:26:24,840 --> 00:26:29,960
+I know a lot of you've been barking wanting to see something FX related because you know
+
+355
+00:26:29,960 --> 00:26:35,640
+predominantly I've been doing that since 2010, but I humbly submit this for your
+
+356
+00:26:37,000 --> 00:26:40,200
+inquiry and that way you can study this and listen to it a few times.
+
+357
+00:26:40,200 --> 00:26:42,840
+It has a couple of things in there that may have went over your head.
+
+358
+00:26:42,840 --> 00:26:50,520
+It's not terribly demanding in terms of note taking, but there's some things in here that
+
+359
+00:26:50,520 --> 00:26:52,920
+are noteworthy for you to have in your study journal.
+
+360
+00:26:53,400 --> 00:26:57,320
+And for the most part it looks like it works pretty good in this pair too
+
+361
+00:26:57,320 --> 00:26:58,840
+or in this asset class.
+
+362
+00:26:59,560 --> 00:27:03,800
+So until I talk to you again on Thursday, be safe.
+

@@ -1,0 +1,707 @@
+Alright folks, welcome back.
+This lesson I'm going to talk about the idea of multiple setups inside of the trading sessions.
+So there's a morning session and there's a PM session when you're working with the New
+York index futures.
+If you look at the market in terms of a split day, the New York lunch hour between noon
+and 1 o'clock PM New York local time, 830 in the morning to noon, that's essentially
+the morning session.
+There can be multiple setups inside of that.
+Now some of the things I've noticed in the comment sections of the videos, some viewers
+and students are asking, what do I mean by multiple setups, like what does it look like?
+And I kind of want to touch a little bit on that tonight.
+Also I want to give you a little bit more perspective on how you can look for additional
+ways of trading what it is I'm sharing here.
+If we're looking at the S&P futures mini contract for June 2022, you can see we recently traded
+up above the relative equal highs.
+So buy stops and buy site liquidity were resting right above here.
+So as the market drove above that, we always have the likelihood of seeing it continue
+going higher.
+But whenever it goes above relative equal highs and then we get a swing high like this,
+that being high here, lower than the higher candle here, and the next candle after this
+candle it has a lower high as well.
+So it's a swing high, not to be confused with a fractal that's used like an MT4.
+That is not what I'm talking about.
+That takes more candles to make it, and by then five candles later, it's just, you've
+already missed the move.
+So swing high here, since this candle closes the next day, I'm looking for something to
+create an opportunity to go short.
+So we could be anticipating an open here, rally, power three, which is what I already
+taught on the YouTube channel, the accumulation, manipulation, distribution, and then incorporating
+the next level of analysis, which is understanding whether we're going to be in a premium or
+discount market.
+Now, obviously, we're in a premium market, we're above old highs here, we really stretched
+out on the upside.
+On this high, if we start to go lower, this down close candle is your bullish order block.
+The idea of it trading into that down close candle once it goes above these highs, that's
+favorable, that's something that could potentially happen.
+Now, obviously, I have the benefit of hindsight here, but I promise you, if you study what
+I'm teaching you, you'll see this repeating.
+So the market does, in fact, trade down into this down close candle, that is your bullish
+order block.
+But I want to go inside this particular day here, which is obviously Friday.
+And we're looking at the internals behind what it is I'm trying to teach you and how
+you can find multiple setups inside of each respective session, the morning session and
+the PM session.
+All right, so here is the hourly chart on the S&P futures mini contract for June 2022.
+And I kind of want to bring your mindset back into what we're looking for.
+And that is the Power 3, we're looking for an expansion move direction higher or lower.
+In this case, we're looking for it to go lower, because we have the daily bullish order block
+level, that line here, level 4504.
+And look at the lay of the land, okay?
+What is it that we see also in the price action?
+Well, if we go over to the left, you can see we have relative equal lows.
+We have this low, and we have this low here.
+So they're relatively equal.
+Not exactly, that's why I named them relatively equal lows.
+The idea of liquidity resting below here by itself without the order block is likely,
+but it's further likely if we have a discounted rate, which is that bullish order block on
+the daily chart.
+So we have multiple factors here leading to the likelihood of this area being probed for
+the purpose of pairing liquidity, the sell stops basically being rated.
+Initially in the morning, we were seeing the market trade higher, higher, higher, higher.
+And then we broke lower, attacking the sell side liquidity here, and then aggressively
+running into the daily bullish order block.
+I want you to take a look at this framework from this high down to this low, and this
+being a fulcrum point, that being if this high trades to this low and we break this
+low, how far can we go down?
+I'm going to touch on that in the next slide.
+But for right now, I want you to think about how the opening price, what's the opening
+price?
+Well, there's two.
+If you're trading index futures, the opening price is midnight at New York time, and that's
+this candle here.
+That's the opening price here.
+And then there's another opening price at 830 in the morning.
+What's the opening price in the candle that begins 830?
+It doesn't matter what candle you use.
+I see a lot of questions popping up about that.
+What's the opening price and what candle do you use?
+Soon as you have 830 beginning a new candle, it could be a one-minute candle, it could
+be a three-minute candle, an hourly candle, 15-minute candle, whatever that opening price
+is, that's what you want to note at 830.
+So if you're bearish, ideally, you want to see the market trade above that opening price.
+This is going to be manipulation.
+The manipulation is the running above a key level when we are bearish.
+We're expecting this to go lower.
+All of this is basically market protraction, where it's a Judas swing.
+The market's going in the opposing direction that it's likely to go to later in the day.
+So later in the day, we expect this to go lower.
+Where's it going to go?
+Below this low.
+If it accelerates below this low, where could it go?
+Below here.
+Okay, then we have the bullish order block on the daily chart.
+So we have a lot of things coming together that draw on a great deal of probabilities.
+Now probabilities are not absolute guarantees.
+That's not the case in trading.
+If that was the case, I would never take a losing trade.
+You would never take a losing trade.
+You stop losses and it would be great.
+Unfortunately, we have to contend with risk.
+That being the case, we have to at least build the idea around the likelihood of a scenario
+unfolding, but being prepared if it doesn't.
+So if this market's opening here at midnight and it starts to rally, we can anticipate
+this selling off.
+But if it can sell off from here and trade below this low, how much further can it go
+below these relative equal lows?
+Obviously, we have the daily bullish order block level here.
+Right here.
+Let me take you back up real quick.
+That's this level here.
+The opening price on this down close candle, that's the order block.
+Extending that line out in time, you end up with this on the hourly chart.
+So we drop down into that level and look at the reaction there.
+It's nice, isn't it?
+So going below this low, that's the initial target.
+Then reaching below the relative equal lows over here, because that's where sell-solid
+liquidity is residing, then tapping into that bullish order block on the daily chart.
+But how much further can we go below that level?
+How far beyond the actual order block level can we go?
+Well, I'm going to zoom in on a 15-minute time frame.
+I've already taught this in other lectures, but I want to revisit it here because this
+is what you're looking for when you're doing your analysis.
+When everything starts to show a willingness to want to go lower, how do we know it's going
+to go lower?
+Well, we have the swing low here, decisively broken.
+See that?
+This low, broken hard.
+Then we trade back up into the imbalance here, so the fair value gap, we trade up into it
+here.
+At this point, we anticipate the candles past this or the new forming candles to trade lower
+and trade below this low.
+And if it does go below this low, we're looking at this price point here, that low, as a fulcrum
+point.
+That being measuring this high down to that low, that same measurement of distance, and
+we expect that projected lower.
+Okay, so this is my swing trading model, and I'm applying it to targeting.
+So the way you do it is you take your Fibonacci and you anchor it to the highest body.
+It could be an open or a closed, it doesn't make a difference, but you anchor it on that.
+Notice I'm not putting it on the high here, and I'm doing the same thing with the lowest
+open or closed in this swing low.
+This retracement up, I'm measuring the distance in terms of range with the bodies of the candles.
+The first time I taught this on YouTube, I had a lot of folks scratching their head and
+many trolls saying, he doesn't even know how to use a Fib.
+I'm showing you how the algorithm is going to read the price.
+The wicks and the tails are all distractions.
+That's all going to be largely attributed to what the, especially if you're trading
+with Forex, and obviously I am aware that this is not Forex, but I learned this through
+the models that I employ with Forex.
+Now it's a carryover in terms of analysis because you can apply it here as well.
+It wasn't always like this.
+When there was open outcry only and there was no electronic trading, this wasn't as
+pure as you're going to see and has been shown in the past by me in other videos and examples.
+By having a measurement from the highest body in this swing up, in this swing low, the lowest
+body, that means the lowest open or closed, I'm anchoring the Fib on that.
+The settings on the Fibonacci I've included here, and these are the ones that's highlighted
+for this illustration.
+Below this low, we're looking for it to run into sell side.
+If it goes below this low and aggressively expands lower, this could be your next target,
+45, 14 and a half.
+If it goes below this one, we can anticipate it trading down to what?
+45, 0, 1 and a quarter.
+The question you're going to probably have in your mind is, okay, this is all fine and
+but how do we know which one to pick ICT?
+If you put a thousand lines on your chart ICT, eventually they're going to, somebody's
+going to see one of those levels get hit and then you're going to make a video and say,
+see how smart I am?
+I've seen all of your arguments.
+I've seen that kind of stuff tossed around in the forums and such.
+If we look at the idea that 45, 0, 4 and a quarter is just below what level?
+That daily bullish order block at 45, 0, 4, well at 45, 0, 4 and we're getting a measurement
+down here, that means we could see it trade down to that level here.
+Now if you look up here at this level right there, that low is exactly the candle's low
+right there.
+Don't take my word for it.
+Go to the trading view, pull up the June contract for 2022, e-mini S&P.
+That is your daily low.
+You can't predict daily highs and lows ICT.
+That's impossible.
+Well it is possible if you understand the elements that these algorithms operate under
+and my question to you is, can you get any better than that?
+Is there any other measurement in terms of precision that gets you any closer to 45,
+0, 1 and a quarter?
+Not when the low is 45, 0, 1 and a quarter.
+Look at the reaction there.
+Now the order block level is just right here but it stabs down into what the algorithm
+is going to measure.
+So there's the order block, it wants to go down to it anyway, there's relative equal
+lows, it knows there's liquidity down there and you have the measurement.
+So the precision element is only going to be beneficial if you have all the other narrative
+incorporated with your analysis, that being the market's likely to go lower because we
+ran out those relative equal highs on the daily chart.
+We created this swing high.
+We broke lower aggressively.
+We're likely to trade into that daily bullish order block.
+Then we have this retracement here.
+It completely closes in all the imbalance that's between this low and this high of that
+candle.
+It rebalanced all that and then we roll over.
+Here's that gap I mentioned.
+Trades up into that.
+We anticipate what?
+The candles after this candle closes.
+We want to see acceleration to the downside.
+We get it.
+Market starts working lower, lower and finally right on a dime.
+That candle is that low and that's your swing projection I teach in this YouTube channel.
+You will not get that measurement if you use this swing high and that swing low.
+That's why everybody that uses Fibonacci struggles.
+Oh, Fibonacci is a joke.
+It's not a joke if you are doing the measurements correctly.
+Now, these are just targets, but they are more meaningful when you apply and layer other
+things in analysis like the purpose of running to liquidity below those relative equal lows
+into a discount array, which is the bullish daily order block.
+When you bring that together, you get these types of results, which is perfection.
+There's nothing better than this, folks.
+You cannot improve upon perfect.
+All right, so taking this a little bit further, now we're into a 15-minute time frame.
+The opening price again is this candle here, which is midnight New York time.
+The opening price, that candle, you extend that out in time.
+If you're bearish and you are looking at your daily chart because the majority of your analysis
+should be framed on your daily chart, where is it likely to go?
+Where is the expansion likely to take price higher or lower?
+That's the main thing you're trying to look for because that's going to carve out your
+bias.
+So, if you know that the likelihood of price wanting to draw down to this daily bullish
+order block and we have that level of 45.01 in a quarter, which is that candle's low,
+we don't need to have that yet, but we know that this is going to be a draw on liquidity
+because it's also below those relative equal lows that I mentioned when we were looking
+at the higher time frame chart.
+So, all of this here is a buildup into the premium.
+The market then breaks aggressively.
+What does it create here?
+What happened here?
+We have a displacement down.
+Did that take out that swing low?
+Yes.
+Does it trade up into that imbalance right here?
+Yes.
+Does it trade above the opening price?
+Yes.
+How many boxes did we just check off there?
+A whole lot.
+The markets are now going through the roof that this is bearish.
+Then the market breaks lower, trades down to the old swing low, sell side liquidity
+resting below there.
+Watch what happens.
+We trade down through it and then we aggressively rebalance all of this down move.
+We come right back up into it, bearish order block, then sells off another weight into
+this short-term low, deeper below this low, and into, eventually, into the lunch hour
+and past it for the daily bullish order block.
+Now when you look at this type of price action, you might not see that as an entry, but it
+is taught to you in this mentorship on YouTube.
+That is the lesson right here.
+Because if you look back here, we have these highs.
+We trade above it.
+Does it break below?
+It does.
+Does it give them imbalance?
+Yes.
+Does it trade up in here on the 930 opening?
+Yes.
+Then does it run where we want it to?
+Liquidity and discount array in the form of a bullish order block.
+Yes.
+But what other setups are here?
+Because I mentioned in my Real Money Real Results series where I was showing actual
+live account results and proving that these things make money, not just in demo.
+By the way, I appreciate all the feedback I'm getting in the commentary section of each
+video, the comment section.
+But I've read a lot of the questions about, you know, what do I mean by having no more
+than four trades, two trades in the morning, two trades in the afternoon?
+What did I mean by that?
+Because I read one guy, he was saying, I can't even find, you know, four examples of this.
+I may not be saying this correctly, but he can't find that many examples of it forming
+over the course of a week, let alone a few times an intraday.
+So we're going to walk through today's price action and show it with clarity.
+All right, so here's the opening price again on a five minute chart.
+Here's the 15 minute time frame, fair value gap, and the market trades right back up into
+it about the opening price.
+That's what it would look like on a five minute chart.
+Notice it does not look clean like it does on the 15 minute time frame.
+Let's go back up one more time.
+See the gap here in that run right there at 930.
+That coupled with this time frame, you probably wouldn't see that as a sell.
+You would want to see this filled in, but you've got to look at the higher time frame.
+The higher time frame, 15 minute time frame is providing you the framework.
+It's giving you context that, okay, this is all we need.
+We don't need it to trade up into that.
+It could, but we don't need it to.
+So when it trades up there, then it starts to break down.
+It rebalances, breaks down again, works into that short term low, sells off again, retracement
+sells off again.
+In here, this is your entry at the opening.
+So in the morning session, you typically have two to three setups because you have volatility
+coming in at the opening, opening being 930, New York local time.
+That can be very tricky if you're not really sure what you're doing.
+You can get caught up in the initial volatility and offside real quick and it can run against
+you aggressively and hurt you.
+I prefer to see my students look for the initial move to kind of like qualify what you're expected
+lower prices.
+Right?
+So does it give it here?
+Yes, it does.
+How can you participate in something like that and still have the bias behind you and
+have multiple setups that you can take?
+Well, let's take a closer look on the lower time frame.
+Here's the one minute chart.
+Here's that return back up into the fair value gap on the 15 minute time frame and wasn't
+so clear with the five minute.
+But now look what we have here, small little imbalance there, that fair value gap rate
+above a short term high.
+We trade up into that there on a one minute chart.
+You would see that as a setup for the one minute chart.
+Before I go any further, I want you to pause the video.
+I know some of you don't like to do this because you just want to get through it.
+You're watching the video at two times the speed because I talk slow.
+This is a time when you want to stop, slow down because you will cheat yourself out of
+learning.
+This is the little moments like when I'm teaching my private group.
+These are these opportunities.
+If you waste them, you do not learn the best way.
+There's a good way of learning and there's the best way of learning.
+The best way is actually participating, not just casually watching.
+Don't Netflix binge watch ICT.
+This is where you stop the video, ask your spouse or whatever, give you a couple minutes
+to focus undisturbed.
+That way you can pull out the things I'm trying to show you in this lesson.
+Otherwise, it's just another event where I'm talking about hindsight.
+What I'm showing you here is something that repeats every single day.
+This is how I can go in every single day and take money out of the marketplace.
+I took the live account up another $1,000 today, so we're over $51,000.
+These are the types of setups that you can do.
+You can find these and you don't have to have the absolute perfect entry at the opening.
+You don't need that.
+That's the benefit of what I'm sharing here publicly.
+I want you all to have the ability to feed yourself and your own family, not to rely
+on a job.
+If you look for these types of setups with this logic, I am confident that you can do
+what I just said.
+Those that really want to supercharge it can take it way beyond that, competitions, whatever.
+We have the logic here.
+That's that old short-term low.
+All I did was extend the line out because it doesn't exist in the chart over here because
+I don't have enough of the data showing, but that short-term low, that was a fall chrome
+point, remember?
+That's this low here.
+So I'm referencing that so that there's where the sell-side liquidity is, but I want you
+to pause the video and go through this price action and find the setups that you would
+see as a shorting opportunity if your bias was in line with what I'm suggesting here
+as it should have been, being bearish.
+Okay, I'm going to continue the conversation.
+If you are not ready, you missed your opportunity.
+All right, so the first fair value gap here, right there, because we have this short-term
+low broken with the run lower.
+So there's displacement there, obvious displacement, very energetic, and we have this candle's
+high, this candle's low, and the market returns back up into it.
+You can go short there and look for what's the first objective?
+That fall chrome point, that short-term low, aim for the liquidity so your target would
+be there.
+So you could do like, say you did two contracts entry here, short here too, you can take one
+off here, let it ride, and then see if you can get that lower timeframe objective later
+in the day.
+Now I don't want to take entries during the lunch hour between noon and one o'clock, but
+you can take profits if you're doing like a partial, like if you did one here, I'm sorry,
+if you did two short contracts here, you took one off at your first target, and you want
+to see if you can get the other objective.
+If you have a limit order at the order block level, plus a couple points, it could fail
+during the lunch hour.
+You don't need to be babysitting it, being in front of it then, because you've already
+funded your position and trade by taking one off here off and moving your stock to break
+even in this, see what it can yield in terms of the daily range.
+Next one is here, another short-term low taken, fair value gap there, we trade back up into
+it, that's a short.
+You can go short here, and again, same premise, looking for the first run below here, that
+will be your target taken there.
+If you did multiple contracts, you would get short here, take two, take one off.
+This might scare you, not so much probably if you were short from up here, but here could
+be a little bit intimidating.
+But if you've taken one of the contracts off below here, even if it were to come back up
+and take you out and stop you out, the first contract allows you to be profitable.
+So it kind of balances things out.
+Another one is here.
+We have the imbalance here, after we aggressively moved lower and then retraced back up in.
+This is why I'm saying that that previous short, if I was short from here, I wouldn't
+be worried about this one so much because your stop would be above here.
+Now it got close to it, but I've been in many trades over the years where it moved within
+a quarter of a point without stopping me out.
+And it's a scary feeling, especially if you have a lot of size behind your positions at
+the time you're in the trade, but it's still a little intimidating because if you completely
+fulfill your model and follow it and all the rules and you don't want to move your stop
+and you just allow the stop to be taken, there's been many instances in my own trading where
+within a quarter point, it doesn't stop me out.
+It's not like Forex.
+These markets are a little bit more professional in the sense that they're much more precise
+and uniform in the delivery.
+You don't get these wild, erratic little spikes in spreading of the price action because everybody's
+working with the same price here versus in Forex, you're trading within a pool of liquidity
+within your brokers in-house and they have a little bit of luxury there where they can
+open that spread on you.
+And that's why it's a little bit trickier to operate in that versus something like this
+market here.
+It doesn't mean I don't love Forex still, I do, but right now Forex is just quiet.
+It's not doing things that I would promote in my students' attention.
+I'm telling all my students, both in my private group and you all here, that this is the
+markets that you should be following.
+These markets right here, the index futures.
+I'm sure there'll be a time when we transition from index futures back to Forex, but until
+I see them loosen up a little bit in the currencies, my attention is here.
+So anyway, getting short here, this is a shallow run below the old low.
+So we anticipate it to run a little bit deeper and it does.
+So you can take profits below this low here as a partial.
+And then you've seen now obviously multiple opportunities within the same morning session.
+So it's also showing you how, if you miss your entry, how can you get back in line with
+the marketplace and still participate in these moves?
+Now there are going to be days where we don't have this many retracements back and back
+and back and then goes lower.
+It'll be just one or two and it just keeps on going.
+Or many times it'll be just right at the opening and that's it, you missed it.
+It just goes right to where you thought it was going to go for the day.
+And you can't get mad about that.
+You should be happy that your analysis concepts are speaking to you with that much clarity
+and just know that because they repeat, none of you should be upset that you missed a trade.
+Like none of you, nobody has the permission.
+You have no right to be angry about missing a trade because they are like buses.
+That's transit buses that come by like a schedule.
+Every certain time of the hour or day, these buses are going to come around.
+These trades are just like that.
+You can set your clock to them.
+They're going to form, they're going to be there.
+Your number one goal is to understand where is it likely to go to?
+Where is it likely to reach for it?
+If you have that understood, it becomes so easy to know what you're looking for.
+Notice what I said there?
+It becomes easy to know what you are looking for.
+I did not say it's so easy for you to make money.
+There's a strong contrast there, okay?
+But by default, over time, once you have been doing the things that lead to you understanding
+what is you're looking for, and that part becomes easier, what do you think the default
+result was going to be from that?
+It's probably going to be easier for you to make money over time, okay?
+So I'm keeping things in balance so that we understand what I'm saying without sure
+coding it and making it sound like anybody can walk in here and do this.
+It's going to take some effort.
+Now, you're probably looking at that pink rectangle asking yourself, what the heck is
+that?
+Well, that is the PM session by side liquidity pool.
+What does that mean?
+This high here was the most energetic one in the morning session.
+It took us all the way down to what target we were looking for, the daily bullish order
+block.
+Because it's Friday, because it hit the daily timeframe objective, it's in a discount market.
+It's really traded lower.
+End of week, there's going to be a retracement back into the weekly range.
+What can it aim for?
+Well, it can aim for the liquidity resting right here because a lot of people are going
+to say, well, this is the place where my stop should be at because I want to hold on to
+this thing over the weekend.
+Now, I don't know who has the courage to do that anymore with all the things going on
+around the world.
+I personally don't have the courage to hold over the weekend.
+It's just too many things can go wrong.
+I'm not sitting in a potential opportunity where it's a thousand point gap against me
+when we start trading on Sunday.
+No, thank you.
+I'll pass on that.
+But this area here is where you would anticipate on Fridays where liquidity could be a draw
+because it's going to likely pull back up into a premium.
+What does that mean?
+Here's 830.
+Here's the turning point at the 930 rotation.
+So this high, or we could use this high here, it doesn't make a difference, but I'm going
+to use this one because we're framing the logic behind this day being bearish.
+So this high down to our target, if you put a Fibonacci on this low to high and find the
+50% level, this is above 50%.
+So that means above here, that's a premium.
+So the market is going to move from what?
+A discount to a premium.
+That's what the market does.
+That's the algorithm does.
+It seeks discount to premium, premium to discount.
+Within that logic, the market is reaching for liquidity in the form of buy stops and
+sell stops and or imbalances or the creation of an imbalance, fair value gaps, or returning
+back to a fair value gap.
+That's all these algorithms do and they do it on the basis of time, then price.
+Now that's gross oversimplification by me, but by far and large, that's all these things
+do.
+It's not your buying and selling pressure.
+It's not the effects of the DOM.
+I got a lot of people asking me because they watched me show things in my live account
+and they think I trade with the DOM.
+I don't trade with the DOM.
+I'm not looking at the DOM, trying to read how many orders are resting above or below
+because there's spoofing that goes on and those orders may not be there when the price
+goes there.
+I don't think that the DOM is something that is useful.
+I'm only throwing it in here because I saw a lot of people in the comments asking about
+those types of things and I don't use them.
+I don't use them in my trading and I don't think there's anything in terms of advantage
+in using it.
+If you believe you're being profitable because you are, don't let my comment change your
+mind and I'm not trying to open up a dialogue for debate because you're never going to convince
+me.
+You're okay if you're using it but I'm answering students or viewers and that's my opinion.
+I'm not trying to begin a debate about it.
+We have a PM session buy-side liquidity pool that the market could likely reach up into
+and again the logic is we move from this high down to a target.
+It's Friday.
+There's probably going to be position squaring.
+They're going to want to take the market back higher so what are they going to reach for
+as an opposing move?
+Notice what I'm saying here.
+This was the target.
+There's going to be short covering.
+Who's short covering?
+The smart money that's sold short here, here, here, here, here and here.
+So if they're covering a short are they bearish still?
+No.
+So if they're not bearish what are they?
+Polish.
+So if they're going to be smart money and buy down here or they're going to use this
+imbalance in here if it trades down into that you can see a run higher.
+If they're going to buy it what are they going to target?
+The buy stops up here and they're going to sell right to those buy stops.
+They're buying this and selling it to these leading buyers on their buy stops.
+Notice these relative equal lows.
+They take it into the order block right below those relative equal lows because it sells
+what?
+It sells the retail crowd that this was support broken.
+What are they going to want to do?
+When it trades back up into these relative equal lows they're going to do what?
+Sell right?
+That creates more liquidity for buying.
+So this is engineering buy side liquidity on the basis of sell side flow.
+Sellers coming in the marketplace.
+These sellers they're going to have a counterparty in the form of smart money buying it.
+They want to sell short because they see relative equal lows breaking.
+The trend's been down.
+Everything looks bearish to them because it's been going down all day long so they think
+naturally it's going to keep going down when it's only traded down to where the algorithm
+says this is what we wanted and now we're going to reprice higher.
+We're going to move from a discount to a premium.
+The premium intraday is going to be this area here and that's going to be where the market
+draws to for the afternoon session buy side liquidity.
+All right I was going to do the pause the video type thing here but this is going to
+be a long video so I'm just going to go right into it.
+All right so we have a mitigation block here and I'll teach that in the YouTube channel
+but we have market structure breaking.
+We come back down into the mitigation block and we also have the imbalance here they got
+there so we can be a buyer here.
+Remember the 45.32 the 45.40 level go back up to this chart here right in here so this
+high right here to here.
+Think about those price ranges.
+We trade up into it here so buying here and aiming for that liquidity up here that would
+be your target from buying to getting out there selling to those waiting buy stops.
+The next one is here market trades down in and I count you to go into your chart.
+I left this out for your own personal study but if you look to the left go over here you'll
+see an old high okay old highs are a discount array if we trade above an old high that old
+high becomes a discount array.
+This is where not all the time but this is where old highs being broken become support.
+That's why sometimes the books have it right.
+That's why sometimes your analysis will be right about specific key highs and lows but
+notice they're not always consistent and that's the problem so you want to know what makes
+a old high or an old low real support or resistance when you have the logic when I'm framing here
+because we know that the likelihood of the market is going to draw up into this area
+here because that's where the buy stops are resting above the marketplace when it hit
+the order block down here.
+So what we're saying is the market is going to bounce from here up into this vicinity
+here so if the market comes back down in and touches it could have touched this high here
+but there's an old high to the left over here you'll see it it trades down and hits that
+and it also fills in an imbalance when you have that old highs broken will act as support.
+So there's something for your notes.
+Then we have the run up into that area so it's not a bad little run.
+Now once we get up into that shaded pink area what have we done we fulfilled buy side liquidity
+in this area here but we have a little bit more later on which obviously you can see
+it runs too but but here we see it do a run lower so we break below a swing low market
+structure shifts.
+Is there any imbalances in here?
+No but there is one right there see that here's your fair value gap shift in market structure
+there retraces back up into the fair value gap you can be a seller there and aim for
+this low or the order block or you can wait for a confirmation entry which is we turn
+here after it hits that fair value gap breaks lower and then we have another breaking the
+structure of the marketplace on the one minute chart creates the imbalance here fair value
+gap trades up yes it overshoots it but we also have two fair value gaps remember the
+rules I gave you if you have a fair value gap and a small one right above it anticipate
+it likely trading up into you but use this as your entry.
+Go short here and aim for the order block.
+So if you have an understanding of how we're going to work within the intraday volatility
+using liquidity using the time of day using the day of week all these things come together
+and they make a really beautiful tapestry so you can read price action now I know there's
+a large number of you that are going to watch this and it's going to feel and seem like
+obviously anybody can go back in time and do these types of things but a lot of my
+trades when you see my examples and you see the things I record and show you they're using
+logic like this so it's not contrived it's not form fitted it's not cherry picked for
+the purpose of just being something to talk about this is what you're looking for and
+when you do your back testing I've got a lot of questions in the comment section about
+this as well you go through your charts just like I'm doing here and you annotate them
+now in all these areas where there's empty space here or over here or over here you're
+putting in little notations and you're typing them out and yes it takes time yes it's tedious
+yes it takes a great deal of effort and desire but this stuff rewards that it rewards it
+it's not like fantasy football where you know who cares if your team wins this pays you
+this is something that you can feed your family with okay if you need your expenses to be
+reduced and you don't want to get enough job or in your you know you take a pay cut maybe
+get a you know job loss or whatever this skill set can fortify any weak links in your financial
+chain okay you want to build strength in your ability to make income and build legacy wealth
+it's worthwhile for you to spend time learning this and that means going back through old
+charts and old moves and literally going in and annotating the moves like this and mapping
+them out and seeing the logic that's there now do not be afraid that you're going to
+do it wrong all of you are going to be doing it wrong in the beginning this is a skill
+set in back testing you're trying to discover okay you're not trying to do things correctly
+in back testing back testing is you in a mode of discovery that proves efficacy if you can't see
+things repeating then you got to go back into the core content lessons of this YouTube channel and
+fair it out what it is I'm teaching conceptually then once you understand better what it is I'm
+showing you then you go back into the old data and look for those very things occurring then
+highlight the things in your chart that makes the most sense to you over time doing it and
+frankly you should be doing this at least a minimum of a year okay make it a practice
+of doing all the time even when you start trading with live funds your trade journal
+should always have annotations you should always have charts saved and just constantly referring
+to what you witnessed in price and record it like you saw it happening and knew it was going to
+in advance that's called self-talk okay you're literally tricking your brain into seeing your
+annotations as something that you foreseen coming and that way when you go back and you read your
+journal and you study it on the weekends or you know whatever you go through a period of drawdown
+and you need encouragement you go back to your charts in your journal and you'll see annotations
+that you wrote out yourself and it tricks your brain believing that you seen that all along now
+what happens by doing that over time is you have created creases in your brain where that knowledge
+and that pseudo experience has been retained but your brain remembers it as what a real experience
+that you endured but you're recording it with positive reinforcement in your commentary never
+put negative comments in your annotations don't say like oh I was stupid I missed this oh I'm so
+dumb I fell victim to the shark pattern you don't do all that kind of stuff you don't have to worry
+about swim with sharks you don't have to worry about animal patterns you don't worry about any
+of those types of things all you're looking for is liquidity imbalances time of day that's it that's
+it that's all this game is all about okay the algorithm is not going to try to follow some
+retail logic stuff it's based on where's the money where's the money who's the most easy prey
+right now and where is the majority of the money and that's where it's gonna run for that's all
+it's gonna do and if you strip everything you think you know about the markets away and just
+give me a couple months stay with me for a couple months here and I promise you you will put
+else down and see it like this because this is the truth this is the perfect understanding of what
+makes these markets book that means what makes them go up and down where they turn why they go
+where they go why are they moving when they move and why are they arriving when they were arriving
+at that price point it's all algorithmic and it has absolutely nothing to do with ratios it has
+nothing to do with anything harmonic nothing supply and demand zone nothing to do with Elliott
+Wave nothing to do it like off nothing to do it again none of that stuff has anything to do with
+it I literally have just explained exactly what these markets do that's it there's nothing else
+that happens the buying and selling pressure it's a myth because these markets are going to go
+higher regardless of how many contracts come in if they want this thing to go up here it doesn't
+require millions of contracts to put it there it doesn't how many contracts does it take for
+this candle to move from that opening price to that closing price tell me how many camp how many
+contracts does it take for that to happen it only needs two two transactions two transactions one
+here and when it gaps up here and reprices to that price point and it offers it to the market that
+price and someone comes in with a market order what happens boom it's it the candles have been
+created two trades how many contracts it doesn't make a difference you only need a transaction
+what yeah folks listen you can sit down and listen to these videos I'm producing and come
+in with the preconceived notion that everything I'm saying is nonsense it's not true and it's
+not valid because you don't want it to be all I'm asking you to do is put everything you think you
+understand put it aside for a moment just for a little while and go in and do the things I'm
+telling you to do I guarantee you you will absolutely fall in love with this because this
+is consistency this is consistency that you have always hoped for but everything else just falls
+short in delivering it and you're getting it for free and I'm loving it while giving it to you
+because I know and you're all gonna see it when all these little light bulbs come on and all of
+people watching these videos and folks this channel is growing it's growing and this chains
+gonna keep on rolling yeah this community is getting bigger and bigger because it's infectious
+results matter proof matters and when students go into this and they see the results man it's
+sweet isn't it isn't it sweet when you see the truth finally just laid out in front of you there's
+no trickery here there's no twisting of your arm give me your credit card payment you don't
+you don't have to blow any kisses to me okay I don't need flowers I just want you to make a
+real effort and then tell me what your results are what did you get from it I promise you I'm
+promising you you will find what you're looking for but you got to put the work into it because
+if you don't put the work into it it won't matter because you'll just think it's too much
+work and I'm telling you it only feels like a lot of work in the beginning but once you understand
+what you're looking for like this setup here that might be your particular setup and this up here
+isn't your setup this might be your setup here because it's based on that old hi that's you'll
+find if you scroll back on your own chart that might be your setup and not this one down here
+that's what I'm referring to when I say when you find your unique model that means a setup that
+is so similar every time you take it it repeats the same general idea just in a different chart
+on a different day in a different time frame it's it that's all it is that's a that's your unique
+model you're learning how to do it with what I'm teaching you but where you're looking for it in
+what market in what narrative that you're looking for what makes that setup your particular setup
+that's a unique thing for you and that's the weird beautiful element to trading and the way
+these markets operate is it allows each and every one of us to have our own unique model we can all
+use the things I'm teaching and all find setups within the same trading day and be opposed to
+every individual trade setup individually in other words we could all be doing something and
+not agree with any of it you took a short there I was long a little while before that or I went
+short and you went long somewhere else and you're ending a trade where I'm getting ready to put on
+a trade it's amazing but how you internalize the market what setup you're looking for there's lots
+of them and if you break this chart down into a 30 second chart or a 15 second chart there's even
+more setups everything's fractal so if you want to do high-frequency trading you can do that with
+the second chart you may not be able to pull up second charts because you may not have the I guess
+the subscription level on trading view and I don't get any subscription kickbacks I'm not trying to
+get you to buy anything from trading view I'm just stating that you can make this however you
+want and if you just want to stay on a 15 minute chart and trade the daily range okay there's no
+reason to do anything less than that but if you want to get busy and pyramid your positions that
+means like say you bought one down here or say you bought say about five down here and you bought
+three here and you bought two here and then you roll it up into your objective that's a
+pyramiding your biggest position put on first then a smaller position on and then a smaller
+position on and then they that's how you build up the equity and you get velocity in your equity
+court that way versus buying one then buying two then buying four then buying eight that that is
+reckless and I've done that and I've roasted accounts doing it so don't do that but hopefully
+this is at least got your gears turning about how you can go in and back test a little bit how you
+can see multiple trade setups and how we can work with higher time frame PD arrays and the PD array
+matrix where it's discounted premium and premium to discount and how we use and incorporate all the
+different arrays where I'm sure someone new watching this your head spinning right now you're
+like I have a thousand questions right now and I need to know this no you don't need to know what
+you're asking for right now you only feel like you need to know right now take the things I'm
+showing you at the pace I'm showing you study them and I promise a couple months from now you're
+gonna know a whole lot more than you know right now and you'll be able to go in and see things
+in price action that you don't even identify right now even in hindsight you just got to give
+yourself the time and give yourself the real effort to learn this I've stripped it down I mean
+it's streamlined as I possibly could and I promise you will get this and it's all talk to you next time be safe

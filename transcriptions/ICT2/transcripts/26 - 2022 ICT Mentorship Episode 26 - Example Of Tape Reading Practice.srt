@@ -1,0 +1,672 @@
+1
+00:00:00,000 --> 00:00:09,840
+All right, so we're going to be doing a quick little ditty on institutional order flow.
+
+2
+00:00:09,840 --> 00:00:15,720
+I'm going to be trading against the daily bias.
+
+3
+00:00:15,720 --> 00:00:25,480
+Okay, I'm going long here, and it's on the basis of the sell-stop or sell-side liquidity
+
+4
+00:00:25,480 --> 00:00:26,480
+being taken.
+
+5
+00:00:26,480 --> 00:00:33,480
+I traded into a fair value gap around that $4,000 level, and I'm trading with the idea
+
+6
+00:00:33,480 --> 00:00:39,200
+that it could run up here and take out the buy stops above the high of the day.
+
+7
+00:00:39,200 --> 00:00:44,120
+It doesn't need to do that to be profitable.
+
+8
+00:00:44,120 --> 00:01:07,560
+So my draw liquidity is here, and noting the buy-side liquidity will take in a clear profitable
+
+9
+00:01:07,560 --> 00:01:15,640
+shorts.
+
+10
+00:01:15,640 --> 00:01:22,400
+So this is kind of like the idea, the draw on liquidity.
+
+11
+00:01:22,400 --> 00:01:25,840
+Now it doesn't need to trade here to be profitable.
+
+12
+00:01:25,840 --> 00:01:28,780
+That's just my best case scenario.
+
+13
+00:01:28,780 --> 00:01:35,600
+So what I want to do now is draw the buy-side and sell-side liquidity pools, and I'll show
+
+14
+00:01:35,600 --> 00:01:43,560
+you the framework for the logic of why I'm entering where I'm entering at, and I want
+
+15
+00:01:43,560 --> 00:01:48,000
+you to take a look at the chart first and see if you understand what I'm capitalizing
+
+16
+00:01:48,000 --> 00:01:53,440
+on.
+
+17
+00:01:53,440 --> 00:02:03,000
+Pause the video.
+
+18
+00:02:03,000 --> 00:02:09,160
+This here is the sell-side liquidity.
+
+19
+00:02:09,160 --> 00:02:11,680
+So the market has dropped below those relative equal lows.
+
+20
+00:02:11,680 --> 00:02:15,040
+I bought those sell-stops.
+
+21
+00:02:15,040 --> 00:02:23,040
+So sell-side is taken, so you can see that here.
+
+22
+00:02:23,040 --> 00:02:28,080
+And now what I'm going to target, even though I think it could go, but it may not really
+
+23
+00:02:28,080 --> 00:02:31,960
+get there, it can go to $40.51 and take out the high of the day.
+
+24
+00:02:32,520 --> 00:02:34,560
+But let's say I'm wrong.
+
+25
+00:02:34,560 --> 00:02:36,000
+What am I going to aim for?
+
+26
+00:02:36,000 --> 00:02:41,760
+This is where I'm going to take the bulk of my position off at, and I'm going to make
+
+27
+00:02:41,760 --> 00:02:44,760
+this show on top of the line.
+
+28
+00:02:55,760 --> 00:03:00,760
+Okay, and put that on top.
+
+29
+00:03:00,760 --> 00:03:03,040
+All right, so I'm reaching for that.
+
+30
+00:03:03,040 --> 00:03:07,160
+Now the bulk of my position, I'm going to try to pyramid and build this position a little
+
+31
+00:03:07,160 --> 00:03:16,160
+bit bigger than just the four contracts, but we'll see what I get.
+
+32
+00:03:16,160 --> 00:03:20,360
+Now try not to worry about that profit and loss.
+
+33
+00:03:20,360 --> 00:03:22,360
+That's a distraction.
+
+34
+00:03:22,360 --> 00:03:26,360
+Pay attention to the price.
+
+35
+00:03:26,360 --> 00:03:33,960
+Okay, we dipped inside that fair value gap just to the left of us, and we went below
+
+36
+00:03:33,960 --> 00:03:35,360
+to take out the relative equal lows.
+
+37
+00:03:35,360 --> 00:03:40,480
+That's noted here for the sell-side liquidity being taken.
+
+38
+00:03:40,480 --> 00:03:43,520
+So I'm looking for expansion to the upside.
+
+39
+00:03:43,520 --> 00:03:45,160
+Retail sees that as a bear flag.
+
+40
+00:03:45,160 --> 00:03:51,800
+Okay, so they're thinking lower prices, I'm not.
+
+41
+00:03:51,800 --> 00:03:55,920
+Even if I'm wrong about it not going to $40.51, I'm confident that we're going to go up into
+
+42
+00:03:55,920 --> 00:04:01,320
+the buy-side liquidity that's noted in blue.
+
+43
+00:04:01,320 --> 00:04:05,200
+Okay, so far price looks nice.
+
+44
+00:04:05,200 --> 00:04:14,880
+It's respecting the underlying narrative I'm acting upon.
+
+45
+00:04:14,880 --> 00:04:19,960
+Now I want you to also monitor how I manage my stop loss.
+
+46
+00:04:19,960 --> 00:04:24,960
+Even though I'm trading against the daily bias, the fact that we traded down three times
+
+47
+00:04:25,000 --> 00:04:33,760
+yesterday and took out yesterday's low by doing so, that lack of follow-through, kind
+
+48
+00:04:33,760 --> 00:04:34,760
+of like bolsters.
+
+49
+00:04:34,760 --> 00:04:43,760
+I'm going to do two more here trading onto the order block.
+
+50
+00:04:43,760 --> 00:04:53,160
+Okay, so now I have six contracts long, and I'll move my stop off just a little bit underneath
+
+51
+00:04:53,160 --> 00:04:55,260
+that low rate there.
+
+52
+00:04:55,260 --> 00:04:56,760
+Should not trade back down into that.
+
+53
+00:04:56,760 --> 00:05:00,560
+If it does, I'm wrong and that's fine.
+
+54
+00:05:00,560 --> 00:05:03,240
+Why do I feel confident about placing my stop loss there?
+
+55
+00:05:03,240 --> 00:05:07,760
+Because if you look where I have my stop, it's basically inside of the lower end of
+
+56
+00:05:07,760 --> 00:05:12,200
+the fair value gap and the old short-term high around $9.30.
+
+57
+00:05:12,200 --> 00:05:16,960
+So I have market structure supporting the idea, and we've already taken sell-side liquidity
+
+58
+00:05:16,960 --> 00:05:17,960
+out.
+
+59
+00:05:17,960 --> 00:05:23,060
+We're back inside the range between where my stop loss order is and the short-term high
+
+60
+00:05:23,060 --> 00:05:26,660
+I have noted for buy-side liquidity.
+
+61
+00:05:26,660 --> 00:05:29,740
+So buy-side liquidity is the next draw on liquidity.
+
+62
+00:05:29,740 --> 00:05:31,980
+I'll take four of the contracts off.
+
+63
+00:05:31,980 --> 00:05:35,020
+So I'm going to annotate what we're doing here.
+
+64
+00:05:35,020 --> 00:05:39,140
+We're just bumping the order block there.
+
+65
+00:05:39,140 --> 00:05:41,260
+Straighten this line out here.
+
+66
+00:05:41,260 --> 00:05:45,860
+Okay, hold down shift when you're dragging your trend lines and trading with you.
+
+67
+00:05:45,860 --> 00:05:49,100
+It'll automatically straighten them out.
+
+68
+00:05:49,100 --> 00:05:52,740
+And that is an order block.
+
+69
+00:05:52,740 --> 00:05:54,980
+Bullish order block is what I'm annotating here.
+
+70
+00:05:54,980 --> 00:06:02,420
+So you can see this is all being done as it happens.
+
+71
+00:06:02,420 --> 00:06:08,500
+I can chew bubblegum and walk at the same time.
+
+72
+00:06:08,500 --> 00:06:11,700
+And that's what I'm looking for.
+
+73
+00:06:11,700 --> 00:06:16,140
+I'm looking for that type of movement.
+
+74
+00:06:16,140 --> 00:06:21,580
+That way we understand what I'm internalizing, what am I seeing, what's likely to pan out.
+
+75
+00:06:21,580 --> 00:06:22,580
+That's what I want.
+
+76
+00:06:22,580 --> 00:06:28,180
+So now I'm going to study to see if price does, in fact, deliver with that premise in
+
+77
+00:06:28,180 --> 00:06:29,180
+mind.
+
+78
+00:06:29,180 --> 00:06:34,860
+Again, if I'm lucky, it could expand up into that 40.51 in the quarter, but I don't need
+
+79
+00:06:34,860 --> 00:06:39,380
+it to because the bulk of the position, which is now six contracts, I'm going to take four
+
+80
+00:06:39,380 --> 00:06:44,020
+off above that buy-side liquidity should I get the opportunity to do so.
+
+81
+00:06:44,020 --> 00:06:47,020
+And I'll do it on the basis of a market order.
+
+82
+00:06:47,020 --> 00:06:49,120
+All right.
+
+83
+00:06:49,120 --> 00:06:56,900
+So far we're getting some response off that order block level I've annotated.
+
+84
+00:06:56,900 --> 00:07:02,140
+OCD is flaring.
+
+85
+00:07:02,140 --> 00:07:04,620
+I like things the way I like them, folks.
+
+86
+00:07:04,620 --> 00:07:05,620
+All right.
+
+87
+00:07:05,620 --> 00:07:08,020
+Nice little caffeine bar there.
+
+88
+00:07:08,020 --> 00:07:12,460
+Caffeine bar is something I named Big Green Candles.
+
+89
+00:07:12,460 --> 00:07:15,940
+If I'm bullish, I want to see that.
+
+90
+00:07:15,940 --> 00:07:23,140
+If I'm embarrassed and I see it, I don't like it.
+
+91
+00:07:23,140 --> 00:07:33,580
+Okay, so I'm just being a little facetious here.
+
+92
+00:07:33,580 --> 00:07:40,660
+You don't see that type of stuff called before it happens, that precise, but it's okay.
+
+93
+00:07:40,660 --> 00:07:51,780
+I'm going to give you some more evidence here today.
+
+94
+00:07:51,780 --> 00:07:57,580
+Now this is what you want to do also if you're practicing reading order flow, tape reading.
+
+95
+00:07:57,580 --> 00:08:00,540
+You don't have to necessarily put a demo account position on.
+
+96
+00:08:00,620 --> 00:08:03,540
+I'm doing it just simply because a lot of people like to see it.
+
+97
+00:08:03,540 --> 00:08:13,860
+Okay, this is me just making sure you understand that I see this before it happens.
+
+98
+00:08:13,860 --> 00:08:19,980
+Not speaking in waffle ease where it's hard to tell what I'm saying, what I'm expecting.
+
+99
+00:08:19,980 --> 00:08:22,900
+It's very, very specific.
+
+100
+00:08:22,900 --> 00:08:26,540
+Nothing ambiguous is being hinted at in here.
+
+101
+00:08:26,540 --> 00:08:30,500
+Okay, so sell-side has been taken.
+
+102
+00:08:30,500 --> 00:08:36,700
+This is now being dimmed so that way the focus is on the levels that are more pronounced
+
+103
+00:08:36,700 --> 00:08:37,700
+in color.
+
+104
+00:08:37,700 --> 00:08:43,420
+Now see, there's two down close candles.
+
+105
+00:08:43,420 --> 00:08:51,380
+The higher candle of the two, I'm going to draw an order block on, it can drop down into
+
+106
+00:08:51,380 --> 00:08:58,900
+that, pick up momentum from there, and then the algorithm will likely reprice higher to
+
+107
+00:08:58,900 --> 00:09:05,020
+the buy-side liquidity or around that 40-36 level.
+
+108
+00:09:05,020 --> 00:09:11,180
+So I'm allowing for and preparing myself, should it trade down into that level, it might
+
+109
+00:09:11,180 --> 00:09:15,740
+just touch the higher wick of the two down close candles I'm anchoring to, but I'm using
+
+110
+00:09:15,740 --> 00:09:23,340
+the uppermost opening price as kind of like the level I'm looking for, but that small
+
+111
+00:09:23,820 --> 00:09:31,740
+wick high, it might just touch that and be enough, or it may not even touch it at all.
+
+112
+00:09:31,740 --> 00:09:34,860
+But when you're watching order flaming, make this a little bit more thicker so you can
+
+113
+00:09:34,860 --> 00:09:42,100
+see it, be able to track what price is doing.
+
+114
+00:09:42,100 --> 00:09:52,060
+Now this is one of those instances where you're looking for price to kind of like drive higher
+
+115
+00:09:52,180 --> 00:09:59,980
+You want to do it in like big candles, speed, delivery right to where you're looking for.
+
+116
+00:09:59,980 --> 00:10:04,580
+Traders are now trying to go short because they looked at that imbalance at 8.30, the
+
+117
+00:10:04,580 --> 00:10:08,140
+quick sudden drop, the market has come back and rebalanced that.
+
+118
+00:10:08,140 --> 00:10:09,820
+Now it's starting to drift lower.
+
+119
+00:10:09,820 --> 00:10:15,020
+People that follow imbalances and things like that, because it's gotten real popular lately,
+
+120
+00:10:15,020 --> 00:10:20,620
+that idea they're trying to sell short on, I'm going against that and I'm targeting them.
+
+121
+00:10:20,860 --> 00:10:22,860
+Okay, so that's a buy right there.
+
+122
+00:10:26,060 --> 00:10:32,300
+So, order block right there, right.
+
+123
+00:10:32,300 --> 00:10:37,260
+I would adjust that line, but I've already outlined what I'm saying here.
+
+124
+00:10:37,260 --> 00:10:41,340
+It's basically touched the little wick.
+
+125
+00:10:41,340 --> 00:10:46,620
+So if I wanted to add one more, which I guess I could, I could buy one here just to prove
+
+126
+00:10:46,620 --> 00:10:49,260
+the point, but it is what it is.
+
+127
+00:10:49,260 --> 00:10:52,300
+Let's assume that this is all we're going to build on.
+
+128
+00:10:52,300 --> 00:10:56,060
+I want to see it rally higher from here.
+
+129
+00:10:56,060 --> 00:10:57,980
+Notice I'm not in a hurry to rush my stop-loss up.
+
+130
+00:11:02,700 --> 00:11:04,700
+Very nice price delivery there.
+
+131
+00:11:04,700 --> 00:11:07,020
+So think about what's being shown here.
+
+132
+00:11:07,020 --> 00:11:15,820
+The down-closed candles are supporting price, we're seeing expansion, and where is the bullseye?
+
+133
+00:11:15,820 --> 00:11:18,940
+Okay, can't return 50.
+
+134
+00:11:18,940 --> 00:11:20,940
+My eyes are not what they used to be, folks.
+
+135
+00:11:22,700 --> 00:11:24,940
+I'm sure if it was a rattlesnake, I'd be bit by now.
+
+136
+00:11:29,900 --> 00:11:30,780
+There it is.
+
+137
+00:11:30,780 --> 00:11:32,700
+I should have checked my most recent ones at the top.
+
+138
+00:11:33,660 --> 00:11:35,820
+All right, so we'll put that right here.
+
+139
+00:11:35,820 --> 00:11:37,580
+That's our bullseye, okay.
+
+140
+00:11:37,580 --> 00:11:46,460
+And I can bring my stop-loss up to break even.
+
+141
+00:11:46,460 --> 00:11:47,740
+Actually, let me get that a little bit higher.
+
+142
+00:11:49,740 --> 00:11:54,380
+And we can see the profit and loss for these guys that like to see those numbers flashing.
+
+143
+00:11:57,020 --> 00:12:00,620
+All right, so I'm going to take four off when it runs above that high, and then I'll
+
+144
+00:12:02,060 --> 00:12:04,780
+consider moving my stop-up and see if I can get lucky the rest of the day.
+
+145
+00:12:04,780 --> 00:12:07,260
+I have things I have to take care of, administrative things.
+
+146
+00:12:08,300 --> 00:12:12,940
+Video production, so should we get this run up above?
+
+147
+00:12:12,940 --> 00:12:14,700
+I'm going to close four at market.
+
+148
+00:12:19,580 --> 00:12:21,820
+Okay, just sitting here waiting for it to deliver.
+
+149
+00:12:24,860 --> 00:12:27,740
+And again, those order blocks were drawn real time.
+
+150
+00:12:27,740 --> 00:12:28,860
+You saw it happen.
+
+151
+00:12:28,860 --> 00:12:34,060
+I've outlined it, gave you the logic, and we'll see if we can get some magic.
+
+152
+00:12:35,740 --> 00:12:36,300
+There we go.
+
+153
+00:12:37,580 --> 00:12:53,900
+So I'm going to show you the executions here, and we can see the business.
+
+154
+00:12:56,460 --> 00:13:02,220
+Okay, and I'll leave it up to the market to decide whether or not it wants to go up
+
+155
+00:13:02,220 --> 00:13:04,460
+and take the 40, 51 and a quarter level.
+
+156
+00:13:04,460 --> 00:13:05,820
+It doesn't need to at this point.
+
+157
+00:13:05,820 --> 00:13:10,540
+I've booked over five hypothetical thousand dollars in this example here,
+
+158
+00:13:10,540 --> 00:13:15,820
+reading order flow, and that will be it for this one, I believe.
+
+159
+00:13:15,820 --> 00:13:20,620
+And I'll just change this color here because now it's been fulfilled.
+
+160
+00:13:24,780 --> 00:13:29,580
+And my typical sarcastic ripping.
+
+161
+00:13:31,900 --> 00:13:33,340
+It's got to be me.
+
+162
+00:13:34,700 --> 00:13:39,340
+So here is the final.
+
+163
+00:13:39,340 --> 00:13:48,220
+Here is the buying 4,006 and a half, and then buying this here.
+
+164
+00:13:49,020 --> 00:13:52,700
+So the initial was buying the fair value gap sell stops, then the order block,
+
+165
+00:13:52,700 --> 00:13:57,980
+then selling four above here, and I moved the stop loss up,
+
+166
+00:13:59,260 --> 00:14:02,140
+and it tripped me out right there on the final two.
+
+167
+00:14:03,020 --> 00:14:04,380
+So hopefully you found this insightful.
+
+168
+00:14:05,260 --> 00:14:07,980
+Until next time, be safe.
+

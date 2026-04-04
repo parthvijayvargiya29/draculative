@@ -1,0 +1,152 @@
+What is going on guys welcome to episode three of ict for dummies
+We just did candlesticks and now we're on to market structure and now we're going to help you interpret these candles
+So you can actually understand the trend of the market
+So as you can see of two different types of market structure on the left side
+You have the bullish market structure on the right side. You have the bearish market structure
+What does bullish market structure look like?
+Well, it starts with a low and then a high and then a higher low and then a higher high
+And then a higher low and then higher high continue continue continue as for the bearish market structure
+You're gonna have the opposite you're gonna have a high you're gonna have a low
+You're gonna have a lower high and then a lower low a lower high and then a lower low
+Okay, so now this is what it looks like on an actual candlestick chart
+So we have a low then we have a high then we have that higher low then we have the higher high
+Higher low higher high guys. It's gonna be like really simple
+And I know you do not want to be learning this right now, but I promise you it is going to help you in the long run
+Okay, I know we're gonna get into models later. We're gonna get into a fair value gaps, you know liquidity sweeps all that stuff
+But you need to know the basics to incorporate everything that we're going to learn in the future
+And then for the bearish structure, it's the same thing on the candlestick chart guys
+So we have a high put in place then we have a low then we have a lower high
+Then we have a lower low lower high lower low lower high lower low and this shows bearish market structure
+And this shows a bearish trend in the market. Now we're going to show you some real-time examples
+You can have a better understanding of this. Okay, so we're going to play this out in real time
+You have your low right you have then your high that gets put in place your higher low
+You have your higher high your higher low
+Your higher low your higher high then you have a low and then we have our little liquidity sweep
+We'll get into that later. Then your low gets put in place
+Your higher low and then high. Okay, you got it
+And although we are not trendline trading and that's not what we will be teaching you it is still incredibly important for you to understand
+The foundational movement of price action and guys it's a little bit cringe
+But the trend is your friend at the end of the day higher time frame is always going to hold higher power
+So I oftentimes see a lot of people just fading the overall trend
+We're all time eyes right now. Stop trying to catch the top and short this right?
+We're clearly in bullish market structure
+So catch those longs and you will get the best possible risk to reward
+You're going to get the best entries and obviously we're going to get those entries using our models that we're going to teach later on
+But this is again the foundation that is necessary here. All right guys little quiz time. Let's see if you can identify the trend here
+Bearish
+Why is it bearish now, let's do a little markout while patty dances for me
+So as you can see here
+We made the high the low the lower high the lower low
+If you didn't mark this out correctly, you might want to reconsider trading and you might want to just i'm just kidding
+And then your lower high exactly like this is not going to be perfect too guys
+I want you to know also in a market. It's not going to look perfectly just like this how we draw it out, right?
+It's most likely going to look something more like this, you know where we'll do something like this
+Like this is the reality of how the market is actually going to be moving so spend some time on the charts identifying trends
+Marking out your lows your highs your lower lows your higher highs guys
+Also, if you want to looking at this on a line chart makes it also a lot easier
+If you look at the low you have your high your high or low, right?
+And you can identify trends simply using the line chart if you can't understand with candlesticks. Yeah, look how easy this is spot trends guys
+bullish
+bearish
+bearish
+bullish
+Identify the trends for breakfast we got just to reiterate this like the trend is your friend
+For example when you're swimming, right you want to be swimming with the current if you're in a little river, right?
+You're swimming with the current. It's really easy. You're just swimming. You don't even have to put much effort into it
+Versus if you're swimming against the current what is going to happen?
+It's gonna be a lot harder to push through that right and it's you know, you're gonna hit stop. Oh my god hit stop loss, bro
+That wasn't on purpose
+You're probably gonna drown, okay
+Of course if you're hyper fixating on the lower time frame right now
+It doesn't take a big brain to realize that the lower time frame is currently in a bearish trend
+But if you focus too much on the lower time frame and distract yourself from what's actually happening on the higher time frame
+Which is clearly a bullish trend then that's where you'll most likely find yourself getting manipulated out of trades and stopped out
+So in a scenario like this where we analyze that there is clearly bearish structure on the lower time frame
+But there is bullish structure on the higher time frame
+we want to wait for bullish structure to form on the lower time frame maybe something like
+And we're gonna get a little bit complex here
+but if we came down a little liquidity sweep and then started seeing some bullish structure form and we can catch some longs from
+there so the whole point of
+Ict concepts really is it allows you to understand the higher time frame narrative and then use the lower time frame to find
+The most optimal entry points. Okay. So now we're going to get into the market structure
+Drop roll
+shift
+Shift in the market. So a market structure shift indicates a change in trend
+So it is shifting from either bullish structure to bearish structure or bearish structure to bullish structure
+bullish structure
+to bearish structure
+Okay, and here on the left we have bullish market structure, right? We have our low we have our high
+We have our higher low, right?
+We just learned this when we get a shift in structure is when we break through
+the last
+higher
+Low, okay
+So once we break through this higher low that we have and we get a closure below this
+This can indicate a change in trend and then we start seeing bearish structure form here, right?
+We then have our lower high our lower low lower high lower low and domain expansion
+Market structure shift and this market structure shift can then happen back again to the upside
+How by closing above the previous lower high, right?
+So a bullish market structure shift looks something like this where we close above the previous lower high
+And then we keep trending upwards versus bearish market structure shift. We're closing below the recent higher low
+All right. So now we're going to show you what a market structure shift looks like on the actual charts
+Okay, you can see here. We're in bearish structure, right? I don't have to explain this. We just learned this and then
+Once we get a closure above this recent swing high that we made this is a market structure shift
+Okay
+This is going to indicate that price is reversing and we are going to put in bullish structure
+And it has to be a candle closure
+Okay
+I see a lot of times people getting faked out thinking market structure shifts can happen just when the candle you know goes over this
+Wait for the candle to close. It has to be the body closing above. It cannot be a wick
+Okay, if it's a wick that is not a market structure shift
+It's not a true market structure shift and as we get deeper into concepts and a little more complex
+You'll realize that the bodies and wicks make a huge difference as you can see here
+The body failed to close below this last low ended up wicking this low. That's a liquidity sweep
+But we'll get into that later. Now if you look at this price action, what does this look like bullish market structure, right?
+We have a sequence of higher highs followed by higher lows with every swing
+Now what happens we break through this low?
+We get a bearish market structure shift and once we get a body closure below this low
+You can see that the trend has now flipped to bearish and we get bearish market structure
+All right guys now we're going to show you the importance of body closures in real time
+Clearly here you can see that we have a bullish market structure, right?
+Crisis trending upwards we get higher highs with every swing and higher lows and what happens now price starts coming down
+You think it's going to break through that low?
+But no, there's a zero body closure below this low you end up wicking this low and what happens price continues higher, right?
+So this is a fake out. This is not an actual market structure shift
+And this is why it is so important to understand that in order for a market structure shift to occur
+You need a body closure. All right, and as you can see here, we are clearly in bearish market structure
+So what would a bullish market structure shift look like in this scenario? Well, it will be a closure above the recent lower high
+So if we play out price here
+We do not get a closure above the recent high
+This is not a market structure shift why because we did not have a body
+So this is a fake market structure shift, right a true market structure shift needs a body closure
+Okay, and then as you can see we continue with bearish structure
+Okay
+So in this example, we have bullish structure, right and you wait for now a body closing below this low
+Is this a market structure shift guys?
+No, it is not right. Is this a market structure shift?
+We get a body closing below this recent swing low. This is a market structure shift
+I hope you guys are seeing this start marking out on your charts. That's going to be your homework for today
+Mark out your market structure shifts mark out trends
+Try to identify a bearish trend versus a bullish trend and try to identify when the trend is changing
+And then once we get this closure, we also create this bearish fair valley gap
+We get a turtle soup at these highs then we get a crt
+I'm just kidding once you guys get a little bit more advanced and know all these ict concepts
+You'll be able to find something like this nice little low resistance liquidity resting down here
+You're gonna have a sweep of this buy side liquidity up here
+And then you're gonna come down tap into this fair valley gap after the market structure shift and get this beautiful
+2022 model. All right guys now a quick little refresher before we let you go all the way to the left
+Here you have the bearish structure right next to it. You have the bullish structure right next to this
+We got the bullish market structure shift
+We start with a downtrend in price and then we break through this high
+Which creates a market structure shift and then we get an uptrend in price and then for the bearish side
+We have a bearish market structure shift
+Why we were first in bullish price action and then we get a closure below the recent higher low
+Creating a bearish market structure shift. Please remember
+It has to be with a body not a wick
+Okay, as you can see here we were embarrassed structure and then we got a shark structure shift
+Thank you guys so much for watching this. Sorry for the lack of uploads. It was thanksgiving break
+I was spending time with the family so it was blake, but we are fucking back
+And we'll be uploading two to three times a week. So stay tuned
+We're gonna be doing fair valley gaps next and dropping tons of psychology in between there as well. So stay locked in
+And this was
+I ct for dummies episode three. We teach you how to make

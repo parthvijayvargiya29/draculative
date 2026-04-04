@@ -1,0 +1,741 @@
+start	end	text
+0	5640	All right, folks, welcome back.
+5640	13040	This is an extra lesson, but we'll call it episode 13 nonetheless.
+13040	19720	So last night, I gave a lesson on market structure for precision technicians, and advanced price
+19720	24920	action theory in action is going to be this lesson here.
+24920	31760	So it's one thing to talk about it and provide the basis as to what I'm doing when I'm doing
+31760	32760	these executions.
+32760	37040	When I'm running these demo accounts up really fast, you know, what am I doing?
+37040	38040	How am I doing it?
+38040	45840	I got a lot of questions as to how I ran the $10,000 account up to which was at $256,000
+45840	54000	this morning, but it quickly got to a point where it no longer can be appreciated from
+54000	55960	students perspective.
+55960	63520	It's too fast of growth and the acceleration just makes it well, you have no you have no
+63520	64520	connection to it.
+64520	70560	If you don't know how to do this and you're new and you start seeing velocity in equity
+70560	73440	increasing, even though it's a demo, it does not matter.
+73440	77000	The same principles are applied whether you're trading with a live account or if you're trading
+77000	79840	with a demo account and you're learning.
+80840	91320	I want to take you into what it is I do and how I'm able to run the equity up quick.
+91320	94160	What is the mindset behind what is I'm doing?
+94160	99640	But before I get into it, let me remind you what I stated last night in the video.
+99640	109280	Because of the heightened volatility, because of the uncertainty and the likelihood of price
+109280	114560	action moves that would be unexpected for me.
+114560	118600	Because it's already delivered what I wanted to see happen anyway, and I'm technically
+118600	123080	bearish on equities.
+123080	130520	I don't feel confident or willing to risk after being profitable in live trading, going
+130520	135440	short this market, making my February game.
+135440	141360	I don't want to go in and risk that because it's already arrived down below these lows.
+141360	145280	So there's an objective I look for for the week.
+145280	148320	There's an objective I try to aim for for the day.
+148320	154160	And there's something I'm aiming for for a goal for the month.
+154160	162120	So truth be told, the account that I'm showing with TD Ameritrade, I'm trying to illustrate
+162120	171280	in my best ability to pantomime how it would likely be for a new student if they were to
+171280	178480	try to do live trading with a model and aiming for 20 percent per month.
+178480	182520	Now some of you are going to think, well, 20 percent isn't a lot of money.
+182520	183520	It's not a lot of money.
+183520	185520	Well, 20 percent isn't money.
+185520	187460	It's a percentage.
+187460	190040	So I don't care if you start with one dollar.
+190040	197760	If you make 20 percent consistently, the compounding effects of that is astonishing.
+197760	206120	Now is it my belief that my students can consistently hit 20 percent every single month?
+206120	209320	I would never go out on a limb and say that.
+209320	216960	I might not hit 20 percent one of the months, but that is a goal that I'm aiming for.
+216960	222680	Then if you're a new developing student that worked very hard to find and refine your own
+222680	228040	model with the things I'm teaching and you have a trading plan that is well documented,
+228040	232240	you know what it is you're doing when you're not going to do something, you have a complete
+232240	239520	understanding of what it is that's going to allow you to engage or not engage in price.
+239520	243960	Then how to manage that risk, all those factors involved, and you've been consistent with
+243960	246600	a demo account for six months.
+246600	253440	And then only then would I not necessarily that you need to do this, but I would then
+253440	260080	only at that time consider maybe going into live fund trading.
+260080	264440	But I don't ever tell my students, I never answer an email when they say, do you think
+264440	265440	I'm ready to go into life?
+265440	266720	I don't answer those questions.
+266720	272540	I say, I don't know, you tell me or generally I ignore those emails because there is never
+272540	276360	going to be a record of me saying, I think you're ready to go into live fund trading.
+276360	280800	And then when they blow their account, who are they going to blame?
+280800	284480	Naturally the human is going to say, well, it wasn't my fault, it was a guy that told
+284480	286240	me I should do it.
+286240	289440	He told me to jump off the bridge.
+289440	292360	So I never put myself in that situation.
+292360	293360	Okay.
+293360	299000	And I don't think any mentor or educator worth their salt would ever tell you to go out and
+299000	308360	risk life money because experience has taught me that I got into live trading way too fast,
+308360	309360	way, way too fast.
+309360	314440	In 1992, that was the worst thing I could have done for my development was rushed to
+314440	318240	get into real money trading when I had no idea what I was doing.
+318240	324240	I tricked myself into believing it was so easy reading one book, no real back testing
+324240	325240	whatsoever.
+325680	328680	And I said, well, you know, I can see this one, two, three top and one, two, three bottom
+328680	329680	idea.
+329680	330680	You can see it.
+330680	331680	Yeah.
+331680	337040	I saw one, two, three, I was gone in my first trade, 50% history.
+337040	338040	Goodbye.
+338040	340320	Close the account, send me my money.
+340320	348880	I was afraid, but when we understand what it is we're trying to do, obviously it comes
+348880	356520	with a great deal of nervousness and anxiety because you have not put the time into back
+356520	360280	testing and then forward testing it with a demo account.
+360280	365920	So if you feel this tug of war, this butterfly feeling in your stomach where you just can't
+365920	372320	relax and you're engaging in the marketplace, you're not ready.
+372320	373320	That's the bottom line.
+373320	374320	You're not ready.
+374320	382960	You have to desensitize yourself with the results not being a factor.
+382960	386440	If you lose, it doesn't make a difference to you.
+386440	390660	You're indifferent to it and it doesn't seem possible that you could be indifferent to
+390660	392400	losing money.
+392400	398160	But a student that has a solid price action model, a trade plan that's well documented,
+398160	402920	they know what they're going to do, why they're doing it, what they're waiting for, what will
+403200	407160	cause them to push the button to get in, where their stop loss is going to be, how much they're
+407160	410680	going to risk, what they're going to aim for, where their partials are going to be, if they're
+410680	412440	going to take partials at all.
+412440	414040	You have to know those things in advance.
+414040	417300	You can't determine them once you enter the marketplace.
+417300	418480	And that's what retail traders do.
+418480	421720	That's exactly what I did in 1992.
+421720	426560	I got into a trade and then I tried to figure out what I was supposed to do once I was there.
+426560	431760	I want you to see what it is that I was showing last night.
+431880	437600	Even though I'm not personally willing to risk my live account right now because of
+437600	444840	the conditions that we have at the present, Ukraine and all that business, all the uncertainties,
+444840	451600	you know, potential black swan event, any time can pop off and I don't want to expose
+451600	456720	myself to that measure of risk, especially since I have hit all my numbers.
+456720	461000	The market has delivered to what I expected in my analysis.
+461000	464480	So I'm not worrying about trying to get in and do anything else.
+464480	470080	So how do I manage that desire to get back in and do some more?
+470080	471720	I go right to a demo account.
+471720	473800	I work inside of a paper account.
+473800	475760	It provides me context.
+475760	480280	It keeps me glued, obviously, to what the market's doing.
+480280	485600	So I'm staying plugged in, if you will, close to the market, being able to read the tape.
+485600	488720	So that way I can answer student questions.
+488720	493680	I can still teach around what the market's doing right now, and that way my students
+493680	500120	can still appreciate the level of depth that I'm providing, but I'm not taking on monetary
+500120	505440	risk when I don't believe it's wise for me to do so, because if I'm wrong, let's say
+505440	513200	I'm wrong and I traded today with live funds or I traded on Monday and I lose what I gained
+513200	519240	in February, that would eat at me all through the month of March.
+519240	523720	So it's toxic thinking, and I learned that the hard way many years ago.
+523720	530200	So what I'm going to show you, obviously, was executions in the TradingView paper trading
+530200	531200	account.
+531200	535840	But I want to make sure you understand, because it's so many people out there that had this
+535840	541240	issue with me teaching in a demo, which is compliance, like I'm not licensed to give
+541240	542480	you trade advice.
+542480	547920	So I operate through the function of a demo account to protect me and protect you.
+547920	549920	You know you can't make that money.
+549920	551360	You're not following me in a trade.
+551360	555400	So if I was wrong, you don't take a financial loss.
+555400	560240	And if I'm right, you can't make money and get tricked into thinking that the only way
+560240	562040	you're going to make money is to follow me.
+562040	565200	So there's a balancing that's being done there.
+565200	568480	And if I'm wrong, if I don't know what I'm doing and these things don't work, they'll
+568480	573240	fail on demo account just as easily they would be failing in the live account.
+573240	577600	So with that foundation laid, let's go into the discussion.
+577600	581960	So idea is we went below this low.
+581960	584640	I don't want to sell it short, even though I'm bearish.
+584640	586320	So what's it likely to reach up into?
+586320	589920	Well, I'm thinking it could potentially trade up into this opposed camera here.
+589920	595580	Okay, I'm thinking it could trade into that, the low or the open of that candle.
+595580	598940	So that's kind of like a magnet withdrawal on the equipment.
+598940	604220	So it also could reach up into this little area right here because there's a fair value
+604220	606180	gap there.
+606180	609700	Just like we had it here and here and filled in.
+609700	616140	It can go right up into this, go right up there and then still resume going lower.
+616140	618580	It might need to go up into that.
+618580	625580	So I went in this morning and I was watching the Nasdaq and the e-mini S&P.
+625580	632620	e-mini S&P had a lot of energy to the upside and usually these markets move in tandem.
+632620	636620	That means they're generally moving together.
+636620	640940	And even though that Nasdaq was a little bit lethargic and wasn't trying to go up as quick
+640940	649980	and as fast as ES or e-mini S&P, the tendency is that it will be drawn to the same degree
+649980	651940	that the other indices were.
+651940	662440	So if ES was higher and Q, which is Nasdaq futures, should be brought higher in sympathy.
+662440	669940	All boats rise in high time, basically is what I'm saying.
+669940	674940	Now if we look at the hourly chart, this is what I was seeing.
+674940	681860	I was trading all this in a demo account and it ran up into levels that it became absurd
+681860	682860	now.
+682860	690700	So I satisfy my itch when I'm not trying to trade with the live account in the demo account
+690700	692740	and I'll run them up real quick.
+692740	700000	There is no fraud required and none of those things are required to make these things compound
+700000	703740	and blow up really quick in terms of the equity increases.
+703740	708220	But I'm going to show you how even with a micro account.
+708220	713500	So if you haven't already noticed, this is the micro e-mini Nasdaq.
+713500	721660	So every one point or four ticks is equivalent to $2.
+721900	728920	I went in with the idea that I'm using a micro account with a discount broker and the discount
+728920	734400	broker I'm hypothetically using while I'm taking these executions is I'm hypothetically
+734400	741540	trading with an AMP AMP futures account and I'll show you their margins and the details
+741540	748620	of what I'm basically implying by doing these things here.
+749460	763020	After a run-up, we retraced, went down inside this gap, this area here, when it trades down
+763020	770060	towards this gap, this is the draw on liquidity up here as well near term.
+770060	775740	So above these relative equal highs we have what, buy stumps or buy side liquidity.
+775740	781580	So I'm thinking that the algorithm is not letting price go lower.
+781580	787120	So it's going after everyone that's been profitable going short.
+787120	789260	So where are their stops?
+789260	791820	Right over here.
+791820	800220	So we're just going to call it 14,110, okay, real simple.
+800220	806340	So the market starts to rally and leaves this down close candle.
+806340	811220	I'm going to watch to see if it can trade back down into that because if it does, I'm
+811220	813580	going to treat that as a bullish order block.
+813580	817940	Remember what I taught last night?
+817940	824300	If the move has been bullish, down close candles should not be violated.
+824300	826780	Down close candles should not be violated.
+827420	828620	They're going to act as support.
+831980	837980	Bearish market moves, up close candles should not be breached and broken through.
+841580	843980	So when you're bearish and you're watching the market go down
+844860	849500	and you see candles starting to form, a potential up close candle, you as a neophyte
+849500	853900	that is new to trading, these are the moments where you get scared and you
+854540	859340	snap yourself out of the desire to hold the trade and you just collapse the trade because
+859340	860620	you can't handle it.
+860620	867020	It's that overwhelming uncertainty that eats at you like mental cancer.
+867020	869900	It just literally makes you want to just get out of the trade.
+869900	874940	Even when you're profit, you ever feel that the trades profitable and you're like,
+874940	876220	I just can't stand it anymore.
+876220	876940	I got to get out.
+877740	879020	You're making money.
+879020	881340	Your trade is profitable, quote unquote in a demo.
+881900	886620	It's worse when you have live account funds and you have a profit because if you don't
+886620	890780	have the wherewithal and the experience of submitting to these ideas and watching them
+890780	896780	come to fruition over and over again, months of experience, not just a week or a day,
+898140	899980	you're going to feel like you just want to collapse the trade.
+900860	906700	So when I teach my students, when you're looking for a price move, it's going to be a long-term
+907660	909260	term price swing.
+909260	914220	Not that this is a long-term price swing in the sense of time, but on this timeframe
+914780	916780	for one hour, this is a nice decline.
+917420	920780	It's a prolonged price swing.
+921740	925820	It's not like little tiny little movements in here and vice versa.
+925820	926620	We have it here.
+926620	927420	It's on higher.
+928140	930060	So all down close candles.
+930060	933100	Does it go below this down close candle when it starts to retrace?
+933100	933340	No.
+934300	938700	We expect this to be areas where they're going to accumulate more long positions.
+940940	947020	We retrace going down into an imbalance and the market rallies above the down close candle.
+948220	949820	Does it support price?
+949820	950320	Yes.
+951820	954140	Time of day is important.
+954140	956700	So I'm watching when price comes back down into it here.
+957580	959580	I'm taking the opening price extending it out in time.
+960380	964220	When that occurs, then I know I have a set up where I can go long,
+965180	968780	but I want to go into the time frames that will lower than the hourly chart.
+968780	973580	Give me a little bit more context because we do have a low that has a higher low to the left
+974140	975260	and a higher low to the right.
+975820	979100	So that makes this work in return low.
+981180	982700	This retracement here.
+983900	989260	This might be trading into an imbalance, which is what I'm teaching you look for.
+990140	996060	But the overall market structure is it's likely to go higher and aim for a run above these highs.
+999420	1001100	By side that could be resting right up there.
+1002220	1003980	So we're going to take these levels.
+1003980	1006540	This red level is anchored to this here.
+1007260	1008300	Relative equal highs.
+1009100	1010220	Five stops are above that.
+1011980	1013820	Rallies comes back down in.
+1013820	1015820	We're looking to see if it wants to run through that.
+1015820	1020060	Notice this high in this high.
+1020060	1022460	It creates what relative equal highs.
+1023180	1027100	Retail minded traders are going to see that and say, oh, this is exactly what the techs
+1027100	1029180	say about resistance.
+1029180	1031100	So it's acting as a ceiling.
+1032460	1033580	Price acting like a ceiling.
+1034140	1036140	What should they expect to see price do?
+1036140	1036640	Go low.
+1042380	1044380	So here's that level where the buy stops are.
+1046300	1047100	Or above it rather.
+1047660	1050700	Here's that hourly down close candle, which is a bullish order block.
+1053740	1058380	Notice the down close candle is made up of two candles on the 15 minute time frame.
+1060060	1061020	Price moves away from it.
+1061020	1062380	It goes above it right here.
+1062380	1063660	Does it create an imbalance here?
+1064460	1064960	Yes.
+1065500	1070060	That is how you determine your high probability bullish order block.
+1070060	1074620	It must have the imbalance coupled with the down close candle.
+1075420	1079740	And the underlying narrative that it's likely to go higher to reach for buy side.
+1081420	1082300	Period.
+1082300	1082800	Okay.
+1083500	1084000	That's it.
+1085340	1088540	There is no engulfing candle does this.
+1088540	1089500	Forget all that.
+1089500	1090300	You don't need that.
+1090300	1090800	Okay.
+1090800	1096700	It's the gap plus the down close candle plus the idea that's likely to go for buy side.
+1098060	1098560	That's it.
+1099100	1099600	Okay.
+1100140	1104060	So I just noticed, by the way, there's a guy out there.
+1104780	1106700	Trying to hawk a $7 indicator.
+1107420	1109740	And he says he's the real deal.
+1111420	1112860	And it's all about order blocks.
+1113500	1117260	And I might change the name on that.
+1117980	1118700	Just let you know.
+1120140	1123740	So we're trading down into this imbalance here.
+1125100	1129980	But now we're doing it at the time of day after the equities open at 9 30 in New York time.
+1130860	1132380	So volatility.
+1132540	1139980	The initial move is technically the incorrect move going into the opening at 9 30.
+1139980	1141500	So this is like a Judas swing.
+1141980	1143500	So think about what we're seeing here.
+1144700	1149660	The markets likely go up above this level here to take the buy side because the market's unwilling to go lower.
+1149660	1151900	The algorithm keeps pressing higher, higher, higher, higher.
+1152780	1155500	It retraces down into the 9 30 opening.
+1155500	1157500	This is that fake move.
+1157500	1159020	Don't chase this.
+1159740	1161500	And don't chase this.
+1161500	1165500	And don't chase going higher right before the equities opening at 9 30 either.
+1165500	1168220	So you have to take a step back and figure out what is it you're looking for.
+1169500	1171020	Well, I'm looking for a discount market.
+1173500	1175260	Low to high.
+1175260	1176380	I'm below 50%.
+1176380	1177740	Yes, I'm inside the order block.
+1177740	1178240	Yes.
+1180140	1182140	The equities opening has happened.
+1182140	1183980	I'm bullish and it has traded lower.
+1183980	1185900	So public is going to be thinking what?
+1185900	1186780	It's resistance.
+1187420	1188540	It's going to keep going down.
+1189740	1190220	To what?
+1190220	1193100	There's your support level because it bounced there last time.
+1193100	1194140	So they're going to think there.
+1195740	1197340	Well, it doesn't do that.
+1200940	1202220	Down to a five minute chart.
+1204060	1206940	It hits the order block and then rallies.
+1208780	1209340	What is this?
+1212140	1212700	It's your favorite.
+1214380	1218700	Market trades back down in overlaps that gap between this Campbell's high and this Campbell's low.
+1219500	1220220	This right here.
+1221580	1222700	That right there.
+1224380	1230060	That is one order block with a lower time frame order block and a fair value.
+1231660	1234700	You can take that trade if you know what you're looking for and you understand
+1235340	1241180	bias narrative and where the liquidity matrix is likely to lead to later on,
+1241180	1243820	which is drawing up above this red level here.
+1245020	1246140	On stocks are above here.
+1246540	1250700	So if they're going to send the price higher from here and start rallying,
+1250700	1255100	that supposes that there's someone that got one board long here.
+1255100	1256700	Where would your ideal exit be?
+1258300	1261100	Six points higher, 10 points higher.
+1261100	1267740	No, you're going to want to take it up here where there's willing buyers with buy stuff,
+1267740	1269100	protect their short positions.
+1269980	1271660	So when the market trades above that level,
+1271660	1277980	the buy stops become market orders to buy the market, which floods the market with liquidity.
+1277980	1282780	For those that have bought down here, they can sell to those willing buyers at a higher price,
+1283340	1286060	which they're waiting for down here.
+1286940	1289180	I'm waiting for that price rally to go up.
+1289180	1293500	Now, as the market goes higher, the expectation is my expectation was
+1294140	1297660	I want to go along in here and reach for this high.
+1297660	1301500	This was my entry idea that it's overlapping filling in that gap.
+1301500	1305580	And it's an order block here with a higher time frame order block there.
+1305580	1311020	So there's an hierarchy, higher time frame to lower time frame with the idea framed on.
+1311820	1313820	It's going higher for buy stuff.
+1314700	1322460	I have an intermediate term low forming and now this, when it fills in that gap,
+1323100	1325180	once that happens, what did I teach you last night?
+1325820	1327660	Once that happens, what did I teach you last night?
+1327660	1330380	This becomes an intermediate term low.
+1332220	1333980	This low should not be taken out.
+1333980	1336220	Once it starts rallying, it should not come back down here.
+1337500	1338460	What else did I teach you?
+1339100	1343500	If price is going higher, down close candles should support price.
+1344460	1346380	Well, it trades above it here.
+1346380	1348380	This down close candles high right there.
+1348380	1351260	It trades above it on this candle right there and starts going higher.
+1351260	1352140	But then look what happens.
+1352140	1353100	It starts to go back down.
+1353980	1357500	If I go down here and stop me up, I'm not thinking that I'm looking at this down
+1357500	1360780	close candle thinking it's only going right back down into this down close
+1360780	1362860	candle to accumulate more long positions.
+1364380	1370300	So smart money traders are going to be buying more here like I did rally.
+1371260	1372940	We have down close candles.
+1372940	1373820	We went above it.
+1375100	1379020	I'm not worrying about the market as long as it doesn't take out these two down close candles.
+1379820	1382540	Trades down, gets real close to that.
+1382540	1387420	But does it eat up and go through that range of these two down close candles?
+1387420	1389180	No, it just retraces down into what?
+1389180	1390220	An imbalance.
+1390220	1390540	Why?
+1390540	1393180	So smart money can buy again like I did.
+1394300	1399020	The market rallies again and goes into the possible quickly.
+1404060	1404620	Order block.
+1405580	1406700	Trades through here.
+1406700	1407200	Get long.
+1409260	1409820	Fair value.
+1411100	1411820	Order block.
+1412620	1413820	Retracement.
+1413820	1414320	Get long.
+1416380	1419740	Order block imbalance with a fair value gap.
+1419740	1420460	Trade back down.
+1421580	1423660	Doesn't even come back down into the order block.
+1424300	1425420	This is classic.
+1425420	1427100	It generally doesn't like to go all the way back in.
+1427100	1429180	Rebalance when it's that close to the profit objective.
+1429180	1432540	So the algorithm only has a small little retracement inside the fair value gap.
+1432540	1436460	So you would be a buyer just at the candles low.
+1436460	1441020	And it runs right to the target.
+1443980	1447100	Now, I know some of you just don't trust me.
+1449260	1451180	These are trading view execution errors.
+1451180	1454300	And I'm going to log in to trading view and actually show you
+1455340	1457660	by highlighting these actual arrows.
+1458940	1460620	But I'm going to take you down into the charts.
+1462220	1464300	They'll all be all the way down into a 30 second chart.
+1464300	1467660	So you can see the grouping of where I actually entered with this logic.
+1467660	1468460	Okay.
+1468460	1470940	Now remember, enemy term low is down here.
+1470940	1474860	This should never be overtaken until the objectives reach.
+1476140	1481500	So all of this price action leg here is I trust that it's going to keep going higher
+1481500	1485420	as long as the down close candles keep price above it.
+1487100	1487980	Above what?
+1487980	1489340	Above the down close candles.
+1489340	1492460	That's going to be supporting each new leg higher.
+1492460	1494540	The market should not retrace back down below those.
+1495180	1496060	So what am I saying?
+1497100	1501740	For trailing stop losses, you do not want to take your stop losses.
+1501740	1503900	Say you bought it down here like I did.
+1503900	1506620	And your stop was below the middle of this candle.
+1506620	1508700	That's mean threshold of the bullshorter block.
+1508700	1511100	So I don't think it's going to go down below that once I'm entering.
+1511980	1515180	Then it starts around those above this candles high.
+1516300	1521020	My stop loss must remain below this candles low because it can dig into that candle
+1521740	1523900	because it's going to act as an order block.
+1524620	1528380	Then the market rallies away, comes back down, retraces.
+1528380	1533820	Now if I put my stop loss inside this area here, I'm stopped out prematurely.
+1533820	1537260	The chances are you probably wouldn't have the wherewithal to get back in.
+1537260	1541740	You think, well, I just lost out on potential profit.
+1541740	1545180	I made a little gain, but I'm afraid to get back in now because it took me out.
+1545980	1546940	That's infancy.
+1546940	1548940	That's because you don't know what you're doing.
+1549900	1551100	Everybody was like that.
+1551100	1554220	I was like that, but you grow out of it.
+1554940	1557180	If you do the same things I'm teaching you over time,
+1557820	1561340	it's built into your understanding and it's ingrained in your understanding
+1561340	1562460	about price delivery.
+1563420	1566860	The market rallies above takes out these two down close candles.
+1566860	1572860	Now the stop can be raised from whatever would be below this down close candle.
+1572860	1574780	Now it can be raised below this down close candle
+1575580	1578620	because the idea is the down close candles are one order block.
+1579100	1581260	That should not be violated if it's bullish.
+1582060	1585180	If it comes down and breaks the low of these down close candles,
+1586780	1587420	well, there you go.
+1588140	1590220	You probably did the right thing by getting something
+1590860	1593180	because it might be failing and going lower.
+1593180	1594060	Now is that for logic?
+1596460	1597900	You're not going to be perfect.
+1597900	1598620	I'm not perfect.
+1599340	1601740	Even though you see these errors on the lowest candle here
+1602780	1605260	and it goes out to the exit here, right above that.
+1605900	1606940	This is not Photoshop.
+1607500	1609580	I've never had to do a Photoshop.
+1609580	1610460	I've never had to do that,
+1611100	1614380	but I'm teaching you the logic right out of last night's lesson.
+1614380	1616220	I went right into the market this morning.
+1616220	1617820	No, it's not done with a live account,
+1618460	1623900	but I'm showing you in theory with the application of a demo account,
+1623900	1629100	which is the same live data that would be utilized in my TD Ameritrade account
+1629100	1630620	or your live account if you have one.
+1631340	1634700	These candles are forming just like they would be in your live account,
+1634780	1638940	but I'm executing with the logic I'm teaching you right out of last night's lesson.
+1640220	1646620	Now, here is the one minute chart.
+1647820	1649740	All right, so here we're over in trading view.
+1650460	1653260	Everything is live printing right now.
+1653260	1657500	This is where we're at at the moment.
+1657500	1659260	This is hanging around that old high.
+1659740	1666220	I'm not upset I missed this move here.
+1666220	1667020	I could care less.
+1667660	1671820	I'm going for the logical places where liquidity is going to be resting,
+1672620	1676300	and I'm entering in logical places that would
+1677100	1680700	reasonably expect to see price advance higher from where I'm buying.
+1681660	1682860	It's not complicated,
+1683740	1688460	but watching last night's lesson can feel like you're trying to learn
+1689500	1694300	a foreign language and expected to understand how to speak it fluently two hours later.
+1694940	1696620	Don't let that happen, okay?
+1698220	1703580	I can make these lessons as deep as I want them to be,
+1703580	1707100	but I'm showing you how I'm taking very complex topics
+1707660	1714540	and simplifying them in a manner that hopefully is easily received by you as a student.
+1715020	1721100	So, I showed you the hard perspective last night.
+1721740	1723180	That's advanced market structure.
+1725180	1729020	Now, I've simplified it within the scope of what I teach on this YouTube channel.
+1729580	1730380	Do you see the difference?
+1731900	1736300	It's only in the manner of how I'm teaching it, but it's the same things.
+1737020	1741580	It's the same ideas that I've just simply made it easier.
+1741580	1745180	I've created a language that helps me communicate
+1745180	1749820	what I taught last night in a much more palatable method.
+1750380	1753900	So, that way it's not as complicated seeing it like this.
+1754700	1755900	It makes sense to you all.
+1755900	1757340	You're like, okay, now we're back into this stuff.
+1757340	1758300	It makes sense now.
+1758300	1760140	I'm teaching you the same thing I taught you last night.
+1761020	1767660	I'm just not teaching it to you at the degree that is in my head.
+1768940	1770860	You might be thinking, well, you know, keep it to yourself.
+1771420	1772540	I don't need to see it like that.
+1772540	1773100	And that's okay.
+1773100	1773500	I get it.
+1773500	1773980	It's fine.
+1774540	1783180	But right here, these are the elements that make up really simple logical setups
+1784460	1787740	that repeat every single week and many times every day.
+1789340	1797020	So, I ran up the other paper trading account to like $200-some thousand this morning.
+1797020	1800300	And I was thinking to myself, okay, now we're in territories.
+1800860	1802220	It's just going to feel silly.
+1802220	1804140	You're not going to have any interest in seeing that.
+1805100	1808940	At that point, it becomes, okay, now we're observable.
+1808940	1810140	It's just ridiculous.
+1810140	1813020	You're not going to believe that this is possible.
+1813580	1815420	Or maybe some of you do and you think you want to go out there
+1815420	1817100	and try to do the same thing with your live account.
+1818380	1821740	Either one of those things are not my goal.
+1822460	1826940	It's just me losing myself in price action.
+1826940	1829740	So, I treat it like a game.
+1830860	1832700	It's a puzzle.
+1833500	1841260	So, I'm looking for the outcome of a specific trading session or a trading day.
+1841820	1844780	And I'm trying to navigate those candlesticks.
+1844780	1845820	And that's what you're seeing here.
+1847740	1849740	If I hover over top of these little arrows,
+1851580	1853500	okay, you can see that they're not photoshopped.
+1854220	1860940	And you make them appear by going into the trading view settings.
+1860940	1863980	And you click the little execution box here.
+1864860	1867660	Watch below the swing lows and above that swing high.
+1867660	1869820	You'll see them toggle one and off.
+1869820	1872060	Toggle one and off, okay?
+1873180	1877740	So, this is proving precision, number one.
+1877740	1880140	It's proving theory in action.
+1881020	1885020	And it's proving that it's not flawed logic.
+1885660	1887020	None of this is retail.
+1887020	1888060	Absolutely none of it.
+1888700	1890780	There's nothing here that's Elliott Wave.
+1890780	1891740	None of it's harmonic.
+1892540	1893740	None of it is supply and demand.
+1894540	1896220	None of this is Chris Laurie stuff.
+1897820	1899740	I have a lot of Chris Laurie students.
+1899740	1900540	Lots of them.
+1901660	1904620	And I'll tell you, this isn't even taught in his stuff either.
+1904620	1909180	So, with that said, let's go over to the paper trading account.
+1910460	1913900	This is just, again, illustrate for the folks that say,
+1913900	1918460	well, you know, you can't really grow an account if you're using micro accounts.
+1918460	1920460	And that was some of the comments I got also.
+1920460	1925740	And I'm like, stop thinking you need a lot to make a lot.
+1925740	1926540	You don't.
+1926540	1928060	You need to be able to compound.
+1929260	1932300	The things that you see me do in these accounts,
+1932300	1934540	and they're being parlayed up really quick.
+1935900	1939500	Every time I'm buying, like I bought right here.
+1940140	1941820	Let me get this to go away for a second.
+1941820	1948380	When I bought the three micros here, the next time I see a buy signal
+1948380	1951260	that's below the area I'm aiming for, above that red level,
+1952060	1953500	I'm going to try to buy more.
+1953500	1955500	But I'm not going to buy more than three.
+1956860	1958300	I'm going to buy now two.
+1959420	1960220	I'm pyramiding.
+1961500	1963340	I'm building the biggest position initially.
+1963900	1967980	And then every time I buy in, again, I'm building it with a smaller position
+1967980	1970380	than I had prior to the one I'm entering now.
+1971500	1975260	Because I have all the equity behind that entry with three
+1975980	1978220	supporting the two I'm buying here.
+1978220	1981340	So even if it starts to retrace too deep on me,
+1981340	1983820	I have the ability to weather a little bit more.
+1983820	1989500	Whereas if I say I want to be a buyer of one here, two here, three here,
+1990060	1991260	that's an inverted pyramid.
+1991260	1992220	It's not stable.
+1992220	1995180	Imagine a pyramid upside down and it's balancing on its point.
+1995660	1998220	It's not a solid foundation.
+1998220	1999020	It's wobbly.
+1999820	2002700	So I'm building the biggest base at the bottom of the pyramid,
+2002700	2005980	or position size, its initial position entry.
+2005980	2007100	So I'm buying three here.
+2008300	2009500	Then I'm buying two here.
+2011100	2012380	Then I'm buying one here.
+2013500	2015340	And then I'm letting it run to my profit objective.
+2017180	2020300	With that said, starting with the hypothetical $10,000 account,
+2020620	2031820	just this morning, over 21%, one trade with three scale-ins, okay?
+2031820	2033820	I consider this all one trade.
+2033820	2035820	I don't consider this three separate trades.
+2036300	2042940	It's one trade, scaled in, largest, middle, last portion.
+2043660	2044940	Then it runs to my objective.
+2045500	2046620	Then it runs to my objective.
+2048140	2055740	So the account history starts with $10,000 here, ends with $12,111 demo money, okay?
+2057020	2058700	The history tab shows you here.
+2058700	2062780	And if I'm not mistaken, I have everything shown, don't I?
+2064780	2066940	Yeah, time, everything's toggled here.
+2066940	2067580	Nothing's hidden.
+2068860	2069740	None of that.
+2069740	2072700	And then you can see over here, all the business there.
+2074940	2075440	Okay?
+2075980	2077900	So my question to you is this.
+2080060	2082540	Who cares if you got to trade a micro account?
+2084620	2087660	Three micros, two more micros, one more micro.
+2087660	2089020	That's six micro contracts.
+2092460	2095980	That requires, technically, $1,200.
+2097500	2100220	So I really didn't need the $10,000 to do these trades,
+2100220	2105740	but in my mind, with proper leverage and money management,
+2105740	2110220	$10,000 with this position, size, and gearing, that's optimal.
+2110780	2113900	Anything more than this would have been too much leverage for that account.
+2115580	2125820	And to make 21% plus in one trade, who's going to argue against that being, well, above average?
+2127820	2129100	Now, what happens if you do that?
+2130860	2136460	Once a week, and that's your trade, and you stop.
+2137100	2141660	And once you hit it, you end your trading, that's it, and you go to a demo account.
+2143420	2150300	You have any idea the leaps and bounds that you can have in your equity increasing,
+2150300	2153100	and the peace of mind knowing that you don't have to overtrade?
+2154220	2156620	That's what I'm trying to cultivate here in this community, folks.
+2156620	2159660	I'm not trying to create monsters that they trade every single day.
+2160620	2165100	Because I say these likely form every single day, but they absolutely form every single week,
+2165100	2168780	that is not an invitation for you to go out and say, ICT said trade every day.
+2169340	2170860	No, it's not what I said.
+2170860	2174620	I'm saying if you miss a trade, you're likely to find one tomorrow.
+2175260	2178460	Well, not tomorrow because it's Saturday, but you know what I mean, the next trading day.
+2180380	2184140	So there's a balancing act that you have to have when you're listening to me.
+2184700	2189420	You just can't take one comment that I say and take it completely out of context and say,
+2189740	2193260	ICT is a day trader, and he's proven that he's really precise.
+2193260	2194460	These concepts work.
+2194460	2195580	I watched a couple of videos.
+2195580	2197260	I trust it, so now I'm going to go out and look in the charts,
+2197260	2200540	and I think I see it forming right now, and I'm going in, all in, I'm in it.
+2201740	2204860	And then you're sitting down writing an email to me saying, I blew my account.
+2206700	2207660	Whose fault is that?
+2208780	2209500	It's not mine.
+2210700	2211340	It's yours.
+2211900	2213980	When I blew my accounts, it wasn't my broker's fault.
+2215100	2215660	It was mine.
+2216300	2217660	I did not know what I was doing.
+2218460	2221740	I was out of control, taking 60, 70 trades in a day.
+2226780	2229900	When you lose control and you have no idea what you're doing,
+2230780	2232940	it's impossible for you to execute like this.
+2235420	2242220	You have to think about these examples as the goal.
+2243660	2247020	Not that you want to be this precise right from the beginning,
+2247020	2247820	because you can't be.
+2247820	2248620	No one is.
+2248620	2250700	It takes time to grow into that in your understanding.
+2251260	2255660	But it takes some measure of goal setting that you have to have.
+2256380	2258860	You listen to some people out there who pretend to be teachers, they'll say,
+2261100	2265260	having a weekly goal or a daily goal is the stupidest thing in the world.
+2265260	2265760	Really?
+2267580	2269900	I guarantee you these people are not profitable that say that.
+2270620	2271340	They're hit and miss.
+2272300	2275820	They have periods of drawdown that are much longer than most people would be willing to
+2277340	2277820	endure.
+2280060	2287420	And if you don't aim for a target, you're going to hit nothing 100% of the time.
+2288460	2289260	You have to have a goal.
+2290620	2296860	So if your goal is to hit nothing, then obviously don't set a goal.
+2297500	2300860	But I set very low hanging objectives in front of me.
+2302060	2305660	These things are extremely easy for my capability.
+2305660	2311580	And for many of my students from the 2016 group and 2017 group, they can take trades like this.
+2313900	2319740	In fact, I have a woman in my group from the first group from Australia that is phenomenal.
+2319740	2320860	She does it very, very well.
+2322620	2329500	And these are trades that I believe that even you as a YouTube student
+2329500	2336940	in this mentorship on my YouTube channel, I believe in six months of practice and looking
+2336940	2342220	at price action, you can do this yourself and do it consistently.
+2343740	2344460	Consistently.
+2344460	2344860	What do you mean?
+2344860	2345580	Every day, Michael?
+2345580	2345820	No.
+2347340	2351900	One time a week finding something like this and working that position in like that.
+2351900	2352540	Absolutely.
+2353180	2354780	I'm making myself available twice a week.
+2354780	2359260	This is an extra video today because I know last night's video was a little bit more
+2359260	2361340	deeper than you're accustomed to.
+2361900	2365420	And I'm not suggesting or implying that the lessons are going to go that direction.
+2366300	2371980	I'm just stating that when I'm studying market structure, I'm studying with that degree and more.
+2372940	2379900	But I had to create a language that gets to generally the basis of what that is doing
+2380700	2382620	without all the complications within it.
+2383500	2388780	So be glad that I'm not requiring you to understand that degree.
+2389260	2393660	Because the language I'm teaching like in here is accomplishing the same method,
+2394300	2397820	just doing it without all of the extra acrobatics.
+2398860	2400860	Because I know what you're going to be questioning.
+2401500	2404460	You're probably looking at your chart thinking, how do I classify this swing high?
+2404460	2407260	Is it any term high versus a short term high and a long term high?
+2407260	2408140	How does he know?
+2408140	2408940	Right.
+2408940	2410460	That's the part you're never going to get.
+2411020	2414060	So I had to create a language that makes it simple.
+2414700	2417180	And that's what you see in my lessons on this YouTube channel.
+2417580	2424540	I shooed by comparing and contrasting where I came from and what I'm providing to the public.
+2426540	2432700	I can show you just how complicated the real intricacies are behind these marketplaces.
+2432700	2436860	But you do need to know certain things that repeat and they're very generic in price
+2436860	2443420	and are not linked or built upon the foundation of anything that's retail logic.
+2443420	2444460	None of that stuff.
+2445100	2446300	None of that stuff.
+2446300	2450700	Not support resistance, not any of those other disciplines that people use and
+2450700	2453980	you make businesses around selling books and courses and such.
+2455260	2463500	So one of the cool things that if you still are a trader that uses like
+2463500	2465820	Elliott Wave and Harmonix and things like that,
+2467980	2472940	if you start studying what I'm teaching you for free right here,
+2474540	2481260	you're going to find that your trades that win have my information underneath.
+2483580	2490140	And when your trades fail, the things I'm teaching you here are missing.
+2492060	2496140	See, this is what I asked last night in closing the video and I'm closing this video now again.
+2496620	2507660	And the mystery that plagues all speculators is what trading approach
+2509260	2511260	is the one that's going to make me money.
+2512780	2519660	And I don't have to worry about losing more money in flawed approaches of trading.
+2520620	2527980	What you're saying is there's a method out there that is better than everyone else.
+2530460	2531980	I'm humbly submitting to you.
+2532860	2533740	You have found it.
+2535180	2539260	It's not costing you anything, but it's going to require some work.
+2539820	2542060	It's going to require some time, effort.
+2542620	2544300	It's going to feel like you can't get it.
+2544300	2546620	It's going to feel like you're never going to understand it.
+2546620	2547500	That's all normal.
+2548140	2551900	It's all normal, but you'll get it.
+2552460	2555020	There's folks in my 2016 group that couldn't get it.
+2555740	2556460	They got it now.
+2559260	2560140	It took them a couple years.
+2561180	2562860	Others, they get it real quick.
+2563820	2567500	I don't understand why some get it quicker than others.
+2567500	2571580	I just know that it's like that and you might be one of those slower learners.
+2572220	2572780	It's okay.
+2573420	2576300	I was a slow learner, but once you learn it,
+2576780	2577500	it's yours.
+2578540	2579900	You don't forget it's like riding a bike.
+2581100	2586620	That should be your passion and your pursuit to get to know how to do this like riding a bike.
+2587180	2591260	You can put the bike down for a couple of years and then get back on it again and just like you never
+2591980	2592780	stop riding it.
+2594540	2599740	That's a comfort and a confidence that is something that I can't articulate in the words.
+2600780	2603500	If you are able to find consistency and profitability,
+2603500	2605900	it doesn't matter what you're doing in the economies then.
+2606620	2608700	It doesn't matter how much it's going to cost you for a gallon of gas
+2609340	2610860	or how much it's going to cost you on your groceries
+2611820	2617340	because you can outpace inflation if you know what you're doing in these markets.
+2618380	2619180	That should be your goal.
+2620220	2626860	Always outpace inflation and there should be no concern.
+2628220	2629340	I'm not promising you rich.
+2630300	2631420	Can you get rich?
+2631420	2632060	I'm not promising you rich.
+2633020	2634220	Can you get wealthy with this?
+2634220	2634780	Sure you can.
+2635580	2637180	Am I promising it's going to happen for you?
+2637180	2637580	No way.
+2639820	2641500	Will you lose money in the process?
+2641500	2642060	Absolutely.
+2642060	2643580	I'm guaranteeing you're going to lose money.
+2644540	2650060	Every trading system, discipline, educator, everybody loses in trading.
+2650060	2651100	They take losses.
+2651980	2653900	Some take stunning losses.
+2654460	2657660	Others just take mediocre losses that are just nuisance.
+2658620	2662060	Other traders that are really, really good can have periods of drawdown
+2662060	2664780	and then regain that equity drawdown back.
+2666380	2668060	And it's like it didn't even happen.
+2668940	2669980	Not even skip a beat.
+2671580	2672460	That's experience.
+2674860	2676780	These are all bridges that you're going to cross.
+2677900	2681500	You're going to cross them at times and intervals that I can't outline
+2682060	2686620	in advance for you but I generally know the concerns and questions that you have at this point.
+2688060	2695740	My request to you is to suspend those feelings that you have to have all the answers right now
+2695740	2696540	because you don't.
+2698460	2706140	You have to be more diligent about placing yourself in front of the charts and back testing
+2706140	2709100	and researching what I'm showing you because it's there.
+2709900	2713740	And by seeing that over and over again, it's better than a book.
+2713740	2714780	It's better than a course.
+2715740	2720780	It's better than a mentorship that you pay because I'm teaching you how to go into price
+2720780	2722060	and price will teach you.
+2723740	2724540	It will teach you.
+2725580	2726460	It's repeating.
+2727740	2731420	So if it's repeating and you're looking at it constantly,
+2732940	2737500	you are training your eye to see what it does by default.
+2739900	2740620	When you buy a book
+2743020	2744460	and you look at the examples in the book,
+2744860	2747100	each chapter has an idea that it's trying to focus on.
+2747740	2749260	How many examples do you generally see?
+2750940	2752300	Just a handful at most, right?
+2753420	2757340	But remember what it was like when you got a trading book for the first time
+2757340	2761180	and you looked at it and you saw bearish divergence and bullish divergence
+2761180	2764540	with a stochastic indicator and it made a lower low in price
+2764540	2767900	but it didn't make a lower low in the stochastic and it was a bullish divergence.
+2767900	2769820	And you were thinking, man, I can see that.
+2769820	2770460	That's easy.
+2771500	2773660	And then you started looking at it on a live chart
+2773660	2777740	and when you thought it was diverging, it just kept going lower in price.
+2782460	2785660	They're only going to show you the examples that help sell the book
+2785660	2787180	because they don't want you to return the book.
+2789900	2792140	I'm teaching you how to go through price action
+2792140	2794460	and ferret out these repeating signatures.
+2795180	2797820	And it isn't just a handful of examples.
+2797820	2802700	It's every week, every day, and it won't stop.
+2804300	2805340	So enjoy your weekend.
+2806060	2808700	I will touch base with you on Tuesday, Lord willing.
+2808700	2811740	And until then, be safe.

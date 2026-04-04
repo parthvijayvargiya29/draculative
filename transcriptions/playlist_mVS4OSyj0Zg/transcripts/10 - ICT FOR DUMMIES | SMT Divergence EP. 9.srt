@@ -1,0 +1,2780 @@
+1
+00:00:00,000 --> 00:00:09,400
+Welcome to ICT for dummies episode 9 SMT Divergent
+
+2
+00:00:09,400 --> 00:00:11,400
+Oh shit I forgot about that part
+
+3
+00:00:11,400 --> 00:00:12,600
+I forgot about that part
+
+4
+00:00:12,600 --> 00:00:14,600
+You know, ignore the all white background
+
+5
+00:00:14,600 --> 00:00:16,800
+and maybe the potentially low camera quality area
+
+6
+00:00:16,800 --> 00:00:18,000
+We're not with our typical setup
+
+7
+00:00:18,000 --> 00:00:20,400
+and we are currently in the psych war
+
+8
+00:00:20,400 --> 00:00:22,300
+So we're in those white boxes right now
+
+9
+00:00:22,300 --> 00:00:25,000
+forced to simply do nothing but talk about trading all day
+
+10
+00:00:25,000 --> 00:00:28,800
+But that being said, we're gonna make a video on something trading related
+
+11
+00:00:29,200 --> 00:00:31,600
+Keeping you guys profitable and all that good stuff
+
+12
+00:00:31,600 --> 00:00:32,100
+So
+
+13
+00:00:32,100 --> 00:00:34,100
+When you sweep that high
+
+14
+00:00:34,100 --> 00:00:35,600
+That high
+
+15
+00:00:35,600 --> 00:00:37,600
+But yes, doesn't take it
+
+16
+00:00:38,800 --> 00:00:42,000
+Now we have a divergence
+
+17
+00:00:42,000 --> 00:00:44,800
+And I can't take it
+
+18
+00:00:44,800 --> 00:00:46,000
+You can't take it
+
+19
+00:00:46,000 --> 00:00:48,000
+Correlated assets
+
+20
+00:00:48,000 --> 00:00:49,200
+So correlated
+
+21
+00:00:49,200 --> 00:00:51,600
+But sometimes they don't correlate
+
+22
+00:00:51,600 --> 00:00:52,800
+Then it's not
+
+23
+00:00:52,800 --> 00:00:55,600
+That's when you get
+
+24
+00:00:55,600 --> 00:00:56,400
+What do you get?
+
+25
+00:00:56,400 --> 00:00:59,200
+An SMT
+
+26
+00:00:59,200 --> 00:01:03,200
+But I'm an S
+
+27
+00:01:03,200 --> 00:01:06,400
+I'm an M
+
+28
+00:01:06,400 --> 00:01:10,000
+I'm a T
+
+29
+00:01:10,000 --> 00:01:14,400
+I'm an SMT
+
+30
+00:01:14,400 --> 00:01:16,400
+That was so private, it was fire
+
+31
+00:01:18,400 --> 00:01:19,400
+Alright everyone
+
+32
+00:01:19,400 --> 00:01:20,600
+This is going to be episode 8
+
+33
+00:01:20,600 --> 00:01:23,600
+We're gonna be covering SMT Divergent
+
+34
+00:01:23,600 --> 00:01:24,400
+Yes sir
+
+35
+00:01:24,400 --> 00:01:27,200
+Weirdly enough, this is probably one of the most commonly asked questions
+
+36
+00:01:27,200 --> 00:01:28,900
+when it comes down to ICT concepts
+
+37
+00:01:28,900 --> 00:01:32,100
+SMTs are considerably one of the easiest things to understand
+
+38
+00:01:32,100 --> 00:01:34,200
+Every single time Blake and I are streaming
+
+39
+00:01:34,200 --> 00:01:36,000
+Everyone's like, what's an SMT?
+
+40
+00:01:36,000 --> 00:01:37,200
+What's an SMT?
+
+41
+00:01:37,200 --> 00:01:39,800
+Maybe every other six chats
+
+42
+00:01:39,800 --> 00:01:40,100
+Yeah
+
+43
+00:01:40,100 --> 00:01:41,500
+Like it's actually ridiculous
+
+44
+00:01:41,500 --> 00:01:42,300
+That's true
+
+45
+00:01:42,300 --> 00:01:44,400
+So hopefully after this video
+
+46
+00:01:44,400 --> 00:01:46,800
+We'll just be like, watch the damn video, bozo
+
+47
+00:01:46,800 --> 00:01:47,800
+But yeah
+
+48
+00:01:47,800 --> 00:01:49,800
+We're gonna get into SMT divergences today
+
+49
+00:01:49,800 --> 00:01:52,500
+We're gonna be talking with mainly two assets
+
+50
+00:01:52,500 --> 00:01:54,900
+That being Nasdaq Futures NQ
+
+51
+00:01:54,900 --> 00:01:57,500
+And then S&P 500 Futures ES
+
+52
+00:01:57,500 --> 00:02:00,700
+These are the two main assets we use to determine SMTs
+
+53
+00:02:00,700 --> 00:02:03,200
+There are others that you can use like YM
+
+54
+00:02:03,200 --> 00:02:04,800
+But to be honest, we just stick to these two
+
+55
+00:02:04,800 --> 00:02:05,700
+It's really all you need
+
+56
+00:02:05,700 --> 00:02:08,700
+So yeah, we'll get into this and explain you what an SMT is
+
+57
+00:02:08,700 --> 00:02:12,600
+So an SMT is going to be an indication in reversal in price
+
+58
+00:02:12,600 --> 00:02:13,900
+For example, here on the left
+
+59
+00:02:13,900 --> 00:02:15,700
+This is what a bullish SMT will look like
+
+60
+00:02:15,700 --> 00:02:16,700
+And you can switch this around
+
+61
+00:02:16,700 --> 00:02:18,300
+This can either be Nasdaq over here
+
+62
+00:02:18,300 --> 00:02:20,400
+This can be S&P 500 over here, alright?
+
+63
+00:02:20,500 --> 00:02:23,500
+So for this example, let's just use this as being Nasdaq
+
+64
+00:02:23,500 --> 00:02:24,900
+We have a low put in place
+
+65
+00:02:24,900 --> 00:02:25,900
+We then have a high
+
+66
+00:02:25,900 --> 00:02:27,200
+We then have a higher low
+
+67
+00:02:27,200 --> 00:02:29,600
+And then we have a new high that gets made, right?
+
+68
+00:02:29,600 --> 00:02:32,600
+Versus here on ES, what happens is we have a low
+
+69
+00:02:32,600 --> 00:02:33,700
+Then we have a high
+
+70
+00:02:33,700 --> 00:02:35,200
+Then we have that lower low
+
+71
+00:02:35,200 --> 00:02:38,700
+So this is where the divergence between assets takes place
+
+72
+00:02:38,700 --> 00:02:40,200
+And then we get that newer high
+
+73
+00:02:40,200 --> 00:02:42,100
+Now this is an indication in reversal, right?
+
+74
+00:02:42,100 --> 00:02:44,400
+Because when we have these sweeps of liquidity
+
+75
+00:02:44,400 --> 00:02:46,800
+That are necessary for price to move higher
+
+76
+00:02:46,800 --> 00:02:48,500
+Or for price to move lower, right?
+
+77
+00:02:48,500 --> 00:02:50,300
+This can happen first on ES
+
+78
+00:02:50,300 --> 00:02:52,200
+Or this can happen first on the Nasdaq
+
+79
+00:02:52,200 --> 00:02:54,700
+And it will show, since they are a correlated asset
+
+80
+00:02:54,700 --> 00:02:56,800
+That price is ready to reverse
+
+81
+00:02:56,800 --> 00:02:59,400
+And then on the right side, you have a bearish SMT
+
+82
+00:02:59,400 --> 00:03:01,000
+Which is simply vice versa, right?
+
+83
+00:03:01,000 --> 00:03:02,700
+You have a high put in place, a low
+
+84
+00:03:02,700 --> 00:03:04,800
+And then a high that sweeps this previous high
+
+85
+00:03:04,800 --> 00:03:05,900
+And then we deliver lower
+
+86
+00:03:05,900 --> 00:03:09,600
+But if you look at, let's say, the ES chart in comparison to NQ
+
+87
+00:03:09,600 --> 00:03:11,400
+You can see that you have a high, a low
+
+88
+00:03:11,400 --> 00:03:14,200
+And then a high that fails to take this high
+
+89
+00:03:14,200 --> 00:03:15,400
+And then a new low
+
+90
+00:03:15,400 --> 00:03:18,000
+But although this might look like a failure swing
+
+91
+00:03:18,000 --> 00:03:19,200
+You have an SMT there
+
+92
+00:03:19,200 --> 00:03:21,500
+Because Nasdaq actually took that high
+
+93
+00:03:21,500 --> 00:03:22,400
+So you might be thinking
+
+94
+00:03:22,400 --> 00:03:25,100
+Oh, I need to wait for liquidity sweep at this high
+
+95
+00:03:25,100 --> 00:03:26,800
+Without realizing that, you know
+
+96
+00:03:26,800 --> 00:03:28,300
+Nasdaq might have taken that high already
+
+97
+00:03:28,300 --> 00:03:29,600
+And therefore you have an SMT
+
+98
+00:03:29,600 --> 00:03:31,100
+That's why it's really important
+
+99
+00:03:31,100 --> 00:03:32,700
+To always be paying attention to both
+
+100
+00:03:32,700 --> 00:03:34,700
+Because sometimes you might be trading
+
+101
+00:03:34,700 --> 00:03:36,700
+And you're like sitting over here
+
+102
+00:03:36,700 --> 00:03:40,000
+Waiting for maybe like some sell side to get taken down here
+
+103
+00:03:40,000 --> 00:03:42,500
+And you're not paying attention to Nasdaq
+
+104
+00:03:42,500 --> 00:03:46,400
+Which might have already probably taken that sell side
+
+105
+00:03:46,400 --> 00:03:48,700
+And you have an SMT there without realizing
+
+106
+00:03:48,700 --> 00:03:51,200
+So always be paying attention to both assets
+
+107
+00:03:51,200 --> 00:03:53,400
+Just in case you have a liquidity sweep on one
+
+108
+00:03:53,400 --> 00:03:54,900
+While the other one might not have one
+
+109
+00:03:54,900 --> 00:03:57,100
+And, you know, you don't miss out on any opportunities
+
+110
+00:03:57,100 --> 00:03:57,800
+And you're confused
+
+111
+00:03:57,800 --> 00:04:00,000
+Why didn't Nasdaq just start delivering higher
+
+112
+00:04:00,000 --> 00:04:01,200
+After edging this low
+
+113
+00:04:01,200 --> 00:04:02,600
+Well, you probably had an SMT there
+
+114
+00:04:02,600 --> 00:04:04,200
+That happens very, very often
+
+115
+00:04:04,200 --> 00:04:07,900
+You sometimes, again, will hear things like YM, SMT
+
+116
+00:04:07,900 --> 00:04:10,200
+Don't really be paying attention to YM in my opinion
+
+117
+00:04:10,200 --> 00:04:12,900
+I only use ES and NQ
+
+118
+00:04:12,900 --> 00:04:15,000
+And what you can do to kind of help you
+
+119
+00:04:15,000 --> 00:04:18,500
+Is to have ES and NQ be pulled up at the same exact time
+
+120
+00:04:18,500 --> 00:04:19,400
+While you're trading
+
+121
+00:04:19,400 --> 00:04:22,100
+This is something that you will always see me and Patrick do
+
+122
+00:04:22,100 --> 00:04:23,000
+When we're live trading
+
+123
+00:04:23,000 --> 00:04:25,200
+I'll have ES on one side of my chart
+
+124
+00:04:25,200 --> 00:04:27,900
+And then I'll have the Nasdaq on the other side of my chart, right?
+
+125
+00:04:27,900 --> 00:04:29,500
+So this will kind of just help me
+
+126
+00:04:29,500 --> 00:04:31,100
+For example, like what Patrick was saying
+
+127
+00:04:31,100 --> 00:04:33,800
+Like maybe there's a low that I want to see get swept
+
+128
+00:04:33,800 --> 00:04:36,000
+And maybe it doesn't happen on Nasdaq
+
+129
+00:04:36,000 --> 00:04:37,200
+And then we start ripping up and I'm like
+
+130
+00:04:37,200 --> 00:04:38,000
+Why is this happening?
+
+131
+00:04:38,000 --> 00:04:39,900
+Oh, well, there's an SMT in place
+
+132
+00:04:39,900 --> 00:04:41,900
+So yeah, so utilize this feature
+
+133
+00:04:41,900 --> 00:04:44,100
+It's super helpful and it's definitely necessary
+
+134
+00:04:44,100 --> 00:04:45,100
+When you're trading
+
+135
+00:04:45,100 --> 00:04:47,000
+All right, so now we're going to show you guys some examples
+
+136
+00:04:47,000 --> 00:04:47,900
+First a bullish SMT
+
+137
+00:04:47,900 --> 00:04:49,600
+Then we'll show you that bearish SMT
+
+138
+00:04:49,600 --> 00:04:50,100
+All right, guys
+
+139
+00:04:50,100 --> 00:04:53,000
+So right now we're going to show you an example of a bullish SMT, right?
+
+140
+00:04:53,000 --> 00:04:56,100
+So if we're just simply looking at these significant highs and lows
+
+141
+00:04:56,100 --> 00:04:57,700
+In the current price action we have, right?
+
+142
+00:04:57,700 --> 00:05:00,800
+We can detect that we have a clear buy side level up here
+
+143
+00:05:00,800 --> 00:05:03,000
+And a clear sell side level right here
+
+144
+00:05:03,000 --> 00:05:06,400
+Now, the reason you want to be monitoring both ES and NQ
+
+145
+00:05:06,400 --> 00:05:07,400
+When you're trading
+
+146
+00:05:07,400 --> 00:05:11,300
+Is to see if one of these assets takes out the slower high
+
+147
+00:05:11,300 --> 00:05:12,400
+While the other one doesn't
+
+148
+00:05:12,400 --> 00:05:14,700
+So if we play price action forward here
+
+149
+00:05:14,700 --> 00:05:16,000
+And we see, okay
+
+150
+00:05:16,000 --> 00:05:17,900
+NQ is selling off, it's selling off
+
+151
+00:05:17,900 --> 00:05:19,500
+Okay, we got a sweep of this low
+
+152
+00:05:19,500 --> 00:05:20,700
+If we go to ES
+
+153
+00:05:20,700 --> 00:05:24,000
+We can see that ES actually never swept this low, right?
+
+154
+00:05:24,000 --> 00:05:25,600
+It's not even close to it
+
+155
+00:05:25,600 --> 00:05:28,400
+It's about still, you know, seven handles away
+
+156
+00:05:28,400 --> 00:05:30,500
+Now, that being said
+
+157
+00:05:30,500 --> 00:05:33,900
+We have an SMT in place at this low
+
+158
+00:05:33,900 --> 00:05:35,900
+The reason it's important to know
+
+159
+00:05:35,900 --> 00:05:38,200
+That we have an SMT in place here
+
+160
+00:05:38,200 --> 00:05:41,700
+Is because SMTs are typically a good sign of a potential reversal
+
+161
+00:05:41,700 --> 00:05:44,600
+Obviously, right here we can see that there's very bearish price action
+
+162
+00:05:44,600 --> 00:05:45,900
+But if we sweep this low
+
+163
+00:05:45,900 --> 00:05:47,800
+And then we get an SMT at this low
+
+164
+00:05:47,800 --> 00:05:51,300
+We can start expecting a reversal in price
+
+165
+00:05:51,300 --> 00:05:53,900
+So if you notice here after we got this SMT
+
+166
+00:05:53,900 --> 00:05:55,500
+We start getting some delivery higher
+
+167
+00:05:55,500 --> 00:05:57,700
+And then we go and maybe run this buy side
+
+168
+00:05:57,700 --> 00:05:59,700
+Or whatever liquidity there is to target
+
+169
+00:05:59,700 --> 00:06:01,000
+If you look at ES
+
+170
+00:06:01,000 --> 00:06:05,800
+You're gonna see that ES being the asset that failed to take this low
+
+171
+00:06:05,800 --> 00:06:07,200
+And we got an SMT in place
+
+172
+00:06:07,200 --> 00:06:09,000
+Because Nasdaq took this low
+
+173
+00:06:09,000 --> 00:06:12,700
+It most likely delivered towards this buy side faster, right?
+
+174
+00:06:12,700 --> 00:06:15,300
+This would make ES a stronger asset
+
+175
+00:06:15,300 --> 00:06:16,800
+That's just something you should know
+
+176
+00:06:16,800 --> 00:06:19,600
+Typically the asset that fails to take the lower high
+
+177
+00:06:19,600 --> 00:06:20,800
+With the SMT in play
+
+178
+00:06:20,800 --> 00:06:22,400
+Is gonna be the one that delivers faster
+
+179
+00:06:22,400 --> 00:06:26,000
+So you can see that ES being the stronger pair
+
+180
+00:06:26,000 --> 00:06:27,900
+Since it failed to sweep this low
+
+181
+00:06:27,900 --> 00:06:30,800
+It swept this buy side before NQ could get there
+
+182
+00:06:30,800 --> 00:06:34,300
+And that usually happens typically with the asset
+
+183
+00:06:34,300 --> 00:06:36,000
+That doesn't take the higher low
+
+184
+00:06:36,000 --> 00:06:37,400
+And there's an SMT in play
+
+185
+00:06:37,400 --> 00:06:39,400
+So this is an example of a bullish SMT
+
+186
+00:06:39,400 --> 00:06:42,000
+Once again, I'm gonna show you one more time what that looks like
+
+187
+00:06:42,000 --> 00:06:44,200
+There's a significant low right here
+
+188
+00:06:44,200 --> 00:06:47,100
+Nasdaq delivers lower, sweeps this low
+
+189
+00:06:47,100 --> 00:06:49,500
+While ES fails to take that low
+
+190
+00:06:49,500 --> 00:06:53,700
+Therefore creating an SMT between these two swing lows
+
+191
+00:06:53,700 --> 00:06:56,000
+And then you get ES delivered towards this buy side faster
+
+192
+00:06:56,000 --> 00:06:57,300
+NQ eventually hits it too
+
+193
+00:06:57,300 --> 00:07:00,100
+It's just not delivering as fast
+
+194
+00:07:00,100 --> 00:07:02,100
+Alright, so we just showed you what a bullish SMT looks like guys
+
+195
+00:07:02,100 --> 00:07:04,800
+I'm gonna now show you what a bearish SMT looks like
+
+196
+00:07:04,800 --> 00:07:07,700
+Alright, so I have this little buy side liquidity marked out here, right?
+
+197
+00:07:07,700 --> 00:07:11,300
+So this is your intermediate high that is inside of a Fidelity gap
+
+198
+00:07:11,300 --> 00:07:13,700
+This is a great liquidity pool right here
+
+199
+00:07:13,700 --> 00:07:15,600
+Super sexy, super nice
+
+200
+00:07:15,600 --> 00:07:18,600
+And we also, if you see down here, we have some low resistance liquidity
+
+201
+00:07:18,600 --> 00:07:20,800
+So I can go down to the lower time frame here
+
+202
+00:07:20,800 --> 00:07:23,800
+Right, we have a bunch of failure swings here on the lower time frame
+
+203
+00:07:23,800 --> 00:07:25,100
+Low here that didn't get swept
+
+204
+00:07:25,100 --> 00:07:27,300
+Low here that didn't sweep this low
+
+205
+00:07:27,300 --> 00:07:29,200
+And then another low that didn't sweep this low
+
+206
+00:07:29,200 --> 00:07:31,600
+And just a lot of these failure swings are gonna be areas
+
+207
+00:07:31,600 --> 00:07:33,000
+It's a great liquidity pool, right?
+
+208
+00:07:33,000 --> 00:07:34,800
+We talked about that in our liquidity video
+
+209
+00:07:34,800 --> 00:07:37,600
+And then overall we have this external liquidity being this sell side liquidity
+
+210
+00:07:37,600 --> 00:07:39,600
+Alright, so looking at this chart
+
+211
+00:07:39,600 --> 00:07:41,800
+I would like to see happen is this
+
+212
+00:07:41,800 --> 00:07:43,700
+I wanna see price sweep out this high
+
+213
+00:07:43,700 --> 00:07:46,000
+To then get a reaction from here
+
+214
+00:07:46,000 --> 00:07:47,700
+From this intermediate high inside that gap
+
+215
+00:07:47,700 --> 00:07:50,100
+And then we can go down and target this low
+
+216
+00:07:50,100 --> 00:07:54,400
+Right, so what ends up happening is Nasdaq trades up here
+
+217
+00:07:54,400 --> 00:07:56,100
+And we don't sweep out the high
+
+218
+00:07:56,100 --> 00:07:58,800
+But we start getting some bearish displacement lower
+
+219
+00:07:58,800 --> 00:07:59,900
+Why did that happen?
+
+220
+00:07:59,900 --> 00:08:02,100
+Because ES ends up taking out that high, right?
+
+221
+00:08:02,100 --> 00:08:03,700
+So ES takes out this high
+
+222
+00:08:03,700 --> 00:08:04,900
+And in the last example guys
+
+223
+00:08:04,900 --> 00:08:07,000
+We showed ES being the leading pair
+
+224
+00:08:07,000 --> 00:08:09,200
+Or ES being the stronger pair, right?
+
+225
+00:08:09,200 --> 00:08:10,800
+Because it didn't take out that high
+
+226
+00:08:10,800 --> 00:08:13,300
+Here in this example, Nasdaq is that stronger pair
+
+227
+00:08:13,300 --> 00:08:14,500
+Where it doesn't take out that high
+
+228
+00:08:14,500 --> 00:08:16,100
+And we're a lot more bearish in this scenario
+
+229
+00:08:16,100 --> 00:08:17,800
+And now if we go down to the lower timeframe
+
+230
+00:08:17,800 --> 00:08:19,800
+We get that lower timeframe confirmation
+
+231
+00:08:19,800 --> 00:08:22,000
+That price actually does want to go lower
+
+232
+00:08:22,000 --> 00:08:22,900
+Why do we get that?
+
+233
+00:08:22,900 --> 00:08:25,100
+Because price starts disrespecting for value gaps
+
+234
+00:08:25,100 --> 00:08:26,600
+As you can see here to the left of us
+
+235
+00:08:26,600 --> 00:08:28,000
+We have a bullish for value gap
+
+236
+00:08:28,000 --> 00:08:29,600
+That gets disrespected, right?
+
+237
+00:08:29,600 --> 00:08:31,500
+So where can we expect price to go
+
+238
+00:08:31,500 --> 00:08:33,300
+If we have this SMT in play?
+
+239
+00:08:33,300 --> 00:08:36,300
+We start disrespecting these bullish for value gaps, right?
+
+240
+00:08:36,300 --> 00:08:37,800
+Now this gets inverted
+
+241
+00:08:37,800 --> 00:08:41,000
+Well, we can expect price to go to that low resistance liquidity
+
+242
+00:08:41,000 --> 00:08:43,100
+And also this sell-side liquidity down here, right?
+
+243
+00:08:43,100 --> 00:08:46,100
+So we can get a little short off of this inversion for value gap
+
+244
+00:08:46,100 --> 00:08:48,800
+And price dumps towards that low
+
+245
+00:08:48,800 --> 00:08:50,600
+And guys, you do not want to just be, you know
+
+246
+00:08:50,600 --> 00:08:53,600
+Entering the second we get that inversion for value gap, right?
+
+247
+00:08:53,600 --> 00:08:56,600
+You want to wait for structure on the lower timeframe
+
+248
+00:08:56,600 --> 00:08:59,400
+To actually confirm that that SMT is valid
+
+249
+00:08:59,400 --> 00:09:01,100
+Last thing I want to give you guys
+
+250
+00:09:01,100 --> 00:09:02,800
+Is a little piece of advice
+
+251
+00:09:02,800 --> 00:09:05,800
+SMTs are happening nearly all the time
+
+252
+00:09:05,800 --> 00:09:07,600
+There might be days where price is very correlated
+
+253
+00:09:07,600 --> 00:09:09,700
+Between NQ and ES
+
+254
+00:09:09,700 --> 00:09:10,800
+But days that aren't
+
+255
+00:09:10,800 --> 00:09:12,600
+You'll be seeing SMTs happen very often
+
+256
+00:09:12,600 --> 00:09:14,300
+It's just like now you're probably thinking
+
+257
+00:09:14,300 --> 00:09:16,000
+What SMTs do I focus on?
+
+258
+00:09:16,000 --> 00:09:19,700
+Well, there's really two types of SMTs you want to focus on
+
+259
+00:09:19,700 --> 00:09:22,700
+You want to focus on SMTs at significant liquidity pools
+
+260
+00:09:22,700 --> 00:09:24,700
+Which are going to be like previous session highs and lows
+
+261
+00:09:24,700 --> 00:09:28,300
+And you want to focus on SMTs inside of PDR raise, right?
+
+262
+00:09:28,300 --> 00:09:30,300
+Those are going to be the SMTs that actually deliver
+
+263
+00:09:30,300 --> 00:09:33,800
+So we can see here that previously before this SMT
+
+264
+00:09:33,800 --> 00:09:36,300
+We had price trade up into this 15-minute bearish for value gap
+
+265
+00:09:36,300 --> 00:09:37,500
+And we got a reaction off it, right?
+
+266
+00:09:37,500 --> 00:09:38,700
+It delivered price lower
+
+267
+00:09:38,700 --> 00:09:41,200
+And then traded up into this 15-minute bearish for value gap
+
+268
+00:09:41,200 --> 00:09:43,900
+We got a reaction, traded even lower than this low
+
+269
+00:09:43,900 --> 00:09:45,100
+And then what happens?
+
+270
+00:09:45,100 --> 00:09:46,400
+We retrace higher
+
+271
+00:09:46,400 --> 00:09:48,500
+And we get an SMT inside of what?
+
+272
+00:09:48,500 --> 00:09:50,200
+The 15-minute bearish for value gap
+
+273
+00:09:50,200 --> 00:09:52,500
+Not only are we getting a sweep of liquidity on ES
+
+274
+00:09:52,500 --> 00:09:56,100
+We're getting a sweep of liquidity inside a key level
+
+275
+00:09:56,100 --> 00:09:58,600
+Which is going to be this 15-minute bearish for value gap
+
+276
+00:09:58,600 --> 00:10:01,900
+So we know that this is going to give us a stronger reaction
+
+277
+00:10:01,900 --> 00:10:03,900
+Than just a simple sweep of liquidity
+
+278
+00:10:03,900 --> 00:10:05,900
+Not paired with any PDR raise
+
+279
+00:10:05,900 --> 00:10:07,300
+And if you don't know what I'm saying when I say PDR raise
+
+280
+00:10:07,300 --> 00:10:09,900
+I'm just typically referring to any ICT concept, right?
+
+281
+00:10:09,900 --> 00:10:12,600
+Fair value gap, breaker block, order block, whatever it is
+
+282
+00:10:12,600 --> 00:10:17,100
+So always try to find the SMTs inside significant levels
+
+283
+00:10:17,100 --> 00:10:19,000
+Because if you simply just look at SMTs
+
+284
+00:10:19,000 --> 00:10:21,600
+At any given swing higher and swing low
+
+285
+00:10:21,600 --> 00:10:22,700
+And you just roll with that
+
+286
+00:10:22,700 --> 00:10:25,300
+You're most likely not going to be catching those significant moves
+
+287
+00:10:25,300 --> 00:10:26,900
+And you're probably going to get stop-rated
+
+288
+00:10:26,900 --> 00:10:29,800
+Simply put, SMTs inside of fair value gaps
+
+289
+00:10:29,800 --> 00:10:31,100
+Those work great
+
+290
+00:10:31,100 --> 00:10:32,400
+Those are the ones that are going to deliver
+
+291
+00:10:32,400 --> 00:10:34,000
+SMTs inside of fair value gaps
+
+292
+00:10:34,000 --> 00:10:35,200
+Also, like Patrick was saying
+
+293
+00:10:35,200 --> 00:10:37,000
+Those previous session highs and lows
+
+294
+00:10:37,000 --> 00:10:38,800
+Is going to be really, really significant
+
+295
+00:10:38,800 --> 00:10:40,200
+Basically everything that we went over
+
+296
+00:10:40,200 --> 00:10:42,000
+In that liquidity pool video, right?
+
+297
+00:10:42,000 --> 00:10:44,800
+So if there's going to be like previous day high or low also
+
+298
+00:10:44,800 --> 00:10:46,200
+That's going to be really significant
+
+299
+00:10:46,200 --> 00:10:47,700
+So you want to be focusing on again
+
+300
+00:10:47,700 --> 00:10:49,100
+Those SMTs at key levels
+
+301
+00:10:49,100 --> 00:10:52,300
+And most of the time just focus on that higher time frame SMTs
+
+302
+00:10:52,300 --> 00:10:54,500
+When you're actually trying to figure out, you know, your bias
+
+303
+00:10:54,500 --> 00:10:56,400
+And then when it comes down to entries
+
+304
+00:10:56,400 --> 00:10:58,300
+There's a lot of the times where I'll get, you know
+
+305
+00:10:58,300 --> 00:10:59,400
+Some more confidence
+
+306
+00:10:59,400 --> 00:11:01,800
+If we get some sort of lower time frame SMT
+
+307
+00:11:01,800 --> 00:11:04,200
+Aligning with the higher SMT that's put in play
+
+308
+00:11:04,200 --> 00:11:07,100
+Also, when else should you be focusing on SMTs
+
+309
+00:11:07,100 --> 00:11:09,100
+At your take profit levels
+
+310
+00:11:09,100 --> 00:11:10,900
+You always got to make sure
+
+311
+00:11:10,900 --> 00:11:14,300
+That there's not an SMT where you're looking to take profits
+
+312
+00:11:14,300 --> 00:11:15,400
+Because if there is
+
+313
+00:11:15,400 --> 00:11:18,600
+Chances are price doesn't need to go to that level anymore, right?
+
+314
+00:11:18,600 --> 00:11:22,000
+So let's say you're in this trade on ES for some reason
+
+315
+00:11:22,000 --> 00:11:24,000
+And not NQ, right?
+
+316
+00:11:24,000 --> 00:11:27,000
+And you're in this trade and NQ takes this sell side
+
+317
+00:11:27,000 --> 00:11:28,900
+While ES is now trading around here
+
+318
+00:11:28,900 --> 00:11:30,600
+But it hasn't taken that sell side
+
+319
+00:11:30,600 --> 00:11:31,500
+Well, it doesn't matter
+
+320
+00:11:31,500 --> 00:11:33,400
+We don't need to take that sell side anymore on ES
+
+321
+00:11:33,400 --> 00:11:35,000
+Because there's an SMT in play
+
+322
+00:11:35,000 --> 00:11:37,500
+Therefore, you have an SMT at your take profit level
+
+323
+00:11:37,500 --> 00:11:39,800
+And you should be taking profits on ES
+
+324
+00:11:39,800 --> 00:11:41,800
+It's pretty unfortunate scenario to be in
+
+325
+00:11:41,800 --> 00:11:43,700
+But hey, it happens pretty often
+
+326
+00:11:43,700 --> 00:11:45,600
+And you can't disregard it
+
+327
+00:11:45,600 --> 00:11:47,200
+There's going to be a thousand times
+
+328
+00:11:47,200 --> 00:11:48,900
+I bet you during your trading career
+
+329
+00:11:48,900 --> 00:11:50,000
+Where you're thinking to yourself
+
+330
+00:11:50,000 --> 00:11:51,600
+Damn, there's an SMT at my take profit
+
+331
+00:11:51,600 --> 00:11:54,200
+But maybe, maybe NQ will still take it
+
+332
+00:11:54,200 --> 00:11:55,500
+Maybe ES will still take it
+
+333
+00:11:55,500 --> 00:11:57,800
+Maybe I'll be fine and the SMT will get invalidated
+
+334
+00:11:57,800 --> 00:11:59,200
+And you end up getting fucked into reverses
+
+335
+00:11:59,200 --> 00:11:59,900
+And hit your breakeven
+
+336
+00:11:59,900 --> 00:12:01,200
+And then you want to go jump off a
+
+337
+00:12:01,200 --> 00:12:02,700
+Well, I shouldn't get too deep into that
+
+338
+00:12:02,700 --> 00:12:05,400
+So right, not only did we have an SMT
+
+339
+00:12:05,400 --> 00:12:07,900
+To help build narrative for this short
+
+340
+00:12:07,900 --> 00:12:09,300
+But then once the short played out
+
+341
+00:12:09,300 --> 00:12:10,700
+We got an SMT at this low
+
+342
+00:12:10,700 --> 00:12:13,500
+So now the ES trade would probably look something like this
+
+343
+00:12:13,500 --> 00:12:15,800
+While the NQ trade would look something like this
+
+344
+00:12:15,800 --> 00:12:17,500
+And this goes to show
+
+345
+00:12:17,500 --> 00:12:19,800
+That obviously the pair that fails to take
+
+346
+00:12:19,800 --> 00:12:21,100
+You know, the high or low
+
+347
+00:12:21,100 --> 00:12:22,500
+Is going to have better delivery
+
+348
+00:12:22,500 --> 00:12:25,300
+In comparison to that that actually takes it
+
+349
+00:12:25,300 --> 00:12:26,600
+Two main takeaways there
+
+350
+00:12:26,600 --> 00:12:28,600
+SMT's inside significant PDR raise
+
+351
+00:12:28,600 --> 00:12:31,800
+And then always be careful for SMT's aggro take profit levels
+
+352
+00:12:31,900 --> 00:12:34,400
+Alright guys, I'm going to show you an example of what some overnight session
+
+353
+00:12:34,400 --> 00:12:35,400
+SMT's look like
+
+354
+00:12:35,400 --> 00:12:36,900
+This is going to be with session liquidity
+
+355
+00:12:36,900 --> 00:12:38,300
+Okay, so first off
+
+356
+00:12:38,300 --> 00:12:39,900
+I want to show you this bullish SMT
+
+357
+00:12:39,900 --> 00:12:43,200
+That gets put into play to then take out Asia highs
+
+358
+00:12:43,200 --> 00:12:45,400
+So we have Asia highs resting right here
+
+359
+00:12:45,400 --> 00:12:48,900
+And if we just remove this noise that we have in our chart
+
+360
+00:12:48,900 --> 00:12:52,300
+Can you guys spot the bullish SMT that we have right now?
+
+361
+00:12:52,300 --> 00:12:53,500
+Give you a few seconds here
+
+362
+00:12:59,100 --> 00:13:01,400
+Okay, so the bullish SMT that we have here
+
+363
+00:13:01,400 --> 00:13:03,800
+That is significant is what we were just talking about, right?
+
+364
+00:13:03,800 --> 00:13:06,600
+So we have this bullish 15-minute Ferali gap right here
+
+365
+00:13:06,600 --> 00:13:08,300
+And we have this intermediate low
+
+366
+00:13:08,300 --> 00:13:10,900
+That is inside of this Ferali gap
+
+367
+00:13:10,900 --> 00:13:13,300
+Again, just like that last example that we showed right
+
+368
+00:13:13,300 --> 00:13:14,900
+The intermediate low inside of that Ferali gap
+
+369
+00:13:14,900 --> 00:13:16,900
+It's going to be a great reversal point
+
+370
+00:13:16,900 --> 00:13:18,700
+And a really strong liquidity pool
+
+371
+00:13:18,700 --> 00:13:21,500
+So we can see here that ES ends up taking this out
+
+372
+00:13:21,500 --> 00:13:23,500
+And as we see here on the left
+
+373
+00:13:23,500 --> 00:13:25,100
+The NASDAQ does not take this out
+
+374
+00:13:25,100 --> 00:13:27,800
+And then if we go down now to the lower timeframe, right
+
+375
+00:13:27,800 --> 00:13:29,900
+To see if we can actually get that entry
+
+376
+00:13:29,900 --> 00:13:32,100
+We can see that there's a little internal SMT
+
+377
+00:13:32,100 --> 00:13:33,100
+That's put into play, right
+
+378
+00:13:33,100 --> 00:13:36,100
+If we look at this swing low right here, which is at 2 a.m.
+
+379
+00:13:36,100 --> 00:13:39,300
+You can see on ES that ES ends up taking out this low
+
+380
+00:13:39,300 --> 00:13:40,800
+And that NASDAQ doesn't, right
+
+381
+00:13:40,800 --> 00:13:43,300
+So there's that external SMT getting put into play, right
+
+382
+00:13:43,300 --> 00:13:46,300
+With that higher timeframe key level being right here
+
+383
+00:13:46,300 --> 00:13:47,800
+And then on the lower timeframe
+
+384
+00:13:47,800 --> 00:13:50,000
+We're getting lower timeframe confirmation as well
+
+385
+00:13:50,000 --> 00:13:51,500
+That price wants to go higher
+
+386
+00:13:51,500 --> 00:13:53,000
+We end up getting that displacement
+
+387
+00:13:53,000 --> 00:13:55,100
+We start disrespecting these bearish Ferali gaps
+
+388
+00:13:55,100 --> 00:13:57,800
+We start respecting these bullish Ferali gaps here
+
+389
+00:13:57,800 --> 00:14:00,300
+And then price ends up running towards Asia highs
+
+390
+00:14:00,300 --> 00:14:01,900
+Okay, so now there's this bearish SMT
+
+391
+00:14:01,900 --> 00:14:03,100
+That gets put into play, right
+
+392
+00:14:03,100 --> 00:14:04,700
+So now we're gonna wait for confirmation
+
+393
+00:14:04,700 --> 00:14:07,400
+Maybe by disrespecting this bullish Ferali gap here
+
+394
+00:14:07,400 --> 00:14:09,000
+If we start disrespecting it, right
+
+395
+00:14:09,000 --> 00:14:11,800
+Then we can anticipate that price wants to head where
+
+396
+00:14:11,800 --> 00:14:14,700
+Well, we have sell-side liquidity resting right here
+
+397
+00:14:14,700 --> 00:14:20,000
+And we also have Asia lows resting all the way down there, right
+
+398
+00:14:20,000 --> 00:14:21,100
+So as we can see here
+
+399
+00:14:21,100 --> 00:14:24,200
+Price ends up disrespecting this bullish Ferali gap here
+
+400
+00:14:24,200 --> 00:14:25,100
+To the left of me
+
+401
+00:14:25,100 --> 00:14:27,300
+And we end up creating this bearish Ferali gap
+
+402
+00:14:27,400 --> 00:14:29,100
+Now, a lot of you might be, you know
+
+403
+00:14:29,100 --> 00:14:30,900
+Waiting for an entry for a pullback
+
+404
+00:14:30,900 --> 00:14:32,300
+Maybe into this Ferali gap
+
+405
+00:14:32,300 --> 00:14:33,800
+To then get a short off of
+
+406
+00:14:33,800 --> 00:14:35,200
+Maybe on the lower timeframe, right
+
+407
+00:14:35,600 --> 00:14:38,300
+But price ends up edging it and then runs lower
+
+408
+00:14:38,300 --> 00:14:39,900
+Why do you guys think that this happened?
+
+409
+00:14:39,900 --> 00:14:41,100
+There was an SMT, right
+
+410
+00:14:41,100 --> 00:14:44,200
+So Ferali gap SMTs guys are actually a thing
+
+411
+00:14:44,200 --> 00:14:45,400
+You can see right here
+
+412
+00:14:45,400 --> 00:14:49,200
+That we have this bearish Ferali gap here on the S&P 500
+
+413
+00:14:49,200 --> 00:14:52,000
+And the same Ferali gap here on NQ, right
+
+414
+00:14:52,000 --> 00:14:54,900
+So it's not only at swing highs and swing lows
+
+415
+00:14:54,900 --> 00:14:57,300
+This also does occur with Ferali gaps
+
+416
+00:14:57,300 --> 00:14:59,000
+And you want to be paying attention to this
+
+417
+00:14:59,000 --> 00:15:00,300
+Because in this example
+
+418
+00:15:00,300 --> 00:15:02,200
+ES ends up hitting that Ferali gap
+
+419
+00:15:02,200 --> 00:15:03,000
+Nasdaq doesn't
+
+420
+00:15:03,000 --> 00:15:05,100
+And we end up getting that bearish SMT
+
+421
+00:15:05,100 --> 00:15:06,700
+Which ends up sending us lower
+
+422
+00:15:06,700 --> 00:15:09,100
+And price delivers towards the sell-side liquidity
+
+423
+00:15:09,100 --> 00:15:11,200
+And it also eventually hits Asia lows
+
+424
+00:15:11,200 --> 00:15:13,200
+And then just to reiterate what Blake was talking about
+
+425
+00:15:13,200 --> 00:15:15,200
+And to sort of bring everything together
+
+426
+00:15:15,200 --> 00:15:16,300
+That we've talked about, right
+
+427
+00:15:16,300 --> 00:15:17,900
+I want you guys to pay attention
+
+428
+00:15:17,900 --> 00:15:20,300
+To what's happening here one more time
+
+429
+00:15:20,300 --> 00:15:22,300
+As you can see, we have Asia highs up here
+
+430
+00:15:22,300 --> 00:15:23,500
+And more importantly
+
+431
+00:15:23,500 --> 00:15:25,100
+Where is this liquidity resting?
+
+432
+00:15:25,100 --> 00:15:27,700
+It's resting inside of this new day opening gap, right
+
+433
+00:15:27,700 --> 00:15:28,700
+A new day opening gap
+
+434
+00:15:28,700 --> 00:15:30,900
+Operates very similar to a Ferali gap
+
+435
+00:15:30,900 --> 00:15:32,600
+You can see here that
+
+436
+00:15:32,600 --> 00:15:36,700
+This new day opening gap was actually filled completely by NQ
+
+437
+00:15:36,700 --> 00:15:40,800
+Therefore ES isn't required to fill this new day opening gap completely anymore
+
+438
+00:15:40,800 --> 00:15:43,100
+And when using new day opening gaps
+
+439
+00:15:43,100 --> 00:15:45,100
+That is one thing that you do want to know
+
+440
+00:15:45,100 --> 00:15:48,700
+Typically before price reacts from a new day opening gap
+
+441
+00:15:48,700 --> 00:15:50,000
+It wants to fill it completely
+
+442
+00:15:50,000 --> 00:15:52,000
+But since we know that NQ did that
+
+443
+00:15:52,000 --> 00:15:53,100
+ES doesn't have to
+
+444
+00:15:53,100 --> 00:15:55,200
+Therefore, if we were to get an SMT
+
+445
+00:15:55,200 --> 00:15:57,600
+Anywhere inside of this new day opening gap
+
+446
+00:15:57,600 --> 00:16:01,200
+We know that we have an SMT inside of a higher timeframe PDR rate
+
+447
+00:16:01,200 --> 00:16:04,200
+So this isn't just a SMT at a liquidity level
+
+448
+00:16:04,200 --> 00:16:06,700
+But it's also inside a significant PDR rate
+
+449
+00:16:06,700 --> 00:16:07,700
+So now looking at price
+
+450
+00:16:07,700 --> 00:16:10,600
+We can see that NQ delivered up to Asia highs
+
+451
+00:16:10,600 --> 00:16:12,200
+And swept Asia highs
+
+452
+00:16:12,200 --> 00:16:13,900
+While ES is lagging behind
+
+453
+00:16:13,900 --> 00:16:15,800
+And then if we're slowly trading inversions here, right
+
+454
+00:16:15,800 --> 00:16:17,900
+We have this 50 minute bullish value gap
+
+455
+00:16:17,900 --> 00:16:19,900
+Price reacts off of this SMT
+
+456
+00:16:19,900 --> 00:16:21,900
+Inside that higher timeframe key level
+
+457
+00:16:21,900 --> 00:16:24,000
+Inverse is this 50 minute bullish value gap
+
+458
+00:16:24,000 --> 00:16:25,500
+If you're trading inversions
+
+459
+00:16:25,500 --> 00:16:27,000
+This would be an entry right here
+
+460
+00:16:27,000 --> 00:16:28,400
+Where you're gonna put your stop loss
+
+461
+00:16:28,400 --> 00:16:29,900
+Stop loss have to swing high
+
+462
+00:16:29,900 --> 00:16:31,200
+Where that SMT is
+
+463
+00:16:31,200 --> 00:16:32,700
+Targeting maybe Asia lows
+
+464
+00:16:32,700 --> 00:16:34,400
+This sell side could be your breakeven, right
+
+465
+00:16:34,400 --> 00:16:35,600
+This is your internal low
+
+466
+00:16:35,600 --> 00:16:37,500
+Getting a little bit more technical with the concepts here
+
+467
+00:16:37,500 --> 00:16:39,500
+But this is pretty much how we trade
+
+468
+00:16:39,500 --> 00:16:41,300
+Now if we play price forward, right
+
+469
+00:16:41,300 --> 00:16:42,300
+We get this inversion
+
+470
+00:16:42,300 --> 00:16:45,200
+We have all the confidence we need to be entering shorts here
+
+471
+00:16:45,200 --> 00:16:46,800
+We enter shorts
+
+472
+00:16:46,800 --> 00:16:48,400
+We get some delivery lower
+
+473
+00:16:48,400 --> 00:16:50,400
+Eventually we have NQ take this sell side
+
+474
+00:16:50,400 --> 00:16:51,900
+We go breakeven here
+
+475
+00:16:51,900 --> 00:16:54,400
+And then we leave, of course, price running
+
+476
+00:16:54,400 --> 00:16:56,000
+Down to Asia lows
+
+477
+00:16:56,000 --> 00:16:58,700
+And we want to make sure that we're always monitoring ES
+
+478
+00:16:58,700 --> 00:17:02,500
+If ES takes this take profit before NQ
+
+479
+00:17:02,500 --> 00:17:03,800
+Because if that's the case
+
+480
+00:17:03,800 --> 00:17:06,300
+We'll have to close a little bit early
+
+481
+00:17:06,300 --> 00:17:08,300
+But it seems like towards Asia lows
+
+482
+00:17:08,300 --> 00:17:10,200
+The assets seem to be pretty correlated
+
+483
+00:17:10,200 --> 00:17:12,400
+Therefore we get a nice delivery
+
+484
+00:17:12,400 --> 00:17:14,900
+And nice full TP at Asia lows
+
+485
+00:17:14,900 --> 00:17:18,000
+Without any SMT in place forcing us to close earlier
+
+486
+00:17:18,100 --> 00:17:20,700
+But yeah, this is sort of tying together
+
+487
+00:17:20,700 --> 00:17:22,300
+A lot of the concepts we've taught you
+
+488
+00:17:22,300 --> 00:17:23,400
+One being time
+
+489
+00:17:23,400 --> 00:17:25,000
+Another being liquidity, right
+
+490
+00:17:25,000 --> 00:17:26,700
+This is session liquidity involved
+
+491
+00:17:26,700 --> 00:17:28,200
+We talked a lot before about
+
+492
+00:17:28,200 --> 00:17:30,500
+You know, notice how price reacts off of Asia highs
+
+493
+00:17:30,500 --> 00:17:32,700
+Asia lows, London highs, London lows
+
+494
+00:17:32,700 --> 00:17:34,300
+And now we're bringing together SMTs
+
+495
+00:17:34,300 --> 00:17:36,700
+We have an SMT at a previous session high
+
+496
+00:17:36,700 --> 00:17:38,600
+We have an invalidation of a fair value gap
+
+497
+00:17:38,600 --> 00:17:39,600
+Which means what?
+
+498
+00:17:39,600 --> 00:17:40,600
+An inversion
+
+499
+00:17:40,600 --> 00:17:42,300
+We have an inversion giving us confirmation
+
+500
+00:17:42,300 --> 00:17:44,000
+That there's a flip in order flow
+
+501
+00:17:44,000 --> 00:17:45,800
+Then we have some liquidity resting down here
+
+502
+00:17:45,800 --> 00:17:48,200
+This is going to serve as a TP1 or breakeven
+
+503
+00:17:48,200 --> 00:17:50,100
+And then we have our external liquidity over here
+
+504
+00:17:50,100 --> 00:17:51,300
+Being Asia lows
+
+505
+00:17:51,300 --> 00:17:54,900
+And this is really what an A plus inversion trade
+
+506
+00:17:54,900 --> 00:17:55,700
+Would look like
+
+507
+00:17:55,700 --> 00:17:56,800
+All this happening
+
+508
+00:17:56,800 --> 00:17:59,400
+After we filled this new day opening gap completely
+
+509
+00:17:59,400 --> 00:18:00,400
+Which we know
+
+510
+00:18:00,400 --> 00:18:01,500
+And or maybe you know now
+
+511
+00:18:01,500 --> 00:18:04,100
+That when a new day opening gap gets filled completely
+
+512
+00:18:04,100 --> 00:18:06,900
+Price typically will then react and deliver
+
+513
+00:18:06,900 --> 00:18:10,600
+So a lot, a lot, a lot of confluences in this trade
+
+514
+00:18:10,600 --> 00:18:13,000
+And so now if you want like that final extra confirmation
+
+515
+00:18:13,000 --> 00:18:15,100
+Let's say you're not someone who likes to enter off of inversions
+
+516
+00:18:15,100 --> 00:18:16,500
+And you're someone who trades for value gaps
+
+517
+00:18:16,500 --> 00:18:17,600
+And you're looking to see a pullback
+
+518
+00:18:17,600 --> 00:18:19,400
+And take this five minute fair value gap
+
+519
+00:18:19,400 --> 00:18:20,800
+Well, you can see that damn
+
+520
+00:18:20,800 --> 00:18:22,000
+NQ edges it here
+
+521
+00:18:22,000 --> 00:18:24,000
+But ES did trade into the five minute
+
+522
+00:18:24,000 --> 00:18:27,400
+Therefore you have an SMT now inside of this fair value gap
+
+523
+00:18:27,400 --> 00:18:33,200
+And in case you were waiting for NQ to hit that five minute for your entry
+
+524
+00:18:33,200 --> 00:18:36,600
+Well, maybe you should have paid attention to ES
+
+525
+00:18:36,600 --> 00:18:39,000
+Because ES actually traded in there
+
+526
+00:18:39,000 --> 00:18:41,100
+So NQ no longer needs to correct that imbalance
+
+527
+00:18:41,100 --> 00:18:44,600
+Because it has been corrected on a different asset, right?
+
+528
+00:18:44,600 --> 00:18:46,100
+They're correlated assets
+
+529
+00:18:46,100 --> 00:18:50,100
+Something I really want you to think with SMT is like
+
+530
+00:18:50,100 --> 00:18:53,300
+SMT is like having like a twin
+
+531
+00:18:53,300 --> 00:18:54,400
+You know what I mean?
+
+532
+00:18:54,400 --> 00:18:56,900
+Like if you have a twin, you know
+
+533
+00:18:56,900 --> 00:18:58,800
+Your twin can go take a test for you
+
+534
+00:18:58,800 --> 00:19:00,300
+And if he takes that test for you
+
+535
+00:19:00,300 --> 00:19:01,700
+You don't need to take the test anymore
+
+536
+00:19:01,700 --> 00:19:02,200
+You know what I mean?
+
+537
+00:19:02,200 --> 00:19:04,100
+You can get bro to sub in for you
+
+538
+00:19:04,100 --> 00:19:05,800
+Go take the test for you
+
+539
+00:19:05,800 --> 00:19:07,700
+And now you don't have to take the test
+
+540
+00:19:07,700 --> 00:19:11,400
+Or it's like if you have like a like a clone of you
+
+541
+00:19:11,400 --> 00:19:13,300
+Or a twin back to the twin thing
+
+542
+00:19:13,300 --> 00:19:16,500
+And your twin hooks up with a batty girl
+
+543
+00:19:16,500 --> 00:19:20,200
+But that girl doesn't know that you guys are twins
+
+544
+00:19:20,200 --> 00:19:24,800
+Then you can both flex that you mac the same shorty to other people
+
+545
+00:19:24,800 --> 00:19:26,700
+As long as people don't know you're twins type shit
+
+546
+00:19:26,700 --> 00:19:27,200
+You know what I mean?
+
+547
+00:19:27,200 --> 00:19:29,400
+Because you technically both took that dub
+
+548
+00:19:29,400 --> 00:19:30,800
+Because in that girl's head
+
+549
+00:19:30,800 --> 00:19:32,400
+You're only one asset
+
+550
+00:19:32,400 --> 00:19:33,500
+But you're two assets
+
+551
+00:19:33,500 --> 00:19:35,200
+SMT could also be like
+
+552
+00:19:35,200 --> 00:19:37,000
+You go talk to a girl
+
+553
+00:19:37,000 --> 00:19:39,300
+You think you're like really rinsing her up
+
+554
+00:19:39,300 --> 00:19:41,100
+You think you got it in the bag
+
+555
+00:19:41,100 --> 00:19:42,800
+And you think you're about to get her number
+
+556
+00:19:42,800 --> 00:19:44,000
+But right before you get her number
+
+557
+00:19:44,000 --> 00:19:44,700
+You're like can I get your number
+
+558
+00:19:44,700 --> 00:19:45,600
+She goes I have a boyfriend
+
+559
+00:19:45,600 --> 00:19:47,300
+SMT at your take profit
+
+560
+00:19:47,300 --> 00:19:48,000
+Reversal
+
+561
+00:19:48,000 --> 00:19:48,700
+Reversal
+
+562
+00:19:48,700 --> 00:19:49,500
+Fat reversal
+
+563
+00:19:49,500 --> 00:19:50,600
+Fat reversal
+
+564
+00:19:50,600 --> 00:19:51,700
+That's brutal
+
+565
+00:19:51,700 --> 00:19:52,900
+Been there a couple times
+
+566
+00:19:52,900 --> 00:19:54,200
+Or like the one time we're like
+
+567
+00:19:54,200 --> 00:19:57,100
+I was like damn I have such awesome loving parents
+
+568
+00:19:57,100 --> 00:19:58,300
+And then they're like we're getting divorced
+
+569
+00:19:58,300 --> 00:19:59,000
+I'm like like
+
+570
+00:19:59,000 --> 00:20:01,200
+SMT at my parents
+
+571
+00:20:01,200 --> 00:20:02,000
+You want me to pause the video?
+
+572
+00:20:02,000 --> 00:20:02,500
+I can pause the video
+
+573
+00:20:02,500 --> 00:20:03,300
+No it's all good
+
+574
+00:20:03,300 --> 00:20:04,000
+You want to talk about it?
+
+575
+00:20:04,000 --> 00:20:04,500
+No it's fine
+
+576
+00:20:04,500 --> 00:20:05,000
+You sure?
+
+577
+00:20:05,000 --> 00:20:05,900
+Yeah yeah I'm good
+
+578
+00:20:05,900 --> 00:20:08,200
+Alright guys I'm gonna leave you guys with a little bit of sauce
+
+579
+00:20:08,200 --> 00:20:09,900
+So this is what I do a lot of the time
+
+580
+00:20:09,900 --> 00:20:12,500
+When I don't want to have both assets open up
+
+581
+00:20:12,500 --> 00:20:14,600
+I just want to maybe have NQ open
+
+582
+00:20:14,600 --> 00:20:17,400
+So I can get a bigger picture of what's going on with NQ
+
+583
+00:20:17,400 --> 00:20:20,100
+So what I'll do is I'll actually set an alert
+
+584
+00:20:20,100 --> 00:20:22,900
+So for example let's say I want to take a short here
+
+585
+00:20:22,900 --> 00:20:26,100
+And I'm waiting for this buy side liquidity here to get hit
+
+586
+00:20:26,100 --> 00:20:29,400
+I will set an alert on ES for example
+
+587
+00:20:29,400 --> 00:20:31,600
+And then I can just go back on NQ
+
+588
+00:20:31,600 --> 00:20:32,500
+And I can just show you
+
+589
+00:20:32,500 --> 00:20:33,800
+I can just wait for this to get hit
+
+590
+00:20:33,800 --> 00:20:36,200
+And then if this gets hit on ES
+
+591
+00:20:36,200 --> 00:20:37,800
+Then a little bell will come up
+
+592
+00:20:37,800 --> 00:20:41,400
+So what I did was I just literally right clicked
+
+593
+00:20:41,700 --> 00:20:43,000
+And I clicked add alert
+
+594
+00:20:43,000 --> 00:20:44,600
+And I also do this when I'm in trades
+
+595
+00:20:44,600 --> 00:20:47,100
+I'll have you know the take profit level
+
+596
+00:20:47,100 --> 00:20:50,200
+I'll have an alert set on ES where my take profit is
+
+597
+00:20:50,200 --> 00:20:51,800
+Just in case it hits right
+
+598
+00:20:51,800 --> 00:20:53,500
+I want to at least secure some profits
+
+599
+00:20:53,500 --> 00:20:55,800
+Or at least go break even
+
+600
+00:20:55,800 --> 00:20:58,300
+Once that gets hit
+
+601
+00:20:58,300 --> 00:21:02,700
+But yeah just super helpful to have that little zesty bell
+
+602
+00:21:02,700 --> 00:21:04,700
+I get made fun of it a lot by Patrick
+
+603
+00:21:04,700 --> 00:21:06,200
+And by a lot of the other discord members
+
+604
+00:21:06,200 --> 00:21:08,100
+But it's not the bell it's the sound it makes
+
+605
+00:21:08,100 --> 00:21:09,000
+Yeah it's like
+
+606
+00:21:10,000 --> 00:21:12,700
+Yeah it's super zest
+
+607
+00:21:12,700 --> 00:21:14,600
+Yeah use the zesty bell boys
+
+608
+00:21:14,600 --> 00:21:15,300
+It's helpful
+
+609
+00:21:15,300 --> 00:21:17,100
+It sounds like that
+
+610
+00:21:17,100 --> 00:21:18,600
+Yeah it's just like that
+
+611
+00:21:30,100 --> 00:21:32,800
+Alright guys I'm fucking tired
+
+612
+00:21:32,800 --> 00:21:34,900
+But remember key takeaways
+
+613
+00:21:34,900 --> 00:21:37,800
+The really the most important thing I want you to know is that
+
+614
+00:21:37,800 --> 00:21:39,000
+SMTs are happening all the time
+
+615
+00:21:39,000 --> 00:21:40,600
+So if you're just going to mark out every single SMT
+
+616
+00:21:40,600 --> 00:21:42,500
+You're going to get extremely overwhelmed
+
+617
+00:21:42,500 --> 00:21:46,300
+Mark out SMTs at significant highs and lows right
+
+618
+00:21:46,300 --> 00:21:47,700
+If you go back to our liquidity video
+
+619
+00:21:47,700 --> 00:21:48,800
+The first one we ever did
+
+620
+00:21:48,800 --> 00:21:51,700
+We taught you how to identify significant buy side
+
+621
+00:21:51,700 --> 00:21:52,800
+Significant sell side
+
+622
+00:21:52,800 --> 00:21:54,600
+SMTs there important
+
+623
+00:21:54,600 --> 00:21:58,900
+SMTs inside a higher time frame PDR raise right
+
+624
+00:21:58,900 --> 00:22:01,100
+SMTs inside a fair value gaps
+
+625
+00:22:01,100 --> 00:22:02,600
+Any sort of key level
+
+626
+00:22:02,600 --> 00:22:04,100
+Those are going to be the ones
+
+627
+00:22:04,100 --> 00:22:06,500
+That are typically going to cause the reversals
+
+628
+00:22:06,600 --> 00:22:08,900
+Those are going to be the stronger SMTs
+
+629
+00:22:08,900 --> 00:22:10,100
+Also another takeaway
+
+630
+00:22:10,100 --> 00:22:12,400
+The asset that doesn't sweep the higher low
+
+631
+00:22:12,400 --> 00:22:14,100
+And there's an SMT in play
+
+632
+00:22:14,100 --> 00:22:17,100
+Is typically going to be the one that delivers faster
+
+633
+00:22:17,100 --> 00:22:19,800
+And yeah, I mean I think those are the biggest takeaways really
+
+634
+00:22:19,800 --> 00:22:21,200
+From SMTs
+
+635
+00:22:21,200 --> 00:22:22,800
+The rest is pretty extra
+
+636
+00:22:22,800 --> 00:22:24,000
+We did get pretty technical at the end
+
+637
+00:22:24,000 --> 00:22:24,900
+So hopefully you learned something
+
+638
+00:22:24,900 --> 00:22:26,200
+And how to just like utilize everything
+
+639
+00:22:26,200 --> 00:22:27,400
+When it's all paired together
+
+640
+00:22:27,400 --> 00:22:29,900
+Okay guys, well we'll sit here while this hits
+
+641
+00:22:29,900 --> 00:22:31,400
+And this is going to form an SMT
+
+642
+00:22:31,400 --> 00:22:33,200
+And then we're going to fucking dump to all time lows
+
+643
+00:22:33,200 --> 00:22:33,800
+Alright
+
+644
+00:22:33,800 --> 00:22:35,400
+I'll sit here and wait for the zesty bell
+
+645
+00:22:35,400 --> 00:22:37,200
+Because it's really it's it's beautiful
+
+646
+00:22:37,200 --> 00:22:38,300
+It's a beautiful thing
+
+647
+00:22:38,300 --> 00:22:39,900
+Let's see if this SMT happens live
+
+648
+00:22:39,900 --> 00:22:41,400
+While we're recording this video
+
+649
+00:22:43,600 --> 00:22:45,300
+It is Asia session right now
+
+650
+00:22:45,300 --> 00:22:48,000
+So there's not high hopes on delivery
+
+651
+00:22:48,000 --> 00:22:48,600
+But
+
+652
+00:22:50,300 --> 00:22:52,200
+Alright we're not waiting for this bullshit
+
+653
+00:22:52,200 --> 00:22:53,000
+Maybe it happens
+
+654
+00:22:53,000 --> 00:22:54,300
+Maybe happens while we're doing the outro
+
+655
+00:22:54,300 --> 00:22:56,200
+But thank you for watching
+
+656
+00:22:56,200 --> 00:22:58,200
+ICT for Dummies
+
+657
+00:22:58,200 --> 00:23:00,000
+Episode 9
+
+658
+00:23:00,000 --> 00:23:05,200
+SMT Divergence
+
+659
+00:23:05,700 --> 00:23:09,500
+Heartbreak
+
+660
+00:23:09,500 --> 00:23:10,200
+Oh, yeah
+
+661
+00:23:10,200 --> 00:23:11,500
+Ready?
+
+662
+00:23:11,500 --> 00:23:12,800
+Volume at all time highs
+
+663
+00:23:12,800 --> 00:23:14,500
+Go, yes, go
+
+664
+00:23:14,500 --> 00:23:16,000
+Go, yes, go
+
+665
+00:23:16,000 --> 00:23:17,700
+Go, yes, go
+
+666
+00:23:17,700 --> 00:23:19,600
+Go, yes, go
+
+667
+00:23:19,600 --> 00:23:21,200
+Go, yes, go
+
+668
+00:23:21,200 --> 00:23:22,700
+Go, yes, go
+
+669
+00:23:22,700 --> 00:23:24,400
+Go, yes, go
+
+670
+00:23:24,400 --> 00:23:25,800
+Go, yes, go
+
+671
+00:23:25,800 --> 00:23:28,100
+Hit that SMT
+
+672
+00:23:28,100 --> 00:23:29,700
+Bell zesty
+
+673
+00:23:29,700 --> 00:23:34,600
+I'm going to hit that bi-side liquidity
+
+674
+00:23:34,600 --> 00:23:39,040
+GO ES GO GO GO GO ES
+
+675
+00:23:39,040 --> 00:23:42,980
+SMT what does it mean?
+
+676
+00:23:42,980 --> 00:23:46,720
+Supermega titties all up in my face
+
+677
+00:23:46,720 --> 00:23:53,340
+GO ES GO GO GO GO GO ES
+
+678
+00:23:53,760 --> 00:23:57,120
+SMT what does it mean?
+
+679
+00:23:57,120 --> 00:24:00,600
+Supermega titties all over Patty
+
+680
+00:24:00,600 --> 00:24:03,960
+Put them in my face, I'm going crazy
+
+681
+00:24:03,960 --> 00:24:07,400
+If I'm the lagging acid then I'm finna act lazy
+
+682
+00:24:07,400 --> 00:24:11,400
+Yeah, I'm chilling, watching E.S.
+
+683
+00:24:11,400 --> 00:24:14,600
+Ankyu's by the hit, man, it's trying its best
+
+684
+00:24:14,600 --> 00:24:18,440
+But E.S. is delivering, Ankyu's behind
+
+685
+00:24:18,440 --> 00:24:21,640
+If E.S. hits his high, man, that shit'll be so fine
+
+686
+00:24:21,640 --> 00:24:25,640
+Cause I love SMTs, I love SMTs
+
+687
+00:24:25,640 --> 00:24:29,000
+I love SMTs, I love SMTs
+
+688
+00:24:29,000 --> 00:24:32,600
+Yeah, I love SMTs, I love SMTs
+
+689
+00:24:32,600 --> 00:24:36,200
+Yeah, I love SMTs, super mega titties
+
+690
+00:24:36,200 --> 00:24:41,800
+Yeah, go E.S., go, go, go, go, go E.S., go, go, go, go, go E.S., go, go, go, go
+
+691
+00:24:41,800 --> 00:24:45,400
+Dude, that was so fire
+
+692
+00:24:45,400 --> 00:24:47,400
+I'm actually not watching this shit anymore
+
+693
+00:24:47,400 --> 00:24:49,400
+Fuck you, Asia session, fuck you
+
+694
+00:24:49,400 --> 00:24:51,400
+That's the one
+
+695
+00:24:51,400 --> 00:24:53,400
+Peace out, boys
+

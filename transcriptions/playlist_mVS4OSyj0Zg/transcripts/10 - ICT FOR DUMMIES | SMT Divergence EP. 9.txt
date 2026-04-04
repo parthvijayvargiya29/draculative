@@ -1,0 +1,695 @@
+Welcome to ICT for dummies episode 9 SMT Divergent
+Oh shit I forgot about that part
+I forgot about that part
+You know, ignore the all white background
+and maybe the potentially low camera quality area
+We're not with our typical setup
+and we are currently in the psych war
+So we're in those white boxes right now
+forced to simply do nothing but talk about trading all day
+But that being said, we're gonna make a video on something trading related
+Keeping you guys profitable and all that good stuff
+So
+When you sweep that high
+That high
+But yes, doesn't take it
+Now we have a divergence
+And I can't take it
+You can't take it
+Correlated assets
+So correlated
+But sometimes they don't correlate
+Then it's not
+That's when you get
+What do you get?
+An SMT
+But I'm an S
+I'm an M
+I'm a T
+I'm an SMT
+That was so private, it was fire
+Alright everyone
+This is going to be episode 8
+We're gonna be covering SMT Divergent
+Yes sir
+Weirdly enough, this is probably one of the most commonly asked questions
+when it comes down to ICT concepts
+SMTs are considerably one of the easiest things to understand
+Every single time Blake and I are streaming
+Everyone's like, what's an SMT?
+What's an SMT?
+Maybe every other six chats
+Yeah
+Like it's actually ridiculous
+That's true
+So hopefully after this video
+We'll just be like, watch the damn video, bozo
+But yeah
+We're gonna get into SMT divergences today
+We're gonna be talking with mainly two assets
+That being Nasdaq Futures NQ
+And then S&P 500 Futures ES
+These are the two main assets we use to determine SMTs
+There are others that you can use like YM
+But to be honest, we just stick to these two
+It's really all you need
+So yeah, we'll get into this and explain you what an SMT is
+So an SMT is going to be an indication in reversal in price
+For example, here on the left
+This is what a bullish SMT will look like
+And you can switch this around
+This can either be Nasdaq over here
+This can be S&P 500 over here, alright?
+So for this example, let's just use this as being Nasdaq
+We have a low put in place
+We then have a high
+We then have a higher low
+And then we have a new high that gets made, right?
+Versus here on ES, what happens is we have a low
+Then we have a high
+Then we have that lower low
+So this is where the divergence between assets takes place
+And then we get that newer high
+Now this is an indication in reversal, right?
+Because when we have these sweeps of liquidity
+That are necessary for price to move higher
+Or for price to move lower, right?
+This can happen first on ES
+Or this can happen first on the Nasdaq
+And it will show, since they are a correlated asset
+That price is ready to reverse
+And then on the right side, you have a bearish SMT
+Which is simply vice versa, right?
+You have a high put in place, a low
+And then a high that sweeps this previous high
+And then we deliver lower
+But if you look at, let's say, the ES chart in comparison to NQ
+You can see that you have a high, a low
+And then a high that fails to take this high
+And then a new low
+But although this might look like a failure swing
+You have an SMT there
+Because Nasdaq actually took that high
+So you might be thinking
+Oh, I need to wait for liquidity sweep at this high
+Without realizing that, you know
+Nasdaq might have taken that high already
+And therefore you have an SMT
+That's why it's really important
+To always be paying attention to both
+Because sometimes you might be trading
+And you're like sitting over here
+Waiting for maybe like some sell side to get taken down here
+And you're not paying attention to Nasdaq
+Which might have already probably taken that sell side
+And you have an SMT there without realizing
+So always be paying attention to both assets
+Just in case you have a liquidity sweep on one
+While the other one might not have one
+And, you know, you don't miss out on any opportunities
+And you're confused
+Why didn't Nasdaq just start delivering higher
+After edging this low
+Well, you probably had an SMT there
+That happens very, very often
+You sometimes, again, will hear things like YM, SMT
+Don't really be paying attention to YM in my opinion
+I only use ES and NQ
+And what you can do to kind of help you
+Is to have ES and NQ be pulled up at the same exact time
+While you're trading
+This is something that you will always see me and Patrick do
+When we're live trading
+I'll have ES on one side of my chart
+And then I'll have the Nasdaq on the other side of my chart, right?
+So this will kind of just help me
+For example, like what Patrick was saying
+Like maybe there's a low that I want to see get swept
+And maybe it doesn't happen on Nasdaq
+And then we start ripping up and I'm like
+Why is this happening?
+Oh, well, there's an SMT in place
+So yeah, so utilize this feature
+It's super helpful and it's definitely necessary
+When you're trading
+All right, so now we're going to show you guys some examples
+First a bullish SMT
+Then we'll show you that bearish SMT
+All right, guys
+So right now we're going to show you an example of a bullish SMT, right?
+So if we're just simply looking at these significant highs and lows
+In the current price action we have, right?
+We can detect that we have a clear buy side level up here
+And a clear sell side level right here
+Now, the reason you want to be monitoring both ES and NQ
+When you're trading
+Is to see if one of these assets takes out the slower high
+While the other one doesn't
+So if we play price action forward here
+And we see, okay
+NQ is selling off, it's selling off
+Okay, we got a sweep of this low
+If we go to ES
+We can see that ES actually never swept this low, right?
+It's not even close to it
+It's about still, you know, seven handles away
+Now, that being said
+We have an SMT in place at this low
+The reason it's important to know
+That we have an SMT in place here
+Is because SMTs are typically a good sign of a potential reversal
+Obviously, right here we can see that there's very bearish price action
+But if we sweep this low
+And then we get an SMT at this low
+We can start expecting a reversal in price
+So if you notice here after we got this SMT
+We start getting some delivery higher
+And then we go and maybe run this buy side
+Or whatever liquidity there is to target
+If you look at ES
+You're gonna see that ES being the asset that failed to take this low
+And we got an SMT in place
+Because Nasdaq took this low
+It most likely delivered towards this buy side faster, right?
+This would make ES a stronger asset
+That's just something you should know
+Typically the asset that fails to take the lower high
+With the SMT in play
+Is gonna be the one that delivers faster
+So you can see that ES being the stronger pair
+Since it failed to sweep this low
+It swept this buy side before NQ could get there
+And that usually happens typically with the asset
+That doesn't take the higher low
+And there's an SMT in play
+So this is an example of a bullish SMT
+Once again, I'm gonna show you one more time what that looks like
+There's a significant low right here
+Nasdaq delivers lower, sweeps this low
+While ES fails to take that low
+Therefore creating an SMT between these two swing lows
+And then you get ES delivered towards this buy side faster
+NQ eventually hits it too
+It's just not delivering as fast
+Alright, so we just showed you what a bullish SMT looks like guys
+I'm gonna now show you what a bearish SMT looks like
+Alright, so I have this little buy side liquidity marked out here, right?
+So this is your intermediate high that is inside of a Fidelity gap
+This is a great liquidity pool right here
+Super sexy, super nice
+And we also, if you see down here, we have some low resistance liquidity
+So I can go down to the lower time frame here
+Right, we have a bunch of failure swings here on the lower time frame
+Low here that didn't get swept
+Low here that didn't sweep this low
+And then another low that didn't sweep this low
+And just a lot of these failure swings are gonna be areas
+It's a great liquidity pool, right?
+We talked about that in our liquidity video
+And then overall we have this external liquidity being this sell side liquidity
+Alright, so looking at this chart
+I would like to see happen is this
+I wanna see price sweep out this high
+To then get a reaction from here
+From this intermediate high inside that gap
+And then we can go down and target this low
+Right, so what ends up happening is Nasdaq trades up here
+And we don't sweep out the high
+But we start getting some bearish displacement lower
+Why did that happen?
+Because ES ends up taking out that high, right?
+So ES takes out this high
+And in the last example guys
+We showed ES being the leading pair
+Or ES being the stronger pair, right?
+Because it didn't take out that high
+Here in this example, Nasdaq is that stronger pair
+Where it doesn't take out that high
+And we're a lot more bearish in this scenario
+And now if we go down to the lower timeframe
+We get that lower timeframe confirmation
+That price actually does want to go lower
+Why do we get that?
+Because price starts disrespecting for value gaps
+As you can see here to the left of us
+We have a bullish for value gap
+That gets disrespected, right?
+So where can we expect price to go
+If we have this SMT in play?
+We start disrespecting these bullish for value gaps, right?
+Now this gets inverted
+Well, we can expect price to go to that low resistance liquidity
+And also this sell-side liquidity down here, right?
+So we can get a little short off of this inversion for value gap
+And price dumps towards that low
+And guys, you do not want to just be, you know
+Entering the second we get that inversion for value gap, right?
+You want to wait for structure on the lower timeframe
+To actually confirm that that SMT is valid
+Last thing I want to give you guys
+Is a little piece of advice
+SMTs are happening nearly all the time
+There might be days where price is very correlated
+Between NQ and ES
+But days that aren't
+You'll be seeing SMTs happen very often
+It's just like now you're probably thinking
+What SMTs do I focus on?
+Well, there's really two types of SMTs you want to focus on
+You want to focus on SMTs at significant liquidity pools
+Which are going to be like previous session highs and lows
+And you want to focus on SMTs inside of PDR raise, right?
+Those are going to be the SMTs that actually deliver
+So we can see here that previously before this SMT
+We had price trade up into this 15-minute bearish for value gap
+And we got a reaction off it, right?
+It delivered price lower
+And then traded up into this 15-minute bearish for value gap
+We got a reaction, traded even lower than this low
+And then what happens?
+We retrace higher
+And we get an SMT inside of what?
+The 15-minute bearish for value gap
+Not only are we getting a sweep of liquidity on ES
+We're getting a sweep of liquidity inside a key level
+Which is going to be this 15-minute bearish for value gap
+So we know that this is going to give us a stronger reaction
+Than just a simple sweep of liquidity
+Not paired with any PDR raise
+And if you don't know what I'm saying when I say PDR raise
+I'm just typically referring to any ICT concept, right?
+Fair value gap, breaker block, order block, whatever it is
+So always try to find the SMTs inside significant levels
+Because if you simply just look at SMTs
+At any given swing higher and swing low
+And you just roll with that
+You're most likely not going to be catching those significant moves
+And you're probably going to get stop-rated
+Simply put, SMTs inside of fair value gaps
+Those work great
+Those are the ones that are going to deliver
+SMTs inside of fair value gaps
+Also, like Patrick was saying
+Those previous session highs and lows
+Is going to be really, really significant
+Basically everything that we went over
+In that liquidity pool video, right?
+So if there's going to be like previous day high or low also
+That's going to be really significant
+So you want to be focusing on again
+Those SMTs at key levels
+And most of the time just focus on that higher time frame SMTs
+When you're actually trying to figure out, you know, your bias
+And then when it comes down to entries
+There's a lot of the times where I'll get, you know
+Some more confidence
+If we get some sort of lower time frame SMT
+Aligning with the higher SMT that's put in play
+Also, when else should you be focusing on SMTs
+At your take profit levels
+You always got to make sure
+That there's not an SMT where you're looking to take profits
+Because if there is
+Chances are price doesn't need to go to that level anymore, right?
+So let's say you're in this trade on ES for some reason
+And not NQ, right?
+And you're in this trade and NQ takes this sell side
+While ES is now trading around here
+But it hasn't taken that sell side
+Well, it doesn't matter
+We don't need to take that sell side anymore on ES
+Because there's an SMT in play
+Therefore, you have an SMT at your take profit level
+And you should be taking profits on ES
+It's pretty unfortunate scenario to be in
+But hey, it happens pretty often
+And you can't disregard it
+There's going to be a thousand times
+I bet you during your trading career
+Where you're thinking to yourself
+Damn, there's an SMT at my take profit
+But maybe, maybe NQ will still take it
+Maybe ES will still take it
+Maybe I'll be fine and the SMT will get invalidated
+And you end up getting fucked into reverses
+And hit your breakeven
+And then you want to go jump off a
+Well, I shouldn't get too deep into that
+So right, not only did we have an SMT
+To help build narrative for this short
+But then once the short played out
+We got an SMT at this low
+So now the ES trade would probably look something like this
+While the NQ trade would look something like this
+And this goes to show
+That obviously the pair that fails to take
+You know, the high or low
+Is going to have better delivery
+In comparison to that that actually takes it
+Two main takeaways there
+SMT's inside significant PDR raise
+And then always be careful for SMT's aggro take profit levels
+Alright guys, I'm going to show you an example of what some overnight session
+SMT's look like
+This is going to be with session liquidity
+Okay, so first off
+I want to show you this bullish SMT
+That gets put into play to then take out Asia highs
+So we have Asia highs resting right here
+And if we just remove this noise that we have in our chart
+Can you guys spot the bullish SMT that we have right now?
+Give you a few seconds here
+Okay, so the bullish SMT that we have here
+That is significant is what we were just talking about, right?
+So we have this bullish 15-minute Ferali gap right here
+And we have this intermediate low
+That is inside of this Ferali gap
+Again, just like that last example that we showed right
+The intermediate low inside of that Ferali gap
+It's going to be a great reversal point
+And a really strong liquidity pool
+So we can see here that ES ends up taking this out
+And as we see here on the left
+The NASDAQ does not take this out
+And then if we go down now to the lower timeframe, right
+To see if we can actually get that entry
+We can see that there's a little internal SMT
+That's put into play, right
+If we look at this swing low right here, which is at 2 a.m.
+You can see on ES that ES ends up taking out this low
+And that NASDAQ doesn't, right
+So there's that external SMT getting put into play, right
+With that higher timeframe key level being right here
+And then on the lower timeframe
+We're getting lower timeframe confirmation as well
+That price wants to go higher
+We end up getting that displacement
+We start disrespecting these bearish Ferali gaps
+We start respecting these bullish Ferali gaps here
+And then price ends up running towards Asia highs
+Okay, so now there's this bearish SMT
+That gets put into play, right
+So now we're gonna wait for confirmation
+Maybe by disrespecting this bullish Ferali gap here
+If we start disrespecting it, right
+Then we can anticipate that price wants to head where
+Well, we have sell-side liquidity resting right here
+And we also have Asia lows resting all the way down there, right
+So as we can see here
+Price ends up disrespecting this bullish Ferali gap here
+To the left of me
+And we end up creating this bearish Ferali gap
+Now, a lot of you might be, you know
+Waiting for an entry for a pullback
+Maybe into this Ferali gap
+To then get a short off of
+Maybe on the lower timeframe, right
+But price ends up edging it and then runs lower
+Why do you guys think that this happened?
+There was an SMT, right
+So Ferali gap SMTs guys are actually a thing
+You can see right here
+That we have this bearish Ferali gap here on the S&P 500
+And the same Ferali gap here on NQ, right
+So it's not only at swing highs and swing lows
+This also does occur with Ferali gaps
+And you want to be paying attention to this
+Because in this example
+ES ends up hitting that Ferali gap
+Nasdaq doesn't
+And we end up getting that bearish SMT
+Which ends up sending us lower
+And price delivers towards the sell-side liquidity
+And it also eventually hits Asia lows
+And then just to reiterate what Blake was talking about
+And to sort of bring everything together
+That we've talked about, right
+I want you guys to pay attention
+To what's happening here one more time
+As you can see, we have Asia highs up here
+And more importantly
+Where is this liquidity resting?
+It's resting inside of this new day opening gap, right
+A new day opening gap
+Operates very similar to a Ferali gap
+You can see here that
+This new day opening gap was actually filled completely by NQ
+Therefore ES isn't required to fill this new day opening gap completely anymore
+And when using new day opening gaps
+That is one thing that you do want to know
+Typically before price reacts from a new day opening gap
+It wants to fill it completely
+But since we know that NQ did that
+ES doesn't have to
+Therefore, if we were to get an SMT
+Anywhere inside of this new day opening gap
+We know that we have an SMT inside of a higher timeframe PDR rate
+So this isn't just a SMT at a liquidity level
+But it's also inside a significant PDR rate
+So now looking at price
+We can see that NQ delivered up to Asia highs
+And swept Asia highs
+While ES is lagging behind
+And then if we're slowly trading inversions here, right
+We have this 50 minute bullish value gap
+Price reacts off of this SMT
+Inside that higher timeframe key level
+Inverse is this 50 minute bullish value gap
+If you're trading inversions
+This would be an entry right here
+Where you're gonna put your stop loss
+Stop loss have to swing high
+Where that SMT is
+Targeting maybe Asia lows
+This sell side could be your breakeven, right
+This is your internal low
+Getting a little bit more technical with the concepts here
+But this is pretty much how we trade
+Now if we play price forward, right
+We get this inversion
+We have all the confidence we need to be entering shorts here
+We enter shorts
+We get some delivery lower
+Eventually we have NQ take this sell side
+We go breakeven here
+And then we leave, of course, price running
+Down to Asia lows
+And we want to make sure that we're always monitoring ES
+If ES takes this take profit before NQ
+Because if that's the case
+We'll have to close a little bit early
+But it seems like towards Asia lows
+The assets seem to be pretty correlated
+Therefore we get a nice delivery
+And nice full TP at Asia lows
+Without any SMT in place forcing us to close earlier
+But yeah, this is sort of tying together
+A lot of the concepts we've taught you
+One being time
+Another being liquidity, right
+This is session liquidity involved
+We talked a lot before about
+You know, notice how price reacts off of Asia highs
+Asia lows, London highs, London lows
+And now we're bringing together SMTs
+We have an SMT at a previous session high
+We have an invalidation of a fair value gap
+Which means what?
+An inversion
+We have an inversion giving us confirmation
+That there's a flip in order flow
+Then we have some liquidity resting down here
+This is going to serve as a TP1 or breakeven
+And then we have our external liquidity over here
+Being Asia lows
+And this is really what an A plus inversion trade
+Would look like
+All this happening
+After we filled this new day opening gap completely
+Which we know
+And or maybe you know now
+That when a new day opening gap gets filled completely
+Price typically will then react and deliver
+So a lot, a lot, a lot of confluences in this trade
+And so now if you want like that final extra confirmation
+Let's say you're not someone who likes to enter off of inversions
+And you're someone who trades for value gaps
+And you're looking to see a pullback
+And take this five minute fair value gap
+Well, you can see that damn
+NQ edges it here
+But ES did trade into the five minute
+Therefore you have an SMT now inside of this fair value gap
+And in case you were waiting for NQ to hit that five minute for your entry
+Well, maybe you should have paid attention to ES
+Because ES actually traded in there
+So NQ no longer needs to correct that imbalance
+Because it has been corrected on a different asset, right?
+They're correlated assets
+Something I really want you to think with SMT is like
+SMT is like having like a twin
+You know what I mean?
+Like if you have a twin, you know
+Your twin can go take a test for you
+And if he takes that test for you
+You don't need to take the test anymore
+You know what I mean?
+You can get bro to sub in for you
+Go take the test for you
+And now you don't have to take the test
+Or it's like if you have like a like a clone of you
+Or a twin back to the twin thing
+And your twin hooks up with a batty girl
+But that girl doesn't know that you guys are twins
+Then you can both flex that you mac the same shorty to other people
+As long as people don't know you're twins type shit
+You know what I mean?
+Because you technically both took that dub
+Because in that girl's head
+You're only one asset
+But you're two assets
+SMT could also be like
+You go talk to a girl
+You think you're like really rinsing her up
+You think you got it in the bag
+And you think you're about to get her number
+But right before you get her number
+You're like can I get your number
+She goes I have a boyfriend
+SMT at your take profit
+Reversal
+Reversal
+Fat reversal
+Fat reversal
+That's brutal
+Been there a couple times
+Or like the one time we're like
+I was like damn I have such awesome loving parents
+And then they're like we're getting divorced
+I'm like like
+SMT at my parents
+You want me to pause the video?
+I can pause the video
+No it's all good
+You want to talk about it?
+No it's fine
+You sure?
+Yeah yeah I'm good
+Alright guys I'm gonna leave you guys with a little bit of sauce
+So this is what I do a lot of the time
+When I don't want to have both assets open up
+I just want to maybe have NQ open
+So I can get a bigger picture of what's going on with NQ
+So what I'll do is I'll actually set an alert
+So for example let's say I want to take a short here
+And I'm waiting for this buy side liquidity here to get hit
+I will set an alert on ES for example
+And then I can just go back on NQ
+And I can just show you
+I can just wait for this to get hit
+And then if this gets hit on ES
+Then a little bell will come up
+So what I did was I just literally right clicked
+And I clicked add alert
+And I also do this when I'm in trades
+I'll have you know the take profit level
+I'll have an alert set on ES where my take profit is
+Just in case it hits right
+I want to at least secure some profits
+Or at least go break even
+Once that gets hit
+But yeah just super helpful to have that little zesty bell
+I get made fun of it a lot by Patrick
+And by a lot of the other discord members
+But it's not the bell it's the sound it makes
+Yeah it's like
+Yeah it's super zest
+Yeah use the zesty bell boys
+It's helpful
+It sounds like that
+Yeah it's just like that
+Alright guys I'm fucking tired
+But remember key takeaways
+The really the most important thing I want you to know is that
+SMTs are happening all the time
+So if you're just going to mark out every single SMT
+You're going to get extremely overwhelmed
+Mark out SMTs at significant highs and lows right
+If you go back to our liquidity video
+The first one we ever did
+We taught you how to identify significant buy side
+Significant sell side
+SMTs there important
+SMTs inside a higher time frame PDR raise right
+SMTs inside a fair value gaps
+Any sort of key level
+Those are going to be the ones
+That are typically going to cause the reversals
+Those are going to be the stronger SMTs
+Also another takeaway
+The asset that doesn't sweep the higher low
+And there's an SMT in play
+Is typically going to be the one that delivers faster
+And yeah, I mean I think those are the biggest takeaways really
+From SMTs
+The rest is pretty extra
+We did get pretty technical at the end
+So hopefully you learned something
+And how to just like utilize everything
+When it's all paired together
+Okay guys, well we'll sit here while this hits
+And this is going to form an SMT
+And then we're going to fucking dump to all time lows
+Alright
+I'll sit here and wait for the zesty bell
+Because it's really it's it's beautiful
+It's a beautiful thing
+Let's see if this SMT happens live
+While we're recording this video
+It is Asia session right now
+So there's not high hopes on delivery
+But
+Alright we're not waiting for this bullshit
+Maybe it happens
+Maybe happens while we're doing the outro
+But thank you for watching
+ICT for Dummies
+Episode 9
+SMT Divergence
+Heartbreak
+Oh, yeah
+Ready?
+Volume at all time highs
+Go, yes, go
+Go, yes, go
+Go, yes, go
+Go, yes, go
+Go, yes, go
+Go, yes, go
+Go, yes, go
+Go, yes, go
+Hit that SMT
+Bell zesty
+I'm going to hit that bi-side liquidity
+GO ES GO GO GO GO ES
+SMT what does it mean?
+Supermega titties all up in my face
+GO ES GO GO GO GO GO ES
+SMT what does it mean?
+Supermega titties all over Patty
+Put them in my face, I'm going crazy
+If I'm the lagging acid then I'm finna act lazy
+Yeah, I'm chilling, watching E.S.
+Ankyu's by the hit, man, it's trying its best
+But E.S. is delivering, Ankyu's behind
+If E.S. hits his high, man, that shit'll be so fine
+Cause I love SMTs, I love SMTs
+I love SMTs, I love SMTs
+Yeah, I love SMTs, I love SMTs
+Yeah, I love SMTs, super mega titties
+Yeah, go E.S., go, go, go, go, go E.S., go, go, go, go, go E.S., go, go, go, go
+Dude, that was so fire
+I'm actually not watching this shit anymore
+Fuck you, Asia session, fuck you
+That's the one
+Peace out, boys

@@ -1,0 +1,608 @@
+1
+00:00:00,000 --> 00:00:03,920
+What is going on guys welcome to episode three of ict for dummies
+
+2
+00:00:04,160 --> 00:00:09,040
+We just did candlesticks and now we're on to market structure and now we're going to help you interpret these candles
+
+3
+00:00:09,040 --> 00:00:11,520
+So you can actually understand the trend of the market
+
+4
+00:00:11,520 --> 00:00:13,920
+So as you can see of two different types of market structure on the left side
+
+5
+00:00:13,920 --> 00:00:16,720
+You have the bullish market structure on the right side. You have the bearish market structure
+
+6
+00:00:16,960 --> 00:00:18,720
+What does bullish market structure look like?
+
+7
+00:00:18,720 --> 00:00:22,800
+Well, it starts with a low and then a high and then a higher low and then a higher high
+
+8
+00:00:23,040 --> 00:00:27,200
+And then a higher low and then higher high continue continue continue as for the bearish market structure
+
+9
+00:00:27,360 --> 00:00:29,920
+You're gonna have the opposite you're gonna have a high you're gonna have a low
+
+10
+00:00:30,000 --> 00:00:33,920
+You're gonna have a lower high and then a lower low a lower high and then a lower low
+
+11
+00:00:34,000 --> 00:00:37,120
+Okay, so now this is what it looks like on an actual candlestick chart
+
+12
+00:00:37,200 --> 00:00:42,160
+So we have a low then we have a high then we have that higher low then we have the higher high
+
+13
+00:00:42,480 --> 00:00:45,840
+Higher low higher high guys. It's gonna be like really simple
+
+14
+00:00:45,840 --> 00:00:50,640
+And I know you do not want to be learning this right now, but I promise you it is going to help you in the long run
+
+15
+00:00:50,720 --> 00:00:56,640
+Okay, I know we're gonna get into models later. We're gonna get into a fair value gaps, you know liquidity sweeps all that stuff
+
+16
+00:00:56,800 --> 00:01:01,040
+But you need to know the basics to incorporate everything that we're going to learn in the future
+
+17
+00:01:01,120 --> 00:01:03,920
+And then for the bearish structure, it's the same thing on the candlestick chart guys
+
+18
+00:01:03,920 --> 00:01:08,240
+So we have a high put in place then we have a low then we have a lower high
+
+19
+00:01:08,640 --> 00:01:15,280
+Then we have a lower low lower high lower low lower high lower low and this shows bearish market structure
+
+20
+00:01:15,280 --> 00:01:19,280
+And this shows a bearish trend in the market. Now we're going to show you some real-time examples
+
+21
+00:01:19,280 --> 00:01:22,240
+You can have a better understanding of this. Okay, so we're going to play this out in real time
+
+22
+00:01:22,320 --> 00:01:26,880
+You have your low right you have then your high that gets put in place your higher low
+
+23
+00:01:27,920 --> 00:01:30,080
+You have your higher high your higher low
+
+24
+00:01:30,880 --> 00:01:36,880
+Your higher low your higher high then you have a low and then we have our little liquidity sweep
+
+25
+00:01:36,880 --> 00:01:39,200
+We'll get into that later. Then your low gets put in place
+
+26
+00:01:39,920 --> 00:01:42,720
+Your higher low and then high. Okay, you got it
+
+27
+00:01:42,720 --> 00:01:48,480
+And although we are not trendline trading and that's not what we will be teaching you it is still incredibly important for you to understand
+
+28
+00:01:48,560 --> 00:01:52,560
+The foundational movement of price action and guys it's a little bit cringe
+
+29
+00:01:52,560 --> 00:01:58,160
+But the trend is your friend at the end of the day higher time frame is always going to hold higher power
+
+30
+00:01:58,320 --> 00:02:02,160
+So I oftentimes see a lot of people just fading the overall trend
+
+31
+00:02:02,400 --> 00:02:06,480
+We're all time eyes right now. Stop trying to catch the top and short this right?
+
+32
+00:02:06,480 --> 00:02:08,480
+We're clearly in bullish market structure
+
+33
+00:02:08,640 --> 00:02:12,000
+So catch those longs and you will get the best possible risk to reward
+
+34
+00:02:12,000 --> 00:02:16,960
+You're going to get the best entries and obviously we're going to get those entries using our models that we're going to teach later on
+
+35
+00:02:17,360 --> 00:02:22,820
+But this is again the foundation that is necessary here. All right guys little quiz time. Let's see if you can identify the trend here
+
+36
+00:02:29,280 --> 00:02:31,280
+Bearish
+
+37
+00:02:32,320 --> 00:02:36,660
+Why is it bearish now, let's do a little markout while patty dances for me
+
+38
+00:02:41,440 --> 00:02:42,560
+So as you can see here
+
+39
+00:02:42,560 --> 00:02:45,840
+We made the high the low the lower high the lower low
+
+40
+00:02:46,080 --> 00:02:51,520
+If you didn't mark this out correctly, you might want to reconsider trading and you might want to just i'm just kidding
+
+41
+00:02:51,520 --> 00:02:54,640
+And then your lower high exactly like this is not going to be perfect too guys
+
+42
+00:02:54,720 --> 00:02:59,280
+I want you to know also in a market. It's not going to look perfectly just like this how we draw it out, right?
+
+43
+00:02:59,280 --> 00:03:03,360
+It's most likely going to look something more like this, you know where we'll do something like this
+
+44
+00:03:04,400 --> 00:03:10,560
+Like this is the reality of how the market is actually going to be moving so spend some time on the charts identifying trends
+
+45
+00:03:10,800 --> 00:03:14,400
+Marking out your lows your highs your lower lows your higher highs guys
+
+46
+00:03:14,560 --> 00:03:19,120
+Also, if you want to looking at this on a line chart makes it also a lot easier
+
+47
+00:03:19,280 --> 00:03:22,560
+If you look at the low you have your high your high or low, right?
+
+48
+00:03:22,640 --> 00:03:29,040
+And you can identify trends simply using the line chart if you can't understand with candlesticks. Yeah, look how easy this is spot trends guys
+
+49
+00:03:30,080 --> 00:03:32,000
+bullish
+
+50
+00:03:32,000 --> 00:03:34,000
+bearish
+
+51
+00:03:34,000 --> 00:03:35,600
+bearish
+
+52
+00:03:35,600 --> 00:03:36,800
+bullish
+
+53
+00:03:36,800 --> 00:03:41,840
+Identify the trends for breakfast we got just to reiterate this like the trend is your friend
+
+54
+00:03:42,000 --> 00:03:47,280
+For example when you're swimming, right you want to be swimming with the current if you're in a little river, right?
+
+55
+00:03:47,360 --> 00:03:52,000
+You're swimming with the current. It's really easy. You're just swimming. You don't even have to put much effort into it
+
+56
+00:03:52,640 --> 00:03:56,800
+Versus if you're swimming against the current what is going to happen?
+
+57
+00:03:56,800 --> 00:04:02,640
+It's gonna be a lot harder to push through that right and it's you know, you're gonna hit stop. Oh my god hit stop loss, bro
+
+58
+00:04:03,280 --> 00:04:05,280
+That wasn't on purpose
+
+59
+00:04:05,840 --> 00:04:07,840
+You're probably gonna drown, okay
+
+60
+00:04:08,240 --> 00:04:10,720
+Of course if you're hyper fixating on the lower time frame right now
+
+61
+00:04:10,800 --> 00:04:15,200
+It doesn't take a big brain to realize that the lower time frame is currently in a bearish trend
+
+62
+00:04:15,280 --> 00:04:20,160
+But if you focus too much on the lower time frame and distract yourself from what's actually happening on the higher time frame
+
+63
+00:04:20,320 --> 00:04:26,080
+Which is clearly a bullish trend then that's where you'll most likely find yourself getting manipulated out of trades and stopped out
+
+64
+00:04:26,160 --> 00:04:30,240
+So in a scenario like this where we analyze that there is clearly bearish structure on the lower time frame
+
+65
+00:04:30,240 --> 00:04:32,240
+But there is bullish structure on the higher time frame
+
+66
+00:04:32,320 --> 00:04:36,240
+we want to wait for bullish structure to form on the lower time frame maybe something like
+
+67
+00:04:36,800 --> 00:04:38,480
+And we're gonna get a little bit complex here
+
+68
+00:04:38,480 --> 00:04:44,320
+but if we came down a little liquidity sweep and then started seeing some bullish structure form and we can catch some longs from
+
+69
+00:04:44,320 --> 00:04:46,320
+there so the whole point of
+
+70
+00:04:46,380 --> 00:04:52,640
+Ict concepts really is it allows you to understand the higher time frame narrative and then use the lower time frame to find
+
+71
+00:04:52,640 --> 00:04:56,400
+The most optimal entry points. Okay. So now we're going to get into the market structure
+
+72
+00:04:56,960 --> 00:04:58,160
+Drop roll
+
+73
+00:04:58,160 --> 00:04:59,520
+shift
+
+74
+00:04:59,520 --> 00:05:04,800
+Shift in the market. So a market structure shift indicates a change in trend
+
+75
+00:05:05,120 --> 00:05:12,320
+So it is shifting from either bullish structure to bearish structure or bearish structure to bullish structure
+
+76
+00:05:12,800 --> 00:05:14,800
+bullish structure
+
+77
+00:05:14,880 --> 00:05:16,880
+to bearish structure
+
+78
+00:05:17,040 --> 00:05:22,960
+Okay, and here on the left we have bullish market structure, right? We have our low we have our high
+
+79
+00:05:23,200 --> 00:05:24,640
+We have our higher low, right?
+
+80
+00:05:24,640 --> 00:05:29,920
+We just learned this when we get a shift in structure is when we break through
+
+81
+00:05:30,800 --> 00:05:31,920
+the last
+
+82
+00:05:31,920 --> 00:05:32,880
+higher
+
+83
+00:05:32,880 --> 00:05:33,920
+Low, okay
+
+84
+00:05:33,920 --> 00:05:38,480
+So once we break through this higher low that we have and we get a closure below this
+
+85
+00:05:39,040 --> 00:05:45,440
+This can indicate a change in trend and then we start seeing bearish structure form here, right?
+
+86
+00:05:45,600 --> 00:05:50,980
+We then have our lower high our lower low lower high lower low and domain expansion
+
+87
+00:05:51,780 --> 00:05:57,460
+Market structure shift and this market structure shift can then happen back again to the upside
+
+88
+00:05:57,860 --> 00:06:02,260
+How by closing above the previous lower high, right?
+
+89
+00:06:02,580 --> 00:06:08,260
+So a bullish market structure shift looks something like this where we close above the previous lower high
+
+90
+00:06:09,220 --> 00:06:15,060
+And then we keep trending upwards versus bearish market structure shift. We're closing below the recent higher low
+
+91
+00:06:15,140 --> 00:06:19,140
+All right. So now we're going to show you what a market structure shift looks like on the actual charts
+
+92
+00:06:19,220 --> 00:06:24,580
+Okay, you can see here. We're in bearish structure, right? I don't have to explain this. We just learned this and then
+
+93
+00:06:25,140 --> 00:06:31,620
+Once we get a closure above this recent swing high that we made this is a market structure shift
+
+94
+00:06:31,700 --> 00:06:32,260
+Okay
+
+95
+00:06:32,260 --> 00:06:37,780
+This is going to indicate that price is reversing and we are going to put in bullish structure
+
+96
+00:06:38,020 --> 00:06:40,100
+And it has to be a candle closure
+
+97
+00:06:40,180 --> 00:06:40,660
+Okay
+
+98
+00:06:40,660 --> 00:06:46,500
+I see a lot of times people getting faked out thinking market structure shifts can happen just when the candle you know goes over this
+
+99
+00:06:46,660 --> 00:06:50,900
+Wait for the candle to close. It has to be the body closing above. It cannot be a wick
+
+100
+00:06:50,980 --> 00:06:53,780
+Okay, if it's a wick that is not a market structure shift
+
+101
+00:06:53,780 --> 00:06:58,180
+It's not a true market structure shift and as we get deeper into concepts and a little more complex
+
+102
+00:06:58,420 --> 00:07:02,180
+You'll realize that the bodies and wicks make a huge difference as you can see here
+
+103
+00:07:02,180 --> 00:07:07,300
+The body failed to close below this last low ended up wicking this low. That's a liquidity sweep
+
+104
+00:07:07,380 --> 00:07:13,140
+But we'll get into that later. Now if you look at this price action, what does this look like bullish market structure, right?
+
+105
+00:07:13,300 --> 00:07:17,620
+We have a sequence of higher highs followed by higher lows with every swing
+
+106
+00:07:18,020 --> 00:07:20,500
+Now what happens we break through this low?
+
+107
+00:07:20,660 --> 00:07:24,340
+We get a bearish market structure shift and once we get a body closure below this low
+
+108
+00:07:24,420 --> 00:07:28,260
+You can see that the trend has now flipped to bearish and we get bearish market structure
+
+109
+00:07:28,420 --> 00:07:31,940
+All right guys now we're going to show you the importance of body closures in real time
+
+110
+00:07:32,180 --> 00:07:35,460
+Clearly here you can see that we have a bullish market structure, right?
+
+111
+00:07:35,700 --> 00:07:41,860
+Crisis trending upwards we get higher highs with every swing and higher lows and what happens now price starts coming down
+
+112
+00:07:42,260 --> 00:07:43,940
+You think it's going to break through that low?
+
+113
+00:07:43,940 --> 00:07:50,740
+But no, there's a zero body closure below this low you end up wicking this low and what happens price continues higher, right?
+
+114
+00:07:50,900 --> 00:07:54,020
+So this is a fake out. This is not an actual market structure shift
+
+115
+00:07:54,100 --> 00:07:58,660
+And this is why it is so important to understand that in order for a market structure shift to occur
+
+116
+00:07:58,820 --> 00:08:04,020
+You need a body closure. All right, and as you can see here, we are clearly in bearish market structure
+
+117
+00:08:04,100 --> 00:08:11,060
+So what would a bullish market structure shift look like in this scenario? Well, it will be a closure above the recent lower high
+
+118
+00:08:11,220 --> 00:08:13,220
+So if we play out price here
+
+119
+00:08:14,180 --> 00:08:16,660
+We do not get a closure above the recent high
+
+120
+00:08:16,660 --> 00:08:20,100
+This is not a market structure shift why because we did not have a body
+
+121
+00:08:20,260 --> 00:08:25,620
+So this is a fake market structure shift, right a true market structure shift needs a body closure
+
+122
+00:08:25,700 --> 00:08:29,300
+Okay, and then as you can see we continue with bearish structure
+
+123
+00:08:29,380 --> 00:08:29,620
+Okay
+
+124
+00:08:29,620 --> 00:08:35,140
+So in this example, we have bullish structure, right and you wait for now a body closing below this low
+
+125
+00:08:35,220 --> 00:08:37,220
+Is this a market structure shift guys?
+
+126
+00:08:41,700 --> 00:08:45,060
+No, it is not right. Is this a market structure shift?
+
+127
+00:08:49,700 --> 00:08:55,300
+We get a body closing below this recent swing low. This is a market structure shift
+
+128
+00:08:55,460 --> 00:08:59,940
+I hope you guys are seeing this start marking out on your charts. That's going to be your homework for today
+
+129
+00:09:00,100 --> 00:09:02,660
+Mark out your market structure shifts mark out trends
+
+130
+00:09:02,820 --> 00:09:08,100
+Try to identify a bearish trend versus a bullish trend and try to identify when the trend is changing
+
+131
+00:09:08,180 --> 00:09:11,700
+And then once we get this closure, we also create this bearish fair valley gap
+
+132
+00:09:11,780 --> 00:09:13,940
+We get a turtle soup at these highs then we get a crt
+
+133
+00:09:14,420 --> 00:09:17,620
+I'm just kidding once you guys get a little bit more advanced and know all these ict concepts
+
+134
+00:09:17,620 --> 00:09:20,820
+You'll be able to find something like this nice little low resistance liquidity resting down here
+
+135
+00:09:20,980 --> 00:09:23,140
+You're gonna have a sweep of this buy side liquidity up here
+
+136
+00:09:23,380 --> 00:09:27,060
+And then you're gonna come down tap into this fair valley gap after the market structure shift and get this beautiful
+
+137
+00:09:27,460 --> 00:09:32,020
+2022 model. All right guys now a quick little refresher before we let you go all the way to the left
+
+138
+00:09:32,020 --> 00:09:36,180
+Here you have the bearish structure right next to it. You have the bullish structure right next to this
+
+139
+00:09:36,260 --> 00:09:38,020
+We got the bullish market structure shift
+
+140
+00:09:38,020 --> 00:09:41,380
+We start with a downtrend in price and then we break through this high
+
+141
+00:09:41,700 --> 00:09:46,820
+Which creates a market structure shift and then we get an uptrend in price and then for the bearish side
+
+142
+00:09:46,900 --> 00:09:48,660
+We have a bearish market structure shift
+
+143
+00:09:48,660 --> 00:09:55,460
+Why we were first in bullish price action and then we get a closure below the recent higher low
+
+144
+00:09:55,760 --> 00:09:58,820
+Creating a bearish market structure shift. Please remember
+
+145
+00:09:59,460 --> 00:10:01,860
+It has to be with a body not a wick
+
+146
+00:10:02,020 --> 00:10:05,940
+Okay, as you can see here we were embarrassed structure and then we got a shark structure shift
+
+147
+00:10:06,820 --> 00:10:10,580
+Thank you guys so much for watching this. Sorry for the lack of uploads. It was thanksgiving break
+
+148
+00:10:10,660 --> 00:10:13,860
+I was spending time with the family so it was blake, but we are fucking back
+
+149
+00:10:14,020 --> 00:10:16,980
+And we'll be uploading two to three times a week. So stay tuned
+
+150
+00:10:17,140 --> 00:10:22,420
+We're gonna be doing fair valley gaps next and dropping tons of psychology in between there as well. So stay locked in
+
+151
+00:10:23,060 --> 00:10:24,740
+And this was
+
+152
+00:10:24,740 --> 00:10:29,780
+I ct for dummies episode three. We teach you how to make
+

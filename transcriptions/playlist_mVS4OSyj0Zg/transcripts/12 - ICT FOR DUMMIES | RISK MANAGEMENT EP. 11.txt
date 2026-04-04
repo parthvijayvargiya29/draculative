@@ -1,0 +1,783 @@
+Welcome to ICT for Dummies, episode 11.
+How to manage your motherfucking risk.
+If you're in a Ford F-150 and you don't want to crash into a tree, you gotta know how to manage your motherfucking risk.
+You gotta know how to manage your motherfucking risk.
+Alright, John.
+This is how you manage your risk.
+But you'll win time and weigh your losses.
+Holy shit, bro.
+Digital footprint more like digital shit stain.
+What the fuck is up, shot?
+Oh my god, you're so fucking dumb.
+Oh my god, bro. Oh my god. Oh my god. Oh my god.
+Edit this out, editor. Just kidding.
+Alright, guys. For this episode, we are going to be covering risk management.
+This is going to be by far, I know I pretty much say this like every episode,
+but I really do think that this is going to be the most important episode that you guys will ever receive and ever watch.
+And the reasoning for that, guys, is because you can make money in the markets.
+Anybody can make money in the markets by clicking buy or by clicking sell.
+The reason that people are profitable is because they're able to keep that money that they make.
+So this is why risk management is so important, being able to keep that money that you make.
+You know, we're going to show you the models.
+We're going to show you our whole entire strategy.
+We're showing you liquidity, all that stuff that you need to know to actually make money.
+In this lesson, we're showing you how to actually keep that money.
+That was really gross. And I didn't like that.
+So in one word, what Blake was trying to say, it's how you let your wins outweigh your losses.
+Sure.
+Yeah, that sounds about right.
+Why is this light so fucking bright?
+It's chill.
+Whatever.
+Anyways, we haven't broken down into three big phases because we're assuming 99% of you guys are funded or funded traders or trying to become funded traders and you're using pro firms.
+And so it really comes down to three major phases.
+The eval, the building the buffer process, which allows you to get paid out.
+And then, of course, getting your pay out before you assume that this is all this video is going to be.
+We're also going to show you how you use that template tool to measure your risk, calculate your risk using minis, micros, all that stuff.
+I know a lot of you guys are commenting.
+How do you know how many contracts to risk and all this shit?
+Or do you just risk one mini? Do you just risk 10 micros?
+It's like, no, your risk is always adapting to match a certain percentage.
+So your contract size is always shifting.
+Anyways, that being said, I guess risk can sort of be subjective in the context of different strategies are going to require a different risk.
+But we're going to teach you in the proper way.
+If you're a pro firm trader, ideally you want a strategy with a high win rate, low RR.
+That's what's going to help you pass accounts consistently, get payouts consistently, et cetera, et cetera.
+So, of course, it all starts with the eval phase.
+If we're breaking down the eval phase, there's three major components to it.
+Well, really two. You have a max daily loss or just like a max loss limit for that eval account and a profit target.
+So most pro firms, how they work is you'll have like a three percent, not three percent, you have a four percent.
+Three to four percent.
+Yeah, three to four percent max loss limit on the account with a six percent profit target.
+That's how it's going to be for 90 percent of accounts.
+I think we should show them right now what an alpha futures account looks like.
+Show them the actual rules. You can just pause the recording.
+Okay.
+No, we'll just do it as we speak right now.
+How about that? How about that?
+How about a positive recording?
+All right. Well, don't log in.
+Okay, don't log in.
+Just scroll down.
+Yeah, scroll down.
+So as you guys can see here.
+No, they can't see because I'm not showing them.
+But I'll show them now.
+You guys, I got a bunch of comments on the last video said you guys like this more raw style.
+Yeah, so we're keeping it raw.
+So we're keeping it raw.
+Completely raw.
+I could give it to you raw.
+What?
+What were we saying about alpha?
+Okay.
+Yeah.
+So with alpha accounts, guys, you're going to have a four percent max loss limit.
+So on a, for example, let's just do 100k.
+Come on, 50k. I like 50k.
+I know, but in the middle.
+You're trying to make sense.
+Whatever.
+You have a four percent max loss limit and your target is going to be six percent.
+So again, for 100k, you need to make $6,000.
+Yo, you're shaking hella.
+You make $6,000 and you can't lose more than $4,000.
+Okay.
+And then with this also, you have a consistency rule.
+So what that means is you cannot make more than $3,000 in one day.
+Okay.
+So let's break this down.
+Actually showing you trading view.
+Yeah.
+So, so go more in depth into this.
+Let's break down an alpha account, for example.
+You have an alpha futures day account.
+So funny.
+And so your max drawdown for this account is going to be four percent.
+And then on the contrary, your profit target is going to be profit.
+Target is going to be six percent.
+Assuming you're utilizing a one percent risk per trade rule here.
+One percent risk per trade.
+Then, you know, simple math would tell you, you can only lose four trades.
+If you lose four trades in a row, you blow the account.
+Obviously.
+And you need to also switch models and probably stop trading if you lose four trades in a row.
+Yeah.
+No, I'm kidding.
+Guys, it happens.
+We lose four trades in a row.
+That's the whole point why you want lower our high win rate models because it makes it easier to avoid shit like that.
+In comparison to see like a huge problem with people is that you guys think that you need 12 RR and you forget that the trade off to having higher RR is a low win rate.
+Nobody who has a crazy RR has a high win rate.
+So if you think about it, if you're trading like a fucking one to 10 RR model with a 10 percent win rate, you're probably going to lose fucking nine out of 10 accounts that you try to pass.
+But anyways, back to this.
+Assuming a one percent risk per trade, you know, if you lose every single trade off RIP, you only have four trades of room to really work with.
+And your goal is to get to six percent, which is going to be six thousand dollars total.
+So you have to win six trades.
+This is assuming a sequence where everything is consistent.
+You either lose all four or you win all six.
+That being said, almost never.
+It's almost never like this where it's perfectly consistent and you win six or immediately lose four.
+You probably win one, win two, lose one, win two, lose one.
+But that's why you want a high win rate model because your wins will outweigh your losses.
+Right.
+And so, yeah, this is like an alpha futures.
+Well, this is any account size.
+But if we do a hundred K, this can all be translated towards max drawdown is minus four percent, which if you have a one fourth of a rain, you can figure out that that's four thousand dollars.
+And this would be why is that there?
+Six percent.
+This would be six thousand dollars.
+One thing I do want to say is this is like I said, assuming the one percent risk per trade, the only time I recommend people risk one percent or more on an eval is if you are already profitable.
+The reason being is because the eval phases are just a waste of time once you are profitable.
+But since we are talking about how to properly manage your risk here, we're going to assume that you're just like, you know, the average trader.
+And we're going to give you good advice.
+Yeah.
+Because, guys, if you already on a payout, then there's no reason for you to be wasting your time on these evals.
+Like if you've gotten one payout, you reinvest that back into a prop firm and you understand the model, then you're literally just wasting your time when you could be making money in the live markets with a live account.
+So that's why we do recommend one percent.
+It might look like a lot.
+You lose four trades in a row.
+That's very possible.
+But, you know, if you've already gotten that payout, you're reinvesting back into firms.
+It's really not that much.
+You know, you're maybe losing like 50 bucks.
+You're maybe losing 100 bucks.
+Right.
+And that's the risk you got to take with these problems.
+You got to treat it like a business model.
+You know, so you can't be too too, you know, anal about, oh, my God, I need to be risking point to five percent in the eval phase.
+Like if somebody's telling you that it's I'm telling you this, though, if you're unprofitable, I would definitely say to risk at like the point five percent.
+So I'll show you what like the phase two and three look like.
+And I want you guys, if you are a complete beginner, never passed a funded account before and, you know, you're just putting your feet in the water here, then I would definitely suggest to risk lower.
+So then you can build that, you know, that muscle of actually having proper risk management.
+Yeah, I completely agree.
+And something I want to put a huge emphasis on, like more so than this, this just being like a steep talking to you about a problem risk.
+I also want to talk about the fact that if you are a beginner, your whole goal should be to get reps and you need market experience.
+So don't don't try to rush the process with these evals and be like, oh, I'm better than other people, despite the fact that I haven't gotten a payout and I don't have like a model that I can consistently trade.
+Like your goal should be to get reps and build conviction in a model.
+So don't focus on making money.
+Focus on passing the counts by following a strict set of rules.
+And that really should.
+I mean, we say it all the time.
+That's the whole goal of trading, to be able to consistently follow a rule set that you give yourself.
+That's how you build good habits.
+That's how you build discipline.
+So once again, if you're a beginner trader, maybe even forget the one percent half point five percent risk, which allows you to go back to this six trades in a row.
+Six trades in a row, guys.
+Yeah, you can lose six in a row.
+In this case, you can lose eight trades in a row.
+You have to have a four percent drawdown.
+You can lose eight trades in a row.
+But winner loss doesn't matter.
+The point is, it'll help you just build confidence in a model.
+Anyways, now let's go into like generally how Blake and I manage our risk when it comes out to three phases.
+Well, not Blake and I.
+This is how you guys should manage your risk.
+The eval phase.
+The reason we have one percent for the eval phase is, like we said, it's something we consider to be a challenge that you should be a little bit more, I guess, aggressive with.
+One percent is a reasonable amount.
+And we broke down the statistics.
+It gets you four losses if you were to lose everything in a row, like everything at once in a row or six wins.
+Assuming you have a one to one, one to three RR model, you'll end up usually winning and your wins will outweigh more than your losses.
+And you can have, let's say, two trades that are like one to two RR, risking one percent, which will already put you up four percent in two trades if you hit two one to twos.
+And you get you get the gist of that.
+And the way Blake, this is generally how Blake and I trade though.
+Here we do max.
+Oh, this is with evals.
+Yeah, max one trade a day or one percent.
+So there's some problems that actually only even let you lose one percent a day or sorry, it's usually two percent.
+But I would limit yourself to one percent.
+And this is where giving yourself rules and restrictions is so important because it helps keep your psychology in check.
+So with the eval phase, you want to be taking the most A plus setups and risking the same the entire time.
+So you risk one percent.
+You take one trade a day.
+Win or loss doesn't matter.
+You're done for the day.
+This is going to help you start building that discipline and forcing you to take the highest quality setups.
+This is how I started.
+This is how Blake started.
+This is how we recommend everyone starts one trade a day.
+It'll build a fucking mental muscle in you that is so important.
+And I don't know why it says two losses done for the day because we did one trade a day.
+Yeah.
+Anyways, it's here.
+It's supposed to say one one loss done for the day.
+One win done for the day.
+Point is, you learn to call it.
+You learn to get off the charts when you've already, you know, I guess, taking your setup, taking your setup.
+All right.
+Yeah. So that's that for phase two.
+Now.
+This is going to be after you've actually passed that eval.
+Now you're getting to the stage where you're building a buffer.
+So most problems before you actually go to request a payout, you're going to need a little buffer in play because when you request that payout, your then account balance is going to go to not zero.
+But whatever your account balance is like 50,000 is going to be like your max drawdown or 100,000 your max drawdown from whatever your payout was.
+So when we're looking at building a buffer here, again, same thing here with the per trade risk, max daily loss and profit target for a per trade risk.
+I'm looking at a point five percent.
+So again, that's going to give me with Alpha.
+That's why I like Alpha so much because the rules are so good.
+You're able to lose eight trades in a row with a point five percent risk.
+Most of these other problems have about a three percent max drawdown.
+So that's like six trades in a row.
+I think it was like eight.
+Right.
+And then so we have these right.
+Fifty K is going to be two hundred fifty bucks.
+A hundred K is going to be five hundred and then a hundred fifty K.
+You're going to risk seven fifty per trade.
+And I want you guys for every single trade to risk the same amount.
+OK, I do not want you to be bearing your risk, especially if you're more of a beginner, because you guys don't really truly know at this stage like what an A plus up looks like, what an A set up look like.
+That's going to that's going to be happening when you have more market experience like me and how we're able to kind of see what an A plus plus up looks like from a discretionary standpoint, but also mechanically.
+And that comes with a lot of screen time.
+Oh, my God.
+What?
+Hello.
+Speak.
+Hello.
+Hello.
+Yeah, but we had the volume nearly at zero.
+No, it doesn't matter.
+That thing doesn't matter.
+Oh, really?
+Yeah.
+How do you know that?
+I don't know.
+OK, cool.
+I guess we thought.
+Oh, my God, bro.
+You're gooning my fucking camera.
+Oh, my God.
+I'm going to hold this shit like this for now.
+All right.
+So this is mad intimate.
+So next, guys, we have a max daily loss of and a trade rule.
+OK, so we have max two trades a day.
+All right.
+So now that we're risking point five percent, we can actually take two trades a day, which,
+you know, is going to be like a bit of a step up from your one trade a day.
+And this is the thing, guys.
+If you take one win, be done for the day.
+This doesn't mean two trades a day, meaning you can take two trades a day, right?
+It doesn't mean you should.
+Yeah, it doesn't mean you should.
+But if your setup presents itself twice, you know, maybe the first setup you got maybe
+stop rated and then you're looking at, you know, the very similar setup and you want
+to take it again, then it's going to be OK.
+Why?
+Because you have point five percent risk, meaning now you can risk up to one percent
+a day.
+Yeah.
+So I mean, in a scenario like that, let's say Blake and I are trying to take longs right
+here, right?
+We know that our max limit that we've set ourselves is one percent for the day,
+considering that we're trading point five percent.
+Let's say this setup fails.
+But then we get the same setup a few candles later, just shortly after.
+Well, we've already lost minus point five percent here, but we still have point five
+percent risk to work with here because our max is one percent.
+And so we can if the second A plus setup presents itself, it's equally as good, just
+high quality setup.
+We still have point five percent to risk.
+And then we can take this and then let's say this hits for like a one to two.
+Cool.
+So now we are actually up point five percent, considering that this hits for a one to two.
+Right.
+So obviously, that's not the case.
+Maybe your second trade, you're only looking to target a one to one and you end up breaking
+down the day.
+But point is, you're calling it right.
+You took your two trades of the day.
+You don't need to trade more.
+And every single time that I win my first trade, dude, that's like my sign to just get
+off the charts, go hit gym and forget about the rest of the fucking day.
+Yeah.
+And there's really there is a reason for this.
+We don't just say one trade a day just because that's what people say, guys.
+There's a reason behind it.
+Right.
+So let's say, you know, in terms of accumulation, manipulation, distribution.
+Right.
+We talked about AMD a lot in this ICT for dummy series.
+And when price is actually distributing, right, you're going to be you know, if you take a
+good trade and you hit your take profit, what is price doing?
+Distributing.
+Right.
+It's a big move up.
+Right.
+It's going to be a distribution and price and what happens after price distributes,
+we accumulate.
+Right.
+So after that, the session is most likely either taking the objective.
+Right.
+And price action is just going to be choppy.
+And you're just going to get caught in that liquidity generation, which is not what you
+want to be trading.
+You want to be trading that distribution phase.
+I didn't even know we were going to go over this, but this actually happened exactly today.
+Yeah.
+I was helping someone with it.
+So, for example, today I took a trade.
+I'm not going to break down all the confluence because that's not the point of this video.
+But I took a trade.
+I took a long.
+I longed right here and I was able to catch a strong distribution move towards this buy
+side right here.
+And so I took a long here.
+Price ripped up a little for a little bit after.
+And then I saw a lot of people.
+Whoops.
+And then I saw a lot of people after having a 200 point distribution, try to start taking
+shorts around this level when a lot of objectives for the day have been met.
+And this is why it's really important as an intraday as a futures day trader.
+And I'm not I'm sure I'm not I don't even know if any other person talks about this in risk
+management, but this is just adding some technicals.
+And I wasn't planning on talking about this, but it does make sense.
+You know, if your first trade of the day hits, then that means a drawn liquidity has been
+targeted price distributed towards that drawn liquidity and objective has been met.
+And that means price distributed, which usually is followed by accumulation.
+And so I saw a lot of people after this big move happened, start trying to short after
+and look what starts happening with price.
+It starts going fucking sideways.
+But yeah, I wasn't really planning on talking about this, but I guess it's if you guys want
+to just pair some sauce together.
+I think it's definitely necessary just to understand why we actually have that in play.
+And then also, you know, for two losses done for the day, there's also like a reasoning
+behind this. There's a reasoning behind everything here.
+Right. We don't just say point five percent because point five percent.
+No, because you want to have that max loss in play.
+Right. So for two losses done for the day, there's really two reasons I have this rule in play.
+Yeah. One is just risk management.
+But two, I know you're going to say it's the fact that if you've lost in the same setup twice,
+you're drawing liquidity is most likely wrong in the day and you're just going to keep getting
+stopped out and you're probably emotional by the second trade.
+Yeah, exactly.
+So just like I was saying, you're you know, your edge is not in the market at the moment.
+You might just have the wrong draw.
+And then after two losses, your psych is most likely just going to be cooked and you want to get off.
+The second you start feeling emotions in your trading guys, the second you can start to recognize
+that is when you should be telling yourself, OK, I'm going to get off here.
+Right. Being able to recognize your emotions is going to be the first step and actually taking
+accountability for setting these rules in play.
+OK. But yeah, that's pretty much why I have those rules in play for the two losses.
+And then we have a profit target also the same one to one to one to three.
+And when we say one and one one to three profit target, by the way, that's just what we have calculated
+as the average for our strategy.
+That doesn't mean we're just targeting one to one and target one to one or targeting one to three to target one to three.
+That's just where 90 percent of the time our targets are laying.
+Yeah.
+Well, yeah. And then the final stage is going to be phase three, which is payout time.
+And, you know, as the name implies, this means you've built your buffer and it's ready to pay yourself out or you can
+obviously keep stacking the account.
+So it's pretty much what we're trying to get out with this is once you've established a buffer, this is you now
+working a bit over the buffer to get a payout.
+So let's say you built like a.
+And so I actually want to write this down real quick.
+So when we're speaking about a buffer, a buffer, a buffer is, I guess, a cushion.
+I don't even know how to fuck this about cushion.
+A cushion of capital you maintain to trade comfortably, comfortably.
+Yeah, it's actually a perfect definition.
+So buffer is a cushion of capital you maintain to trade comfortably.
+If you're like 13 years old and you don't understand what I was just saying, and this doesn't sound like English to you,
+let's put it this way.
+You're trading in a hundred K account.
+Right.
+And usually if you're trading, can we just use 50?
+100Ks.
+You're trading in a hundred K account and a hundred K account has four K drawdown, max drawdown and six K profit.
+Almost always when someone is trying to build a buffer, what that means is that they're trying to get $4,000 in profit for the account
+and then pay themselves out anything above $4,000 because that was the original drawdown.
+So ideally the right way to do this is you get the 100K to $104,000.
+And now any profits above you can pay out.
+And again, guys, the reason this is this is in play is because after you pay yourself out, sorry, I keep shaking this shit.
+After you pay yourself out with what happens with almost every pro firm is your max drawdown will then be the starting point of that account.
+So, for example, after you pay yourself out the 4,000 or any profits above 4,000.
+Right.
+Let's say you paid yourself out.
+Let's say we were at like 106,000.
+Yeah.
+And you pay yourself out 2,000.
+Right.
+Then your max drawdown is going to be $100,000 flat.
+Right.
+Which means you can then lose 4,000.
+So you just want your drawdown to be matched with your buffer size.
+Basically pay out 2K, which leaves you with 100.
+Wow.
+Those are cool buttons.
+I'm pressing 104K once again.
+So you had 1,600.
+Those are the profits you made above.
+So since you got to 106,000, what the fuck?
+I don't even know what I just said for a second.
+Anyways, you started off with 100K.
+You built your buffer.
+Your buffer is $4,000 because that's original max drawdown.
+And that's just an easy way to calculate your buffer.
+And so any profits above 104,000, that's it's reasonable to pay yourself out.
+Why?
+Because you're still maintaining that original $4,000 drawdown.
+Right.
+So let's say you have to count to 106,000 and you pay yourself out 2K.
+Now you have 104,000.
+The thing is when you pay yourself out with prop firms, it usually brings your max drawdown
+to the original number, which is 100K, which means now that you're at 104K
+and they've brought it down to where your max drawdown is now, 100K,
+that means you have $4,000 of wiggle room.
+Which is your original drawing.
+So it's subjective.
+We do recommend to have that drawdown be your buffer.
+If you want to play a little more ballsy, pay yourself out maybe 3K and then you have only 3%.
+But just know what your max drawdown is after you get that payout.
+Yeah.
+And the reason we're recommending you to go about it this way is because when you do this properly,
+then you're more able to maintain an account and get multiple payouts.
+Sure, you can build that account to like 104K and be eligible for payout
+and pay out half of it or most of it, but now you have like one trade that you lose.
+If you're risking 1%, you have like one or two trades that you can lose before you blow the account
+and then it's just like, fuck, you know what I mean?
+That's why it's always good to build that buffer.
+But yeah, hopefully that made a bit of sense.
+And then yeah, let's say you do get to like that 104K, right?
+You built that buffer.
+That's when I tell people you can up your risk now a bit and maybe go to 1%
+because while we were trying to build the buffer, we're usually maintaining like 0.5% risk
+because we want to be able to hold that account for a bit and, you know,
+just not blow it relatively fast and have good wiggle room.
+So we try to do like 0.5% when building the buffer.
+Some people like to be more aggressive.
+Point is just build a buffer and be smart about it and maintain consistent risk.
+If you're going to be aggressive, just be aware that you're being aggressive
+and try not to, you know, take too many trades over trade or whatever.
+Be smart about it.
+But like I said, this is how I like to do it.
+Once I build my buffer, then I up my risk to about 1% and I can trade more comfortably.
+Why can I trade more comfortably?
+Because I know I have that quote unquote wiggle room.
+Cool. So that being said, that's pretty much a prop firm breakdown
+of how you should be managing your risk.
+I guess this is applicable to other things too, even, I don't know,
+maybe like a live account if you have something to take away from this.
+But now what a lot of people were asking us to do is talk about
+how to calculate your risk with minis and the tool.
+Just play guitar for me while I do this.
+But we're going to go on the second portion of the video, guys,
+which is going to be how to actually place a trade.
+All right. So you got your risk management down.
+You wrote down all your rules.
+And I want you guys to also, with these rules, have a little sticky note.
+I want you guys to all get your sticky notes or whatever you have.
+If you have a notebook, do that.
+But something you can just look at every single morning, every single day,
+so you don't break this.
+I don't want you to ever break your rules for risk management, especially.
+Now we're going into how to actually place a trade.
+So what I want you guys to first note is that one mini is equivalent to 10 micros.
+So if you are trading anything but anything other than a $150,000 account,
+I would need you to be using micros.
+This is going to give you the most accurate risk.
+And just you shouldn't be trading minis if you're on a 100k or 50k.
+If you're on a 150k, then you can use minis.
+But yeah, anything under that, use micros.
+It's going to give you the most accurate risk.
+You can get your stop loss placement in the best place possible.
+So you can look at this, guys.
+I could have kept going on for longer, but you'll get the point, right?
+10 points or 40 ticks is equivalent to $200.
+This is all with using one mini, right?
+So if I were to use two minis, what would this $200 be?
+$400, right?
+And then 15 points, this is all with one mini.
+Or on the contrary, let's say you wanted a 10-point stop.
+Let's say you have a 20-point stop loss.
+Because on average, if you're trading a model like ours,
+your stop loss is typically anywhere between 20 to 40 points.
+But let's just say 20 to be safe.
+So let's say you're on a 50k, for example, right?
+A 50k, 1% is how much?
+$500, right?
+So let's say you want to take a trade that requires you having a 20-point stop loss.
+You don't want to risk 1%.
+So you're probably not going to use one mini.
+What are you going to use?
+You're probably going to use six micros here, right?
+Because if you go five micros, what are you risking here?
+You're risking $200.
+Since 10 micros is $400 with a 20-point stop,
+five micros is $200 with a 20-point stop.
+But let's say you want it really accurate and you want to risk 0.5%,
+you're probably going to be anywhere between six to seven micros.
+Six, seven.
+Oh my God, six, seven.
+Yeah, yeah.
+So you get the point.
+People always say, how many minis should I risk?
+How many micros should I risk?
+Are you fucking...
+That's like the worst question asked ever.
+That's like saying, how many times should I...
+So let's show you guys what that actually looks like on the chart
+because I know that's going to be important, right?
+So I'm going to scroll down to the one-minute time frame.
+Oh, it's going to fuck everything up, isn't it?
+Yep.
+Okay.
+So I'll show you guys kind of what it looks like.
+You know if you double...
+Yeah.
+There you go.
+Yep.
+So I'll show you guys kind of what it looks like going through my head.
+Okay.
+Bro, that's the trade I took today.
+Okay.
+Let's just say we want to take this short.
+Let's just say we took this short.
+Wait, why not the long?
+You want to show everyone the trade you took today?
+No, just do the short.
+It's fine.
+The short's more reasonable.
+I know.
+Okay.
+So let's say you want to take this short, right?
+You're taking an inversion, right?
+And you're going short right here.
+Okay.
+Now, before this even happens, I don't know if I was...
+I didn't think I was going to get into this, but I want to get into this now.
+What?
+What are you going to get into?
+Because I had something important to say.
+No.
+Just like how to...
+You know, you're not going to...
+Let me just talk.
+It's fine.
+So for this, right, we're going to have an 87-point stop.
+I'm...
+What?
+I mean, 87 ticks.
+All right.
+20-point stop.
+All right.
+And let's act, for example, here, that I'm on a 100k count and I'm at, you know, the
+buffer stage or I'm getting the payout phase, right, where I want to be risking 0.5%, consistently
+0.5%.
+Okay?
+So I'm going to go in for a sell here, right?
+But before I do that, I'm going to be calculating my risk, right?
+So for a 21-point trade, right, for 87 ticks, that's risking about $435 with one mini, right?
+And you know, I want to actually be using M&Q here because I think it's going to be just
+better for you guys to see M&Q.
+But same thing, right, for the close here and from here, it's 84 ticks, all right, which
+is 10 M&Q, which is one mini, that's going to be $420.
+Now, why is this good, right?
+You might be saying, Blake, well, I want to risk $500, I want to risk $420.
+Well, you don't know where this inversion is going to close, right, which is why you
+want to give yourself a little bit of room.
+I would say like around, you know, let's say it closes all the way down here, then you're
+risking, you know, let's say $103, then you're around that $500 mark.
+A lot of times with inversions, guys, you're not going to get the exact percentage every
+single time.
+But you know, if you're around that $500 mark for $100k for 0.5%, as long as you're around
+that and you're maintaining that consistently, you know, if it's like, you know, in that
+range, that's all that matters.
+What point this dumb ass is trying to get, who sometimes sees, how'd you know it was
+going to close there?
+I didn't.
+But I didn't.
+I didn't.
+And that's $515.
+Or, you know, and you can see that, maybe you see that really quick, and then you can
+change to, you know, $8, and now you're risking $103 and then $9.
+This is why micros is so good, because you can get your risk percentage so fucking accurate.
+And then like $463, then you're under risk.
+So as long as you're under risk, just don't be over risk at the inversion.
+Yeah, also, I mean, this is obviously Blake showing you guys how to use this template
+and calculate your risk and see how many micros to go in.
+And micros are just going to give you a more accurate risk.
+But anyways, what I was going to say was, oh yeah, this is based off inversions.
+I mean, the risk thing still applies.
+But if you're someone who like trades price tapping into a furg valley gap, like let's
+say we wanted to fucking.
+Well, let's show this playing out.
+Okay.
+And guys, especially with this, though, also, again, we already went over this when we were
+talking about the profit targets, but we're not looking for a one to one.
+We're not looking for a one to two.
+We're not looking for a one to three, right?
+We're looking for wherever our drawn liquidity is.
+So let's say, for example, here, it was all of this trendline liquidity, right?
+It was this.
+Did this hit?
+I don't know.
+We'll see, I guess.
+But there's all this trendline.
+Okay.
+I did it.
+So that's where our target is, right?
+And that's around like that one to two, you know, six, seven range.
+And it's around that.
+So what are you going to say?
+I was going to say now, I mean, some of you may trade break a structure, fair value gaps.
+But obviously same rule applies.
+I mean, like, let's say, for example, prices up here and you're thinking, okay, I want
+to long when six, seven.
+I want to long, see that I didn't do it that bad.
+I was like, really bad.
+And then you're thinking like, I want to long when price hits.
+I want to long when price hits this for a minute.
+So let's say you're basing your stop loss off the top of this for a minute and you have
+like a limit order, then let's say this is a big boy trade, 44 motherfucking points, brother.
+And you're on a fucking a hundred, you're on a fucking a hundred gate, which means a
+thousand dollars is one percent.
+And if you trade, shut up.
+And if you trade one mini here, that would be eight hundred and eighty dollars.
+Let's say you want to risk point five percent, which is five hundred bucks here.
+What I do, I go to M and Q, I go to trade.
+I see that this is a hundred and seventy six.
+Let's put a limit order right here.
+Bang.
+Oh, fuck the limit order.
+OK, anyways, let's say we have a limit order right here and the stop loss is one hundred
+seventy six.
+So now what I do is I put one hundred seventy six ticks and what I want to get, I want to
+get my risk to five hundred.
+So what I do is, I know, I know, I realized I'll finagle with this with the amount of
+micro size until I get it to five hundred.
+Four or five is practically the same shit, you know, so I can either go six or I can
+go five and it's going to be around five hundred bucks.
+I'm not I'm not too worried about a fifty dollar difference.
+I mean, for the sake of guys, try to always be like under risking, like don't try to be
+shit.
+No, but actually, though, because then you're going to get twenty eight dollars more.
+I know, but you need to count for one.
+You need to count for fees and then there's twenty five dollar fees probably.
+And then, oh, and then you're down like six hundred.
+And what if there's a Drake candle that happens and, you know, you don't get filled right?
+It's always better to be safe than sorry.
+That's just me.
+Thank God.
+Mama didn't raise me like a little bit, bro.
+Oh, my God, bro.
+God forbid I use risk management.
+Two, two, nine, oh, eight, two, two, nine, oh.
+Yeah, well, the trades over the trade is.
+Can you shut the fuck up for one second?
+You're not getting your limit.
+Oh, this is my big problem.
+God, if you take this long to set up your trade.
+Where's my limit order?
+Anyways, it would have hit my limit perfectly.
+And then hit my T.P. because I'm so fucking good at trading, it's crazy.
+But yeah, you get the point.
+So you use this tool to calculate your risk.
+Go use micros is the easiest way to keep consistent risk.
+I'm a hell of a brain dead today.
+Yeah, it's pretty late, guys.
+But we want to bang the series out for you.
+But yeah, as you can see here, stop loss here.
+Oh, that's 10 micros, bro.
+Sorry, sorry. I don't know.
+I tried that on, bro.
+I don't know why I did that.
+Sorry.
+There you go.
+OK, so then your stop loss here.
+Are you sure? All right.
+Yeah, that wants to be a little bit riskier today on this side if he likes it a lot.
+So 500 ducks, ducks and 860.
+You thought that was funny? 500 ducks.
+But the fact the fact that you know how to use all these like super zesty tools,
+it blows my mind.
+Like, who the fuck knew you can drag your stop loss?
+Every bro, everybody.
+You're a replay mode warrior.
+Oh, my God.
+How do you not know how to use this?
+Anyways, what I also want you.
+Fuck, bro.
+But I also want you guys to really take from this video.
+And this is what we've been emphasizing, like since the start is to be more worried
+about, like, how much you're losing, like when you're entering a trade.
+And this is going to be a lot of risk management.
+I mean, sorry, psych, psych talk right now.
+But whenever I'm entering into a trade,
+what I'm always thinking about is the potential loss that I can have, right?
+I'm never entering into a trade.
+And I'm like, oh, my God, but I'm going to make this much.
+No, like I'm always thinking about the loss.
+And then from that point, if I'm able to go break even,
+then it's going to be a win in my book, right?
+Because then the risk is off of the table, right?
+So always be looking to minimize the amount of risk that you can have every single day.
+Because at the end of the day, that's what's going to make you profitable,
+being able to keep the profits that you make.
+Holy shit, I sharpened us.
+Say that again. Give like a motivational speech.
+And I'll give you some some sounds over that.
+Same thing.
+Well, yeah, I mean, this is crazy.
+I mean, what I really want to talk about, guys, is just overall with risk management,
+you know, stop caring about how much money you're going to make.
+Don't go into a trade and think, oh, my God, but if I make a thousand dollars on this trade,
+that's what I'm going to happen.
+No, going to a trade thinking I'm ready.
+I'm allowing myself right now to lose this amount of money.
+Let's say it's 500 bucks.
+Go into that trade idea.
+Go into the day being OK with that loss.
+OK, have that mindset ingrained into your mentality.
+Because if not, when that loss comes, then what's going to happen?
+Oh, you're going to be like, well, I wasn't expecting that loss.
+Now my psych is all fucked.
+Be ready all the time.
+Be ready for that. OK.
+And that's the problem.
+And that's the true problem with, you know, traders nowadays.
+It's sad. It's a sad world we live in.
+I remember the days I didn't have a dollar.
+I remember the days I was filled with sorrow.
+Now I've made it to the top.
+Payouts every day.
+I can't stop winning.
+This is how we play.
+God, bro, I think I want to quit YouTube.
+Holy brain rot. Yeah, I feel fried.
+Let's rip the yard pen.
+Are we still talking about more?
+What? We're still going over more stuff?
+OK, end the fucking video.
+All right, guys, this is all you need.
+Real shit though.
+Hopefully you guys learned a lot in this video.
+A lot of sauce given.
+A lot of sauce given.
+Main takeaways.
+We're going to get sued by other fucking traders, bro.
+Because of how much shit we're going to make, bro.
+How much do you want to bet?
+Two months down the line.
+People are going to be using these videos and selling them.
+You know what I mean?
+It's not free for YouTube.
+You have to be really stupid to do that.
+I'm having a sad shot.
+What is that?
+Dude, there's a fucking mosquito on it.
+I actually need to get that shit off.
+If you guys took anything away from this video, guys,
+it would be to use consistent risk all the time
+up until you get your buffer
+and then you're eligible to take out a payout.
+Say it with me.
+You're eligible to take out a payout.
+Payout.
+But also...
+But...
+That's it. That's raps.
+Yeah, just wrap it.
+But I have a confession to make though.
+I'm just going to expose my model right now.
+OK, I'm just going to tell you my model.
+Practically what I do every single day is I wake up, I go...

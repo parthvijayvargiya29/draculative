@@ -1,0 +1,121 @@
+All right, folks, welcome back.
+This is episode number eight, Applying Institutional Order Flow to Forex Markets.
+All right, folks, welcome back.
+Taking a look at trading view, and I promise this is going to be a really short one tonight.
+Let's go to Euro.
+And whenever I'm looking at data from trading view, this is the
+data feed I use for Forex pairs only. Forex.com, I don't want to use Oando, definitely not them.
+All right, so we have the daily chart up for Euro, Yen.
+Just so you know, I hate Yen pairs, I can't stand them, but for the sake of completeness,
+this is how you would look for these types of patterns in Forex.
+Now, I have lots of feedback in the comments section that you don't get to see,
+but it's really just for me. I get a lot of requests whether or not this is
+appropriate to be using for higher time frame charts, and I think daily charts are
+what everybody classifies as a higher time frame chart.
+So I want you to take a look at this chart before I do any mock-up on it.
+Pause the video if you're not ready.
+Still don't pause it, do you? All right, take a look at the
+relative equal lows over here. See that? It's going to go quick and dirty tonight.
+Right and dirty. All right, so we have relative equal lows marked out over here.
+The market has traded down through and created a run higher.
+Now, here is why I do not like the Yen pairs. Okay, I get questioned all the time. Why don't
+you like Yen pairs? I see they move around nice, they do this, they do that. They tend to have like
+a double return to a specific level I like to see, and you're going to see it right here.
+Okay, swing high. The market rallies through that. There's no fair value out there.
+It drops back down in, then it runs again, taking out this swing high. So we have two
+points of market structure that have moved to the upside and over its prices traded above it.
+Now, this leg here, you want to go back through that and see is there a fair value gap? Well,
+we have one and two. Market trades down into it here,
+sends it higher. What's above here? Buy side liquidity. This old high back here could be a
+draw on liquidity as well. So there's going to be buy stops. Whether it trades there or not,
+it's irrelevant. Okay, it's likely to draw to it. Just like, you know, playing horseshoes.
+You ever play the game horseshoes? Not every single time you throw a horseshoe,
+is it going to go on that post. But it's still fun to play, right? So you're aiming at that post,
+whether you hit that post or not, and this would be the post in the game. Playing horseshoes,
+you're just aiming for it. Now, obviously, we started trading a new day here, but this candle,
+which was the 10th of February, 2022, this daily candle, we could trust that this was likely to go
+higher because we went up, we've consolidated, and then start another run into this high here.
+Again, whether it trades through it or not, it's irrelevant. Okay, because even a failure swing
+to get above old highs, if there's enough range from being right here at the open to reaching up
+to here, that's enough to take a stab at it and to see if you're going to get any kind of yield.
+So that's an example of it occurring on a daily chart, but I want to go into this very day right
+there, okay, the 10th. So we're going to drop down into a 15-minute time frame.
+All right, here's the 15-minute time frame, and we're going to mark up our chart.
+Midnight New York time, market rallies in here.
+And then we go into the New York session right here. So we're going to go into this
+price structure and figure it out, the run that occurred in here. So I'm going to
+put a rectangle in this area so that way we know what we're looking at relative to this 15-minute time frame.
+You guys ask why I do PowerPoint slides, this is the reason why.
+It makes it a lot easier to go right to what I'm looking for. All right, we're going to drop down
+to a five-minute chart. Okay, and if you take a look at
+that,
+seven o'clock in the morning, 10 o'clock in the morning, that's your New York
+ICT kills in. Okay, that's the time of day that New York Session trades form.
+I have more information in that regard for time of day for Forex in this channel. There's just
+lots of videos, lots of topics and things you can explore. I don't want to beat it to death
+because I've already done it in other places, but just know that seven o'clock in the morning
+to 10 o'clock in the morning, New York time, again, on TradingView, you need to have it
+toggled to that. Everything else, it'll be wrong. All right, so here is the time of day that the
+forming of a New York setup forms. All right, so we have the market trading down,
+takes out a swing low, trades down below that, and then punches higher, right above the swing high.
+Inside this price lag right here, is there a fair value gap?
+We're going to start breaking it down top down from five minutes.
+Top down. We're going to break it down from the five minute down to the one minute chart.
+So from this low, up to this high,
+right in there. That's where we're going to study on each new time frame. So we'll go down to three
+minutes. Okay, so in this price lag here, do we take out a swing low? Yes, we trade down below
+swing low. Does it take out a swing high here? Yes, it does. So now we have a valid condition
+to see if there's a trade. Go back through this price lag. Is there a fair value gap?
+Right in here, and this one here. So remember what I was teaching you. It could stab down there.
+Just be mindful of that, but try to get your entry in on that one there.
+And this we have here trades down to it there. Now the question is going to be is how far
+will it trade to? Because we're not looking at anything over here,
+like it's a middle of the range type idea. So for expansion type moves,
+practical lesson tonight, where if we don't have a range to trade inside of,
+how do we anticipate how far I can trade up or trade down? In this case, we're looking for
+a long. Where would our targets be? Because the old high is over here. Now I'm sure if we
+went to a hard time frame, keep looking to the left, we'll find something. But a real easy way
+is to take your price lag over here. See this swing low right prior to this run up.
+Then we consolidated, drop down, create a discount, and then created our retracement rally
+and start to run up into these highs. How can we know? Well, I like to take a fib,
+and anchor it to a previous swing. Okay, so from this low that is high,
+after we lead this consolidation to start to trade higher,
+standard deviation, negative one, and I got a lot of questions. What's my setup for my fib? I
+actually show that on the OTE primer video, so you're welcome to take a look at that on
+the YouTube channel as well. 133.153 and high is 133.153, so right to the point that you'd be
+looking for. And then we've seen it recede from that. Okay, so obviously when I show an example
+like this, it makes me want to trade me in. But I hate this pair. I can't stand. There's other
+markets that can scratch my itch for Forex, but this one is not one I like to trade. But I wanted
+to come out tonight and kind of give you a quick view of what you could do with these
+markets using the model. Okay, there is a approach that you can use with the London session,
+okay, and London would be marking up your vertical lines relative to New York local time,
+two o'clock in the morning to five a.m., so you'd have your bracket. So your operating hours would
+be hunting the setup for New York between seven o'clock in the morning and ten o'clock
+local New York time. For London session trades, you would look for setups that would
+provide you a way to trade a fair value gap between two o'clock in the morning and five
+o'clock in the morning. Okay, and that's as easy as I can make it for you. It's simple,
+and any additional information you would want to have, I have absolutely covered it
+in other videos in this YouTube channel. Okay, so it's predominantly a Forex channel,
+and it's only been recently with the 2022 mentorship I'm talking and teaching about
+the stock indices. So I got a lot of requests for Forex, so here you go. It's simply applying
+what you've been trained with the futures indices, but just applying it to the Forex market,
+but applying it to the time of day relative to New York or London. And yes, you can take trades
+in Asia. Yes, you can take trades in London Close, but I'd prefer to have you just trade on
+these two time frames here, or time of day rather, being New York open, which is what's being shown
+here, seven o'clock in the morning to ten o'clock in the morning, New York local time. Again, always,
+I can't say it enough because if you don't do this and you just have it set to your local time,
+it won't work. But it's New York local time on TradingView, seven o'clock to ten o'clock. This
+is the time when you're hunting the setup. Okay, so in summary, we can anticipate this market going
+higher. Why? Because the Euro dollar is going higher. You can also check it by going to, let's
+go to the daily chart first, and go to 6E, which is Euro futures, and let us use the front month
+continuous. Okay, you can see how Euro, where has it been going? So has it been going lower or higher?
+Clearly going higher. What has the yen been doing?
+So when you look at Forex pairs, you want to look for that relationship between the instruments that
+make up your pair. So Euro yen, Euro is strong, yen is weak. So what would that mean for Euro yen?
+It would mean that if your bias is bullish, and you have this underpinning
+between Euro and yen, it's going to make this pair go higher. It's a real simple way of looking at
+how to determine these exotic crosses. Okay, and how to frame the logic behind whether it should
+go higher or lower. In the applied time of day, wait for the pattern I'm teaching you, and you
+won't need to do anything else. You don't need to buy a subscription to anybody's services. You
+don't need to learn anything else. You don't have to buy any courses. It's all right here for free,
+and it works. Until I talk to you next week, enjoy your weekend, and be safe.

@@ -1,0 +1,1040 @@
+1
+00:00:00,000 --> 00:00:14,960
+All right, folks, I'm going to take a look at the e-mini-micro NASDAQ100 index, and I'll
+
+2
+00:00:14,960 --> 00:00:16,760
+show you the imbalance we're in here.
+
+3
+00:00:16,760 --> 00:00:18,480
+This is the initial one.
+
+4
+00:00:18,480 --> 00:00:22,840
+You can always imagine it could stack up into the second one, which it's really a sense
+
+5
+00:00:22,840 --> 00:00:24,440
+it just done now.
+
+6
+00:00:24,440 --> 00:00:26,200
+So that could be a cell.
+
+7
+00:00:26,200 --> 00:00:27,800
+I'd like to see it come down here first.
+
+8
+00:00:28,600 --> 00:00:31,560
+I'll outline this as I go.
+
+9
+00:00:31,560 --> 00:00:37,920
+This is kind of like the end of the road for the drop down before it runs Tuesday's highs.
+
+10
+00:00:37,920 --> 00:00:38,920
+That's what I'm thinking.
+
+11
+00:00:38,920 --> 00:00:39,920
+This is FOMC.
+
+12
+00:00:39,920 --> 00:00:45,360
+I'm with it a few minutes for it to do its initial shakeout.
+
+13
+00:00:45,360 --> 00:00:47,640
+So this is the end of the race lower.
+
+14
+00:00:47,640 --> 00:00:48,640
+That's the little checkered flag.
+
+15
+00:00:48,640 --> 00:00:54,720
+You'll notice I have that, so it's not like me talking after the fact.
+
+16
+00:00:54,840 --> 00:00:56,640
+So you can see I'm doing everything here.
+
+17
+00:00:56,640 --> 00:01:02,920
+There's where we're looking for it to drop down in and run out the Tuesday highs that
+
+18
+00:01:02,920 --> 00:01:06,880
+I was mentioning on my community post.
+
+19
+00:01:06,880 --> 00:01:09,160
+So in other words, we're looking for it to trade down in there.
+
+20
+00:01:09,160 --> 00:01:14,080
+Now it could sweep a little bit below that because to the left of that imbalance that
+
+21
+00:01:14,080 --> 00:01:19,720
+I'm highlighting in turquoise, there's the cell side of the career pool resting just
+
+22
+00:01:19,720 --> 00:01:20,720
+below it.
+
+23
+00:01:20,720 --> 00:01:22,840
+But for now, I'm just focusing there.
+
+24
+00:01:22,840 --> 00:01:25,880
+So it could drop down into that level.
+
+25
+00:01:25,880 --> 00:01:28,400
+There's a couple of ways to use this information.
+
+26
+00:01:28,400 --> 00:01:36,280
+You can do a trade here with your demo account, compliance reasons, and look for it to run
+
+27
+00:01:36,280 --> 00:01:45,280
+out the short-term low and or wait for it to potentially trade up into the higher timeframe
+
+28
+00:01:45,280 --> 00:01:46,280
+fair value gap.
+
+29
+00:01:46,280 --> 00:01:50,680
+And the reason why you could potentially wait for that is because it's FOMC.
+
+30
+00:01:50,720 --> 00:01:55,000
+It has like a knee-jerk reaction, kind of like non-farm payroll.
+
+31
+00:01:55,000 --> 00:01:59,920
+There's an initial leg, then another leg, then like a fake-out leg, and then a real
+
+32
+00:01:59,920 --> 00:02:04,360
+setup comes, which is what I'm outlining here in that blue shaded area.
+
+33
+00:02:04,360 --> 00:02:09,800
+So I'm noticing that it's likely to draw down here, so I'm drawing this out so that we can
+
+34
+00:02:09,800 --> 00:02:13,360
+see the diagram is dropping, okay?
+
+35
+00:02:13,360 --> 00:02:17,520
+The idea is to drop down here first, this is the quick move I'm looking for, then to
+
+36
+00:02:17,560 --> 00:02:18,920
+run through Tuesday's highs.
+
+37
+00:02:25,640 --> 00:02:28,160
+All right, so it should start dropping in here.
+
+38
+00:02:29,880 --> 00:02:34,240
+I don't want to see it go too much more than that because that would upset the fair value
+
+39
+00:02:34,240 --> 00:02:37,800
+gap that is not yet traded into.
+
+40
+00:02:37,800 --> 00:02:41,160
+I think that's going to be the next real drop.
+
+41
+00:02:43,040 --> 00:02:45,040
+So right here is where I'm thinking initially.
+
+42
+00:02:45,040 --> 00:02:47,160
+There's sell-side resting right below that low.
+
+43
+00:02:47,160 --> 00:02:56,040
+So you could be a short here, and your stop would be right above that most recent green
+
+44
+00:02:56,040 --> 00:03:00,280
+candle to the left of where we're at now, and you can see there's no replay button being
+
+45
+00:03:00,280 --> 00:03:01,280
+used here.
+
+46
+00:03:01,280 --> 00:03:07,400
+The candles are painting, the replay button is dim, it's not even a thing with me.
+
+47
+00:03:07,400 --> 00:03:12,440
+That's not true now, I did recently in the mentorship video use the replay button, but
+
+48
+00:03:12,440 --> 00:03:16,520
+it felt awkward and I just wanted to do it just to be funny.
+
+49
+00:03:16,520 --> 00:03:18,920
+So here is the drop down in here.
+
+50
+00:03:18,920 --> 00:03:24,000
+Now I can revisit the bottom of that fair value gap and bump it, kind of like a support
+
+51
+00:03:24,000 --> 00:03:26,200
+resistance idea.
+
+52
+00:03:26,200 --> 00:03:30,960
+That would be a shorting opportunity if it were to do that, and again this stop would
+
+53
+00:03:30,960 --> 00:03:36,040
+be placed at the high of the most recent green candle to the left.
+
+54
+00:03:36,040 --> 00:03:46,880
+Right there, see that?
+
+55
+00:03:46,880 --> 00:03:49,880
+That's a short right there.
+
+56
+00:03:49,880 --> 00:03:58,880
+Okay, the market is likely to keep dropping in here.
+
+57
+00:03:58,880 --> 00:04:02,160
+I'm looking for that little bullseye, that blue bullseye right below that short-term
+
+58
+00:04:02,160 --> 00:04:03,160
+low.
+
+59
+00:04:03,440 --> 00:04:07,140
+And that blue line, if you noticed when I first started the recording here, that was
+
+60
+00:04:07,140 --> 00:04:10,080
+really just an order block.
+
+61
+00:04:10,080 --> 00:04:18,160
+So it could bounce there a little bit, but ultimately my interest is from where we are
+
+62
+00:04:18,160 --> 00:04:26,040
+now down into that checkered flag area, and it doesn't look like I've got enough room
+
+63
+00:04:26,040 --> 00:04:32,520
+so I'm going to probably have to move that over to the right a little bit, and again
+
+64
+00:04:32,520 --> 00:04:38,400
+the mindset is we're dropping down, even though it really initially just ran the Tuesday
+
+65
+00:04:38,400 --> 00:04:42,200
+high, but it's done it shallow.
+
+66
+00:04:42,200 --> 00:04:51,000
+The vocabulary I'm using here is running the Tuesday high, not sweeping the Tuesday high.
+
+67
+00:04:51,000 --> 00:04:54,440
+Difference between sweeping would be, like what it's done here, that would be a sweep,
+
+68
+00:04:54,440 --> 00:04:58,840
+it's a real shallow little run above that red line, that's Tuesday's high.
+
+69
+00:04:58,840 --> 00:05:04,720
+So it swept that, and then we're coming back down, post FOMC.
+
+70
+00:05:04,720 --> 00:05:08,520
+So kind of like look at this move here we're making, and if it can drop down to that blue
+
+71
+00:05:08,520 --> 00:05:12,920
+shaded area, it might just, if I'm wrong, it might just go down to that little bullseye
+
+72
+00:05:12,920 --> 00:05:14,840
+and then run higher from there.
+
+73
+00:05:14,840 --> 00:05:18,320
+I'm hoping it doesn't do that, I want to see it trade down into that blue shaded area,
+
+74
+00:05:18,320 --> 00:05:22,080
+the little checkered flag is, because that's like the end of the race for bears.
+
+75
+00:05:22,080 --> 00:05:28,400
+They get into that, then it should start the real move higher, running Tuesday high.
+
+76
+00:05:28,400 --> 00:05:32,660
+Sweeping Tuesday's high means it runs right over top of it and it just doesn't look back.
+
+77
+00:05:32,660 --> 00:05:36,840
+Sweeping is where it just goes above or below a low or a high, you know what I mean?
+
+78
+00:05:36,840 --> 00:05:40,120
+If we're going to sweep by side, that means it's going to go up a little bit and then
+
+79
+00:05:40,120 --> 00:05:42,820
+go down and reverse.
+
+80
+00:05:42,820 --> 00:05:46,960
+If I'm saying we're going to run an old high, or relative equal highs, that means we're
+
+81
+00:05:46,960 --> 00:05:52,600
+going to run through it and continue.
+
+82
+00:05:52,600 --> 00:05:56,080
+So that way there's a little bit of an understanding here of what I'm saying when I say that.
+
+83
+00:05:56,080 --> 00:05:59,960
+I try to pick my words carefully so that way you understand the distinction between
+
+84
+00:05:59,960 --> 00:06:06,680
+what I'm expecting as a sweep and reverse back into the range or expansion move where
+
+85
+00:06:06,680 --> 00:06:09,760
+I think if we can get down here, and I'm going to scrub this over here because you can see
+
+86
+00:06:09,760 --> 00:06:14,040
+we're running out of space here, it might take a little bit more candles than I first
+
+87
+00:06:14,040 --> 00:06:15,040
+thought.
+
+88
+00:06:15,040 --> 00:06:22,960
+Oh, let me get this back here, there we are, oh, there it is.
+
+89
+00:06:22,960 --> 00:06:28,680
+This thing, I'm telling you, I look like a noob, ICT's a noob.
+
+90
+00:06:28,680 --> 00:06:35,920
+All right, so we'll see if we can drop down into that.
+
+91
+00:06:35,920 --> 00:06:42,680
+And I had to make another video for my mentorship group, so I got to get started on that one.
+
+92
+00:06:42,680 --> 00:06:48,840
+So here's a bearish order block, you can come back up and hit that and resume going lower.
+
+93
+00:06:49,840 --> 00:06:55,440
+All right, not bad, not bad.
+
+94
+00:06:55,440 --> 00:06:58,840
+Let's see if she loves me.
+
+95
+00:06:58,840 --> 00:07:15,840
+You can see no replay button, everything's dynamic here, all right, about to run into
+
+96
+00:07:15,840 --> 00:07:19,840
+that cell-side liquidity pool.
+
+97
+00:07:19,840 --> 00:07:28,840
+Just anchor this here so that we can see visually when it drops below it.
+
+98
+00:07:28,840 --> 00:07:34,840
+Change the color here, it's a little bit lighter than that one.
+
+99
+00:07:34,840 --> 00:07:39,840
+Oops, too light, okay, that's good enough that we can see it.
+
+100
+00:07:39,840 --> 00:07:48,840
+I'll take this off here, all right, and there you go.
+
+101
+00:07:48,840 --> 00:07:54,840
+I'll come back to this in a moment.
+
+102
+00:07:54,840 --> 00:07:57,840
+All right, as you can see, the market did in fact trade down, look at the bodies of
+
+103
+00:07:57,840 --> 00:08:02,840
+the candles respecting that blue shaded area, really, really handsome price delivery.
+
+104
+00:08:02,840 --> 00:08:06,840
+And it dipped down a little bit below, but that's fine, I'm not worried about being that
+
+105
+00:08:06,840 --> 00:08:07,840
+accurate.
+
+106
+00:08:07,840 --> 00:08:11,840
+The main thing is going down into that area, it turns and then runs Tuesday's high.
+
+107
+00:08:11,840 --> 00:08:13,840
+Look how much more dynamic that is.
+
+108
+00:08:13,840 --> 00:08:20,840
+Now, what I did was I took the low at the turn after it made its run into that little
+
+109
+00:08:20,840 --> 00:08:21,840
+blue shaded area.
+
+110
+00:08:21,840 --> 00:08:31,840
+Once it started rallying and it took out the swing high around that $13,150, basically
+
+111
+00:08:31,840 --> 00:08:35,840
+crossed back over where the fair value gap is, the larger one that it dropped down into.
+
+112
+00:08:35,840 --> 00:08:39,840
+Once it trades above that, then I'm going to use the high initially at the two o'clock
+
+113
+00:08:39,840 --> 00:08:43,840
+hour down to the low post $230.
+
+114
+00:08:43,840 --> 00:08:51,840
+That range I'm using the Fibonacci to expand up to a target and it came up to $13,437 even.
+
+115
+00:08:51,840 --> 00:08:57,840
+I'm just waiting for it to hit that and then once it does, then I'll go into the Fibonacci
+
+116
+00:08:57,840 --> 00:09:02,840
+and I'll show you what this looked like, how I measured it and all that.
+
+117
+00:09:02,840 --> 00:09:08,840
+Hopefully you can see that it's done the majority of the move, which was outlined on
+
+118
+00:09:08,840 --> 00:09:12,840
+the community tab before I actually did the video.
+
+119
+00:09:12,840 --> 00:09:17,840
+I did the video here, you know, marking it up that way you can see it wasn't a replay
+
+120
+00:09:17,840 --> 00:09:20,840
+thing, it wasn't something after the fact.
+
+121
+00:09:20,840 --> 00:09:22,840
+It's something that I'm teaching you all here.
+
+122
+00:09:22,840 --> 00:09:28,840
+Now, the question mark at the bottom lower left-hand corner, what that is anchoring is
+
+123
+00:09:28,840 --> 00:09:34,840
+the high that was formed at two o'clock or what would be shown as $1400 here on the chart
+
+124
+00:09:34,840 --> 00:09:36,840
+down to that low where the question mark is.
+
+125
+00:09:36,840 --> 00:09:39,840
+What you're doing is you're going to get measurement of the range.
+
+126
+00:09:39,840 --> 00:09:41,840
+Where's 50% of that?
+
+127
+00:09:41,840 --> 00:09:46,840
+Below 50% is where that fair value gap is that's in turquoise.
+
+128
+00:09:46,840 --> 00:09:48,840
+That's the targets dropping down into it.
+
+129
+00:09:48,840 --> 00:09:50,840
+It's a matter of looking at this.
+
+130
+00:09:50,840 --> 00:10:04,840
+Again, really there's technically, oh there's one, two, three, four, five, six, seven, eight.
+
+131
+00:10:04,840 --> 00:10:08,840
+There's eight trades in this whole entire thing.
+
+132
+00:10:08,840 --> 00:10:15,840
+So once it trades this level here, I'm looking forward to hit that and then I'll go in and
+
+133
+00:10:15,840 --> 00:10:19,840
+kind of like show you some things about what I'm referring to as the eight setups.
+
+134
+00:10:19,840 --> 00:10:22,840
+And this might not be the real setup that you would be looking for.
+
+135
+00:10:22,840 --> 00:10:25,840
+It might be something, one of the eight that I'll show you.
+
+136
+00:10:25,840 --> 00:10:31,840
+But that's the unique idea that I want you to adopt as a student of mine.
+
+137
+00:10:31,840 --> 00:10:33,840
+I don't want you all thinking, well we all have to have the same setup.
+
+138
+00:10:33,840 --> 00:10:35,840
+No, you don't have to have the same setup.
+
+139
+00:10:35,840 --> 00:10:37,840
+In fact, you're not.
+
+140
+00:10:37,840 --> 00:10:41,840
+You're going to come to the conclusion that the things that you're looking for are going
+
+141
+00:10:41,840 --> 00:10:48,840
+to be much more important when it's uniquely selected, not me pushing you into a mode
+
+142
+00:10:48,840 --> 00:10:52,840
+saying this is how it's going to work every single time just for you because it's not
+
+143
+00:10:52,840 --> 00:10:54,840
+going to work that way.
+
+144
+00:10:54,840 --> 00:11:00,840
+So you have to find a way to grow comfortable with the concepts and how that applies to
+
+145
+00:11:00,840 --> 00:11:04,840
+the present market conditions and how you select your setup.
+
+146
+00:11:04,840 --> 00:11:06,840
+And I'll show you eight of them in here.
+
+147
+00:11:06,840 --> 00:11:11,840
+That way you'll know that this is what you're looking for and it fits your criteria.
+
+148
+00:11:11,840 --> 00:11:16,840
+And you may not take any of the other seven out of the eight.
+
+149
+00:11:16,840 --> 00:11:18,840
+But the main one here is obviously the one I highlighted.
+
+150
+00:11:18,840 --> 00:11:23,840
+It's the one that is the highest form of analysis that we can see exactly where it's going to
+
+151
+00:11:23,840 --> 00:11:25,840
+draw to before it turns around.
+
+152
+00:11:25,840 --> 00:11:31,840
+So you can couple what I've shown you here with what I outright came and told you basically
+
+153
+00:11:31,840 --> 00:11:34,840
+that I'm looking for the drop down at FOMC at 2 o'clock.
+
+154
+00:11:34,840 --> 00:11:40,840
+Once it drops down into that, usually around 2.30, it's finished its initial leg where
+
+155
+00:11:40,840 --> 00:11:44,840
+it prices in whatever it's going to do, either high or low, and then starts to rally.
+
+156
+00:11:44,840 --> 00:11:48,840
+So you can see it's pretty much close to that in terms of algorithmic delivery.
+
+157
+00:11:48,840 --> 00:11:51,840
+Just a little bit past 2.30.
+
+158
+00:11:51,840 --> 00:11:53,840
+We're about ready to hit that target here.
+
+159
+00:11:53,840 --> 00:11:55,840
+And there she is.
+
+160
+00:11:55,840 --> 00:11:56,840
+All right.
+
+161
+00:11:56,840 --> 00:11:59,840
+So let's dim that out and I'll take you over to the fib portion and I'll explain everything
+
+162
+00:11:59,840 --> 00:12:01,840
+to you that way.
+
+163
+00:12:01,840 --> 00:12:02,840
+All right.
+
+164
+00:12:02,840 --> 00:12:05,840
+So now obviously I'm going to take you back in.
+
+165
+00:12:05,840 --> 00:12:07,840
+I'm going to use the fib here.
+
+166
+00:12:07,840 --> 00:12:13,840
+And what I'm doing is anchoring it to the high down to the low.
+
+167
+00:12:13,840 --> 00:12:15,840
+Now this is the most extreme.
+
+168
+00:12:15,840 --> 00:12:21,840
+Now usually I'll use the highest open or close and the lowest open or close in the price
+
+169
+00:12:21,840 --> 00:12:24,840
+swing when it's not expected to have a whole lot of volatility.
+
+170
+00:12:24,840 --> 00:12:29,840
+Because it's the FOMC, it's more likely to be much more volatile.
+
+171
+00:12:29,840 --> 00:12:33,840
+That means the extreme of the ranges should be considered.
+
+172
+00:12:33,840 --> 00:12:35,840
+That means now I'm going to use the wicks.
+
+173
+00:12:35,840 --> 00:12:40,840
+You get asked a lot all the time in the comments, like, why does ITC use the wicks and why does
+
+174
+00:12:40,840 --> 00:12:42,840
+he use the bodies and when does he differentiate?
+
+175
+00:12:42,840 --> 00:12:43,840
+I just taught you.
+
+176
+00:12:43,840 --> 00:12:44,840
+OK.
+
+177
+00:12:44,840 --> 00:12:47,840
+So I'll show you two forms of that.
+
+178
+00:12:47,840 --> 00:12:50,840
+And actually I'll do this backwards too.
+
+179
+00:12:50,840 --> 00:12:56,840
+I'm going to draw it from the low up to the high.
+
+180
+00:12:56,840 --> 00:12:58,840
+I'm looking for upside objectives.
+
+181
+00:12:58,840 --> 00:12:59,840
+OK.
+
+182
+00:12:59,840 --> 00:13:01,840
+So low up to high.
+
+183
+00:13:01,840 --> 00:13:02,840
+Here's one objective.
+
+184
+00:13:02,840 --> 00:13:04,840
+Here's two objectives.
+
+185
+00:13:04,840 --> 00:13:07,840
+And now we're just falling short of that one.
+
+186
+00:13:07,840 --> 00:13:08,840
+OK.
+
+187
+00:13:08,840 --> 00:13:10,840
+So that's kind of the extreme target for me today.
+
+188
+00:13:10,840 --> 00:13:17,840
+But if you look at the body to body, it'll make a whole lot more sense in a moment.
+
+189
+00:13:17,840 --> 00:13:25,840
+There's that target I was looking for there in the earlier portion of the recording.
+
+190
+00:13:25,840 --> 00:13:26,840
+OK.
+
+191
+00:13:26,840 --> 00:13:28,840
+Fair value gap.
+
+192
+00:13:28,840 --> 00:13:32,840
+Initial one here drops down, hits the order block, which is that blue line here.
+
+193
+00:13:32,840 --> 00:13:34,840
+It bounced up into the fair value gap.
+
+194
+00:13:34,840 --> 00:13:35,840
+This is what I was suggesting.
+
+195
+00:13:35,840 --> 00:13:37,840
+This is going to be the main one.
+
+196
+00:13:37,840 --> 00:13:45,840
+So it's a run on liquidity, drop down, start to drop even lower, hit an order block, then
+
+197
+00:13:45,840 --> 00:13:47,840
+rallies up, hits the fair value gap.
+
+198
+00:13:47,840 --> 00:13:51,840
+That sets the stage for the decline down into the area I highlighted in advance.
+
+199
+00:13:51,840 --> 00:13:54,840
+I said this was the end of the road for the Bears.
+
+200
+00:13:54,840 --> 00:13:58,840
+Starts to rally, comes back down in, rallies once more.
+
+201
+00:13:58,840 --> 00:14:03,840
+Takes off, takes out Tuesday's high much more meaningfully, and rallies again.
+
+202
+00:14:03,840 --> 00:14:05,840
+Pulls back into an imbalance here.
+
+203
+00:14:05,840 --> 00:14:09,840
+After taking our target, and even continues to go higher from there.
+
+204
+00:14:09,840 --> 00:14:10,840
+OK.
+
+205
+00:14:10,840 --> 00:14:12,840
+So let's take a look at some of the trades.
+
+206
+00:14:12,840 --> 00:14:17,840
+You got the run here ahead of FOMC.
+
+207
+00:14:17,840 --> 00:14:19,840
+That I would not count.
+
+208
+00:14:19,840 --> 00:14:20,840
+OK.
+
+209
+00:14:20,840 --> 00:14:22,840
+That's a setup, but that's a gambler's setup.
+
+210
+00:14:22,840 --> 00:14:25,840
+It's before the FOMC announcement.
+
+211
+00:14:25,840 --> 00:14:29,840
+So we have the drop down, then the fair value gap here.
+
+212
+00:14:29,840 --> 00:14:31,840
+So that's trade one.
+
+213
+00:14:32,840 --> 00:14:34,840
+The return back to the fair value gap here.
+
+214
+00:14:34,840 --> 00:14:36,840
+That's trade two.
+
+215
+00:14:36,840 --> 00:14:38,840
+Drops down in below here.
+
+216
+00:14:38,840 --> 00:14:40,840
+You would close your short if it's a scalp.
+
+217
+00:14:40,840 --> 00:14:47,840
+Here is a long idea as a scalp to take us up into Basa liquidity resting above this high here.
+
+218
+00:14:47,840 --> 00:14:51,840
+And then into a fair value gap that sets up the short down into the objective I was looking for.
+
+219
+00:14:51,840 --> 00:14:54,840
+Now, right away some of you are thinking, man, I'm not Spider-Man.
+
+220
+00:14:54,840 --> 00:14:56,840
+How do you expect me to take all these trades?
+
+221
+00:14:56,840 --> 00:14:57,840
+I'm not, folks.
+
+222
+00:14:57,840 --> 00:14:58,840
+I'm not.
+
+223
+00:14:58,840 --> 00:15:05,840
+Any one of these things that I'm outlining here could be a specific setup that fits your unique model.
+
+224
+00:15:05,840 --> 00:15:06,840
+OK.
+
+225
+00:15:06,840 --> 00:15:08,840
+That meets the criteria that you're looking for.
+
+226
+00:15:08,840 --> 00:15:10,840
+Then it drops down here.
+
+227
+00:15:10,840 --> 00:15:11,840
+That's a buy.
+
+228
+00:15:11,840 --> 00:15:14,840
+And you can trade this here as an order block there.
+
+229
+00:15:14,840 --> 00:15:15,840
+Rally's up.
+
+230
+00:15:15,840 --> 00:15:18,840
+And it comes back down into your order block with these two down close candles here.
+
+231
+00:15:18,840 --> 00:15:21,840
+Because now this is where I said we were going to turn.
+
+232
+00:15:21,840 --> 00:15:23,840
+And I said that we were going to run Tuesday's highs.
+
+233
+00:15:23,840 --> 00:15:25,840
+And I sweep them like this.
+
+234
+00:15:25,840 --> 00:15:27,840
+It's going to run them.
+
+235
+00:15:27,840 --> 00:15:28,840
+OK.
+
+236
+00:15:28,840 --> 00:15:30,840
+So we ran right over top of them here.
+
+237
+00:15:30,840 --> 00:15:31,840
+So it rallies up.
+
+238
+00:15:31,840 --> 00:15:32,840
+Comes back down in.
+
+239
+00:15:32,840 --> 00:15:33,840
+Retracement.
+
+240
+00:15:33,840 --> 00:15:34,840
+Rally's again.
+
+241
+00:15:34,840 --> 00:15:35,840
+Small little imbalance.
+
+242
+00:15:35,840 --> 00:15:37,840
+You can be a buyer there.
+
+243
+00:15:37,840 --> 00:15:38,840
+Rally's.
+
+244
+00:15:38,840 --> 00:15:39,840
+And again, here.
+
+245
+00:15:39,840 --> 00:15:45,840
+This is one that I didn't obviously mention or see because I stopped recording as it ran
+
+246
+00:15:45,840 --> 00:15:47,840
+through here on our objective.
+
+247
+00:15:47,840 --> 00:15:48,840
+OK.
+
+248
+00:15:48,840 --> 00:15:50,840
+And I think that is going to be it.
+
+249
+00:15:50,840 --> 00:15:56,840
+So I don't want you thinking this is an invitation for you to try to trade FOMC or like a non-farm
+
+250
+00:15:56,840 --> 00:15:57,840
+payroll event.
+
+251
+00:15:57,840 --> 00:15:59,840
+They're very, very risky.
+
+252
+00:15:59,840 --> 00:16:01,840
+Extremely risky.
+
+253
+00:16:01,840 --> 00:16:05,840
+But they're really fun to go back into and study from a hindsight perspective or if you
+
+254
+00:16:05,840 --> 00:16:06,840
+can watch it live.
+
+255
+00:16:06,840 --> 00:16:12,840
+It's a wonderful case study that we can look at how liquidity is taken, how it runs to
+
+256
+00:16:12,840 --> 00:16:17,840
+the other extreme of the range and how it starts to deliver institutional order flow.
+
+257
+00:16:17,840 --> 00:16:22,840
+All the down close candles should be supporting price as it goes up and running out Tuesday's
+
+258
+00:16:22,840 --> 00:16:24,840
+high in a much more meaningful manner.
+
+259
+00:16:24,840 --> 00:16:26,840
+Hopefully you found this one insightful.
+
+260
+00:16:26,840 --> 00:16:28,840
+Until next time, be safe.
+

@@ -1,4 +1,2 @@
 
-# Ignore bulky media
-transcriptions/
-yt_audio.*
+# Large media is tracked via Git LFS (.gitattributes) — not ignored

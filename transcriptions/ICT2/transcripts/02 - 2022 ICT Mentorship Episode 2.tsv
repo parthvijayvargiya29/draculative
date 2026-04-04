@@ -1,0 +1,692 @@
+start	end	text
+0	17800	Alright folks, well, we're here.
+17800	21000	So technically this is the first teaching.
+21000	24760	I gave you guys an introduction video obviously, if you haven't watched that one yet, go to
+24760	29340	the playlist on my YouTube channel and please watch that one because it will help at least
+29340	34580	establish the, in my opinion, the proper expectations.
+34580	37260	That way you understand what you're getting involved with here.
+37260	43100	And at least it gives me a chance to kind of like break the ice and show you the contrast
+43100	47060	of what you may be expecting versus what I intend to deliver.
+47060	53540	Alright, so this first installment is going to be elements to a trade setup.
+53540	61140	Alright, so coming out of the gate, I just want to let you know that this is predominantly
+61140	68300	going to be a futures index trading mentorship, okay?
+68300	76660	The idea is going to be presented in the scope of paper trading on TradingView.com.
+76660	81780	But what you're looking at here, this is thinkorswim's live data.
+81780	87100	These are actual executions I made today and I want you to compare and contrast with what
+87100	94060	you see on YouTube and other educators where they'll tell that they can do this and they
+94060	95060	can do that.
+95060	98980	But really, I want you to compare and contrast what you see here.
+98980	106700	Alright, so we're looking at intraday price action for Nasdaq e-mini futures and this
+106700	111580	is actually the main focus of this mentorship, okay?
+112100	117580	I believe that this market is worth studying.
+117580	128020	I believe it is not just limited to Nasdaq, but I believe it's useful to learn as a trader
+128020	134300	that views obviously the e-mini S&P, the e-mini DAO future and the e-mini Nasdaq.
+134300	141300	Now e-mini Nasdaq is a little bit faster, a little bit more aggressive and even with
+141300	142860	that you can still trade it.
+142860	149780	So I want you to think about what it means to watch price action and understand what
+149780	151740	it's likely to do before it does it.
+151740	155260	Now I'm not promising you're going to be able to do that right out of the gate.
+155260	162500	What I'm going to show you is the compare and contrast to how I can trade versus what
+162500	169180	I'm promising to teach you in this mentorship, how to find specific setups in your demo account
+169180	171060	or your paper trading account.
+171100	175100	I'm not trying to entice you to trade with live funds, okay, so that way we know this
+175100	177140	going in.
+177140	183020	The teachings will be predominantly through the scope of TradingView.com's paper trading
+183020	186940	module or just hindsight data.
+186940	191740	Now I already know some of you are, oh, here we go, the hindsight guy.
+191740	197140	Well what you're looking at here is actually live executions from today, okay?
+197140	203100	Now I want you to think about if you were able to trade a micro account and you were
+203100	210100	trading the NASDAQ and you were able to capture just one of these moves, which one would you
+210100	213900	like to learn how to find?
+213900	217260	Obviously you'd probably look at this and think, well I'd like to do all of them, but
+217260	223180	I want you to think about which one really stands out off the entire chart and this is
+223180	225100	a one minute chart.
+225100	227020	Which one really stands out?
+227020	233740	Now I'll give you a moment, you can pause the video and unpause it when you're ready.
+233740	236740	Some of you folks never ever pause it.
+236740	243700	Alright, so obviously you can see how the market moves from here, okay?
+243700	249580	Two orders executed here, whenever you see this, this is actually a reversal, so if there
+249580	255300	is a trade on long, it'll reverse and take you the other direction, okay?
+255300	263860	And then this one here, this is a reversal as well, then another close, and then another
+263860	271220	long entry, the exit, a short entry, and then the cover, okay?
+271220	275140	I'd like for you to consider what it would take for you to find consistency and how many
+275140	283660	handles, how many full handle moves in an index, futures contract, that would satisfy
+283660	284660	you.
+284660	290860	A full handle, that's essentially four ticks, the minimum fluctuation in these markets.
+290860	295420	An example would be if you were trading the E-mini S&P and you were trading obviously
+295420	302620	the 4-4-5-0 level and you went long, if it went to 4-4-5-1, that's a full handle, okay,
+302620	308660	or four ticks, or four times $12.50 or $50 per handle.
+308660	314500	The NASDAQ is $20 per handle, so it's slightly different, but it's faster.
+314500	319540	It moves a lot more, a lot more handles, a lot more aggression.
+319540	327020	Now it doesn't always move faster, sometimes we'll have a lethargic price action in this
+327020	334620	indice or another out of the three, that would be the S&P, the NASDAQ, and the DAO.
+334620	338340	I personally don't trade the DAO that much, but there's a lot of my students that love
+338340	343100	trading the YM, but YM is the symbol for the futures contract.
+343100	349420	And these three markets have the luxury for you that may not have the capability to put
+349420	355460	up with like $17,000 margin if you were going to trade one full contract of the NASDAQ futures.
+355460	358660	Most brokers, unless you're using a discount broker, they're going to require you to have
+358660	362460	deep pockets in the sense that you're going to have that about $17,000.
+362460	369220	And about $12,000 and a half for an E-mini S&P full futures contract, okay.
+369220	376940	You take basically a fraction of that and you can trade a micro on each one of these
+376940	383060	markets, but obviously it reduces the number of the tick multiplier because you're trading
+383060	386420	with a lot less technically leverage.
+386420	393620	So I'm going to get into all that, but I just kind of want to begin the conversation informally,
+394620	401300	show you what it is that I do versus what other people do, okay.
+401300	410300	So I'm not trying to point my finger at anyone in particular, but if you look around on YouTube,
+410300	415020	there are people out there that try to make a big stink about themselves and they'll try
+415020	419300	to show results that may or may not be real.
+419300	421440	I'm not here to disparage that.
+421440	423180	They could be actually trading a live account.
+423180	427780	I don't personally care, but anyone that trades on Thinkorswim, they can recognize this chart
+427780	429540	right away.
+429540	437080	I posted a results and updated reflection on the Thinkorswim or TD Ameritrade account
+437080	439780	and it's on my community tab.
+439780	443780	I promise I won't beat you up too much with the community tab, but that's my way of reaching
+443780	444780	out to you.
+444780	448860	So if you subscribe to the channel and then when you subscribe to the channel, you want
+448860	451980	to toggle all notifications.
+451980	457720	You want to click that little, I think it's like a bell icon, and then all notifications.
+457720	461700	That way, any time I post in my community tab, it'll let you know, otherwise it won't
+461700	462700	let you know.
+462700	468020	So it's my replacement to Twitter, which in my opinion, sucks.
+468020	478080	So if we look at the ebb and flow of all this here, where the market's trading up and between
+478840	483680	here and here, it's not a small number of handles.
+483680	486400	It's a pretty respectful amount of handles.
+486400	492740	It's not a couple, it's not a handful, and then up here, it's a reversal and it comes
+492740	495120	back down and I buy it back here in reverse.
+495120	501040	So I'm selling short here and I'm buying long here.
+501040	506460	740 to 720, that's 20 handles.
+506460	512220	Going long here at 720, I'm abbreviating the number just for brevity's sake.
+512220	516660	Getting out at 732, 12 handles.
+516660	525020	Then going long here, 756, and then getting out at 784.5.
+525020	531680	Then going short at 798 and covering at 675.
+531680	536660	So I'll ask you, which one of these trades do you think is the one that you want to learn?
+536660	542120	Again, putting all aside the idea that you probably want to do all of these, but I'm
+542120	544500	not promising you that.
+544500	551100	I'm going to take you into how to find this setup here.
+551100	552260	Notice the number of handles.
+552260	556820	I'm not promising you to get this many handles, but the setups and the logic behind it will
+556820	560860	help you find these types of frameworks.
+560860	563400	The basic framework is the foundation to a trading model.
+563400	567400	So you have to have an understanding of what it is you're looking for.
+567400	572800	The only thing I'm introducing tonight is the idea of what it is I'm promising to educate
+572800	576760	you with so that way you can go in and find these setups on your own.
+576760	582960	You will not need to be a slave to some kind of black box system.
+582960	587560	You don't need to be a part of some kind of signal generating gimmick.
+587560	589600	You don't need to be a part of a signal service.
+589600	593200	You can find these on your own, independent.
+593200	595620	That's exactly what I'm trying to frame in all of my students.
+595620	599620	I do that with my mentorship students that paid me for education.
+599620	601620	Now here you are in my YouTube channel.
+601620	603380	I'm telling you the same thing.
+603380	604940	I'm teaching independence.
+604940	608260	That way you're not requiring any hand holding by me.
+608260	611740	Once you understand the rules and you go through the processes and things I'm going to teach
+611740	617740	you how to practice with, you will not need anything except for the chart itself.
+617740	618740	That's it.
+618740	623620	That's how, in my opinion, and you can argue with this if you want, but I could care less
+623620	628100	if any of you would challenge the idea that independent thinking is not the best way of
+628100	629100	doing it.
+629100	631620	You want to be able to be unshackled.
+631620	636380	If you're part of a signal service or if you're part of an approach that requires you to use
+636380	642980	a black box system, you're kind of held captive, aren't you?
+642980	649420	If you look at this, this chart is clean except for these little bubbles that actually show
+649420	651540	you the transactions.
+651540	662740	You don't really get any kind of distortion from your reading of price action.
+662740	666700	I don't have a lot of graffiti on the chart, but the main takeaway here is I want you to
+666700	672660	understand that I don't hunt for three or five handles and consider that legendary.
+672820	679420	Now, can you be profitable if you take high frequency trades and you do these types of
+679420	680420	trades?
+680420	681420	Absolutely.
+681420	682420	That's what algorithms do.
+682420	683420	Algorithms do that.
+683420	689540	But I'm trying to show you, by contrast, that there is a way that you can find setups that
+689540	696060	are outside that parameter of very small little handles and doing lots of contracts.
+696060	700980	If you're looking at this here, and this was, say, your trading, and you're trading a Nasdaq
+700980	707140	micro account, you're not making a lot of money on these swings.
+707140	713020	I'm not making a lot of money on these swings, but I'm able to find these swings, and it's
+713020	716780	not these small little increments.
+716780	721600	I'm going to teach you skill sets that focus primarily on this.
+721600	724700	You want to find a nice price lag intraday.
+724700	730580	I'm not promising you how to buy, sell short, buy, sell short, buy, sell short.
+731540	732540	That's mine.
+732540	733540	Okay?
+733540	734540	I'm not teaching that.
+734540	737700	And then some of you are like, oh, you're a jerk, you're this, you're that, whatever.
+737700	738700	I didn't promise that.
+738700	743100	That's why I set the stage in the first introduction video, so that way we know what it is I'm
+743100	744920	teaching you.
+744920	748460	If any one of you here don't want to learn how to take this type of trade, you're welcome
+748460	753060	to not continue and turn this video off and go watch whoever, okay?
+753060	759040	But I think if you give it a chance, you'll find some amazing things that bring clarity
+759040	761800	to reading price action.
+761800	768840	All right, so we're looking at the NASDAQ Futures March delivery contract, and this
+768840	772800	is a TradingView chart, and if you've never used TradingView.com, the way you would pull
+772800	779320	this symbol up is NQH2022, okay?
+779320	781280	And this is a weekly chart.
+781280	787560	And I want you to think about each week before the new trading week begins, preferably on
+787600	789800	the weekend, okay?
+789800	793960	The idea is you want to try to get a read on what you think that next weekly candle
+793960	794960	is going to do.
+794960	798240	Is it going to go higher or is it going to go lower?
+798240	802560	You're not trying to predict the close of the weekly candle.
+802560	804000	That's important, okay?
+804000	809240	You just want to see before this weekly candle opened up, all we had was this indecisive
+809240	811240	candle, okay?
+811240	816840	Do you think that this candle that would have formed and opened here is more likely to go
+816840	819920	higher or lower?
+819920	825120	Obviously, with the benefit of hindsight here, but I can tell you, all of my students know
+825120	828200	we've been looking for lower prices, and I'll just give you a quick short list as to
+828200	829880	reasons why.
+829880	830880	Number one, seasonality.
+830880	835200	Okay, seasonal tendencies, it tends to go down around this time anyway.
+835200	839640	We also have discussions about how the Fed's going to raise interest rates.
+839640	841420	Stock market does not like that.
+841420	843400	We're also in earnings season.
+843400	849720	There's a lot of volatility because of earnings, and those factors plus the underlying tone
+849720	854560	of the marketplace, which I'll show you when we get into the daily chart, it's just, well,
+854560	858760	it's heavy, and this is where it was going to draw to, okay?
+858760	862680	Did I expect this entire range to be delivered in one week?
+862680	864520	No, that's not important.
+864520	870720	The point is I'm expecting the weekly candle to expand on the lower end, okay, or go down
+871000	874480	and gravitate towards this low, which it hasn't broken yet, but I think that's what we're
+874480	877880	probably going to aim for on Sunday's opening, going into Monday's trading.
+877880	884440	So that's where I think it's drawing to, and that's the component I want you to focus on
+884440	885560	with your analysis.
+885560	887520	What is the market likely to draw to?
+887520	894520	When I say draw to, think of it as price being a paperclip, okay, and then you have this
+894520	901520	magnetic impulse that specific price levels and seasonality, okay, will put on price.
+905840	911720	It'll cause price to gravitate towards certain levels, and the measure of speed and magnitude
+911720	915820	that it moves to get to these levels, you learn that over experience.
+915820	917780	That's not something I can transfer.
+917780	922540	It's something you have to practice and see and study, and you get a rhythm for it, okay?
+922540	926360	Every educator knows what I mean by that, and every student that's been trained successfully
+926360	929980	by any other educator will not understand exactly what I mean by that.
+929980	931100	You just get a feel for it.
+931100	932100	It's experience.
+932100	935340	There's no way of defining outside of that.
+935340	939460	In the early stages of your development, you want to at least try to focus your attention
+939460	941620	on where that weekly candle is going to do.
+941620	943180	Now here's the thing.
+943180	948300	It may start the first half of the week, or maybe just one day expand lower, and if you
+948300	951760	get it set up in that, that's it, you're done.
+951760	954720	That's how you start working towards consistency.
+954720	961240	No student ever should try to try every single session, every single day, because the only
+961240	965360	thing you're doing is building an expectation that you're going to be able to do this every
+965360	970520	single day properly, and then if you do get a run of profitability, as soon as you get
+970520	975720	a losing trade, it's going to blow your mind, and you're going to want to correct it quickly,
+975720	979400	and you're going to start making irrational decisions, and then you enter that loser cycle
+979400	982000	I've talked about many times in the YouTube channel.
+982000	989040	So the only thing you're looking for is a likely movement higher or lower based on the
+989040	990040	weekly candle.
+990040	992800	Okay, that's all you're doing.
+992800	996480	That sets your initial bias for the week.
+996480	1001200	On the daily chart, you're looking for swing highs and swing lows to get your liquidity,
+1001200	1007080	and the majority of your trading and the draw on liquidity, what makes the market go higher
+1007080	1010640	or lower, it's predominantly found on this timeframe.
+1010640	1016880	Okay, so the majority of your analysis should really be linked to this timeframe right here.
+1016880	1021200	You have to have an assumption, whether you're going to be expecting that weekly candle to
+1021200	1025520	expand higher or lower, that's your weekly bias, but then you have to go into the daily
+1025520	1030160	chart and figure out basically where you are in the grand scheme of things on that weekly
+1030160	1033320	range expanding higher or lower.
+1033360	1038080	Because we're looking for lower prices and we're looking for weakness, the expectation
+1038080	1043840	is we want to see every short-term low, like this would be a short-term low, this would
+1043840	1048360	be a short-term low, and underneath those lows is going to be sell stops.
+1048360	1050500	That's liquidity.
+1050500	1055840	When I say learn to start looking for where the market is going to draw to, it's drawing
+1055840	1059080	to one of two things.
+1059080	1064640	It's drawing to stops, which is liquidity, or it's running to an imbalance.
+1064640	1067240	Now what's that mean?
+1067240	1070920	Above old highs, buy stops.
+1070920	1074800	Below old lows, sell stops.
+1074800	1080040	Imbalances is something like this over here, where you have one single candle pass higher,
+1080040	1083080	and the previous candle's high is here, and the next candle's low is here.
+1083080	1088640	So it only went up one candle, nothing moved down to overlap with that same delivery on
+1088640	1090960	that price candle there.
+1090960	1093000	So in other words, that's an imbalance.
+1093000	1099640	It's only going higher and nothing else is here to offset that and efficiently deliver
+1099640	1101800	price on the opposite end.
+1101800	1109000	Now you've probably heard of the theory, auction theory, and folks hear me try to communicate
+1109000	1112240	some of these things and they'll run away with, oh, he's just talking about auction
+1112240	1113720	theory, and it's not.
+1113720	1117640	Just like when they see me do a rectangle or a box on a chart, and you'll see one in
+1117640	1120360	this video, it's not supply and demand.
+1120360	1122480	It's just what it is.
+1122480	1125840	You'll see it, and you'll know right away after you've been with me for a couple weeks
+1125840	1129000	that this is entirely unique and there's nothing else like it.
+1129000	1133760	And I'm certain the majority of you are going to fall in love with this model.
+1133760	1135880	So we're looking for lower prices.
+1135880	1136880	We're looking for an expansion.
+1136880	1141480	I'm using the benefit of hindsight, but I can promise you again, this was discussed.
+1141480	1145680	We were looking for lower prices in my paid group, and if I did not say that, I have a
+1145680	1147560	lot of students that are making YouTube channels.
+1147560	1150000	They are welcome to come out and say I'm a liar.
+1150000	1155960	So we're looking at the daily chart, and we're going to drop down into the hourly chart.
+1155960	1161320	Now what I have here is a framework for looking at the weekly range on an hourly chart.
+1161320	1168560	So all I did was beginning on midnight New York time, Mondays candle, and then Fridays
+1168560	1172880	close, and then the beginning of Fridays trading at midnight.
+1172880	1179320	Now what I'm delineating here is the fact that we had a nice sell-off on Thursday and
+1179320	1182920	the market went into consolidation overnight.
+1182920	1185360	Notice what happens here on Friday.
+1185360	1187440	This is that old low on the daily chart.
+1187440	1192160	That's what we're thinking and we're assuming that it's going to draw to because that daily
+1192160	1199160	chart, there's lots of liquidity and large fund traders, large institutional traders,
+1199200	1206200	institutional mindset investors will be looking at these old lows and old highs, and liquidity
+1208840	1214320	providers will be looking to take business in around these same levels.
+1214320	1219880	So if we know that this level down here is the old daily low, again I'm going to take
+1219880	1224640	it back up to the chart on the daily chart, that's this low right here, by dropping down
+1224640	1226880	into the hourly chart, that level is here.
+1226880	1232800	All I'm doing is transposing those daily levels right to this hourly chart.
+1232800	1238640	The entire week has been bearish, it's been going lower since the beginning.
+1238640	1241740	Then we had consolidation in here.
+1241740	1246280	The market creates this short-term high and this short-term low.
+1246280	1248280	What rests above that short-term high?
+1248280	1251240	If you've taken notes and been paying attention, it's buy stops.
+1251240	1253560	What's resting below this low here?
+1253560	1255100	Sell stops.
+1255100	1257220	Watch closely.
+1257220	1261100	The market trades down initially and takes out the sell stops.
+1261100	1264160	Why would it do that first?
+1264160	1266740	This is inducing shorts.
+1266740	1269460	So it engineers liquidity.
+1269460	1276460	Even if the idea is that they want to take the market down to this level, if it's been
+1276740	1283740	consolidating, I like to see them do this type of move here, where it drops down first,
+1283960	1285940	it's kind of like a sucker play.
+1285940	1289940	Anybody that has a sell stop below here, they want to sell on weakness, they're going to
+1289940	1291440	get tripped into the marketplace.
+1291440	1296540	So now they're triggered in short and then they start doing a run against those traders
+1296540	1300500	and against those that were already short from this high.
+1300500	1302180	So what are they doing?
+1302180	1308640	The market's being driven higher and the algorithm's going to attack that buy stop liquidity pool.
+1308640	1310260	Why would they want to do that?
+1310260	1315060	For one, it's going to punish those individuals here that went short.
+1315060	1322060	When it drives above this high here, it sends all those buy stops into market orders, flooding
+1323180	1324580	the marketplace.
+1324580	1331580	That gives a huge influx of willing buyers at a high price, which is the perfect counterpart
+1331580	1334740	to smart money that wants to sell at a high price.
+1334740	1337560	Remember, the market wants to go down here.
+1337560	1344080	So when it drives up to here, those buy stops are the counterparty or the other side of
+1344080	1349360	a smart money trader that's wanting to go short because they're going to sell short.
+1349360	1352720	They got to sell it to somebody who wants to buy at a high price.
+1352720	1355080	That's why the market does this.
+1355080	1361520	In your notes, you want to record any time a significant price move lower is expected,
+1361520	1366280	always anticipate some measure of a stop hunt on buy stops or short-term high being taken
+1366280	1367080	out.
+1367080	1371480	Obviously, it's reversed when you're looking for higher prices.
+1371480	1376440	Generally, you'll see a short-term low taken out and sell stops taken before you see a
+1376440	1380720	very pronounced rally higher.
+1380720	1381720	Don't take my word for it.
+1381720	1386760	Go through to your charts and you'll see it's actually occurring almost on a daily basis.
+1386760	1391980	So we're going to drop down into a 15-minute time frame, so that same old low level down
+1391980	1397140	here and that high that is mentioned on the hourly chart and the low on the hourly chart
+1397140	1400940	has now been defined with a small little line segment.
+1400940	1403660	So we have a trend line here and a trend line here.
+1403660	1405460	That's the extent of a trend line.
+1405460	1406460	That's it.
+1406460	1410300	I only use them to highlight to my students, these levels are not on my chart.
+1410300	1414100	I'm watching a naked chart.
+1414100	1417860	You while you're developing, you should have these levels drawn out on your chart because
+1417860	1422340	it helps you build and ingrain the idea that this is where liquidity is.
+1422340	1426940	It keeps you focused on that because it's easy to look at all these candles swarming
+1426940	1431700	if you have the luxury of watching it in life and you can lose sight of where you are.
+1431700	1437420	Once you lose your bearings, it's really confusing and this helps you keep those bearings in
+1437420	1438420	mind.
+1438420	1439420	What do I mean by that?
+1439420	1445220	Well, I mentioned how the market dropped down initially and that takes the sell stops out.
+1445220	1448180	So sell-side liquidity has been attacked.
+1448180	1452380	Traders are now tripped in going short if they sold on a break, trying to be a breakout
+1452380	1458060	artist and then the algorithms go right back up to an area where it's been cleanly delivered
+1458060	1459380	relative equal highs.
+1459380	1463700	See how this high here right before it dropped is basically the same high here.
+1463700	1464980	Notice that?
+1464980	1469380	So retail traders see this and they trust it as what?
+1469380	1470700	Resistance.
+1470700	1475940	So the books always say put your buy stop if you're going to go short right above and
+1475940	1477860	clear level of resistance.
+1477860	1483540	Well, these levels work for a short period of time but majority of the time you see this
+1483540	1486780	event right here and this is how I teach my students to go in and look for those types
+1486780	1490940	of events because what did I just tell you moments ago about looking for significant
+1490940	1492300	price moves?
+1492300	1497740	Before there's a significant price move of any real magnitude or importance, generally
+1497740	1502800	there's going to be a stop hunt that takes place right before that price delivery occurs.
+1502800	1504460	So what does it look like?
+1504460	1507500	You have relative equal highs, this high and this high.
+1507500	1509500	The market goes up when we're what?
+1509500	1511980	We're expecting lower prices on that weekly chart.
+1511980	1513420	We're on the last day of the week.
+1513420	1514780	It's already been heavy.
+1514780	1518780	It's weak and the only thing it's been doing is consolidate and the first thing it did
+1518780	1522060	was broke out to the downside tripping what?
+1522060	1524420	Traders in a breakout to go short.
+1524420	1529340	So now they have traders caught on the wrong side, offside and now they want to take the
+1529340	1533500	market up here where those buy stops are going to be resting for those that were smart enough
+1533500	1538900	to sell short here or here and didn't get out below here.
+1538900	1543460	So the larger pool of liquidity is going to be resting here because it's in sync with
+1543460	1548860	the downtrend and everybody that was short the day before, they seen this high form and
+1548860	1553460	once it broke below this low here, they all rushed and trailed their stop loss right above
+1553500	1559500	that and I understand if you're new and you think, well this is easy to explain in hindsight
+1559500	1562660	but I want to remind you, go back and look at the first slide I showed you.
+1562660	1564780	Those were actual entries.
+1564780	1569060	That's a live account through Thinkorswim, Charles Schwab, that was the clearing firm
+1569060	1572980	that did the brokers side of the business.
+1572980	1576860	So I'm not showing you a demo account, I'm not showing you paper trading, those were
+1576860	1577860	real entries.
+1577860	1582540	They were real reversals, the whole business but the main thing was I showed you that larger
+1582620	1587620	trade, this is going to be the framework that I'm teaching you how to find it.
+1587620	1592300	But this pool of liquidity, once this occurs, you want to drop down to your lower time frames
+1592300	1596140	and start looking for something specific and let's go into those lower time frames and
+1596140	1599340	find out what that is.
+1599340	1600340	Here's a two minute chart.
+1600340	1601820	Why a two minute chart?
+1601820	1605860	Well, two minute, one minute or three minute or five.
+1605860	1611780	Five minutes still has a lot of room for imbalances to occur underneath that time frame and what
+1611820	1612820	I mean by that.
+1612820	1620820	The one minute, two minute, three minute chart tends to be the best for finding the imbalances
+1620820	1622620	for indices.
+1622620	1623620	Don't take my word for that.
+1623620	1628300	If you're looking for high frequency setups intraday, the one, two or three minute chart
+1628300	1630100	are just beautiful.
+1630100	1632620	They just offer a real good clarity.
+1632620	1637680	The reason why, because the high frequency trading algorithms are operating on nothing
+1637680	1639180	really higher than three minutes.
+1639180	1645580	The majority of the time, they're like seconds, 15 second, 30 second, 45 second, 60 second
+1645580	1646580	intervals.
+1646580	1651820	What they're looking for are these small little imbalances and what does that look like?
+1651820	1654460	Well, we have that run on the buy stops here.
+1654460	1658980	Remember that old high here, the old high here, old high here.
+1658980	1661180	It runs right on through that.
+1661180	1667420	Once this occurs on that higher time frame, 15 minute time frame, you want to drop down
+1667420	1670460	to the lower time frames and I'm using the two minute chart because this is exactly
+1670460	1676380	what I was using to find that imbalance and trade off of it.
+1676380	1680500	The market creates a short term low here and then it breaks below that.
+1680500	1681500	This is key.
+1681500	1683860	This is called a break in market structure.
+1683860	1689260	Now the foundations and underlying framework is we're in a market that's what?
+1689260	1690260	Weekly bearish.
+1690260	1692940	We're expecting that weekly candle to expand lower.
+1692940	1695700	It's been expanding all week.
+1695700	1698500	We have momentum on our side.
+1698500	1703140	We have a consolidation that's occurred and we had a poor liquidity engineered with these
+1703140	1707260	relative equal highs and the market broke out to the downside first and then they ran
+1707260	1709940	on the highs.
+1709940	1713940	Once it went here, we don't rush in there and just go short because it went above the
+1713940	1715140	old highs.
+1715140	1720140	We're looking for some specific signature that tips its hand to you.
+1720140	1722500	I promise you, when you start going through your charts and it's going to be homework
+1723500	1726980	You're going to see this occurring almost every single day and if it's not doing it
+1726980	1729580	this way, it's doing it the opposite direction as a buy.
+1729580	1732020	Again, don't take my word for it.
+1732020	1735900	You're going to be flabbergasted.
+1735900	1741300	When you see how many times this thing forms every single week.
+1741300	1745780	It's many times throughout the intraday charts it creates this type of move.
+1745780	1749860	It runs the stops, then we have a short term low and then it breaks below it.
+1749860	1752620	Now we have a break in market structure.
+1752620	1757380	Once this low is broken, you're going to look for this little area here.
+1757380	1760340	That's that imbalance I mentioned in the beginning.
+1760340	1765140	What's happening is the market is going to go right up inside that area there and that's
+1765140	1766820	where you want to sell.
+1766820	1770660	If you don't sell there, you can drop down to a lower time frame one minute chart.
+1770660	1773420	If this was a three minute chart, you can go down to a one minute chart and look for
+1773420	1776540	that to occur on that time frame as well.
+1776540	1779580	Many times we'll form, if you're looking at a lower time frame, like say this was a
+1779580	1783820	five minute chart and you looked at a one minute chart, you'd find one down in here.
+1783820	1788180	It's a matter of scaling down in your time frames because once you have an underlying
+1788180	1794100	premise to the market now likely to go lower, it becomes an easy thing to look for these
+1794100	1796700	types of things.
+1796700	1802160	In your chart, once you're developing this idea and learning it, you're going to highlight
+1802160	1806100	this candle's low, this candle's high, and this right here is what I teach my students
+1806100	1808340	as a fair value gap.
+1808340	1811620	You don't have those in books, you don't have any of that kind of stuff out there.
+1811620	1818180	It's something I introduced back in 2016 and obviously a lot of people discovered how good
+1818180	1825020	it is and they try to make courses with it, but I'm going to not touch that right here.
+1825020	1830200	The idea is once it goes up into that imbalance there and once it does that, as soon as it
+1830200	1832680	enters that area.
+1832680	1838280	The algorithm that delivers price, now some of you may not know what that means and some
+1838280	1843080	of you may not even agree with it, you may think that this is made up or it's contrived.
+1843080	1847200	I promise you if you spend time with this, you're going to quickly come to the conclusion
+1847200	1851680	that there absolutely is an algorithm and it's manipulating the markets every single
+1851680	1856040	day, every single tick, it's completely controlled, period.
+1856040	1858080	You're led to believe it's buying and selling pressure.
+1858080	1863200	Now if I go back and use that analogy where it went down here first, then go up here,
+1863200	1867800	some of you may argue, see that's the buying and selling pressure, no it's not, it's liquidity.
+1867800	1871800	Now you may argue and say well we're arguing semantics, no, I'm telling you what's going
+1871800	1876600	on, this is the logic, this is how these markets book.
+1876600	1881740	Once you see these patterns over and over and over again, it's very easy to execute
+1881740	1885720	on them, but the impulse to want to do it the first time you see it because you've watched
+1885720	1889280	this video, that is going to be problematic for you.
+1889280	1893640	So you're going to have to do a certain number of weeks and months of back testing.
+1893640	1895800	There's no escaping that, you have to do it.
+1895800	1901280	Any skill set, any teacher, educator, system, whatever, okay, whatever they're going to
+1901280	1905720	give you, there's going to be some kind of growing period where you have to trial and
+1905720	1911240	error, fix the problems that you have about yourself and I've literally taken your attention
+1911240	1914400	to a very specific framework and setup, notice that?
+1914400	1917640	Some of you may think I'm still talking too much, but I'm taking you right into the heart
+1917640	1918900	of the matter.
+1918900	1922720	This is what it looks like, this is what you're looking for, okay, these are the fingerprints
+1922720	1927160	of that setup, these repeat.
+1927160	1932720	So if you know what they are and what those components are that make up this setup, you'll
+1932720	1934200	be able to find them.
+1934200	1939400	But focus on the imbalance after the market structure breaks, so this big candle here,
+1939400	1941660	it breaks down.
+1941660	1945260	Look at the next candle, it opens and trades higher and stops right there.
+1945260	1948800	So from this candle's low and this candle's high, when this candle starts trading, as
+1948800	1951860	soon as it opens and it runs right up into that, that's a short.
+1951860	1954720	You can go right in there and sell short, it'll be done.
+1954720	1957160	Now where's your stop going to be?
+1957160	1963760	Well you can put it above this high here or you can put it above this candle's high, whichever
+1963760	1966840	your risk parameters allow for, okay.
+1966880	1972480	If you're trading the micro, which is again, it's not a lot of money per tick, so the multiplier
+1972480	1974400	for that is very, very small.
+1974400	1981560	If you trade the larger full futures contract and if it moves 100 points and it can do it
+1981560	1983980	real quick, it can bring it pretty bad.
+1983980	1989040	So you may have the leverage to trade with a discount broker, okay, you may have the
+1989040	1993400	initial margin to trade with a discount broker, but you may not have the wherewithal and the
+1993400	1998880	skill set to navigate this market and that's the only thing I'm trying to provide here
+1998880	2002320	as an alternative because there's a lot of individuals out there that will promote the
+2002320	2005800	idea that you can go out there with a discount broker and just clean up.
+2005800	2008080	Yeah, if you know what you're doing.
+2008080	2013480	But you don't need a discount broker to be profitable, okay.
+2013480	2017000	Looking at this further, we're going to look at the logic in here and I want you to think
+2017000	2022560	about after this forms and you see that as your choice setup or entry.
+2022560	2026760	If it starts to move lower, you can still get in it.
+2026760	2032320	There's no reason not to think that you can't get in it here or in here.
+2032320	2038280	It's close to or in close proximity to where that area is as an entry.
+2038280	2043440	Once we take out a low though, once that occurs, then it becomes a matter of your chasing price
+2043440	2046840	and if you try to get in, especially if you like to use a market order, you may see it
+2046840	2050960	trade rate to this low and say, okay, now I believe it's going to go down, you put a
+2051240	2055000	market order to sell short and then slippage gets you down here and it creates a larger
+2055000	2058480	area of risk that you have to assume and it's just, it's problematic.
+2058480	2062560	You want to learn to trust going short when the market's going higher and that feels scary
+2062560	2063560	at first.
+2063560	2068360	But once you start seeing this pattern form, it becomes easy to trust it and in fact, you
+2068360	2069360	want to be doing that.
+2069360	2075760	You want to be selling short, expecting lower prices right when the candle's going up and
+2075760	2077920	retail traders can't grasp that many times.
+2077920	2082440	It's just like it goes against the logic because they think I got to have confirmation.
+2082440	2087240	All the books say I have to have confirmation and that's somebody that's coming in late.
+2087240	2089320	That's someone that doesn't have a read price.
+2089320	2094080	They can't really follow it and usually they're the people that will trade short with additional
+2094080	2095080	shelf sell stops.
+2095080	2099040	They'll put sell stops below the marketplace and then that's the momentum entry for them
+2099040	2101600	and it's kind of like a new brainer in fast markets.
+2101600	2105600	Yeah, it works, but if you don't know what you're doing, you try to do that in a market
+2105600	2111920	it's consolidating or about the reverse, it hands you your backside.
+2111920	2114800	If you're looking at this framework here and we've taken the buy stops, we have our entry
+2114800	2120160	pattern here, what would you be looking for as a downside objective?
+2120160	2126760	Well, I'm going to teach you the liquidity matrix and sounds pretty cool, sounds neat
+2126760	2128840	and all that, but watch what it is.
+2128840	2131000	This here is your range.
+2131000	2135300	This is the low of the day and this is the high of the day thus far.
+2135300	2139180	If we take that range and split it from the low to the high to get the midpoint, all this
+2139180	2142140	can be determined by a simple 50 level on a Fibonacci.
+2142140	2147180	So you drag your fib from this high down to that low or vice versa and have your 50 level
+2147180	2148540	highlighted.
+2148540	2155060	Then anything above that 50 level, this is referred to from an algorithmic stance as
+2155060	2157140	a premium market.
+2157140	2158900	It means it's expensive.
+2158900	2164660	Now markets can stay in a premium for a while and not go to a discount, which would be below
+2164660	2165660	the 50 point.
+2165660	2169820	Okay, 50 percent, anything down here is a discount.
+2169820	2174060	If you're bearish, if you're ever going short, you want to look at the previous range.
+2174060	2175180	Where are you at inside that range?
+2175180	2182060	So when this formed here, that little fair value gap, once that formed, you're thinking
+2182060	2189180	okay, we are in a premium so algorithms will want to go to a discount.
+2189180	2191180	That's the opposing side of the marketplace.
+2191180	2194220	So if it's going short here, it's driving the market lower.
+2194220	2195500	What does that mean?
+2195500	2198100	The algorithm is going to start pricing lower.
+2198100	2200900	You can have all the buyers in the world come in.
+2200900	2204980	If the algorithm is in a sell program and it's going lower, it does not matter.
+2204980	2208440	It's going to reprice lower and lower and lower and then what will happen is those buyers
+2208440	2213100	that may come in with a huge influx of volume, they're going to get crushed and they get
+2213100	2214100	squeezed.
+2214100	2217540	You ever hear that term, oh this is a bear squeeze, this is a bull squeeze?
+2217540	2220980	All that is an excuse for them not to know why the algorithm is doing what it's doing.
+2220980	2221980	That's it.
+2221980	2222980	That's all it is.
+2222980	2223980	It's an out.
+2224140	2226220	This is what's really going on.
+2226220	2231300	So the market is moving from this premium high, this specific entry point to a level
+2231300	2237020	below the 50 of this range, this low and this high.
+2237020	2242060	Now I want you to again go back and rewind the video once we're done and look at that
+2242060	2246540	execution page where I showed you my entries going back and forth, up and down, up and
+2246540	2251500	down and where I got out at, where I got in at.
+2251500	2258420	I want you to think about what below this level here, the 50 level, what is resting
+2258420	2259940	below here?
+2259940	2264540	Sell stops.
+2264540	2269100	So now think about the idea of someone like you and I that would see this ideal entry
+2269100	2270500	as a short.
+2270500	2272900	We have to sell to get in that short.
+2272900	2274700	How do we get out of that short?
+2274700	2278620	We got to buy it back or cover it by buying.
+2278620	2283500	Well we're going to find willing sellers at a low price relative to this point here.
+2283500	2288860	They're willing already sitting down there with their sell stops right below that low.
+2288860	2290780	Now look closely.
+2290780	2293340	What else resides right near that low?
+2293340	2296900	Do you see it?
+2296900	2300380	Pause the video before I show it to you because it kind of ruins the experience because if
+2300380	2305460	you find it and I don't tell it, it feels good.
+2305460	2308700	Right there is that imbalance I mentioned.
+2308700	2313220	It's only one single candle passing up and the previous candle is high and the next candle
+2313220	2314220	is low.
+2314220	2316180	That area right there is an imbalance.
+2316180	2322860	From this area here, it went down below the 50 level and attacked these sell stops and
+2322860	2324500	completely closed in this imbalance.
+2324500	2329900	So every point of this candle's high to this candle's low, that range with the candle only
+2329900	2336040	going up, that's a buy side imbalance.
+2336040	2342500	It has to have an equal delivery to be efficiently priced and booked by the algorithm.
+2342500	2345900	It goes down and completely closes it back in with down movement.
+2345900	2348340	Notice the candle on this here, it opens and then trades down.
+2348340	2354100	So it fulfills its role of balancing the buy side offering, now the sell side offering.
+2354100	2358260	So that is an efficiently delivered price move.
+2388820	2391420	You're not going to buy enough, you're not going to sell enough, there's always going
+2391420	2393580	to be some reasons why you didn't do something right.
+2393580	2395820	So don't beat yourself up about it.
+2395820	2400460	But if you can find elements like this repeating in the price action, can you agree with me
+2400460	2403780	that that is amazing precision?
+2403780	2409020	And this is the logic I used to do that trade, the very trade that I showed you that was
+2409020	2414140	the largest one in the example of saying which one would you rather learn how to do.
+2414140	2419940	I basically just handed you an ATM machine.
+2419940	2425180	This repeats every single week, every single week.
+2425180	2430580	Now I want you to count the number of the handles in this move.
+2430580	2436540	Let's say you got in at, well let's say you got in at 800, 14,800, it's starting to go
+2436540	2440860	down, you trust it, okay we're going to go short, ideally you want to enter as it goes
+2441100	2444580	into that, but it's going to take time for you to trust that.
+2444580	2450700	But let's say you got in at 14,800, if you got out down here, like I did, I exited as
+2450700	2457220	it went right to the top of that range right here, this range here, that's the top of it.
+2457220	2462940	Once it went below that, that was it for me, that closed the trade.
+2462940	2467580	Is that five handles, is that ten handles, is that twenty handles, is that thirty handles,
+2467580	2475740	is that fifty handles, no, it's over a hundred and some.
+2475740	2484540	Now let's assume for a moment that you get good at this, or I get the inclination that
+2484540	2489660	I want to go to some kind of a deep discount broker, and I go in and I do trades like this
+2489660	2496820	and I'm putting on 15 to 25 full futures contracts, what do you think the results are going to
+2496820	2509380	be, so not everything is going to be easy right away, and you're not going to see these
+2509380	2513780	things happen just because you sit in front of the charts, you have to study and you have
+2513780	2518860	to practice, and by experience of looking at old moves and watching real price action
+2518860	2524060	as best as you can, if you can't watch it live, TradingView has a replay button where
+2524060	2531460	you can watch the candles kind of form but they're a little stilted because it's not
+2531460	2536020	completely painting the candle, okay, and you can't practice with entering like that,
+2536020	2541380	you can only just study how price moved and gravitated towards certain levels.
+2541380	2547340	It's the best thing you can have, if you at least consider doing that much, that's good,
+2547340	2549860	but if you really want to take it to the next level and say you're running a business or
+2549860	2555620	if you're going to school or you have a job, and you can't watch the time frame around
+2555620	2561860	the opening of the index futures, and I like watching it around 8.30 in the morning New
+2561860	2566100	York local time to 11 o'clock, there's usually a setup in there that I'm going to be able
+2566100	2570140	to find, obviously you've seen I did multiple setups and executions today, but the point
+2570140	2575220	is this, that's like that sweet little spot in the morning that I focus on, I teach that
+2575220	2581460	in this YouTube channel, I teach it in my paid mentorship group, so you're getting real
+2581460	2585540	stuff here, it's not something that you can try and just make it up because this day worked
+2585540	2592900	out in my favor, my students recognize these things also, and these are simple elements
+2592900	2598700	that repeat, what you're looking for is a run on liquidity, buy stops or sell stops,
+2598700	2603980	if you're bearish, you're looking for buy stops to be ran, then a break in market structure
+2604180	2607500	lower, a short term low being broken, that's what it looks like right here, short term
+2607500	2613140	swing low, we have a candle high, I'm sorry candle higher to the left with its low here,
+2613140	2617580	then you have the low of this candle and the next candle is higher low than this one, so
+2617580	2623140	you have a swing low formed, if you have that and you have a break below that, if it happens
+2623140	2628020	that creates a gap like this, that's what you're looking for, when it trades up into
+2628020	2633460	that, you can go short, or if you want to use sell stops, you can use a sell stop in
+2633460	2638940	this candle here, in this let it trip you in and then use the high of that candle as
+2638940	2643540	your stop, that may be too wide for you, but I mentioned the logic around this is you're
+2643540	2648300	using a micro, micros aren't that big of a deal, it's not a lot of money, you're not
+2648300	2654340	risking a full futures leverage, it's very very small, so if you're looking at these
+2654340	2661620	types of setups and you can find them forming repeatedly over and over and over again and
+2661620	2667500	you study them, you're going to see that you don't need to get these little five handle
+2667500	2672300	moves, these little ten handle moves, you can make a living doing that, don't get me
+2672300	2678040	wrong I'm not trying to say that people cannot be profitable and wildly profitable, but when
+2678040	2686140	you learn how to do something like this and you're able to pull down this number of handles
+2686140	2691940	and then you have sound money management, nothing compares to it folks, these are the
+2691940	2696100	things that I use when you watched when I was on Twitter and I ran up the demo accounts
+2696100	2701980	really high, these are the types of setups I was using, these types of setups and as
+2701980	2706860	the account grew it was more demo account leverage, well I'm not using a demo account
+2706860	2711620	right now, I'm showing you with a think or swim and anybody that knows think or swim
+2711760	2716420	when I'm showing you those screenshots, the paper trading shows as orange, everything
+2716420	2724420	on that page is orange, when it's a live account it's green, also here's the rub, with a demo
+2724420	2731660	account it's just demo, demo demo demo, I'm not trying to promote the idea that you're
+2731660	2736900	going to get rich, notice that account hasn't gone bonkers, it hasn't ran up to a million
+2737780	2744620	because this mentorship is to hopefully inspire you to pick up a skill that if you deem it
+2744620	2749460	useful and you decide at your own discretion and your own timing and you assume that risk
+2749460	2752940	on your own, because I'm not going to tell you to do this, if you decide to get really
+2752940	2758660	good at this and you put money behind it, that's a skill set that could, I'm not promising
+2758660	2763620	but it could alleviate some of the problems with what I believe is coming in terms of
+2763620	2768020	financial hardship, not just in America but everywhere, jobs are getting harder and harder
+2768020	2774080	to have, the economy's a mess, so how do we answer that, how do we get another income
+2774080	2778420	stream coming in, this is in my opinion, this is one of the ways that you can at least investigate
+2778420	2783780	the idea of doing it, alright so I'm going to give you some homework in closing, I want
+2783780	2789020	you to go through all of the e-mini futures contract charts, okay, just like I showed
+2789020	2793020	you here, these time frames, go back and look at the presentation and see what the time
+2793020	2798060	frames I gave you, listen to what I gave you in terms of audio commentary, that is
+2798060	2803740	enough, in fact I gave you a ton and it may have your head spinning if you're brand new
+2803740	2808460	to me or if you're brand new to technical analysis or trading, it may feel like it's
+2808460	2814740	too fast, do not send me an email, I promise you the lessons I have planned will help eliminate
+2814740	2820220	and answer majority of the things you're going to ask, just try to study and keep up with
+2820220	2825440	the pace that I'm going to put you through, which isn't going to be all that bad, but
+2825440	2830060	as we progress deeper into the teachings, many of the questions that are going to come
+2830060	2834780	up or when you start going into the homework assignment, where you're looking at old data,
+2834780	2837860	an intraday chart is anything less than a daily chart, so like a four hour chart, that's
+2837860	2842140	intraday, one hour chart, that's intraday, five minute, three minute, two minute, one
+2842140	2847340	minute, all those time frames are intraday, what you're going to be looking for are breaks
+2847420	2853620	in market structure after a pool of liquidity, buy stops or sell stops have been taken in
+2853620	2859220	an opposing direction of your weekly expected range, in other words are you expecting higher
+2859220	2863360	prices or lower prices on weekly range, so if you're looking for lower prices, your focus
+2863360	2869680	is on a run above an old high, once that forms, then you're looking for a break in market
+2869680	2874660	structure on a lower time frame, once that occurs and you have an imbalance, that's your
+2874660	2881020	trigger, okay, and then you split that range that was created, find out where the 50% is
+2881020	2885640	and then if you're selling short, you want to find something like an old low or an imbalance
+2885640	2892140	to aim for as your target and you want to get the closest target, don't try to get fancy
+2892140	2895620	and say okay, well I think it's going to go down to that lowest low and try to use that
+2895620	2901900	for your exit, because sometimes these markets can deny you that, so low hanging fruit is
+2901900	2908080	how I teach, you want to have the easiest target and then allow the market to go farther
+2908080	2916580	and you just not be a part of it, it's okay, is 125, 130 handles in an index not good enough,
+2916580	2920940	I think it's good enough, but I'm probably just biased, but the homework assignment is
+2920940	2927020	again you're going through the charts, using the logic I framed in this introduction lesson
+2927020	2929980	looking for break in market structure, I also have lessons in this YouTube channel that
+2930020	2933380	talks about market structure breaks and things like that and then you're going to look for
+2933380	2938780	the imbalance in price, which is that fair value cap, then you're going to determine
+2938780	2943320	where an opposing higher low resides, then log and back test the number of handles you
+2943320	2947940	see in hindsight examples, in other words, how much did it offer and you're going to
+2947940	2952260	get a collection of doing that, the next lesson I'm actually going to show you how to go back
+2952260	2958340	into the charts and look for them, how to log them in your journal and give you more
+2958340	2963460	insights about how you can find these setups that repeat every single week, okay, so again
+2963460	2967220	I'm going to build on this foundation in the next episode, the next episode will be next
+2967220	2972140	Tuesday and the time upload will be 10 o'clock New York local time, hopefully you enjoyed
+2972140	2975020	this one, until I talk to you next time, I wish you good luck and good trading.

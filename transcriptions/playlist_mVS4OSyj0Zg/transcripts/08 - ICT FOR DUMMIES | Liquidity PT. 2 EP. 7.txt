@@ -1,0 +1,869 @@
+Welcome to ICT for Dummies Episode 7
+Liquidity Part 2
+Highest Probability Liquidity Pools
+Highest Probability Liquidity Pools
+Yo yo, check it, we gon' do this session
+I don't even want to go back to my brethrens, listen
+We going to the Probability Liquidity Pools
+Don't be asking me where I'm going because I'm gonna do
+Liquidity
+She wanna be with me
+Alright yo, cut this shit right now
+Stop it!
+Liquidity Part 2, Highest Probability Liquidity Pools
+Today we're going to be going over all the different types of liquidity pool
+In the first liquidity video we went over the basic bi-side liquidity and cell-side liquidity
+Which is essentially the foundation of liquidity
+But there is way more to that than just bi-side liquidity and cell-side liquidity
+So hopefully you can learn something new with this video
+And show you how to truly identify the different types of liquidity
+Whether it is time liquidity, whether it is internal liquidity, whether it is external liquidity
+There's a whole lot of it
+Whether it's your mom's liquidity, I'm just kidding
+Anyways, so let's start off pretty simple here
+Alright guys, the first type of liquidity that we're going to go over is session liquidity
+Why is this important?
+It's because price often reacts very strongly to previous session highs and lows
+This is where the major high and major lows are going to be of each session
+For example, on the left side here you can see we have Asian session
+So you have the entire Asia session and you can see here's the major high
+And here's the major low
+There is going to be a lot of liquidity resting in both the high and the low
+And so for example when a new session starts
+You can see London session for example
+Once it sweeps Asia highs
+It'll typically get a reaction and then trade to maybe Asia lows
+Same thing will apply once you're trading New York session
+You want to be looking out for these highs and lows
+So very often when we're trading New York session
+We're looking to target maybe London highs or maybe London lows as our external liquidity
+Why? Because there is a lot of liquidity resting in both those highs and lows
+Okay, so the indicator I have here is ICT kill zones and pivot
+So this marks out these sessions that we have
+For example here we have Asia session and we have London session
+And this shows us our Asia session high and also the Asia session low
+This is the lowest point at which Asia session has traded to
+And this is the highest point
+And at these two levels there are going to be a lot of liquidity resting there
+A lot of stop losses resting there
+Just think about this logically
+If someone's taking for example a short during Asia session
+They're most likely putting their stop loss at that Asia session high
+Or if they're taking a long at that Asia session low
+Considering that these are both incredibly prominent liquidity pools
+What can you expect when previous session trades to either these high or these lows
+You're going to expect rejection
+Now let's look at London session
+Let's see what happens here
+As you can see during London session
+We went ahead and ran up to Asia highs
+After we swept Asia highs
+What happened?
+We got displacement lower and then we ran to London lows
+And as you guys have heard us say before
+Price is always doing one of two things
+It's either rebalancing ranges or it is seeking liquidity
+In the case of session highs and lows
+It will typically run from one session high to another session low
+Or from one session low to another session high
+Understanding the importance of previous session highs and lows
+Is going to help you determine your bias every single day
+So if we're going into New York session
+And we see that London highs has been swept
+We can expect price to now trade to London session lows
+And you're also probably wondering
+What are these other sessions on the chart
+So for example
+If I'm trading during New York PM session
+There's going to be resting liquidity
+At what?
+The previous session right?
+So lunch hour or New York AM session
+We went over these sessions guys in the last video
+So if you need to look back at that
+To see what times these sessions are happening at
+Go look back at that other video
+But as you can see here
+Asia session lows
+That's a draw on liquidity
+Asia session highs
+That's a draw on liquidity
+And your goal as a trader
+Is to always find the next draw on liquidity
+If you're trading London session for example
+On this day
+And you see okay
+We just took out Asia session highs
+We could potentially be looking for shorts to wear now
+Asia session lows
+That's how price is going to play out most of the time right?
+We sweep Asian highs
+London session trades to Asia session lows
+Now let's look at New York session for example
+After New York session is done
+What do we create?
+We create these extreme lows
+And these extreme highs
+This is New York session AM high
+New York session AM low
+What happens here?
+Price takes out New York session AM low
+And then runs to New York AM session high
+The only thing you really need to be taking out of this
+Is that you always want to be referring to previous session highs and lows
+To find the next draw on liquidity
+Alright guys
+Once again
+Just to emphasize how these draw on liquidity works
+You can think about it like this
+Let's say you have Asia session here
+London session here
+And now we're currently in New York AM session
+If we're trading New York AM session
+And we see that price
+During New York AM session runs to London lows
+And now this extreme low from London session has been swept
+We can now anticipate
+That there will be rejection at this level
+If other confluences are in line of course
+And look to see if longs
+Will present themselves towards where?
+London session highs right?
+And guys note that this doesn't always need to happen
+Just because if we sweep one of the highs or the lows
+Of that session
+Does not mean that we need to trade back
+To the other side of the range
+But it is typical of price
+And you can't expect that reaction to happen
+Like Patrick was saying
+If we start getting that structure higher
+Or if we start getting that structure lower
+And actually breaking through this low
+Then we can expect this high just not to get traded back to
+Yeah so like Blake was saying
+If you notice that during New York AM session
+We go ahead and displace through London lows
+And we're not getting a reaction out of it
+What can you expect?
+Well you can probably expect price to continue
+Trading lower during New York AM session
+Rather than trading back to a previous session high
+So truly the importance of all this
+Is that if you understand
+How strong these liquidity pools are
+In these previous session highs and lows
+You can identify whether or not price wants to react from them
+And reverse or continue in that direction
+Alright guys so the next major draw on liquidity
+That we have is going to be
+Previous day high and previous day low
+You can also see this getting referred to as
+PDH or PDL
+Now how you actually find these draws on liquidity
+Is just by going on the daily candle right here
+So if you just go to your timeframes
+If you click on the daily candle
+This previous day low candle and this previous day high candle
+Is all going to be draws on liquidity
+Alright so looking at this range right here guys
+We can mark out our previous day high and previous day low
+So this is the candle from yesterday right here
+This is previous day high
+And then this is our previous day low
+And as you can see right here guys
+The previous day high is just the highest point
+In which price has traded to
+For that day
+And the previous day low is the lowest point
+In which price has traded to for that day
+It's going to be a very high probability draw on liquidity
+When you're going into the next day
+Because at the end of the day this is going to help you
+Find your daily bias
+Where the daily candle is actually expanding towards
+And as you can see here guys we ended up forming
+Some bullish structure towards this previous day high
+We ended up taking it out and then displacing back lower
+And I want you guys to remember
+That liquidity pools can not only be areas
+Where you want price to go to
+But also where areas that price can react
+Off of and trade the opposite direction from
+So for example here
+You could be taking longs towards this draw on liquidity
+Because we are in this bullish structure
+But then after that once we get that reaction
+Off of that liquidity pool we start forming
+Structure to validate a bearish bias right
+Then shorts could be valid
+A good practice to have every single morning
+Just going into your trading session would be
+To mark out something like previous day high and previous day low
+So you know the range that you are trading within
+Previous day high and previous day low is going to serve
+As an external liquidity point right
+These are never going to be your first TPs
+Previous session highs and previous session lows
+Previous day highs and previous day lows
+These shouldn't be your first TPs
+A general rule of thumb is that your first TPs should be internal liquidity
+Now previous day high and previous day low
+Like every other liquidity pool guys
+Doesn't necessarily have to get traded to right
+But if you can start seeing that structure
+To validate your bias towards that draw on liquidity
+And we'll get into structure
+Entry models later on but it's good to know
+Actually just what these draws on liquidity actually are
+Alright guys so for this next liquidity pool
+We have low resistance liquidity
+Also known as trend line liquidity
+Or you'll also hear it referred to as failure swings
+So this is known as trend line liquidity
+Because you can usually just draw a line
+And it will look like a trend line
+Now trend line liquidity is important
+Or LRL or failure swings
+Right this is what the books teach you right
+Every time you hit this line right here
+These people are going long and they are placing their stop losses where
+Well at these swings
+This is also called a failure swing
+Because it's not taking the recent low
+As you can see here we make a low
+We make a high, we make a higher low
+We don't make a lower low we make a higher low
+Then we have another high, higher low
+So these are all failure swings because they are not taking that recent low
+And every time this trend line
+Is getting hit
+There is going to be stop losses placed there
+In other words if you refer back to our last liquidity video
+We went over buy side liquidity and sell side liquidity
+So if we are generating
+Low resistance liquidity in bullish order flow
+What are we generating
+We are generating a bunch of sell side liquidity
+Right
+We have price continuing to run higher
+But failing to take out the previous low
+So what do we have amongst all these lows
+More sell side liquidity
+And so when you have all this sell side liquidity
+Just bunched up together
+That creates low resistance liquidity
+Same applies for a bearish sense right
+If we are trending bearish
+We can mark out this trend line liquidity
+Then we can see here that amongst all these
+Failure swings
+We have what, buy side liquidity
+And so we have a bunch of buy side
+Being generated amongst this trend line
+Therefore creating low resistance liquidity
+So now let's actually look at this on the chart
+Alright guys as you can see right here
+We have bullish trend line liquidity
+Bullish low resistance liquidity
+Now why is this low resistance liquidity
+Because there are failure swings being made
+At every single swing point
+Meaning that every time we make a swing high
+Every swing high is not taking that previous swing high
+So we just keep making these lower highs
+So as you can see here we have a swing high
+There's stop losses being rested here
+We have another swing high, stop losses being rested here
+More swing highs, stop losses are being rested here
+And these stop losses aren't getting taken
+Right, so they just keep getting generated
+Keep getting generated
+This is also known as generated liquidity
+You'll hear often times
+And then eventually the market likes to take out these
+Stop losses usually really fast
+We usually see super fast movement
+Through all of these swing highs
+Through all of these stop losses
+And that's exactly what the market does right here
+So in really simple words
+Just look for bunched up highs or bunched up lows
+That's going to be your low resistance liquidity
+If we pair this with a little bit of previous concepts here
+You can see that before price ran this low resistance liquidity
+We went ahead and swept some sell side
+We react off that sell side
+And then price goes ahead and rips through all this LR
+And typically it will run through all the LR
+Rather than just the first swing high
+And that is something you should really know
+Because low resistance liquidity in general
+Is a pretty obvious draw on liquidity
+Especially on the lower timeframes
+So definitely make sure you can understand
+The concept of low resistance liquidity
+Because if you're able to spot it
+You're going to be able to take trades targeting the low resistance liquidity
+Just think about it like a bunch of stop losses
+Ready to get ran through
+Alright now we'll show an example of what bearish low resistance liquidity looks like
+Alright now here's an example of bearish low resistance liquidity
+Now this is trendline liquidity
+Because every time we make that swing low
+The next swing low is not taking that previous swing low
+And it's just making a higher low
+As you can see here we have a swing low
+Then we have that higher low
+Another swing low, we have another higher low
+And we have another higher low
+And these are all just stop losses ready to get ran
+We have stop losses here
+We have stop losses here, here, here, here
+We have a bunch of bunched up sell side liquidity
+Using some previous concepts right
+We reject off of this bearish for rally
+Got to the left of us
+And then all these lows end up getting ran through
+So yeah being able to spot this guys
+This is going to help you a lot also
+Just with bias in general
+If you can see where the low resistance liquidity
+Is being generated
+Then that is most likely where the market is going to be drawing towards
+Alright guys so next up we have
+Equal highs and equal lows
+Mark this out using EQH and EQL
+So equal highs and equal lows
+Are going to be highs and lows printed
+At the same exact price point
+So as you can see here
+This candle's high is printed exactly
+At what? 27201.0
+And then the high right next to it
+Is printed exactly at 27201
+And on the right of us you can see that these are not
+Equal highs, why? Because it's not printed
+At the exact same price point
+And equal lows same thing and also it doesn't matter guys
+What candle color it is
+This can be a green candle, this can be a red candle
+These equal lows are printed also at the exact same price point
+And these are not equal lows because these are not printed
+At the exact same price point
+Let's just get into some now chart examples
+Now very similarly to the last concept
+About trend line liquidity
+The books often teach you to be
+Longing when there's a bullish trend line
+And to be shorting when there's like this bearish trend line
+And that's not always the case
+And that's not really how we're going to be trading
+Because we trade ICD concepts right?
+And equal highs, the books teach you that
+This is an area of resistance
+And that you should short this
+And where are people going to be putting those stop losses?
+Well at that resistance level right? At those equal highs
+So there's going to be a lot of liquidity generating there
+And same thing for the equal lows
+Well people are going to be longing this area
+Why? Because they see it as support
+They see this bouncing off the same price point again
+And they're going to be like
+Oh this is a great area to go long
+And then they're going to be putting their stop losses there
+And then this is just a great liquidity pool for us
+Smart money traders to be targeting
+You'll see them getting made on both NQ
+And also ES
+But what should you actually be paying attention to?
+Well ES, since it is a less volatile index
+Not many people are trading on ES
+Versus NQ
+You're going to see a lot more
+Equal highs and lows getting made
+But then they're not actually getting taken
+You're going to just see a lot more equal lows and equal highs
+Getting made on ES
+You don't want to be paying attention to it
+Because the liquidity pools are not as prominent as NQ
+Alright so as you guys see on the left here
+We have NQ and on the right here
+We have ES
+Now NQ is going to be having a lot less
+Of these equal highs and equal lows
+Versus ES has a lot more of these
+Equal highs and lows
+Now this is just because there's more volatility
+On NQ versus ES
+Right?
+So you do not want to be paying attention to these
+Equal highs and lows on ES
+This is going to be messing you up
+And because we're trading on NQ
+This is actually what you should be focusing on
+Now this indicator I use guys is just
+Equal highs and lows by Jay Zester
+So this just marks out all of the
+Equal highs and lows that are being made
+Even when they're spread apart like this
+And just to sort of play off what Blake was saying
+The reason there's so many equal highs and equal lows
+In comparison to ES, the S&P 500 futures charts
+Is because they are created due to
+The lack of volatility
+In comparison to NQ where equal highs and equal lows
+Are an actual generation of
+Liquidity rather than just a result
+Of low volatility if that makes sense
+So when they're created on
+NQ and ES you can anticipate
+Those to be way more prominent liquidity pools
+You can expect price to trade to those levels
+To react from those levels in comparison to ES
+Where they're just really another
+Swing high or swing low or another
+Random set of equal highs and equal lows
+Don't refer to equal highs and equal lows on ES
+Make sure you're trying to spot them on NQ
+And start noticing how price
+Reacts at those levels
+So you can obviously see that there's times
+Where you will have equal lows or equal highs
+That are practically one or two
+Three candles apart, for example right here
+You have equal lows and then there's
+Times where you have equal highs that
+Are two swings apart, right?
+So you have a swing high right here and a swing high
+Right here. These swing highs
+And swing lows when they're two
+Separate trading legs and
+Separate swings apart
+They're going to hold more power than something like
+A pair of equal lows that are
+Backed by two consistent candles or something
+Like that. So anytime you
+Do identify equal highs
+Or equal lows that are created from two
+Major swings, just know that that's going to
+Hold a lot more power as a liquidity pool
+In general. Alright guys next up we have
+Data wicks. These are going to be your data lows
+And your data highs. Now what actually is a
+Data wick? Well a data wick occurs
+When there is news. Now remember guys
+When we were talking about time in the last video
+Where we brought up Forex Factory. So Forex Factory
+Again guys is going to be telling you when this
+High impact news is occurring. So you'll most
+Likely be seeing these data wicks
+Happen during high impact
+Red folder news. This is going to be typically
+At times like 8.30am,
+10am, yeah FOMC
+At 2 and 2.30pm. And really
+Just any other red folder news event
+That you can find on a website like Forex Factory
+Or whatever other news
+News event website you use
+But just know that anytime
+These high impact news are released
+There's typically going to be one incredibly
+Volatile candle in the market
+Which is going to create a data high
+And it's going to create a data low. And obviously
+As you can see in this illustration here
+That high and low is going to serve as what?
+A very prominent liquidity pool. So you'll
+See price typically do stuff
+Like this. Where news will drop. Let's say it's
+Like an 8.30 CPI. After CPI drops
+Price will trade to the CPI high
+The data high. It will sweep it
+And then react and then maybe trade to the data low
+This is actually a super
+Super common occurrence that you'll see with
+Data wicks and
+Actually will serve as a great confluence
+When it comes to the inversion model which we'll get
+Into later in the future. But
+Get in the habit of marking out
+Data highs and data lows anytime
+Red folder news drops
+Because those are really, really, really
+Important levels. Now the reason these data wicks
+Are actually draws on liquidity is because these
+Are seen as imbalances in the market
+These huge wicks are imbalances
+Because there's not orders getting filled
+Here, right? So price needs to trade
+Back towards these prominent wicks
+And again they're going to be very, very obvious
+Price will typically fill orders here
+Or seek liquidity here. Now this might be
+Like a stupid thing to say, but if
+You ever do see a random candle that's
+Not a news event create two
+Crazy volatile
+Wicks. Don't just mark that as data highs
+And data lows. Make sure it is actually
+A news event that is creating these wicks
+If not, you're simply not going to be marking out
+Data highs and data lows and it might confuse you
+Alright guys, so on this day, this was
+Friday, March 7th. If we go over
+To Forex Factory right here, we see
+That there is NFP, right? So this is
+Non-farm employment change
+This is a red folder high impact news event
+And as you can see here, in the next candle
+That drops, we have an extremely
+Volatile candle that takes out a lot
+Of buy side, a lot of sell side liquidity. It's a
+Huge, huge candle of around
+This was around 200 points this day and it
+Creates this data high and this data low
+Now like what Patrick was saying, when you see
+These highs and lows being made, you can
+Wait for one of these ranges to be taken
+To then target the opposing range
+So for example here, we end up taking out this
+Data high, we end up trading lower, we have
+A bearish for value gap, which eventually
+Delivers us to this data low
+So really, like I was saying, all you gotta take
+Away from this, anytime you have those high impact news
+Days, just mark out that candle
+As you can see here, immediately after
+8.30, which was a news candle, you have 8.31
+Sweep that data high and then you start getting
+Displacement lower towards data lows. Honestly
+My best advice to you guys is
+That when you have days like this where you have
+High impact news, really try to identify
+These levels and wait for
+Price to take out one of these highs
+Or lows, whether it is the data highs first or the
+Data lows first and then look to see
+If there are entry opportunities
+Towards the level that hasn't been taken out
+Yet, right? In this case, you had the sweep of data highs
+First, so now you can anticipate, okay, maybe
+We can find shorts to data lows. Regarding
+Your entry, we're gonna elaborate on that more
+In future videos, but for now
+Just focus on always
+Marking out these data highs and data lows
+Anytime on these high impact news days
+Okay, so next up here, guys, we have is unfilled
+For value gaps. You also hear this being
+Referred to as your internal range liquidity
+Your IRL, and this is just how the market
+Moves. We move from internal range liquidity
+To external range liquidity, and external
+Range liquidity is just those buy side
+And sell side, those major swing highs
+Those major swing lows. We went over that
+In our first video, right? Discussing
+Liquidity part one
+And this is how we get to those external
+Range liquidity pools by this internal
+Range liquidity or these unfilled for value
+Gaps. So oftentimes what you'll see the market
+Do is we'll have this being
+Our external range liquidity right here. The market
+Will then trade towards this internal
+Range liquidity being this unfilled
+For value gap. This is an imbalance
+In the market, right? Same thing like the
+Data wicks where we want to fill orders
+The market likes to fill orders at
+This internal range liquidity at these for value
+Gaps. And then once we trade into this, this is
+Your internal range liquidity and then we trade
+To that external range liquidity, right? And
+This keeps happening where we keep trading
+Into internal range liquidity to external
+Until we obviously have a shift
+In structure. And for a bearish sense here
+We're trading with this external range liquidity
+We then trade higher into
+This bearish for value gap which is that
+Internal range liquidity to then trade back
+Lower to the external range liquidity. Okay
+Guys, now let's get into some examples of
+This. Okay guys, so as you can see here we have
+A bunch of these bullish for value gaps here
+That are unfilled. So this is that imbalance
+Right? This is that internal range liquidity
+And then above here we have our external range
+Liquidity here and we also have some
+Buyside liquidity right here. So typically what you'll
+See the market do after we take out
+Buyside liquidity is for then price
+To rebalance towards this internal range
+Liquidity, right? So we can mark this out as our
+ERL. This is your external range.
+This is also your external range but since we are
+Bullish, right? And we are creating these bullish
+For value gaps, you can expect this to trade towards
+That buyside external range liquidity. Price
+Then trades into these imbalances
+And then trades towards this external range
+Liquidity. And then again we create
+More unfilled bullish for value gaps. We have
+One right here. We can then mark out our
+External range liquidity. Price then trades
+Into this for value gap. We seek out that
+Liquidity and we will keep doing this until
+We have a shift in structure, right? We keep
+Trading to these for value gaps. We then have another
+Unfilled bullish five minute for value gap right here.
+We then mark out our external range liquidity.
+This is our internal range liquidity. We trade
+Into this for value gap and that delivers us
+Towards this external range liquidity. So this is simply
+Just how the market moves, guys. Through these unfilled
+For value gaps and through this buyside and
+Sellside external range liquidity. And this will
+Keep happening until we have that shift
+In structure, that market structure shift.
+And if you think back to our first liquidity video where
+I was just talking about, you know, bullish structure
+And bearish structure where in bullish structure
+You're generating lots of sellside, bearish structure
+You're generating lots of buyside, right?
+And in order to maintain bullish
+Order flow or bearish order flow, you need to be trading
+Back towards this internal liquidity, right?
+So if we were to draw this out with simply
+Just a strong tool, bullish price action
+Is going to look like this. It's going to move up.
+It's going to create that higher low
+Every single time and higher high.
+And every single time that it's doing this, what are
+You also doing? You're trading back
+Towards this internal liquidity, these unfilled
+Gaps that's delivering price higher.
+Same is going to apply vice versa
+In a bearish sense. So this is just
+Good to know because anytime, for example,
+You want to take a long and bullish
+Order flow, you want to wait for price to hit
+That internal liquidity before you execute
+A long and take a trade higher, right?
+You don't want to be longing at these
+Peaks. You want to wait for price to trade
+Back towards that internal liquidity and then you
+Can target that external liquidity. Alright guys
+And finally, for the last liquidity
+Pool, we have the devil's mark.
+This is also known as just a
+Wickless candle, a candle without a wick.
+So typically, every single candle you guys
+See will have a wick on the top and have a wick
+On the bottom. With the devil's mark, the candle
+Fails to print a wick. And for this example,
+We fail to print that open high
+That you typically see with a bullish
+Candle and we just print an open low.
+For example, here in the bearish sense, we fail to
+Print that open low and we just create
+That open high. And this is
+Actually just an imbalance in price. So what
+Price typically likes to do is
+Trade away from this and then add that
+Wick later on. You really want to focus on
+Devil's marks just on the higher time frame because
+Typically with lower time frame candles,
+You can see that, you know, it is common
+For price to fail to create
+A wick. But it's not going to be as
+Prominent as like a liquidity pool as it would
+Be on the higher time frame, right? If you have an
+Hourly candle fail to make a wick, then
+You can expect price at one point
+To trade back to that level and correct
+That imbalance in price. Now again guys, the
+Reasoning this is just so important is because
+You will rarely see candles without
+Wicks. Like pretty much every single candle
+Here you'll see has a wick, has a wick, has a wick, has a wick.
+But what do we even notice about this candle
+Right here, right? This is that 11 o'clock candle.
+So this is an hourly candle. So as you can see
+With this hourly candle, we create an
+Open low, but there's no
+High. You can mark this out as your 11
+O'clock Devil's mark. And again like what Patrick
+Was saying, you want to be focusing on this for like
+The hourly time frame. 30 minute maybe, 15
+Minute, 4 hour. But usually that
+Higher time frame is going to be a higher probability
+Liquidity pool. So here 11 o'clock
+Opens, we fail to print the open
+High. We end up trading away from it.
+And then price trades towards that Devil's mark
+Printing the wick on this
+Wickless candle. And I don't know
+Why it's called Devil's mark. Don't ask
+Me. I don't know why any of these
+Like I don't know. I don't know why it's called Devil's mark
+Actually don't ask me. I don't know
+Why a lot of these things have fucking weird ass
+Names, but it's called a Wickless candle.
+Just know they work. Just know they work
+Please. But I do want to emphasize
+Like all this works only
+When you pair it with all the other confluences
+We've taught you, right? You're not just going to take along
+Because you see this Devil's mark get printed
+Obviously that makes no sense
+What do you want to wait for? You most likely want to
+Wait for in this case to have like a sell side
+Sweep and then present maybe a long opportunity
+Towards that 11 a.m. Devil's mark.
+So as you can see here, price eventually
+Delivers lower. It takes out this sell side
+And then you get that delivery up to the Devil's mark
+Of course with more confluences
+Here you can see Fair Valley gods are getting created
+That are getting respected and then delivering price to that
+11 a.m. Devil's mark. I say it in every single video
+But you never use these concepts individually
+You try to pair them with other things
+That's how you create these strategies that deliver
+Towards these liquidity pools, towards these imbalance ranges
+Alright, so now let's pair some of this shit together
+So imagine this is a current
+Price action you're looking at
+You see New York AM session deliver to what?
+Let's say this is London lows
+Price sweeps London lows and then you identify
+Oh damn, we got some
+Low resistance liquidity above
+We have a nice buy side level above
+Right here. This buy side level
+Also has an unfilled gap
+And on top of that we have equal highs
+At this level. Oh my god, this is an amazing
+Opportunity to long. We took out London lows, we have LR above
+Buy side above, unfilled gap, equal highs
+Bang, there you go. Now you're using your
+Fucking brain. You're putting all this
+Shit together. You realize we swept
+London lows, we have all this generated buy side above
+This is a great chance to
+Long. And that's when you'll truly see these
+Concepts work. If we're in bearish order
+Flow, but we finally hit some sort of bullish
+Pedia rate, we sweep some sell side liquidity
+Now we can look for longs because we know
+There's actually a reason for price
+To deliver in this direction, right? There's imbalances
+In price, there's liquidity being generated
+This needs to get taken
+Or at least should get taken most of the time. Therefore
+You know long opportunities
+Are very viable in this
+Scenario. So what do you wait for? You wait for anything
+To validate longs in this sense, right?
+Let's say we end up opening a
+Bullish for value gap here. We tap into this
+Five minute bullish for value gap. We see it
+Getting respected. Awesome
+Great. Now let's smack some fucking
+Longs, take this LR, take this buy side
+Equal highs, fucking 10 TPs
+And we got a damn Bugatti. And you can
+Expect price to go to all
+Of this, maybe edge those
+Equal highs and then stop you out. And I'm kidding
+But yeah, like I said
+Pair everything with everything we've
+Taught you. You're slowly going to start building your
+Understanding of how all these concepts work foundationally
+How to use them with other stuff and
+How to properly execute on the market. We know
+That there's a lot of information on this video. It
+Might have been a bit overwhelming, but definitely go back
+Rewatch anything. Try to find it on the charts yourself
+Get in the habit of marking out all these
+Things and it's going to help you identify
+These liquidity pools. You're going to know where
+The next draw on liquidity is. Hence the
+Name draw on liquidity. Where is price going to
+Draw next? The only way to know where price is
+Going to draw next is by being able to identify
+These types of liquidity pools. Please guys
+Your homework is to find some
+Low resistance liquidity, find some unfilled
+Gaps, some internal range liquidity, find
+Some equal highs, some equal lows, find the fucking
+Data high and data low, find that session liquidity
+Find those London lows, those London highs, those
+Asia highs, those Asia lows and
+Notice how price is reacting off of them
+Dude, when I first started
+Trading, I would spend
+Fucking hours
+On the charts just tape reading
+Like literally I would just sit
+On my phone and look at how
+Price is moving, where it's reacting off of
+And it's going to help you understand
+The charts, right? Sit there
+Analyze, try to piece together
+Confluences and you're going to understand
+The narrative of price. It is a
+Language. Trading is a language
+And you really need to put the time in
+While you're learning to be able to identify
+These levels, to be able to see how they react
+How they deliver price and it's going to
+Make you a great trader. You're not going to become
+Great overnight, right? In the beginning you're going to
+Spend tons of tons of hours just
+Analyzing but eventually it will
+Click, it'll make sense, you'll understand
+This stuff like the back of your hand and you're going to
+Be able to execute with super high
+Conviction and low hesitation
+And catch banger trades. So yeah guys
+I mean we hope you learned something from
+Our liquidity part two, episode
+Seven. We look forward to posting more
+For you guys. We have some cool vlogs coming out as well
+Look forward to that. Please subscribe if you haven't
+Already. We're going to be trying to push out this bootcamp as
+Much as possible. We have tons of shit going on
+But we're really trying our best. We want to make
+Sure this is the best series there is on YouTube
+For ICT, for people who really want
+To get into the markets efficiently and know
+The right information. We're not going to be teaching you
+Nonsense that you don't need. Everything we teach you
+Is important and is applied every single
+Day by both Blake and I
+And this is how we've gotten to the point where we can have
+High conviction biases that play out nearly every
+Single day where we can have high conviction drawn
+Liquidities that play out nearly all the time and have
+High win rate with our trading models
+That being said, thanks so much for watching
+ICT for dummies
+Episode seven
+Liquidy part two
+Alright
+What's up, boys? Make sure to like
+Follow
+There's no following
+Follow our Instagram, follow our
+TikTok, follow our Twitter
+That we never post on ever
+Subscribe to our OnlyFans
+Wow, I'm so sorry we have to
+Teach you guys. It's a blessing and a curse
+It is. Much love

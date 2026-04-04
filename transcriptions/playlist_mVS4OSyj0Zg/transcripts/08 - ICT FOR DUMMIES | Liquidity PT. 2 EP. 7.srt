@@ -1,0 +1,3476 @@
+1
+00:00:00,000 --> 00:00:04,660
+Welcome to ICT for Dummies Episode 7
+
+2
+00:00:04,660 --> 00:00:06,360
+Liquidity Part 2
+
+3
+00:00:06,360 --> 00:00:10,000
+Highest Probability Liquidity Pools
+
+4
+00:00:10,000 --> 00:00:13,360
+Highest Probability Liquidity Pools
+
+5
+00:00:13,360 --> 00:00:16,600
+Yo yo, check it, we gon' do this session
+
+6
+00:00:16,600 --> 00:00:20,360
+I don't even want to go back to my brethrens, listen
+
+7
+00:00:20,360 --> 00:00:23,000
+We going to the Probability Liquidity Pools
+
+8
+00:00:23,000 --> 00:00:26,200
+Don't be asking me where I'm going because I'm gonna do
+
+9
+00:00:26,760 --> 00:00:30,760
+Liquidity
+
+10
+00:00:30,760 --> 00:00:32,760
+She wanna be with me
+
+11
+00:00:32,760 --> 00:00:34,760
+Alright yo, cut this shit right now
+
+12
+00:00:34,760 --> 00:00:35,760
+Stop it!
+
+13
+00:00:35,760 --> 00:00:38,360
+Liquidity Part 2, Highest Probability Liquidity Pools
+
+14
+00:00:38,360 --> 00:00:41,160
+Today we're going to be going over all the different types of liquidity pool
+
+15
+00:00:41,160 --> 00:00:45,800
+In the first liquidity video we went over the basic bi-side liquidity and cell-side liquidity
+
+16
+00:00:45,800 --> 00:00:49,160
+Which is essentially the foundation of liquidity
+
+17
+00:00:49,160 --> 00:00:53,160
+But there is way more to that than just bi-side liquidity and cell-side liquidity
+
+18
+00:00:53,320 --> 00:00:55,320
+So hopefully you can learn something new with this video
+
+19
+00:00:55,320 --> 00:00:57,920
+And show you how to truly identify the different types of liquidity
+
+20
+00:00:57,920 --> 00:01:01,920
+Whether it is time liquidity, whether it is internal liquidity, whether it is external liquidity
+
+21
+00:01:01,920 --> 00:01:02,920
+There's a whole lot of it
+
+22
+00:01:02,920 --> 00:01:04,920
+Whether it's your mom's liquidity, I'm just kidding
+
+23
+00:01:04,920 --> 00:01:08,120
+Anyways, so let's start off pretty simple here
+
+24
+00:01:08,120 --> 00:01:11,120
+Alright guys, the first type of liquidity that we're going to go over is session liquidity
+
+25
+00:01:11,120 --> 00:01:12,120
+Why is this important?
+
+26
+00:01:12,120 --> 00:01:16,920
+It's because price often reacts very strongly to previous session highs and lows
+
+27
+00:01:16,920 --> 00:01:20,720
+This is where the major high and major lows are going to be of each session
+
+28
+00:01:20,880 --> 00:01:22,880
+For example, on the left side here you can see we have Asian session
+
+29
+00:01:22,880 --> 00:01:25,880
+So you have the entire Asia session and you can see here's the major high
+
+30
+00:01:25,880 --> 00:01:26,880
+And here's the major low
+
+31
+00:01:26,880 --> 00:01:30,880
+There is going to be a lot of liquidity resting in both the high and the low
+
+32
+00:01:30,880 --> 00:01:32,880
+And so for example when a new session starts
+
+33
+00:01:32,880 --> 00:01:35,880
+You can see London session for example
+
+34
+00:01:35,880 --> 00:01:37,880
+Once it sweeps Asia highs
+
+35
+00:01:37,880 --> 00:01:40,880
+It'll typically get a reaction and then trade to maybe Asia lows
+
+36
+00:01:40,880 --> 00:01:42,880
+Same thing will apply once you're trading New York session
+
+37
+00:01:42,880 --> 00:01:45,880
+You want to be looking out for these highs and lows
+
+38
+00:01:45,880 --> 00:01:48,880
+So very often when we're trading New York session
+
+39
+00:01:49,040 --> 00:01:53,040
+We're looking to target maybe London highs or maybe London lows as our external liquidity
+
+40
+00:01:53,040 --> 00:01:57,040
+Why? Because there is a lot of liquidity resting in both those highs and lows
+
+41
+00:01:57,040 --> 00:02:00,040
+Okay, so the indicator I have here is ICT kill zones and pivot
+
+42
+00:02:00,040 --> 00:02:03,040
+So this marks out these sessions that we have
+
+43
+00:02:03,040 --> 00:02:05,040
+For example here we have Asia session and we have London session
+
+44
+00:02:05,040 --> 00:02:09,040
+And this shows us our Asia session high and also the Asia session low
+
+45
+00:02:09,040 --> 00:02:12,040
+This is the lowest point at which Asia session has traded to
+
+46
+00:02:12,040 --> 00:02:13,040
+And this is the highest point
+
+47
+00:02:13,040 --> 00:02:17,040
+And at these two levels there are going to be a lot of liquidity resting there
+
+48
+00:02:17,200 --> 00:02:19,200
+A lot of stop losses resting there
+
+49
+00:02:19,200 --> 00:02:20,200
+Just think about this logically
+
+50
+00:02:20,200 --> 00:02:22,200
+If someone's taking for example a short during Asia session
+
+51
+00:02:22,200 --> 00:02:25,200
+They're most likely putting their stop loss at that Asia session high
+
+52
+00:02:25,200 --> 00:02:27,200
+Or if they're taking a long at that Asia session low
+
+53
+00:02:27,200 --> 00:02:30,200
+Considering that these are both incredibly prominent liquidity pools
+
+54
+00:02:30,200 --> 00:02:34,200
+What can you expect when previous session trades to either these high or these lows
+
+55
+00:02:34,200 --> 00:02:35,200
+You're going to expect rejection
+
+56
+00:02:35,200 --> 00:02:37,200
+Now let's look at London session
+
+57
+00:02:37,200 --> 00:02:38,200
+Let's see what happens here
+
+58
+00:02:38,200 --> 00:02:40,200
+As you can see during London session
+
+59
+00:02:40,200 --> 00:02:43,200
+We went ahead and ran up to Asia highs
+
+60
+00:02:43,200 --> 00:02:44,200
+After we swept Asia highs
+
+61
+00:02:44,200 --> 00:02:45,200
+What happened?
+
+62
+00:02:45,360 --> 00:02:48,360
+We got displacement lower and then we ran to London lows
+
+63
+00:02:48,360 --> 00:02:50,360
+And as you guys have heard us say before
+
+64
+00:02:50,360 --> 00:02:52,360
+Price is always doing one of two things
+
+65
+00:02:52,360 --> 00:02:54,360
+It's either rebalancing ranges or it is seeking liquidity
+
+66
+00:02:54,360 --> 00:02:56,360
+In the case of session highs and lows
+
+67
+00:02:56,360 --> 00:03:00,360
+It will typically run from one session high to another session low
+
+68
+00:03:00,360 --> 00:03:02,360
+Or from one session low to another session high
+
+69
+00:03:02,360 --> 00:03:05,360
+Understanding the importance of previous session highs and lows
+
+70
+00:03:05,360 --> 00:03:08,360
+Is going to help you determine your bias every single day
+
+71
+00:03:08,360 --> 00:03:10,360
+So if we're going into New York session
+
+72
+00:03:10,360 --> 00:03:12,360
+And we see that London highs has been swept
+
+73
+00:03:12,360 --> 00:03:14,360
+We can expect price to now trade to London session lows
+
+74
+00:03:14,520 --> 00:03:15,520
+And you're also probably wondering
+
+75
+00:03:15,520 --> 00:03:17,520
+What are these other sessions on the chart
+
+76
+00:03:17,520 --> 00:03:18,520
+So for example
+
+77
+00:03:18,520 --> 00:03:20,520
+If I'm trading during New York PM session
+
+78
+00:03:20,520 --> 00:03:22,520
+There's going to be resting liquidity
+
+79
+00:03:22,520 --> 00:03:23,520
+At what?
+
+80
+00:03:23,520 --> 00:03:24,520
+The previous session right?
+
+81
+00:03:24,520 --> 00:03:26,520
+So lunch hour or New York AM session
+
+82
+00:03:26,520 --> 00:03:28,520
+We went over these sessions guys in the last video
+
+83
+00:03:28,520 --> 00:03:30,520
+So if you need to look back at that
+
+84
+00:03:30,520 --> 00:03:32,520
+To see what times these sessions are happening at
+
+85
+00:03:32,520 --> 00:03:34,520
+Go look back at that other video
+
+86
+00:03:34,520 --> 00:03:35,520
+But as you can see here
+
+87
+00:03:35,520 --> 00:03:36,520
+Asia session lows
+
+88
+00:03:36,520 --> 00:03:37,520
+That's a draw on liquidity
+
+89
+00:03:37,520 --> 00:03:38,520
+Asia session highs
+
+90
+00:03:38,520 --> 00:03:39,520
+That's a draw on liquidity
+
+91
+00:03:39,520 --> 00:03:40,520
+And your goal as a trader
+
+92
+00:03:40,520 --> 00:03:42,520
+Is to always find the next draw on liquidity
+
+93
+00:03:42,680 --> 00:03:44,680
+If you're trading London session for example
+
+94
+00:03:44,680 --> 00:03:45,680
+On this day
+
+95
+00:03:45,680 --> 00:03:46,680
+And you see okay
+
+96
+00:03:46,680 --> 00:03:48,680
+We just took out Asia session highs
+
+97
+00:03:48,680 --> 00:03:50,680
+We could potentially be looking for shorts to wear now
+
+98
+00:03:50,680 --> 00:03:51,680
+Asia session lows
+
+99
+00:03:51,680 --> 00:03:53,680
+That's how price is going to play out most of the time right?
+
+100
+00:03:53,680 --> 00:03:54,680
+We sweep Asian highs
+
+101
+00:03:54,680 --> 00:03:56,680
+London session trades to Asia session lows
+
+102
+00:03:56,680 --> 00:03:58,680
+Now let's look at New York session for example
+
+103
+00:03:58,680 --> 00:04:00,680
+After New York session is done
+
+104
+00:04:00,680 --> 00:04:01,680
+What do we create?
+
+105
+00:04:01,680 --> 00:04:02,680
+We create these extreme lows
+
+106
+00:04:02,680 --> 00:04:03,680
+And these extreme highs
+
+107
+00:04:03,680 --> 00:04:04,680
+This is New York session AM high
+
+108
+00:04:04,680 --> 00:04:06,680
+New York session AM low
+
+109
+00:04:06,680 --> 00:04:07,680
+What happens here?
+
+110
+00:04:07,680 --> 00:04:09,680
+Price takes out New York session AM low
+
+111
+00:04:09,680 --> 00:04:11,680
+And then runs to New York AM session high
+
+112
+00:04:11,840 --> 00:04:13,840
+The only thing you really need to be taking out of this
+
+113
+00:04:13,840 --> 00:04:15,840
+Is that you always want to be referring to previous session highs and lows
+
+114
+00:04:15,840 --> 00:04:17,840
+To find the next draw on liquidity
+
+115
+00:04:17,840 --> 00:04:18,840
+Alright guys
+
+116
+00:04:18,840 --> 00:04:19,840
+Once again
+
+117
+00:04:19,840 --> 00:04:20,840
+Just to emphasize how these draw on liquidity works
+
+118
+00:04:20,840 --> 00:04:21,840
+You can think about it like this
+
+119
+00:04:21,840 --> 00:04:22,840
+Let's say you have Asia session here
+
+120
+00:04:22,840 --> 00:04:23,840
+London session here
+
+121
+00:04:23,840 --> 00:04:24,840
+And now we're currently in New York AM session
+
+122
+00:04:24,840 --> 00:04:26,840
+If we're trading New York AM session
+
+123
+00:04:26,840 --> 00:04:27,840
+And we see that price
+
+124
+00:04:27,840 --> 00:04:29,840
+During New York AM session runs to London lows
+
+125
+00:04:29,840 --> 00:04:31,840
+And now this extreme low from London session has been swept
+
+126
+00:04:31,840 --> 00:04:33,840
+We can now anticipate
+
+127
+00:04:33,840 --> 00:04:35,840
+That there will be rejection at this level
+
+128
+00:04:35,840 --> 00:04:37,840
+If other confluences are in line of course
+
+129
+00:04:37,840 --> 00:04:39,840
+And look to see if longs
+
+130
+00:04:40,000 --> 00:04:42,000
+Will present themselves towards where?
+
+131
+00:04:42,000 --> 00:04:44,000
+London session highs right?
+
+132
+00:04:44,000 --> 00:04:46,000
+And guys note that this doesn't always need to happen
+
+133
+00:04:46,000 --> 00:04:48,000
+Just because if we sweep one of the highs or the lows
+
+134
+00:04:48,000 --> 00:04:49,000
+Of that session
+
+135
+00:04:49,000 --> 00:04:51,000
+Does not mean that we need to trade back
+
+136
+00:04:51,000 --> 00:04:52,000
+To the other side of the range
+
+137
+00:04:52,000 --> 00:04:54,000
+But it is typical of price
+
+138
+00:04:54,000 --> 00:04:56,000
+And you can't expect that reaction to happen
+
+139
+00:04:56,000 --> 00:04:57,000
+Like Patrick was saying
+
+140
+00:04:57,000 --> 00:04:59,000
+If we start getting that structure higher
+
+141
+00:04:59,000 --> 00:05:01,000
+Or if we start getting that structure lower
+
+142
+00:05:01,000 --> 00:05:03,000
+And actually breaking through this low
+
+143
+00:05:03,000 --> 00:05:05,000
+Then we can expect this high just not to get traded back to
+
+144
+00:05:05,000 --> 00:05:07,000
+Yeah so like Blake was saying
+
+145
+00:05:07,000 --> 00:05:09,000
+If you notice that during New York AM session
+
+146
+00:05:09,160 --> 00:05:11,160
+We go ahead and displace through London lows
+
+147
+00:05:11,160 --> 00:05:13,160
+And we're not getting a reaction out of it
+
+148
+00:05:13,160 --> 00:05:14,160
+What can you expect?
+
+149
+00:05:14,160 --> 00:05:16,160
+Well you can probably expect price to continue
+
+150
+00:05:16,160 --> 00:05:18,160
+Trading lower during New York AM session
+
+151
+00:05:18,160 --> 00:05:20,160
+Rather than trading back to a previous session high
+
+152
+00:05:20,160 --> 00:05:22,160
+So truly the importance of all this
+
+153
+00:05:22,160 --> 00:05:24,160
+Is that if you understand
+
+154
+00:05:24,160 --> 00:05:26,160
+How strong these liquidity pools are
+
+155
+00:05:26,160 --> 00:05:28,160
+In these previous session highs and lows
+
+156
+00:05:28,160 --> 00:05:30,160
+You can identify whether or not price wants to react from them
+
+157
+00:05:30,160 --> 00:05:32,160
+And reverse or continue in that direction
+
+158
+00:05:32,160 --> 00:05:34,160
+Alright guys so the next major draw on liquidity
+
+159
+00:05:34,160 --> 00:05:36,160
+That we have is going to be
+
+160
+00:05:36,160 --> 00:05:38,160
+Previous day high and previous day low
+
+161
+00:05:38,320 --> 00:05:40,320
+You can also see this getting referred to as
+
+162
+00:05:40,320 --> 00:05:42,320
+PDH or PDL
+
+163
+00:05:42,320 --> 00:05:44,320
+Now how you actually find these draws on liquidity
+
+164
+00:05:44,320 --> 00:05:46,320
+Is just by going on the daily candle right here
+
+165
+00:05:46,320 --> 00:05:48,320
+So if you just go to your timeframes
+
+166
+00:05:48,320 --> 00:05:50,320
+If you click on the daily candle
+
+167
+00:05:50,320 --> 00:05:52,320
+This previous day low candle and this previous day high candle
+
+168
+00:05:52,320 --> 00:05:54,320
+Is all going to be draws on liquidity
+
+169
+00:05:54,320 --> 00:05:56,320
+Alright so looking at this range right here guys
+
+170
+00:05:56,320 --> 00:05:58,320
+We can mark out our previous day high and previous day low
+
+171
+00:05:58,320 --> 00:06:00,320
+So this is the candle from yesterday right here
+
+172
+00:06:00,320 --> 00:06:02,320
+This is previous day high
+
+173
+00:06:02,320 --> 00:06:04,320
+And then this is our previous day low
+
+174
+00:06:04,320 --> 00:06:06,320
+And as you can see right here guys
+
+175
+00:06:06,480 --> 00:06:08,480
+The previous day high is just the highest point
+
+176
+00:06:08,480 --> 00:06:10,480
+In which price has traded to
+
+177
+00:06:10,480 --> 00:06:12,480
+For that day
+
+178
+00:06:12,480 --> 00:06:14,480
+And the previous day low is the lowest point
+
+179
+00:06:14,480 --> 00:06:16,480
+In which price has traded to for that day
+
+180
+00:06:16,480 --> 00:06:18,480
+It's going to be a very high probability draw on liquidity
+
+181
+00:06:18,480 --> 00:06:20,480
+When you're going into the next day
+
+182
+00:06:20,480 --> 00:06:22,480
+Because at the end of the day this is going to help you
+
+183
+00:06:22,480 --> 00:06:24,480
+Find your daily bias
+
+184
+00:06:24,480 --> 00:06:26,480
+Where the daily candle is actually expanding towards
+
+185
+00:06:26,480 --> 00:06:28,480
+And as you can see here guys we ended up forming
+
+186
+00:06:28,480 --> 00:06:30,480
+Some bullish structure towards this previous day high
+
+187
+00:06:30,480 --> 00:06:32,480
+We ended up taking it out and then displacing back lower
+
+188
+00:06:32,480 --> 00:06:34,480
+And I want you guys to remember
+
+189
+00:06:34,640 --> 00:06:36,640
+That liquidity pools can not only be areas
+
+190
+00:06:36,640 --> 00:06:38,640
+Where you want price to go to
+
+191
+00:06:38,640 --> 00:06:40,640
+But also where areas that price can react
+
+192
+00:06:40,640 --> 00:06:42,640
+Off of and trade the opposite direction from
+
+193
+00:06:42,640 --> 00:06:44,640
+So for example here
+
+194
+00:06:44,640 --> 00:06:46,640
+You could be taking longs towards this draw on liquidity
+
+195
+00:06:46,640 --> 00:06:48,640
+Because we are in this bullish structure
+
+196
+00:06:48,640 --> 00:06:50,640
+But then after that once we get that reaction
+
+197
+00:06:50,640 --> 00:06:52,640
+Off of that liquidity pool we start forming
+
+198
+00:06:52,640 --> 00:06:54,640
+Structure to validate a bearish bias right
+
+199
+00:06:54,640 --> 00:06:56,640
+Then shorts could be valid
+
+200
+00:06:56,640 --> 00:06:58,640
+A good practice to have every single morning
+
+201
+00:06:58,640 --> 00:07:00,640
+Just going into your trading session would be
+
+202
+00:07:00,640 --> 00:07:02,640
+To mark out something like previous day high and previous day low
+
+203
+00:07:02,800 --> 00:07:04,800
+So you know the range that you are trading within
+
+204
+00:07:04,800 --> 00:07:06,800
+Previous day high and previous day low is going to serve
+
+205
+00:07:06,800 --> 00:07:08,800
+As an external liquidity point right
+
+206
+00:07:08,800 --> 00:07:10,800
+These are never going to be your first TPs
+
+207
+00:07:10,800 --> 00:07:12,800
+Previous session highs and previous session lows
+
+208
+00:07:12,800 --> 00:07:14,800
+Previous day highs and previous day lows
+
+209
+00:07:14,800 --> 00:07:16,800
+These shouldn't be your first TPs
+
+210
+00:07:16,800 --> 00:07:18,800
+A general rule of thumb is that your first TPs should be internal liquidity
+
+211
+00:07:18,800 --> 00:07:20,800
+Now previous day high and previous day low
+
+212
+00:07:20,800 --> 00:07:22,800
+Like every other liquidity pool guys
+
+213
+00:07:22,800 --> 00:07:24,800
+Doesn't necessarily have to get traded to right
+
+214
+00:07:24,800 --> 00:07:26,800
+But if you can start seeing that structure
+
+215
+00:07:26,800 --> 00:07:28,800
+To validate your bias towards that draw on liquidity
+
+216
+00:07:28,800 --> 00:07:30,800
+And we'll get into structure
+
+217
+00:07:30,960 --> 00:07:32,960
+Entry models later on but it's good to know
+
+218
+00:07:32,960 --> 00:07:34,960
+Actually just what these draws on liquidity actually are
+
+219
+00:07:34,960 --> 00:07:36,960
+Alright guys so for this next liquidity pool
+
+220
+00:07:36,960 --> 00:07:38,960
+We have low resistance liquidity
+
+221
+00:07:38,960 --> 00:07:40,960
+Also known as trend line liquidity
+
+222
+00:07:40,960 --> 00:07:42,960
+Or you'll also hear it referred to as failure swings
+
+223
+00:07:42,960 --> 00:07:44,960
+So this is known as trend line liquidity
+
+224
+00:07:44,960 --> 00:07:46,960
+Because you can usually just draw a line
+
+225
+00:07:46,960 --> 00:07:48,960
+And it will look like a trend line
+
+226
+00:07:48,960 --> 00:07:50,960
+Now trend line liquidity is important
+
+227
+00:07:50,960 --> 00:07:52,960
+Or LRL or failure swings
+
+228
+00:07:52,960 --> 00:07:54,960
+Right this is what the books teach you right
+
+229
+00:07:54,960 --> 00:07:56,960
+Every time you hit this line right here
+
+230
+00:07:56,960 --> 00:07:58,960
+These people are going long and they are placing their stop losses where
+
+231
+00:07:59,120 --> 00:08:01,120
+Well at these swings
+
+232
+00:08:01,120 --> 00:08:03,120
+This is also called a failure swing
+
+233
+00:08:03,120 --> 00:08:05,120
+Because it's not taking the recent low
+
+234
+00:08:05,120 --> 00:08:07,120
+As you can see here we make a low
+
+235
+00:08:07,120 --> 00:08:09,120
+We make a high, we make a higher low
+
+236
+00:08:09,120 --> 00:08:11,120
+We don't make a lower low we make a higher low
+
+237
+00:08:11,120 --> 00:08:13,120
+Then we have another high, higher low
+
+238
+00:08:13,120 --> 00:08:15,120
+So these are all failure swings because they are not taking that recent low
+
+239
+00:08:15,120 --> 00:08:17,120
+And every time this trend line
+
+240
+00:08:17,120 --> 00:08:19,120
+Is getting hit
+
+241
+00:08:19,120 --> 00:08:21,120
+There is going to be stop losses placed there
+
+242
+00:08:21,120 --> 00:08:23,120
+In other words if you refer back to our last liquidity video
+
+243
+00:08:23,120 --> 00:08:25,120
+We went over buy side liquidity and sell side liquidity
+
+244
+00:08:25,120 --> 00:08:27,120
+So if we are generating
+
+245
+00:08:27,280 --> 00:08:29,280
+Low resistance liquidity in bullish order flow
+
+246
+00:08:29,280 --> 00:08:31,280
+What are we generating
+
+247
+00:08:31,280 --> 00:08:33,280
+We are generating a bunch of sell side liquidity
+
+248
+00:08:33,280 --> 00:08:35,280
+Right
+
+249
+00:08:35,280 --> 00:08:37,280
+We have price continuing to run higher
+
+250
+00:08:37,280 --> 00:08:39,280
+But failing to take out the previous low
+
+251
+00:08:39,280 --> 00:08:41,280
+So what do we have amongst all these lows
+
+252
+00:08:41,280 --> 00:08:43,280
+More sell side liquidity
+
+253
+00:08:43,280 --> 00:08:45,280
+And so when you have all this sell side liquidity
+
+254
+00:08:45,280 --> 00:08:47,280
+Just bunched up together
+
+255
+00:08:47,280 --> 00:08:49,280
+That creates low resistance liquidity
+
+256
+00:08:49,280 --> 00:08:51,280
+Same applies for a bearish sense right
+
+257
+00:08:51,280 --> 00:08:53,280
+If we are trending bearish
+
+258
+00:08:53,280 --> 00:08:55,280
+We can mark out this trend line liquidity
+
+259
+00:08:55,440 --> 00:08:57,440
+Then we can see here that amongst all these
+
+260
+00:08:57,440 --> 00:08:59,440
+Failure swings
+
+261
+00:08:59,440 --> 00:09:01,440
+We have what, buy side liquidity
+
+262
+00:09:01,440 --> 00:09:03,440
+And so we have a bunch of buy side
+
+263
+00:09:03,440 --> 00:09:05,440
+Being generated amongst this trend line
+
+264
+00:09:05,440 --> 00:09:07,440
+Therefore creating low resistance liquidity
+
+265
+00:09:07,440 --> 00:09:09,440
+So now let's actually look at this on the chart
+
+266
+00:09:09,440 --> 00:09:11,440
+Alright guys as you can see right here
+
+267
+00:09:11,440 --> 00:09:13,440
+We have bullish trend line liquidity
+
+268
+00:09:13,440 --> 00:09:15,440
+Bullish low resistance liquidity
+
+269
+00:09:15,440 --> 00:09:17,440
+Now why is this low resistance liquidity
+
+270
+00:09:17,440 --> 00:09:19,440
+Because there are failure swings being made
+
+271
+00:09:19,440 --> 00:09:21,440
+At every single swing point
+
+272
+00:09:21,440 --> 00:09:23,440
+Meaning that every time we make a swing high
+
+273
+00:09:23,600 --> 00:09:25,600
+Every swing high is not taking that previous swing high
+
+274
+00:09:25,600 --> 00:09:27,600
+So we just keep making these lower highs
+
+275
+00:09:27,600 --> 00:09:29,600
+So as you can see here we have a swing high
+
+276
+00:09:29,600 --> 00:09:31,600
+There's stop losses being rested here
+
+277
+00:09:31,600 --> 00:09:33,600
+We have another swing high, stop losses being rested here
+
+278
+00:09:33,600 --> 00:09:35,600
+More swing highs, stop losses are being rested here
+
+279
+00:09:35,600 --> 00:09:37,600
+And these stop losses aren't getting taken
+
+280
+00:09:37,600 --> 00:09:39,600
+Right, so they just keep getting generated
+
+281
+00:09:39,600 --> 00:09:41,600
+Keep getting generated
+
+282
+00:09:41,600 --> 00:09:43,600
+This is also known as generated liquidity
+
+283
+00:09:43,600 --> 00:09:45,600
+You'll hear often times
+
+284
+00:09:45,600 --> 00:09:47,600
+And then eventually the market likes to take out these
+
+285
+00:09:47,600 --> 00:09:49,600
+Stop losses usually really fast
+
+286
+00:09:49,600 --> 00:09:51,600
+We usually see super fast movement
+
+287
+00:09:51,760 --> 00:09:53,760
+Through all of these swing highs
+
+288
+00:09:53,760 --> 00:09:55,760
+Through all of these stop losses
+
+289
+00:09:55,760 --> 00:09:57,760
+And that's exactly what the market does right here
+
+290
+00:09:57,760 --> 00:09:59,760
+So in really simple words
+
+291
+00:09:59,760 --> 00:10:01,760
+Just look for bunched up highs or bunched up lows
+
+292
+00:10:01,760 --> 00:10:03,760
+That's going to be your low resistance liquidity
+
+293
+00:10:03,760 --> 00:10:05,760
+If we pair this with a little bit of previous concepts here
+
+294
+00:10:05,760 --> 00:10:07,760
+You can see that before price ran this low resistance liquidity
+
+295
+00:10:07,760 --> 00:10:09,760
+We went ahead and swept some sell side
+
+296
+00:10:09,760 --> 00:10:11,760
+We react off that sell side
+
+297
+00:10:11,760 --> 00:10:13,760
+And then price goes ahead and rips through all this LR
+
+298
+00:10:13,760 --> 00:10:15,760
+And typically it will run through all the LR
+
+299
+00:10:15,760 --> 00:10:17,760
+Rather than just the first swing high
+
+300
+00:10:17,760 --> 00:10:19,760
+And that is something you should really know
+
+301
+00:10:19,920 --> 00:10:21,920
+Because low resistance liquidity in general
+
+302
+00:10:21,920 --> 00:10:23,920
+Is a pretty obvious draw on liquidity
+
+303
+00:10:23,920 --> 00:10:25,920
+Especially on the lower timeframes
+
+304
+00:10:25,920 --> 00:10:27,920
+So definitely make sure you can understand
+
+305
+00:10:27,920 --> 00:10:29,920
+The concept of low resistance liquidity
+
+306
+00:10:29,920 --> 00:10:31,920
+Because if you're able to spot it
+
+307
+00:10:31,920 --> 00:10:33,920
+You're going to be able to take trades targeting the low resistance liquidity
+
+308
+00:10:33,920 --> 00:10:35,920
+Just think about it like a bunch of stop losses
+
+309
+00:10:35,920 --> 00:10:37,920
+Ready to get ran through
+
+310
+00:10:37,920 --> 00:10:39,920
+Alright now we'll show an example of what bearish low resistance liquidity looks like
+
+311
+00:10:39,920 --> 00:10:41,920
+Alright now here's an example of bearish low resistance liquidity
+
+312
+00:10:41,920 --> 00:10:43,920
+Now this is trendline liquidity
+
+313
+00:10:43,920 --> 00:10:45,920
+Because every time we make that swing low
+
+314
+00:10:45,920 --> 00:10:47,920
+The next swing low is not taking that previous swing low
+
+315
+00:10:48,080 --> 00:10:50,080
+And it's just making a higher low
+
+316
+00:10:50,080 --> 00:10:52,080
+As you can see here we have a swing low
+
+317
+00:10:52,080 --> 00:10:54,080
+Then we have that higher low
+
+318
+00:10:54,080 --> 00:10:56,080
+Another swing low, we have another higher low
+
+319
+00:10:56,080 --> 00:10:58,080
+And we have another higher low
+
+320
+00:10:58,080 --> 00:11:00,080
+And these are all just stop losses ready to get ran
+
+321
+00:11:00,080 --> 00:11:02,080
+We have stop losses here
+
+322
+00:11:02,080 --> 00:11:04,080
+We have stop losses here, here, here, here
+
+323
+00:11:04,080 --> 00:11:06,080
+We have a bunch of bunched up sell side liquidity
+
+324
+00:11:06,080 --> 00:11:08,080
+Using some previous concepts right
+
+325
+00:11:08,080 --> 00:11:10,080
+We reject off of this bearish for rally
+
+326
+00:11:10,080 --> 00:11:12,080
+Got to the left of us
+
+327
+00:11:12,080 --> 00:11:14,080
+And then all these lows end up getting ran through
+
+328
+00:11:14,080 --> 00:11:16,080
+So yeah being able to spot this guys
+
+329
+00:11:16,240 --> 00:11:18,240
+This is going to help you a lot also
+
+330
+00:11:18,240 --> 00:11:20,240
+Just with bias in general
+
+331
+00:11:20,240 --> 00:11:22,240
+If you can see where the low resistance liquidity
+
+332
+00:11:22,240 --> 00:11:24,240
+Is being generated
+
+333
+00:11:24,240 --> 00:11:26,240
+Then that is most likely where the market is going to be drawing towards
+
+334
+00:11:26,240 --> 00:11:28,240
+Alright guys so next up we have
+
+335
+00:11:28,240 --> 00:11:30,240
+Equal highs and equal lows
+
+336
+00:11:30,240 --> 00:11:32,240
+Mark this out using EQH and EQL
+
+337
+00:11:32,240 --> 00:11:34,240
+So equal highs and equal lows
+
+338
+00:11:34,240 --> 00:11:36,240
+Are going to be highs and lows printed
+
+339
+00:11:36,240 --> 00:11:38,240
+At the same exact price point
+
+340
+00:11:38,240 --> 00:11:40,240
+So as you can see here
+
+341
+00:11:40,240 --> 00:11:42,240
+This candle's high is printed exactly
+
+342
+00:11:42,240 --> 00:11:44,240
+At what? 27201.0
+
+343
+00:11:44,400 --> 00:11:46,400
+And then the high right next to it
+
+344
+00:11:46,400 --> 00:11:48,400
+Is printed exactly at 27201
+
+345
+00:11:48,400 --> 00:11:50,400
+And on the right of us you can see that these are not
+
+346
+00:11:50,400 --> 00:11:52,400
+Equal highs, why? Because it's not printed
+
+347
+00:11:52,400 --> 00:11:54,400
+At the exact same price point
+
+348
+00:11:54,400 --> 00:11:56,400
+And equal lows same thing and also it doesn't matter guys
+
+349
+00:11:56,400 --> 00:11:58,400
+What candle color it is
+
+350
+00:11:58,400 --> 00:12:00,400
+This can be a green candle, this can be a red candle
+
+351
+00:12:00,400 --> 00:12:02,400
+These equal lows are printed also at the exact same price point
+
+352
+00:12:02,400 --> 00:12:04,400
+And these are not equal lows because these are not printed
+
+353
+00:12:04,400 --> 00:12:06,400
+At the exact same price point
+
+354
+00:12:06,400 --> 00:12:08,400
+Let's just get into some now chart examples
+
+355
+00:12:08,400 --> 00:12:10,400
+Now very similarly to the last concept
+
+356
+00:12:10,400 --> 00:12:12,400
+About trend line liquidity
+
+357
+00:12:12,560 --> 00:12:14,560
+The books often teach you to be
+
+358
+00:12:14,560 --> 00:12:16,560
+Longing when there's a bullish trend line
+
+359
+00:12:16,560 --> 00:12:18,560
+And to be shorting when there's like this bearish trend line
+
+360
+00:12:18,560 --> 00:12:20,560
+And that's not always the case
+
+361
+00:12:20,560 --> 00:12:22,560
+And that's not really how we're going to be trading
+
+362
+00:12:22,560 --> 00:12:24,560
+Because we trade ICD concepts right?
+
+363
+00:12:24,560 --> 00:12:26,560
+And equal highs, the books teach you that
+
+364
+00:12:26,560 --> 00:12:28,560
+This is an area of resistance
+
+365
+00:12:28,560 --> 00:12:30,560
+And that you should short this
+
+366
+00:12:30,560 --> 00:12:32,560
+And where are people going to be putting those stop losses?
+
+367
+00:12:32,560 --> 00:12:34,560
+Well at that resistance level right? At those equal highs
+
+368
+00:12:34,560 --> 00:12:36,560
+So there's going to be a lot of liquidity generating there
+
+369
+00:12:36,560 --> 00:12:38,560
+And same thing for the equal lows
+
+370
+00:12:38,560 --> 00:12:40,560
+Well people are going to be longing this area
+
+371
+00:12:40,720 --> 00:12:42,720
+Why? Because they see it as support
+
+372
+00:12:42,720 --> 00:12:44,720
+They see this bouncing off the same price point again
+
+373
+00:12:44,720 --> 00:12:46,720
+And they're going to be like
+
+374
+00:12:46,720 --> 00:12:48,720
+Oh this is a great area to go long
+
+375
+00:12:48,720 --> 00:12:50,720
+And then they're going to be putting their stop losses there
+
+376
+00:12:50,720 --> 00:12:52,720
+And then this is just a great liquidity pool for us
+
+377
+00:12:52,720 --> 00:12:54,720
+Smart money traders to be targeting
+
+378
+00:12:54,720 --> 00:12:56,720
+You'll see them getting made on both NQ
+
+379
+00:12:56,720 --> 00:12:58,720
+And also ES
+
+380
+00:12:58,720 --> 00:13:00,720
+But what should you actually be paying attention to?
+
+381
+00:13:00,720 --> 00:13:02,720
+Well ES, since it is a less volatile index
+
+382
+00:13:02,720 --> 00:13:04,720
+Not many people are trading on ES
+
+383
+00:13:04,720 --> 00:13:06,720
+Versus NQ
+
+384
+00:13:06,720 --> 00:13:08,720
+You're going to see a lot more
+
+385
+00:13:08,880 --> 00:13:10,880
+Equal highs and lows getting made
+
+386
+00:13:10,880 --> 00:13:12,880
+But then they're not actually getting taken
+
+387
+00:13:12,880 --> 00:13:14,880
+You're going to just see a lot more equal lows and equal highs
+
+388
+00:13:14,880 --> 00:13:16,880
+Getting made on ES
+
+389
+00:13:16,880 --> 00:13:18,880
+You don't want to be paying attention to it
+
+390
+00:13:18,880 --> 00:13:20,880
+Because the liquidity pools are not as prominent as NQ
+
+391
+00:13:20,880 --> 00:13:22,880
+Alright so as you guys see on the left here
+
+392
+00:13:22,880 --> 00:13:24,880
+We have NQ and on the right here
+
+393
+00:13:24,880 --> 00:13:26,880
+We have ES
+
+394
+00:13:26,880 --> 00:13:28,880
+Now NQ is going to be having a lot less
+
+395
+00:13:28,880 --> 00:13:30,880
+Of these equal highs and equal lows
+
+396
+00:13:30,880 --> 00:13:32,880
+Versus ES has a lot more of these
+
+397
+00:13:32,880 --> 00:13:34,880
+Equal highs and lows
+
+398
+00:13:34,880 --> 00:13:36,880
+Now this is just because there's more volatility
+
+399
+00:13:37,040 --> 00:13:39,040
+On NQ versus ES
+
+400
+00:13:39,040 --> 00:13:41,040
+Right?
+
+401
+00:13:41,040 --> 00:13:43,040
+So you do not want to be paying attention to these
+
+402
+00:13:43,040 --> 00:13:45,040
+Equal highs and lows on ES
+
+403
+00:13:45,040 --> 00:13:47,040
+This is going to be messing you up
+
+404
+00:13:47,040 --> 00:13:49,040
+And because we're trading on NQ
+
+405
+00:13:49,040 --> 00:13:51,040
+This is actually what you should be focusing on
+
+406
+00:13:51,040 --> 00:13:53,040
+Now this indicator I use guys is just
+
+407
+00:13:53,040 --> 00:13:55,040
+Equal highs and lows by Jay Zester
+
+408
+00:13:55,040 --> 00:13:57,040
+So this just marks out all of the
+
+409
+00:13:57,040 --> 00:13:59,040
+Equal highs and lows that are being made
+
+410
+00:13:59,040 --> 00:14:01,040
+Even when they're spread apart like this
+
+411
+00:14:01,040 --> 00:14:03,040
+And just to sort of play off what Blake was saying
+
+412
+00:14:03,040 --> 00:14:05,040
+The reason there's so many equal highs and equal lows
+
+413
+00:14:05,040 --> 00:14:07,040
+In comparison to ES, the S&P 500 futures charts
+
+414
+00:14:07,040 --> 00:14:09,040
+Is because they are created due to
+
+415
+00:14:09,040 --> 00:14:11,040
+The lack of volatility
+
+416
+00:14:11,040 --> 00:14:13,040
+In comparison to NQ where equal highs and equal lows
+
+417
+00:14:13,040 --> 00:14:15,040
+Are an actual generation of
+
+418
+00:14:15,040 --> 00:14:17,040
+Liquidity rather than just a result
+
+419
+00:14:17,040 --> 00:14:19,040
+Of low volatility if that makes sense
+
+420
+00:14:19,040 --> 00:14:21,040
+So when they're created on
+
+421
+00:14:21,040 --> 00:14:23,040
+NQ and ES you can anticipate
+
+422
+00:14:23,040 --> 00:14:25,040
+Those to be way more prominent liquidity pools
+
+423
+00:14:25,040 --> 00:14:27,040
+You can expect price to trade to those levels
+
+424
+00:14:27,040 --> 00:14:29,040
+To react from those levels in comparison to ES
+
+425
+00:14:29,040 --> 00:14:31,040
+Where they're just really another
+
+426
+00:14:31,040 --> 00:14:33,040
+Swing high or swing low or another
+
+427
+00:14:33,040 --> 00:14:35,040
+Random set of equal highs and equal lows
+
+428
+00:14:35,040 --> 00:14:37,040
+Don't refer to equal highs and equal lows on ES
+
+429
+00:14:37,040 --> 00:14:39,040
+Make sure you're trying to spot them on NQ
+
+430
+00:14:39,040 --> 00:14:41,040
+And start noticing how price
+
+431
+00:14:41,040 --> 00:14:43,040
+Reacts at those levels
+
+432
+00:14:43,040 --> 00:14:45,040
+So you can obviously see that there's times
+
+433
+00:14:45,040 --> 00:14:47,040
+Where you will have equal lows or equal highs
+
+434
+00:14:47,040 --> 00:14:49,040
+That are practically one or two
+
+435
+00:14:49,040 --> 00:14:51,040
+Three candles apart, for example right here
+
+436
+00:14:51,040 --> 00:14:53,040
+You have equal lows and then there's
+
+437
+00:14:53,040 --> 00:14:55,040
+Times where you have equal highs that
+
+438
+00:14:55,040 --> 00:14:57,040
+Are two swings apart, right?
+
+439
+00:14:57,040 --> 00:14:59,040
+So you have a swing high right here and a swing high
+
+440
+00:14:59,040 --> 00:15:01,040
+Right here. These swing highs
+
+441
+00:15:01,040 --> 00:15:03,040
+And swing lows when they're two
+
+442
+00:15:03,040 --> 00:15:05,040
+Separate trading legs and
+
+443
+00:15:05,040 --> 00:15:07,040
+Separate swings apart
+
+444
+00:15:07,040 --> 00:15:09,040
+They're going to hold more power than something like
+
+445
+00:15:09,040 --> 00:15:11,040
+A pair of equal lows that are
+
+446
+00:15:11,040 --> 00:15:13,040
+Backed by two consistent candles or something
+
+447
+00:15:13,040 --> 00:15:15,040
+Like that. So anytime you
+
+448
+00:15:15,040 --> 00:15:17,040
+Do identify equal highs
+
+449
+00:15:17,040 --> 00:15:19,040
+Or equal lows that are created from two
+
+450
+00:15:19,040 --> 00:15:21,040
+Major swings, just know that that's going to
+
+451
+00:15:21,040 --> 00:15:23,040
+Hold a lot more power as a liquidity pool
+
+452
+00:15:23,040 --> 00:15:25,040
+In general. Alright guys next up we have
+
+453
+00:15:25,040 --> 00:15:27,040
+Data wicks. These are going to be your data lows
+
+454
+00:15:27,040 --> 00:15:29,040
+And your data highs. Now what actually is a
+
+455
+00:15:29,040 --> 00:15:31,040
+Data wick? Well a data wick occurs
+
+456
+00:15:31,040 --> 00:15:33,040
+When there is news. Now remember guys
+
+457
+00:15:33,040 --> 00:15:35,040
+When we were talking about time in the last video
+
+458
+00:15:35,040 --> 00:15:37,040
+Where we brought up Forex Factory. So Forex Factory
+
+459
+00:15:37,040 --> 00:15:39,040
+Again guys is going to be telling you when this
+
+460
+00:15:39,040 --> 00:15:41,040
+High impact news is occurring. So you'll most
+
+461
+00:15:41,040 --> 00:15:43,040
+Likely be seeing these data wicks
+
+462
+00:15:43,040 --> 00:15:45,040
+Happen during high impact
+
+463
+00:15:45,040 --> 00:15:47,040
+Red folder news. This is going to be typically
+
+464
+00:15:47,040 --> 00:15:49,040
+At times like 8.30am,
+
+465
+00:15:49,040 --> 00:15:51,040
+10am, yeah FOMC
+
+466
+00:15:51,040 --> 00:15:53,040
+At 2 and 2.30pm. And really
+
+467
+00:15:53,040 --> 00:15:55,040
+Just any other red folder news event
+
+468
+00:15:55,040 --> 00:15:57,040
+That you can find on a website like Forex Factory
+
+469
+00:15:57,040 --> 00:15:59,040
+Or whatever other news
+
+470
+00:15:59,040 --> 00:16:01,040
+News event website you use
+
+471
+00:16:01,040 --> 00:16:03,040
+But just know that anytime
+
+472
+00:16:03,040 --> 00:16:05,040
+These high impact news are released
+
+473
+00:16:05,040 --> 00:16:07,040
+There's typically going to be one incredibly
+
+474
+00:16:07,040 --> 00:16:09,040
+Volatile candle in the market
+
+475
+00:16:09,040 --> 00:16:11,040
+Which is going to create a data high
+
+476
+00:16:11,040 --> 00:16:13,040
+And it's going to create a data low. And obviously
+
+477
+00:16:13,040 --> 00:16:15,040
+As you can see in this illustration here
+
+478
+00:16:15,040 --> 00:16:17,040
+That high and low is going to serve as what?
+
+479
+00:16:17,040 --> 00:16:19,040
+A very prominent liquidity pool. So you'll
+
+480
+00:16:19,040 --> 00:16:21,040
+See price typically do stuff
+
+481
+00:16:21,040 --> 00:16:23,040
+Like this. Where news will drop. Let's say it's
+
+482
+00:16:23,040 --> 00:16:25,040
+Like an 8.30 CPI. After CPI drops
+
+483
+00:16:25,040 --> 00:16:27,040
+Price will trade to the CPI high
+
+484
+00:16:27,040 --> 00:16:29,040
+The data high. It will sweep it
+
+485
+00:16:29,040 --> 00:16:31,040
+And then react and then maybe trade to the data low
+
+486
+00:16:31,040 --> 00:16:33,040
+This is actually a super
+
+487
+00:16:33,040 --> 00:16:35,040
+Super common occurrence that you'll see with
+
+488
+00:16:35,040 --> 00:16:37,040
+Data wicks and
+
+489
+00:16:37,040 --> 00:16:39,040
+Actually will serve as a great confluence
+
+490
+00:16:39,040 --> 00:16:41,040
+When it comes to the inversion model which we'll get
+
+491
+00:16:41,040 --> 00:16:43,040
+Into later in the future. But
+
+492
+00:16:43,040 --> 00:16:45,040
+Get in the habit of marking out
+
+493
+00:16:45,040 --> 00:16:47,040
+Data highs and data lows anytime
+
+494
+00:16:47,040 --> 00:16:49,040
+Red folder news drops
+
+495
+00:16:49,040 --> 00:16:51,040
+Because those are really, really, really
+
+496
+00:16:51,040 --> 00:16:53,040
+Important levels. Now the reason these data wicks
+
+497
+00:16:53,040 --> 00:16:55,040
+Are actually draws on liquidity is because these
+
+498
+00:16:55,040 --> 00:16:57,040
+Are seen as imbalances in the market
+
+499
+00:16:57,040 --> 00:16:59,040
+These huge wicks are imbalances
+
+500
+00:16:59,040 --> 00:17:01,040
+Because there's not orders getting filled
+
+501
+00:17:01,040 --> 00:17:03,040
+Here, right? So price needs to trade
+
+502
+00:17:03,040 --> 00:17:05,040
+Back towards these prominent wicks
+
+503
+00:17:05,040 --> 00:17:07,040
+And again they're going to be very, very obvious
+
+504
+00:17:07,040 --> 00:17:09,040
+Price will typically fill orders here
+
+505
+00:17:09,040 --> 00:17:11,040
+Or seek liquidity here. Now this might be
+
+506
+00:17:11,040 --> 00:17:13,040
+Like a stupid thing to say, but if
+
+507
+00:17:13,040 --> 00:17:15,040
+You ever do see a random candle that's
+
+508
+00:17:15,040 --> 00:17:17,040
+Not a news event create two
+
+509
+00:17:17,040 --> 00:17:19,040
+Crazy volatile
+
+510
+00:17:19,040 --> 00:17:21,040
+Wicks. Don't just mark that as data highs
+
+511
+00:17:21,040 --> 00:17:23,040
+And data lows. Make sure it is actually
+
+512
+00:17:23,040 --> 00:17:25,040
+A news event that is creating these wicks
+
+513
+00:17:25,040 --> 00:17:27,040
+If not, you're simply not going to be marking out
+
+514
+00:17:27,040 --> 00:17:29,040
+Data highs and data lows and it might confuse you
+
+515
+00:17:29,040 --> 00:17:31,040
+Alright guys, so on this day, this was
+
+516
+00:17:31,040 --> 00:17:33,040
+Friday, March 7th. If we go over
+
+517
+00:17:33,040 --> 00:17:35,040
+To Forex Factory right here, we see
+
+518
+00:17:35,040 --> 00:17:37,040
+That there is NFP, right? So this is
+
+519
+00:17:37,040 --> 00:17:39,040
+Non-farm employment change
+
+520
+00:17:39,040 --> 00:17:41,040
+This is a red folder high impact news event
+
+521
+00:17:41,040 --> 00:17:43,040
+And as you can see here, in the next candle
+
+522
+00:17:43,040 --> 00:17:45,040
+That drops, we have an extremely
+
+523
+00:17:45,040 --> 00:17:47,040
+Volatile candle that takes out a lot
+
+524
+00:17:47,040 --> 00:17:49,040
+Of buy side, a lot of sell side liquidity. It's a
+
+525
+00:17:49,040 --> 00:17:51,040
+Huge, huge candle of around
+
+526
+00:17:51,040 --> 00:17:53,040
+This was around 200 points this day and it
+
+527
+00:17:53,040 --> 00:17:55,040
+Creates this data high and this data low
+
+528
+00:17:55,040 --> 00:17:57,040
+Now like what Patrick was saying, when you see
+
+529
+00:17:57,040 --> 00:17:59,040
+These highs and lows being made, you can
+
+530
+00:17:59,040 --> 00:18:01,040
+Wait for one of these ranges to be taken
+
+531
+00:18:01,040 --> 00:18:03,040
+To then target the opposing range
+
+532
+00:18:03,040 --> 00:18:05,040
+So for example here, we end up taking out this
+
+533
+00:18:05,040 --> 00:18:07,040
+Data high, we end up trading lower, we have
+
+534
+00:18:07,040 --> 00:18:09,040
+A bearish for value gap, which eventually
+
+535
+00:18:09,040 --> 00:18:11,040
+Delivers us to this data low
+
+536
+00:18:11,040 --> 00:18:13,040
+So really, like I was saying, all you gotta take
+
+537
+00:18:13,040 --> 00:18:15,040
+Away from this, anytime you have those high impact news
+
+538
+00:18:15,040 --> 00:18:17,040
+Days, just mark out that candle
+
+539
+00:18:17,040 --> 00:18:19,040
+As you can see here, immediately after
+
+540
+00:18:19,040 --> 00:18:21,040
+8.30, which was a news candle, you have 8.31
+
+541
+00:18:21,040 --> 00:18:23,040
+Sweep that data high and then you start getting
+
+542
+00:18:23,040 --> 00:18:25,040
+Displacement lower towards data lows. Honestly
+
+543
+00:18:25,040 --> 00:18:27,040
+My best advice to you guys is
+
+544
+00:18:27,040 --> 00:18:29,040
+That when you have days like this where you have
+
+545
+00:18:29,040 --> 00:18:31,040
+High impact news, really try to identify
+
+546
+00:18:31,040 --> 00:18:33,040
+These levels and wait for
+
+547
+00:18:33,040 --> 00:18:35,040
+Price to take out one of these highs
+
+548
+00:18:35,040 --> 00:18:37,040
+Or lows, whether it is the data highs first or the
+
+549
+00:18:37,040 --> 00:18:39,040
+Data lows first and then look to see
+
+550
+00:18:39,040 --> 00:18:41,040
+If there are entry opportunities
+
+551
+00:18:41,040 --> 00:18:43,040
+Towards the level that hasn't been taken out
+
+552
+00:18:43,040 --> 00:18:45,040
+Yet, right? In this case, you had the sweep of data highs
+
+553
+00:18:45,040 --> 00:18:47,040
+First, so now you can anticipate, okay, maybe
+
+554
+00:18:47,040 --> 00:18:49,040
+We can find shorts to data lows. Regarding
+
+555
+00:18:49,040 --> 00:18:51,040
+Your entry, we're gonna elaborate on that more
+
+556
+00:18:51,040 --> 00:18:53,040
+In future videos, but for now
+
+557
+00:18:53,040 --> 00:18:55,040
+Just focus on always
+
+558
+00:18:55,040 --> 00:18:57,040
+Marking out these data highs and data lows
+
+559
+00:18:57,040 --> 00:18:59,040
+Anytime on these high impact news days
+
+560
+00:18:59,040 --> 00:19:01,040
+Okay, so next up here, guys, we have is unfilled
+
+561
+00:19:01,040 --> 00:19:03,040
+For value gaps. You also hear this being
+
+562
+00:19:03,040 --> 00:19:05,040
+Referred to as your internal range liquidity
+
+563
+00:19:05,040 --> 00:19:07,040
+Your IRL, and this is just how the market
+
+564
+00:19:07,040 --> 00:19:09,040
+Moves. We move from internal range liquidity
+
+565
+00:19:09,040 --> 00:19:11,040
+To external range liquidity, and external
+
+566
+00:19:11,040 --> 00:19:13,040
+Range liquidity is just those buy side
+
+567
+00:19:13,040 --> 00:19:15,040
+And sell side, those major swing highs
+
+568
+00:19:15,040 --> 00:19:17,040
+Those major swing lows. We went over that
+
+569
+00:19:17,040 --> 00:19:19,040
+In our first video, right? Discussing
+
+570
+00:19:19,040 --> 00:19:21,040
+Liquidity part one
+
+571
+00:19:21,040 --> 00:19:23,040
+And this is how we get to those external
+
+572
+00:19:23,040 --> 00:19:25,040
+Range liquidity pools by this internal
+
+573
+00:19:25,040 --> 00:19:27,040
+Range liquidity or these unfilled for value
+
+574
+00:19:27,040 --> 00:19:29,040
+Gaps. So oftentimes what you'll see the market
+
+575
+00:19:29,040 --> 00:19:31,040
+Do is we'll have this being
+
+576
+00:19:31,040 --> 00:19:33,040
+Our external range liquidity right here. The market
+
+577
+00:19:33,040 --> 00:19:35,040
+Will then trade towards this internal
+
+578
+00:19:35,040 --> 00:19:37,040
+Range liquidity being this unfilled
+
+579
+00:19:37,040 --> 00:19:39,040
+For value gap. This is an imbalance
+
+580
+00:19:39,040 --> 00:19:41,040
+In the market, right? Same thing like the
+
+581
+00:19:41,040 --> 00:19:43,040
+Data wicks where we want to fill orders
+
+582
+00:19:43,040 --> 00:19:45,040
+The market likes to fill orders at
+
+583
+00:19:45,040 --> 00:19:47,040
+This internal range liquidity at these for value
+
+584
+00:19:47,040 --> 00:19:49,040
+Gaps. And then once we trade into this, this is
+
+585
+00:19:49,040 --> 00:19:51,040
+Your internal range liquidity and then we trade
+
+586
+00:19:51,040 --> 00:19:53,040
+To that external range liquidity, right? And
+
+587
+00:19:53,040 --> 00:19:55,040
+This keeps happening where we keep trading
+
+588
+00:19:55,040 --> 00:19:57,040
+Into internal range liquidity to external
+
+589
+00:19:57,040 --> 00:19:59,040
+Until we obviously have a shift
+
+590
+00:19:59,040 --> 00:20:01,040
+In structure. And for a bearish sense here
+
+591
+00:20:01,040 --> 00:20:03,040
+We're trading with this external range liquidity
+
+592
+00:20:03,040 --> 00:20:05,040
+We then trade higher into
+
+593
+00:20:05,040 --> 00:20:07,040
+This bearish for value gap which is that
+
+594
+00:20:07,040 --> 00:20:09,040
+Internal range liquidity to then trade back
+
+595
+00:20:09,040 --> 00:20:11,040
+Lower to the external range liquidity. Okay
+
+596
+00:20:11,040 --> 00:20:13,040
+Guys, now let's get into some examples of
+
+597
+00:20:13,040 --> 00:20:15,040
+This. Okay guys, so as you can see here we have
+
+598
+00:20:15,040 --> 00:20:17,040
+A bunch of these bullish for value gaps here
+
+599
+00:20:17,040 --> 00:20:19,040
+That are unfilled. So this is that imbalance
+
+600
+00:20:19,040 --> 00:20:21,040
+Right? This is that internal range liquidity
+
+601
+00:20:21,040 --> 00:20:23,040
+And then above here we have our external range
+
+602
+00:20:23,040 --> 00:20:25,040
+Liquidity here and we also have some
+
+603
+00:20:25,040 --> 00:20:27,040
+Buyside liquidity right here. So typically what you'll
+
+604
+00:20:27,040 --> 00:20:29,040
+See the market do after we take out
+
+605
+00:20:29,040 --> 00:20:31,040
+Buyside liquidity is for then price
+
+606
+00:20:31,040 --> 00:20:33,040
+To rebalance towards this internal range
+
+607
+00:20:33,040 --> 00:20:35,040
+Liquidity, right? So we can mark this out as our
+
+608
+00:20:35,040 --> 00:20:37,040
+ERL. This is your external range.
+
+609
+00:20:37,040 --> 00:20:39,040
+This is also your external range but since we are
+
+610
+00:20:39,040 --> 00:20:41,040
+Bullish, right? And we are creating these bullish
+
+611
+00:20:41,040 --> 00:20:43,040
+For value gaps, you can expect this to trade towards
+
+612
+00:20:43,040 --> 00:20:45,040
+That buyside external range liquidity. Price
+
+613
+00:20:45,040 --> 00:20:47,040
+Then trades into these imbalances
+
+614
+00:20:47,040 --> 00:20:49,040
+And then trades towards this external range
+
+615
+00:20:49,040 --> 00:20:51,040
+Liquidity. And then again we create
+
+616
+00:20:51,040 --> 00:20:53,040
+More unfilled bullish for value gaps. We have
+
+617
+00:20:53,040 --> 00:20:55,040
+One right here. We can then mark out our
+
+618
+00:20:55,040 --> 00:20:57,040
+External range liquidity. Price then trades
+
+619
+00:20:57,040 --> 00:20:59,040
+Into this for value gap. We seek out that
+
+620
+00:20:59,040 --> 00:21:01,040
+Liquidity and we will keep doing this until
+
+621
+00:21:01,040 --> 00:21:03,040
+We have a shift in structure, right? We keep
+
+622
+00:21:03,040 --> 00:21:05,040
+Trading to these for value gaps. We then have another
+
+623
+00:21:05,040 --> 00:21:07,040
+Unfilled bullish five minute for value gap right here.
+
+624
+00:21:07,040 --> 00:21:09,040
+We then mark out our external range liquidity.
+
+625
+00:21:09,040 --> 00:21:11,040
+This is our internal range liquidity. We trade
+
+626
+00:21:11,040 --> 00:21:13,040
+Into this for value gap and that delivers us
+
+627
+00:21:13,040 --> 00:21:15,040
+Towards this external range liquidity. So this is simply
+
+628
+00:21:15,040 --> 00:21:17,040
+Just how the market moves, guys. Through these unfilled
+
+629
+00:21:17,040 --> 00:21:19,040
+For value gaps and through this buyside and
+
+630
+00:21:19,040 --> 00:21:21,040
+Sellside external range liquidity. And this will
+
+631
+00:21:21,040 --> 00:21:23,040
+Keep happening until we have that shift
+
+632
+00:21:23,040 --> 00:21:25,040
+In structure, that market structure shift.
+
+633
+00:21:25,040 --> 00:21:27,040
+And if you think back to our first liquidity video where
+
+634
+00:21:27,040 --> 00:21:29,040
+I was just talking about, you know, bullish structure
+
+635
+00:21:29,040 --> 00:21:31,040
+And bearish structure where in bullish structure
+
+636
+00:21:31,040 --> 00:21:33,040
+You're generating lots of sellside, bearish structure
+
+637
+00:21:33,040 --> 00:21:35,040
+You're generating lots of buyside, right?
+
+638
+00:21:35,040 --> 00:21:37,040
+And in order to maintain bullish
+
+639
+00:21:37,040 --> 00:21:39,040
+Order flow or bearish order flow, you need to be trading
+
+640
+00:21:39,040 --> 00:21:41,040
+Back towards this internal liquidity, right?
+
+641
+00:21:41,040 --> 00:21:43,040
+So if we were to draw this out with simply
+
+642
+00:21:43,040 --> 00:21:45,040
+Just a strong tool, bullish price action
+
+643
+00:21:45,040 --> 00:21:47,040
+Is going to look like this. It's going to move up.
+
+644
+00:21:47,040 --> 00:21:49,040
+It's going to create that higher low
+
+645
+00:21:49,040 --> 00:21:51,040
+Every single time and higher high.
+
+646
+00:21:51,040 --> 00:21:53,040
+And every single time that it's doing this, what are
+
+647
+00:21:53,040 --> 00:21:55,040
+You also doing? You're trading back
+
+648
+00:21:55,040 --> 00:21:57,040
+Towards this internal liquidity, these unfilled
+
+649
+00:21:57,040 --> 00:21:59,040
+Gaps that's delivering price higher.
+
+650
+00:21:59,040 --> 00:22:01,040
+Same is going to apply vice versa
+
+651
+00:22:01,040 --> 00:22:03,040
+In a bearish sense. So this is just
+
+652
+00:22:03,040 --> 00:22:05,040
+Good to know because anytime, for example,
+
+653
+00:22:05,040 --> 00:22:07,040
+You want to take a long and bullish
+
+654
+00:22:07,040 --> 00:22:09,040
+Order flow, you want to wait for price to hit
+
+655
+00:22:09,040 --> 00:22:11,040
+That internal liquidity before you execute
+
+656
+00:22:11,040 --> 00:22:13,040
+A long and take a trade higher, right?
+
+657
+00:22:13,040 --> 00:22:15,040
+You don't want to be longing at these
+
+658
+00:22:15,040 --> 00:22:17,040
+Peaks. You want to wait for price to trade
+
+659
+00:22:17,040 --> 00:22:19,040
+Back towards that internal liquidity and then you
+
+660
+00:22:19,040 --> 00:22:21,040
+Can target that external liquidity. Alright guys
+
+661
+00:22:21,040 --> 00:22:23,040
+And finally, for the last liquidity
+
+662
+00:22:23,040 --> 00:22:25,040
+Pool, we have the devil's mark.
+
+663
+00:22:25,040 --> 00:22:27,040
+This is also known as just a
+
+664
+00:22:27,040 --> 00:22:29,040
+Wickless candle, a candle without a wick.
+
+665
+00:22:29,040 --> 00:22:31,040
+So typically, every single candle you guys
+
+666
+00:22:31,040 --> 00:22:33,040
+See will have a wick on the top and have a wick
+
+667
+00:22:33,040 --> 00:22:35,040
+On the bottom. With the devil's mark, the candle
+
+668
+00:22:35,040 --> 00:22:37,040
+Fails to print a wick. And for this example,
+
+669
+00:22:37,040 --> 00:22:39,040
+We fail to print that open high
+
+670
+00:22:39,040 --> 00:22:41,040
+That you typically see with a bullish
+
+671
+00:22:41,040 --> 00:22:43,040
+Candle and we just print an open low.
+
+672
+00:22:43,040 --> 00:22:45,040
+For example, here in the bearish sense, we fail to
+
+673
+00:22:45,040 --> 00:22:47,040
+Print that open low and we just create
+
+674
+00:22:47,040 --> 00:22:49,040
+That open high. And this is
+
+675
+00:22:49,040 --> 00:22:51,040
+Actually just an imbalance in price. So what
+
+676
+00:22:51,040 --> 00:22:53,040
+Price typically likes to do is
+
+677
+00:22:53,040 --> 00:22:55,040
+Trade away from this and then add that
+
+678
+00:22:55,040 --> 00:22:57,040
+Wick later on. You really want to focus on
+
+679
+00:22:57,040 --> 00:22:59,040
+Devil's marks just on the higher time frame because
+
+680
+00:22:59,040 --> 00:23:01,040
+Typically with lower time frame candles,
+
+681
+00:23:01,040 --> 00:23:03,040
+You can see that, you know, it is common
+
+682
+00:23:03,040 --> 00:23:05,040
+For price to fail to create
+
+683
+00:23:05,040 --> 00:23:07,040
+A wick. But it's not going to be as
+
+684
+00:23:07,040 --> 00:23:09,040
+Prominent as like a liquidity pool as it would
+
+685
+00:23:09,040 --> 00:23:11,040
+Be on the higher time frame, right? If you have an
+
+686
+00:23:11,040 --> 00:23:13,040
+Hourly candle fail to make a wick, then
+
+687
+00:23:13,040 --> 00:23:15,040
+You can expect price at one point
+
+688
+00:23:15,040 --> 00:23:17,040
+To trade back to that level and correct
+
+689
+00:23:17,040 --> 00:23:19,040
+That imbalance in price. Now again guys, the
+
+690
+00:23:19,040 --> 00:23:21,040
+Reasoning this is just so important is because
+
+691
+00:23:21,040 --> 00:23:23,040
+You will rarely see candles without
+
+692
+00:23:23,040 --> 00:23:25,040
+Wicks. Like pretty much every single candle
+
+693
+00:23:25,040 --> 00:23:27,040
+Here you'll see has a wick, has a wick, has a wick, has a wick.
+
+694
+00:23:27,040 --> 00:23:29,040
+But what do we even notice about this candle
+
+695
+00:23:29,040 --> 00:23:31,040
+Right here, right? This is that 11 o'clock candle.
+
+696
+00:23:31,040 --> 00:23:33,040
+So this is an hourly candle. So as you can see
+
+697
+00:23:33,040 --> 00:23:35,040
+With this hourly candle, we create an
+
+698
+00:23:35,040 --> 00:23:37,040
+Open low, but there's no
+
+699
+00:23:37,040 --> 00:23:39,040
+High. You can mark this out as your 11
+
+700
+00:23:39,040 --> 00:23:41,040
+O'clock Devil's mark. And again like what Patrick
+
+701
+00:23:41,040 --> 00:23:43,040
+Was saying, you want to be focusing on this for like
+
+702
+00:23:43,040 --> 00:23:45,040
+The hourly time frame. 30 minute maybe, 15
+
+703
+00:23:45,040 --> 00:23:47,040
+Minute, 4 hour. But usually that
+
+704
+00:23:47,040 --> 00:23:49,040
+Higher time frame is going to be a higher probability
+
+705
+00:23:49,040 --> 00:23:51,040
+Liquidity pool. So here 11 o'clock
+
+706
+00:23:51,040 --> 00:23:53,040
+Opens, we fail to print the open
+
+707
+00:23:53,040 --> 00:23:55,040
+High. We end up trading away from it.
+
+708
+00:23:55,040 --> 00:23:57,040
+And then price trades towards that Devil's mark
+
+709
+00:23:57,040 --> 00:23:59,040
+Printing the wick on this
+
+710
+00:23:59,040 --> 00:24:01,040
+Wickless candle. And I don't know
+
+711
+00:24:01,040 --> 00:24:03,040
+Why it's called Devil's mark. Don't ask
+
+712
+00:24:03,040 --> 00:24:05,040
+Me. I don't know why any of these
+
+713
+00:24:05,040 --> 00:24:07,040
+Like I don't know. I don't know why it's called Devil's mark
+
+714
+00:24:07,040 --> 00:24:09,040
+Actually don't ask me. I don't know
+
+715
+00:24:09,040 --> 00:24:11,040
+Why a lot of these things have fucking weird ass
+
+716
+00:24:11,040 --> 00:24:13,040
+Names, but it's called a Wickless candle.
+
+717
+00:24:13,040 --> 00:24:15,040
+Just know they work. Just know they work
+
+718
+00:24:15,040 --> 00:24:17,040
+Please. But I do want to emphasize
+
+719
+00:24:17,040 --> 00:24:19,040
+Like all this works only
+
+720
+00:24:19,040 --> 00:24:21,040
+When you pair it with all the other confluences
+
+721
+00:24:21,040 --> 00:24:23,040
+We've taught you, right? You're not just going to take along
+
+722
+00:24:23,040 --> 00:24:25,040
+Because you see this Devil's mark get printed
+
+723
+00:24:25,040 --> 00:24:27,040
+Obviously that makes no sense
+
+724
+00:24:27,040 --> 00:24:29,040
+What do you want to wait for? You most likely want to
+
+725
+00:24:29,040 --> 00:24:31,040
+Wait for in this case to have like a sell side
+
+726
+00:24:31,040 --> 00:24:33,040
+Sweep and then present maybe a long opportunity
+
+727
+00:24:33,040 --> 00:24:35,040
+Towards that 11 a.m. Devil's mark.
+
+728
+00:24:35,040 --> 00:24:37,040
+So as you can see here, price eventually
+
+729
+00:24:37,040 --> 00:24:39,040
+Delivers lower. It takes out this sell side
+
+730
+00:24:39,040 --> 00:24:41,040
+And then you get that delivery up to the Devil's mark
+
+731
+00:24:41,040 --> 00:24:43,040
+Of course with more confluences
+
+732
+00:24:43,040 --> 00:24:45,040
+Here you can see Fair Valley gods are getting created
+
+733
+00:24:45,040 --> 00:24:47,040
+That are getting respected and then delivering price to that
+
+734
+00:24:47,040 --> 00:24:49,040
+11 a.m. Devil's mark. I say it in every single video
+
+735
+00:24:49,040 --> 00:24:51,040
+But you never use these concepts individually
+
+736
+00:24:51,040 --> 00:24:53,040
+You try to pair them with other things
+
+737
+00:24:53,040 --> 00:24:55,040
+That's how you create these strategies that deliver
+
+738
+00:24:55,040 --> 00:24:57,040
+Towards these liquidity pools, towards these imbalance ranges
+
+739
+00:24:57,040 --> 00:24:59,040
+Alright, so now let's pair some of this shit together
+
+740
+00:24:59,040 --> 00:25:01,040
+So imagine this is a current
+
+741
+00:25:01,040 --> 00:25:03,040
+Price action you're looking at
+
+742
+00:25:03,040 --> 00:25:05,040
+You see New York AM session deliver to what?
+
+743
+00:25:05,040 --> 00:25:07,040
+Let's say this is London lows
+
+744
+00:25:07,040 --> 00:25:09,040
+Price sweeps London lows and then you identify
+
+745
+00:25:09,040 --> 00:25:11,040
+Oh damn, we got some
+
+746
+00:25:11,040 --> 00:25:13,040
+Low resistance liquidity above
+
+747
+00:25:13,040 --> 00:25:15,040
+We have a nice buy side level above
+
+748
+00:25:15,040 --> 00:25:17,040
+Right here. This buy side level
+
+749
+00:25:17,040 --> 00:25:19,040
+Also has an unfilled gap
+
+750
+00:25:19,040 --> 00:25:21,040
+And on top of that we have equal highs
+
+751
+00:25:21,040 --> 00:25:23,040
+At this level. Oh my god, this is an amazing
+
+752
+00:25:23,040 --> 00:25:25,040
+Opportunity to long. We took out London lows, we have LR above
+
+753
+00:25:25,040 --> 00:25:27,040
+Buy side above, unfilled gap, equal highs
+
+754
+00:25:27,040 --> 00:25:29,040
+Bang, there you go. Now you're using your
+
+755
+00:25:29,040 --> 00:25:31,040
+Fucking brain. You're putting all this
+
+756
+00:25:31,040 --> 00:25:33,040
+Shit together. You realize we swept
+
+757
+00:25:33,040 --> 00:25:35,040
+London lows, we have all this generated buy side above
+
+758
+00:25:35,040 --> 00:25:37,040
+This is a great chance to
+
+759
+00:25:37,040 --> 00:25:39,040
+Long. And that's when you'll truly see these
+
+760
+00:25:39,040 --> 00:25:41,040
+Concepts work. If we're in bearish order
+
+761
+00:25:41,040 --> 00:25:43,040
+Flow, but we finally hit some sort of bullish
+
+762
+00:25:43,040 --> 00:25:45,040
+Pedia rate, we sweep some sell side liquidity
+
+763
+00:25:45,040 --> 00:25:47,040
+Now we can look for longs because we know
+
+764
+00:25:47,040 --> 00:25:49,040
+There's actually a reason for price
+
+765
+00:25:49,040 --> 00:25:51,040
+To deliver in this direction, right? There's imbalances
+
+766
+00:25:51,040 --> 00:25:53,040
+In price, there's liquidity being generated
+
+767
+00:25:53,040 --> 00:25:55,040
+This needs to get taken
+
+768
+00:25:55,040 --> 00:25:57,040
+Or at least should get taken most of the time. Therefore
+
+769
+00:25:57,040 --> 00:25:59,040
+You know long opportunities
+
+770
+00:25:59,040 --> 00:26:01,040
+Are very viable in this
+
+771
+00:26:01,040 --> 00:26:03,040
+Scenario. So what do you wait for? You wait for anything
+
+772
+00:26:03,040 --> 00:26:05,040
+To validate longs in this sense, right?
+
+773
+00:26:05,040 --> 00:26:07,040
+Let's say we end up opening a
+
+774
+00:26:07,040 --> 00:26:09,040
+Bullish for value gap here. We tap into this
+
+775
+00:26:09,040 --> 00:26:11,040
+Five minute bullish for value gap. We see it
+
+776
+00:26:11,040 --> 00:26:13,040
+Getting respected. Awesome
+
+777
+00:26:13,040 --> 00:26:15,040
+Great. Now let's smack some fucking
+
+778
+00:26:15,040 --> 00:26:17,040
+Longs, take this LR, take this buy side
+
+779
+00:26:17,040 --> 00:26:19,040
+Equal highs, fucking 10 TPs
+
+780
+00:26:19,040 --> 00:26:21,040
+And we got a damn Bugatti. And you can
+
+781
+00:26:21,040 --> 00:26:23,040
+Expect price to go to all
+
+782
+00:26:23,040 --> 00:26:25,040
+Of this, maybe edge those
+
+783
+00:26:25,040 --> 00:26:27,040
+Equal highs and then stop you out. And I'm kidding
+
+784
+00:26:27,040 --> 00:26:29,040
+But yeah, like I said
+
+785
+00:26:29,040 --> 00:26:31,040
+Pair everything with everything we've
+
+786
+00:26:31,040 --> 00:26:33,040
+Taught you. You're slowly going to start building your
+
+787
+00:26:33,040 --> 00:26:35,040
+Understanding of how all these concepts work foundationally
+
+788
+00:26:35,040 --> 00:26:37,040
+How to use them with other stuff and
+
+789
+00:26:37,040 --> 00:26:39,040
+How to properly execute on the market. We know
+
+790
+00:26:39,040 --> 00:26:41,040
+That there's a lot of information on this video. It
+
+791
+00:26:41,040 --> 00:26:43,040
+Might have been a bit overwhelming, but definitely go back
+
+792
+00:26:43,040 --> 00:26:45,040
+Rewatch anything. Try to find it on the charts yourself
+
+793
+00:26:45,040 --> 00:26:47,040
+Get in the habit of marking out all these
+
+794
+00:26:47,040 --> 00:26:49,040
+Things and it's going to help you identify
+
+795
+00:26:49,040 --> 00:26:51,040
+These liquidity pools. You're going to know where
+
+796
+00:26:51,040 --> 00:26:53,040
+The next draw on liquidity is. Hence the
+
+797
+00:26:53,040 --> 00:26:55,040
+Name draw on liquidity. Where is price going to
+
+798
+00:26:55,040 --> 00:26:57,040
+Draw next? The only way to know where price is
+
+799
+00:26:57,040 --> 00:26:59,040
+Going to draw next is by being able to identify
+
+800
+00:26:59,040 --> 00:27:01,040
+These types of liquidity pools. Please guys
+
+801
+00:27:01,040 --> 00:27:03,040
+Your homework is to find some
+
+802
+00:27:03,040 --> 00:27:05,040
+Low resistance liquidity, find some unfilled
+
+803
+00:27:05,040 --> 00:27:07,040
+Gaps, some internal range liquidity, find
+
+804
+00:27:07,040 --> 00:27:09,040
+Some equal highs, some equal lows, find the fucking
+
+805
+00:27:09,040 --> 00:27:11,040
+Data high and data low, find that session liquidity
+
+806
+00:27:11,040 --> 00:27:13,040
+Find those London lows, those London highs, those
+
+807
+00:27:13,040 --> 00:27:15,040
+Asia highs, those Asia lows and
+
+808
+00:27:15,040 --> 00:27:17,040
+Notice how price is reacting off of them
+
+809
+00:27:17,040 --> 00:27:19,040
+Dude, when I first started
+
+810
+00:27:19,040 --> 00:27:21,040
+Trading, I would spend
+
+811
+00:27:21,040 --> 00:27:23,040
+Fucking hours
+
+812
+00:27:23,040 --> 00:27:25,040
+On the charts just tape reading
+
+813
+00:27:25,040 --> 00:27:27,040
+Like literally I would just sit
+
+814
+00:27:27,040 --> 00:27:29,040
+On my phone and look at how
+
+815
+00:27:29,040 --> 00:27:31,040
+Price is moving, where it's reacting off of
+
+816
+00:27:31,040 --> 00:27:33,040
+And it's going to help you understand
+
+817
+00:27:33,040 --> 00:27:35,040
+The charts, right? Sit there
+
+818
+00:27:35,040 --> 00:27:37,040
+Analyze, try to piece together
+
+819
+00:27:37,040 --> 00:27:39,040
+Confluences and you're going to understand
+
+820
+00:27:39,040 --> 00:27:41,040
+The narrative of price. It is a
+
+821
+00:27:41,040 --> 00:27:43,040
+Language. Trading is a language
+
+822
+00:27:43,040 --> 00:27:45,040
+And you really need to put the time in
+
+823
+00:27:45,040 --> 00:27:47,040
+While you're learning to be able to identify
+
+824
+00:27:47,040 --> 00:27:49,040
+These levels, to be able to see how they react
+
+825
+00:27:49,040 --> 00:27:51,040
+How they deliver price and it's going to
+
+826
+00:27:51,040 --> 00:27:53,040
+Make you a great trader. You're not going to become
+
+827
+00:27:53,040 --> 00:27:55,040
+Great overnight, right? In the beginning you're going to
+
+828
+00:27:55,040 --> 00:27:57,040
+Spend tons of tons of hours just
+
+829
+00:27:57,040 --> 00:27:59,040
+Analyzing but eventually it will
+
+830
+00:27:59,040 --> 00:28:01,040
+Click, it'll make sense, you'll understand
+
+831
+00:28:01,040 --> 00:28:03,040
+This stuff like the back of your hand and you're going to
+
+832
+00:28:03,040 --> 00:28:05,040
+Be able to execute with super high
+
+833
+00:28:05,040 --> 00:28:07,040
+Conviction and low hesitation
+
+834
+00:28:07,040 --> 00:28:09,040
+And catch banger trades. So yeah guys
+
+835
+00:28:09,040 --> 00:28:11,040
+I mean we hope you learned something from
+
+836
+00:28:11,040 --> 00:28:13,040
+Our liquidity part two, episode
+
+837
+00:28:13,040 --> 00:28:15,040
+Seven. We look forward to posting more
+
+838
+00:28:15,040 --> 00:28:17,040
+For you guys. We have some cool vlogs coming out as well
+
+839
+00:28:17,040 --> 00:28:19,040
+Look forward to that. Please subscribe if you haven't
+
+840
+00:28:19,040 --> 00:28:21,040
+Already. We're going to be trying to push out this bootcamp as
+
+841
+00:28:21,040 --> 00:28:23,040
+Much as possible. We have tons of shit going on
+
+842
+00:28:23,040 --> 00:28:25,040
+But we're really trying our best. We want to make
+
+843
+00:28:25,040 --> 00:28:27,040
+Sure this is the best series there is on YouTube
+
+844
+00:28:27,040 --> 00:28:29,040
+For ICT, for people who really want
+
+845
+00:28:29,040 --> 00:28:31,040
+To get into the markets efficiently and know
+
+846
+00:28:31,040 --> 00:28:33,040
+The right information. We're not going to be teaching you
+
+847
+00:28:33,040 --> 00:28:35,040
+Nonsense that you don't need. Everything we teach you
+
+848
+00:28:35,040 --> 00:28:37,040
+Is important and is applied every single
+
+849
+00:28:37,040 --> 00:28:39,040
+Day by both Blake and I
+
+850
+00:28:39,040 --> 00:28:41,040
+And this is how we've gotten to the point where we can have
+
+851
+00:28:41,040 --> 00:28:43,040
+High conviction biases that play out nearly every
+
+852
+00:28:43,040 --> 00:28:45,040
+Single day where we can have high conviction drawn
+
+853
+00:28:45,040 --> 00:28:47,040
+Liquidities that play out nearly all the time and have
+
+854
+00:28:47,040 --> 00:28:49,040
+High win rate with our trading models
+
+855
+00:28:49,040 --> 00:28:51,040
+That being said, thanks so much for watching
+
+856
+00:28:51,040 --> 00:28:53,040
+ICT for dummies
+
+857
+00:28:53,040 --> 00:28:55,040
+Episode seven
+
+858
+00:28:55,040 --> 00:28:57,040
+Liquidy part two
+
+859
+00:28:59,040 --> 00:29:01,040
+Alright
+
+860
+00:29:01,040 --> 00:29:03,040
+What's up, boys? Make sure to like
+
+861
+00:29:03,040 --> 00:29:05,040
+Follow
+
+862
+00:29:05,040 --> 00:29:07,040
+There's no following
+
+863
+00:29:07,040 --> 00:29:09,040
+Follow our Instagram, follow our
+
+864
+00:29:09,040 --> 00:29:11,040
+TikTok, follow our Twitter
+
+865
+00:29:11,040 --> 00:29:13,040
+That we never post on ever
+
+866
+00:29:13,040 --> 00:29:15,040
+Subscribe to our OnlyFans
+
+867
+00:29:25,040 --> 00:29:27,040
+Wow, I'm so sorry we have to
+
+868
+00:29:27,040 --> 00:29:29,040
+Teach you guys. It's a blessing and a curse
+
+869
+00:29:29,040 --> 00:29:31,040
+It is. Much love
+

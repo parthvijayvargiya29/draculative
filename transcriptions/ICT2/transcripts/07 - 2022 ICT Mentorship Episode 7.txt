@@ -1,0 +1,1015 @@
+All right, folks, welcome back.
+This is the seventh episode for the ICT mentorship on YouTube, 2022.
+This lecture is going to be dealing with daily bias and consolidation hurdles.
+All right, folks, welcome to the daily chart for the NASDAQ.
+And if you're looking at trading view under the NASDAQ selection, so it's the continuous contract.
+That way it makes all the candles look nice and crisp and you don't see any spotting.
+So right away, if you're looking at this, you should see this run on price taking out buy side liquidity.
+So all these relative equal highs here ran above it, then broke below a swing low.
+Created what? Here they got trades up into it.
+Now, where is it going to trade to?
+This low to this high midpoint, there's a gap right there.
+And they have the old low sell here.
+Aim here or here, and it runs it out.
+Now, this is important.
+Obviously, it sounds like, well, you know, you're cherry picking in a pack.
+Old moves. OK, that's how you learn.
+But think about what's happened on the daily chart.
+We traded below this low. We've taken sell side liquidity out of the marketplace.
+So with that, it's likely to retrace back up into the range.
+What's the range? This high to that low.
+But look closer. See how we have this nice energetic run?
+Look how many down close candles we have here.
+One, two, three, four. A lot of movement there.
+So I'm looking at this high and this low, and I'm trying to get a range for where we are at present.
+So once the sell side was taken out here, it's likely to retrace back inside the range of this high and this low.
+We've seen it come all the way back up.
+It went to a premium market, which is above equilibrium here.
+And then we went down below to a discount, bounced off of the old low here.
+Then we've consolidated around equilibrium.
+Now, when you have this condition, it can make it very difficult to get a true reading on bias.
+So there's times when even me as ICT, I don't have a good clear read on what it is I'm looking for.
+So I have to demand more price action and more information or Intel, as I like to call it,
+based on what the market's going to do right after the open at 930 in the morning New York time.
+For disclosure, in my own paid membership, I mentioned to them that I felt that this was a likely area
+where they could probably take it down and sweep that area.
+Whether it goes lower or not, it's irrelevant.
+But where we were here to here, that's what I was expecting some type of move last night for Tuesday's trading.
+OK, so Tuesday's trading, the 8th of February, 2022.
+Going into the marketplace, I was anticipating something that would be bearish.
+That's going to be useful to us when we go into the lower time frame charts,
+because I'm going to show you what I had to deal with this morning and how I had to overcome that.
+And this is something that if you're using these concepts and practice with your demo account,
+you're going to have these same conundrums and you have to find a way to overcome them.
+And I'm just going to suggest this to you here.
+But before we go into lower time frames, I want to teach bias.
+So if we have this set up on a daily chart, market structure has a shift lower trade up into a fair value gap
+until we get down to here and here each day.
+I'm anticipating lower prices.
+So my bias is bearish.
+Now, every single day is going to be a down close candle,
+but I'm going to hunt intraday price action with that in mind.
+If I'm going to take it long, it would be counter trend to that bias.
+My leverage is going to be dialed back.
+So let's assume for a moment that the account that I was trading with would allow me to trade 10 contracts.
+10 contracts would be the maximum I could trade.
+So if I'm trading with the bias, which would be bearish during the run from here to here and here,
+then I'm going to look to utilize the maximum leverage that I can have without over leveraging based on a fixed percentage basis.
+Like I like three and a half percent.
+I'm not telling you to use three and a half percent.
+You should be risking less than one percent, about a half percent or a quarter percent,
+because if you don't know what you're doing, there's no reason to be putting higher levels of risk behind a move if you don't know what it is that you're doing.
+It's going to create toxic thinking, bad habits, and you're going to be afraid to execute based on the results you're getting.
+So you want to be indifferent to the results.
+That in the beginning is important by having a demo account using very, very low leverage, if not deleveraging.
+And I'll talk a little bit about that when we get into money management, but that's not this topic.
+So from this high down to that low, each day I'm going in with the expectation that it's going to likely set up a sell scenario where I can get short and hopefully buy back at a lower price.
+Count how many updates or green candles there are from this high and this high down to that low.
+One, two. Real important.
+So the delivery by the algorithms are spooling.
+That means prices expanding and going directionally one way.
+When that occurs, there's going to be times where you have an up close candle.
+That may be a day that you tried to go short and maybe you've lost.
+OK, no big deal. Same thing going into the next day, going in for looking for shorts.
+Next day, same thing, same thing.
+And then here it opens and trades down below the low and has a huge expansion move and then comes back above.
+And that's it. It closes on the near the high of the day or midpoint of the body in this area here.
+Is there a lot of up close candles during that bias being bearish?
+No. You need to get over the concern about being right every single time.
+You need to put aside also the idea of perfection because you're not going to have it perfect.
+You're not going to get in perfectly. You're not going to get out perfectly.
+You're not going to have the perfect amount of contracts.
+You're not going to have the perfect asset.
+In other words, you may be trading the NASDAQ and the E-Mini S&P has a little bit better run and delivers a little bit more highly unlikely, but vice versa.
+You get what I'm saying. So you're always going to find reasons to be wrong.
+Embrace imperfection. Embrace the idea that you don't have to know everything.
+You don't have to be right. OK, being right is not equivalent to being profitable.
+Very important factor there.
+So with bias, in short, you're looking at your daily chart to get a read on where it's likely to go to next year.
+Where's the price going to draw? Is it going to draw higher to an old high?
+Is it going to draw down to an old low? And until it gets that high or low, you stay with that bias.
+OK, so it's a quick down and dirty way of interpreting price action for daily bias.
+But the folks that I've taught that are hung up on daily bias, really what they're trying to say is, and this is exactly what they're getting at,
+but they can't either articulate or they just won't be honest with it or me.
+What they want is tell me how to get the high of the day when it's bearish and how to get out at the low and get all the move and never take a loss.
+And avoid when it's going to be a day that goes against me where I feel uncomfortable.
+Now, that might sound extreme, and maybe some of you that have issues with daily bias are thinking to yourself, that's not me.
+I just want to know when it's going to go up, when it's going to go down. I'm telling you, if you strip it down, that's what you're trying to do.
+You're trying to demand that I give you some magic bullet that's going to give you the absolute highest high and the lowest low
+on the bearish and bullish days. So that way, you're trading perfectly. I don't trade perfectly. No one trades perfectly.
+So you have to have this embracing of the gray area in the marketplace. That gray area is where things aren't always so clear.
+But because of experience you've had in the past, seeing things unfold the way they hopefully would if you've been trained properly,
+then there's nothing to fear. Even if you do it wrong and you have a adverse reaction or result to taking a trade using the logic that you're training with,
+there's no reason to be fearful because one or two or maybe a small string of losing trades does not in any way, shape or form diminish the effectiveness of a model
+if it's based on sound logic. So you're going to utilize the daily chart to determine whether or not the next candle is going to be likely bullish or bearish.
+Between this high here in the midpoint of this low to high, I'm expecting down close candles. That would equate to a bearish bias.
+It doesn't mean that I can't take a long entry. It just means that if I do take a long entry into today, I'm going to do it with far less leverage.
+And if I see a setup that's bearish, I'll use or consider using, not always, but I'll consider using my maximum risk, which is four and a half percent.
+But I like to see trades that I feel comfortable with with three and a half percent.
+And until we get down to this low and underneath it, that means it's likely to reverse or consolidate and we have a retracement back in.
+So once it starts doing this and it's hanging around equilibrium, it gets very difficult even for me to determine a bias.
+So what does that mean? No trading? No, it just means that you have to rely on the smaller time frame intraday charts and just simply look for liquidity pools.
+So you're going to trade intraday volatility, running old highs, running out old lows, being a lot more nimble.
+And like a surgical strike, you take your handles or your points that you're trying to get out of the marketplace and then run.
+You don't try to overstay your welcome. So let's go down to a lower time frame.
+All right, so we have the 15 minute time frame and we have our 830 in the morning crosshairs here.
+Crosshairs are the vertical line that denotes the time that we start looking back to the left.
+Right here, go to the left, we see this is our first low.
+So we mark that and right in here, first to the left is here.
+We don't want to use this low by itself because it's inside of this candle.
+So I want to use the extreme. Where's the liquidity going to be? Is it going to be above this or is it going to be above that? It's going to be above this, OK?
+Why? Why not that one? And why this one? Keep looking left. What do you see over here?
+See that? These are relative equal highs. What does retail traders see that as? Resistance.
+So they see it going up to here, stopping and going lower. They see it going up to here, failing to go up here.
+So now they think this is a really strong resistance level.
+And it went lower. Look at that. Then the market showed how that level was real resistance by going right through it.
+But this would be a first target here to reach for.
+And if you want to use a longer term intraday, the target would be back here.
+Because to the left of this one is this one, which essentially is the same.
+Then we have this one here, OK? So obviously with the benefit of hindsight, you can see that we traded below that low here.
+Then we reversed and started going higher. We took out this high here, which I traded this.
+I did not hold for this. Now, the question is going to be, is why didn't you hold it for that one ICT?
+Well, if you look at the range from this high down to the low over here,
+about midpoint is just above this high, right?
+Then we have this little imbalance right there.
+So what about I'm teaching you in this mentorship?
+I'm looking for about the midpoint and some kind of liquidity.
+There's buy stops above that, OK?
+So we traded below. I went along on that candle.
+I'll show you in a live account. Trust me. Just hear me out.
+I bought a ride up here and I took out on this candle here.
+I got out on that high. Now, I could have held it.
+But to do so would be painting the picture that you can do this and take down these types of trades all the time.
+When the reality is you're going to require a lot more time to develop than you probably think it will require.
+One of the things that happens when I have students come under my tutelage is they have been fooled by listening to people
+talk about the left side of the chart all the time and they can't execute on the right side.
+And it is useful in the beginning, but if that's all there ever is,
+and if your educator can't trade on the hard right edge of the chart,
+it kind of makes you feel...
+well, either a false sense of security or a false sense of confidence that quickly gets evaporated when you trade with a live account
+or creates analysis paralysis.
+And I have a large body of students that are lumped into one of those categories.
+They've been utilizing some other concept or approach or they call it SMC, Smart Money Concepts,
+and they'll think to themselves that, you know, this is what's going to have to happen in the chart.
+And it isn't because they are lacking narrative.
+So one of the things that I'm teaching in this mentorship and my paid mentorship is how to view the marketplace from a narrative standpoint.
+What's the logic? Why should the market do what it's doing?
+It's not enough to see how a low is taken out and expected to go higher or a high taken out and expected to go lower.
+There has to be some greater context behind it.
+And that's what I gave in the beginning of the video.
+Now, on the two minute chart, why the two minute chart?
+Well, that's for your homework. You go through the five minute, the four minute, the three minute, the two minute and one minute chart.
+I'm going to utilize the two minute chart because this is what I was using today for my own analysis, OK?
+All right, so you can see how we had the old low here.
+We trade down below it.
+And this 10 of 4, I'm actually highlighting that candle right there.
+The reason why I'm using that candle's low and taking the screen capture there is I want you to see the low candle's price.
+OK, so that's where your stop would have to be just below that, maybe one tick by going long in here.
+Based on the logic, I'm going to start to outline here.
+The market trades below the old low, trades below it, rallies above.
+But does it trade above this short-term high yet? No.
+Then it goes down once more below the old low, but not below this low here.
+Then it turns and goes higher.
+What did I see in this chart that allowed me to go long in here?
+What did I see?
+Nothing.
+I didn't see anything in this particular chart.
+I saw it in the S&P.
+Before I leave this chart, I want you to think about how that high was around 14,620.
+And it was this candle here.
+I got out of that one right there.
+Then it retraced a little bit and then went higher, pressed into the ultimate longer term high, sweeping the buy side there.
+Let's take a look at the S&P.
+S&P, similar situation here.
+High, that's the best case scenario for the day.
+This high here, that's where it could reach for, 830.
+We're right here.
+What's the point of expecting to go above that?
+Not much.
+We want to see some kind of a protraction.
+So the market, yes, it went above that short-term high and then went lower than that low, yes.
+But watch what happens.
+It trades below it, comes back up and look at all the volatility and the sloppiness inside this area here.
+Then the market starts to rally.
+So the draw on liquidity is going to be here.
+It took out sell side here.
+So let's look inside this price action to see if there's any details that would lead to a run into that, we'll call it the 44.95 level.
+So the two-minute chart, this is what I was using.
+The market trades below the old low, as we see here.
+I apologize, the screenshot, I wish I would have had these things on it.
+But you can look at your two-minute chart on trading view and you'll see this a little bit more clear.
+I apologize.
+But this low candle, it's high.
+Then we have one candle up, the next candle is low.
+There's your fair value gap.
+That's the run in here.
+So we have displacement low and displacement high.
+Is there a market structure shift bullish?
+Yes, it trades up above it.
+Then you look for the fair value gap.
+Is there one in here?
+No.
+Anything in here?
+No.
+How about here?
+No, it's closed in, but it doesn't move down here.
+But we have this.
+So we trade down into it here.
+At 10.36, that candle forms.
+That's a long in S&P.
+Now, compare that with this fair value gap in the S&P.
+We traded below the old low.
+We took sell side out.
+We have a shift in market structure on the S&P.
+These averages tend to move in tandem.
+So that means they generally move in the same direction.
+So I'm looking at the Dow, even though you
+don't see me trading it, I'm looking at it.
+I'm also looking at the S&P, even
+though I'm favoring the NASDAQ because its volatility
+and its movement is more than the S&P.
+Other traders might be fearful of the volatility and say,
+I want to trade that.
+It's too fast for me.
+I am loving this because I know how to trade.
+I can work within that volatility
+because I know what I'm looking for.
+I know the signatures the algorithm is going to put out.
+So until I get these signatures, I
+have to wait or put leaders into the marketplace, which
+is what I'm going to show you when I show you my live account
+results today.
+But at 10.36, let's go back up to the NASDAQ.
+We don't see any fair value gap in there, do we?
+Nope.
+But we start to see NASDAQ turning.
+So I went in long in close proximity to this order block.
+I went in at 14,505.
+That's inside of this order block.
+So I'm trading close to it.
+Now, I promised I wasn't going to teach order blocks that much
+in this mentorship.
+And some of you have been leaving comments,
+oh, I'm not into this now because you're not
+teaching order blocks.
+OK, go watch something else.
+I'm going to teach it the way I want to teach it.
+It works, and you have to get yourself acclimated
+to how I'm teaching it.
+Or don't watch.
+OK, I don't mean to be rude, but I'm not taking suggestions
+on how to teach you.
+So if we are expecting a fair value gap
+to be a launching point for the S&P,
+and these markets generally move in tandem,
+I don't need the fair value gap in the NASDAQ
+because I'm utilizing the S&P as my indicator.
+What did I just say?
+The word that should not be spoken.
+Indicators, yeah, even though I don't have them plastered
+all over my charts like graffiti,
+you can see the candlesticks in my charts.
+You can see the logic.
+You can see how the markets run for liquidity.
+There's nothing hiding or masquerading price.
+You can see it.
+It's clear.
+You need that.
+You need to be able to read the story of price
+and not the story of indicators.
+So the logic is that S&P low in here
+was trading down into an old fair value gap over here
+in its price swing.
+But there is no fair value gap in the NASDAQ.
+See that?
+Now let's go back down into the S&P.
+Even my unpaid membership's learning something tonight.
+I should have charged money for this one.
+Oh, RCT.
+Fair value gap.
+Trade down into it there.
+That's a long for S&P, but I don't want to trade the S&P.
+So I'm going to use the timing of that candle
+for my long entry on NASDAQ.
+Trading what's not in the chart.
+Hint, hint.
+Nudge, nudge.
+So market rallies, and it trades into that short-term high
+that was seen on.
+Let's go back up right here.
+So again, just roughing it around that $44.96.
+We'll just call it $44.96.
+And that would be right in here.
+Bang.
+Hits it, sweeps it, accumulates some more,
+and then rallies even higher, taking out
+that longer-term old high.
+All right.
+What gave me the confidence that this was turning here?
+Well, let's take a look at the three averages together.
+If you look at how the market's trading low here on the Dow,
+this top chart is the Dow futures.
+The NASDAQ futures is in the middle,
+and the S&P is at the lower end here.
+So it's Dow, NASDAQ, S&P.
+During that decline in the NASDAQ and the S&P,
+look what the Dow's doing.
+It's saying, nah, I'm going to sit this one out, boys.
+It's not willing to make that lower low.
+Where NASDAQ did, S&P did.
+When you see that right there.
+And here's an important thing.
+You anticipated already.
+You're not looking for this.
+This is what some of my students,
+when they come into my mentorship,
+they see this pattern, and they think, oh, it's diverging.
+So that means it's going to go the other direction.
+No.
+This is something that confirms an idea
+that you had already established before price
+does what it's doing real time.
+What does that mean?
+You're already looking for a reason to go higher.
+So that means you're looking at an old low.
+Does it trade below the old low?
+OK.
+Does it have a shift in market structure that's bullish?
+Yes, we saw that in the S&P, but we did not see it in NASDAQ.
+No evidence whatsoever was in NASDAQ this morning
+with what I'm teaching you.
+But it was.
+Listen.
+It was in the S&P. And no, I don't trade the Dow.
+But I utilize it like an indicator.
+It's not plastered all over my chart.
+I'm referring to it because I have multiple monitors.
+I'm looking at my screens.
+I have a screen that shows charts like this.
+So I'm looking at the relationship
+of all three averages stacked over top of one another.
+And if I'm looking at a period of time and an area in price
+action that maybe is going under accumulation
+for long positions, this is what I'm looking for.
+I'm looking for that little fingerprint of the algorithm.
+What this is indicating is that Dow's
+I'm going to go lower than that low.
+That tips off individuals that are looking
+for cracks in correlation.
+Correlation would be they are moving lower here, here,
+and here.
+But that correlation where they move in tandem together
+cracks here at a very important time,
+right when the NASDAQ and the S&P
+are trading below its old low.
+I get questioned all the time.
+ICT, how do you know it's going to be a fake break
+below an old low and rally higher,
+or a fake break above an old high and go lower?
+Which is what I dub a turtle suit.
+Now, that's not the same pattern that
+is taught in Linda Raschke and Larry Connor's book,
+Street Smarts, which is actually an excellent book.
+I have my own interpretation of that, which is very easy.
+It's simple.
+I'm not going to teach her a pattern, go buy the book
+and support the authors.
+But the idea is I'm looking for runs above old highs
+to set up a short position if I have
+the opposite of this condition here, where maybe the Dow
+didn't make a higher high, where the S&P and NASDAQ
+did make a higher high.
+By itself, it doesn't mean anything.
+So many students over the years have simply went in there
+and said, oh, this is magic.
+I'm going to go just do that.
+And I unwillingly did the same thing
+when I first started observing it.
+I'm like, well, I don't need to do anything else.
+I'll just look for this.
+And it didn't work out well.
+OK, I blew accounts.
+Yes, I'm not ashamed to say it.
+In the 90s, I blew accounts doing this very thing here,
+and just looking for these divergences.
+And then I later learned that I have
+to have some kind of narrative as to why this would even form.
+And to be honest with you, I don't personally
+need to see this because I know what I'm looking for.
+I already know that it's going to create this divergence
+at the times I'm trying to buy.
+But as a developing student, you may not have that experience,
+and there's nothing wrong with that.
+And you may have been trading longer than me.
+Maybe you've been trading 31 years.
+There's nothing wrong with that.
+Maybe you don't need this either.
+But for a developing student, someone
+that doesn't have a affinity for reading price action naked
+and not using indicators, these are the best indicators
+you're ever going to have.
+You don't need moving averages.
+You don't need stochastic.
+You don't need Fibonacci.
+You don't need any of that stuff.
+You don't need it.
+The only reason why I'm pulling a fib up
+is to show you where the midpoint is.
+Have you noticed that?
+We haven't even talked about optimal trade entry.
+None of that stuff.
+I've stripped this down to the Chrome, and it's beautiful.
+Is it not?
+It's easy.
+It's so simple.
+It better be easy enough for my daughter to do it
+because if you can't do this one, I don't have anything for her.
+But nonetheless, I want you to think
+about how this pattern confirms the accumulation
+of long positions.
+Now, let me correct those of you that
+are going to take this information and run out there
+and create your own videos or your own little courses
+or your own little mentorships, OK?
+Because if you don't do this right,
+you're going to hurt the people that are listening to you.
+And I just don't want them to get hurt
+because of your lack of understanding what's going on.
+The Dow is not going down because buyers are coming in.
+That's not what's happening here.
+That's what authors and book writers and people
+that don't really trade or code algorithms
+will have you believe.
+This is an unwillingness to deliver to that low.
+This is a macro.
+A macro is something inside of an algorithm
+that prevents or enables delivery.
+Delivery of what?
+Price.
+So the Dow is unwilling to go lower here.
+OK, by itself means nothing.
+Does it happen at the same time that the NASDAQ went lower?
+Yes.
+At the same time that the S&P went lower than that low?
+Yes.
+OK, so let's go back.
+Here's that old low prior to 830.
+Remember, algorithms run on time and price.
+Not price and time, multilevel marketers.
+The low, that's the price, yeah.
+But you have to refer to time first.
+What's the important factor of time?
+830, good to the left.
+What's the first low?
+Right there, boom.
+So there's liquidity below that.
+It trades below it here.
+Then wait.
+Do we get a signal that allows us to hunt what I'm teaching
+on this mentorship?
+There's a swing high.
+It breaks it there.
+So now market structure has shifted bullish.
+Look back through this price lag.
+There's your fair value gap.
+Oh, but what happens if it goes down there and it keeps on going?
+That's what your stop is for.
+Remember what I said earlier in the video?
+Some of you are so new, OK?
+Your infancy as a speculator and trader is getting in the way
+of sound logic because what you're thinking
+is there's a way for you to trade and never take a loss.
+There's a way for you to somehow,
+and this is nowhere near true, that you could enter the market
+and your stop never needs to be placed because you're right.
+Because what you're saying is I'm afraid to be wrong.
+That's a psychological barrier that you need to get over
+because I'm going to show you my live account
+and there's going to be some negative numbers there.
+Those negative numbers sometimes are premium payments
+for me to get more intel, OK?
+And with that, let's go into the continuation of this.
+All right, so here is my live account.
+And I did some trades this morning.
+I got to my desk a little late this morning.
+Couldn't focus.
+I had some expectations.
+I wanted to see it go lower.
+I told my paid mentorship last night
+that I prefer a move lower.
+We got a really sloppy opening, which is really characteristic
+of the 930 opening.
+A lot of people tell you, don't trade the 930 opening.
+That's scary.
+It's too much volatility.
+I actually don't mind it because I'm actually putting
+sometimes a order in to get a feel for what it's doing.
+Now, right away, if I just show you this chart
+and don't give you the context behind it,
+you're going to hear people or they're going to take my video
+and they're going to do all this armchair quarterback
+after the fact it's never been traded by them.
+They're not doing a live account.
+They're always playing in demo accounts, blowing demo accounts.
+They always have something negative to say about everybody else,
+but they're not doing anything on themselves.
+Here's the context that's important, OK?
+Back in the 90s, I learned a lot of things from a floor trader
+that actually traded the S&P on the floor.
+I also picked up more insights from Larry Williams
+about trading the S&P and also George Angell.
+Now, George Angell had a really interesting concept.
+When I first heard about it, I kind of immediately discounted it.
+I was like, that's stupid.
+And what is it?
+Well, on the floor, sometimes traders
+would have just a disconnect.
+They wouldn't have a read on what the price is doing.
+So what they would do, not just George,
+but everybody on the floor would generally try to do this as well,
+they would simply go in and buy or sell short one contract
+and just see what happens.
+Now, for someone that doesn't know what trading is like,
+never traded with live money, or just now learning,
+that's going to be like, that's stupid.
+If you don't know what you're doing, why would you put an order in?
+Well, if you want to know how the market is likely to deliver,
+put some skin in the race.
+You'll have a greater feel for what it's doing when you put an order in.
+It doesn't need to be a large order.
+I'm only putting one contract.
+I can only trade one contract because of the equity I have in the account.
+It's like $21,000 plus to do one Nasdaq contract.
+And it's justified because of the volatility.
+You could be up or down $5,000.
+In a session, so discount brokers are not a saving grace.
+So I put an order in two times.
+I got to my desk late.
+I wanted to dial in.
+And the surest way for me to do that is just to toss a contract in.
+Now, when I do that, I'm trying to read what the price is doing against that order.
+I'm not trying to pick a spot when I'm tossing that in there either.
+Now, I understand how someone that would never have had any experience trading
+with real money would look at that and say, that's dumb.
+Like, that's somebody that doesn't know what they're doing.
+No, you have no idea the benefits of having that.
+It's like dropping a hook in water that you've never fished in.
+You test it.
+See, I'll get any bites here.
+If I throw a short order in or if I throw a long order in, I'm watching.
+I'm getting a feel for what the market's doing once that order is in there.
+And I'm reading the reactions.
+I'm not looking at the equity.
+Okay, I'm not trying to get a tug of war sensation internally of making money,
+losing money.
+I'm watching how price delivers around that order.
+Is it easily moving away from that order or is it lethargically moving away?
+Or is it completely running against it?
+That immediate feedback, that feedback loop that it gives you as a trader
+because you have something in there that's worth something, you're going to be
+more attentive to what price is doing and what you're familiar with with reading price
+than if you were just watching the charts paint the candles.
+It's something that is true when it comes to like learning with a demo account.
+This is the limitations of learning with a demo because you can test the waters
+okay by throwing in a single contract.
+And if that contract is basically, you know, ran over for lack of a better term,
+then you know that your bias probably isn't in alignment with that order.
+So if I'm trying to hunt the bigger move of the day,
+I will sacrifice these initial little runs.
+I'm not doing it all the time.
+Remember where we started this video.
+We're in the middle of that range on the daily chart.
+So technically it can go either side of the range and take liquidity.
+I don't know when I'm going to sleep at nighttime
+and also when I'm doing videos earlier in the evening.
+I don't know where price is going to be at at 930 in the morning, New York time the next day.
+I don't know that no one knows that.
+Okay, no one's going to know that.
+So when I build a trading plan or idea around what I would prefer to see,
+I'm only looking for that the night before.
+Everything changes when we walk up to that 830, you know,
+vertical line that gets put on my chart to show you.
+Now, based on those ideas and the relationship of the information I'm getting
+with that initial contract going in at the opening at 930,
+I'm getting a read on price.
+Sometimes these trades pan out and it's profitable.
+That's not the point.
+And sometimes it creates a small drawdown on the account.
+That small drawdown, if you count that as a skill thing,
+you're missing the point entirely, okay?
+If you can get yourself and avail yourself some writings by George Angel,
+invariably you're going to hear him or read him suggesting he's done this
+and floor traders did it as well.
+When I started implementing it, and I've done this with Forex too,
+sometimes my students will tell you if we were all in a big stadium,
+okay, and we were all like saying, raise your hand if I said this
+or if I did not say that.
+They would all raise their hand when I say, sometimes I'll do this with Forex.
+I just want to know what it's doing.
+I need more information.
+And there's no better feedback loop than to put something at risk in the marketplace
+because you don't have anything at risk with a demo.
+You can put a trade on with a demo, but you're not really feeling anything from that.
+You're only really drawing a connection when it's right.
+When it's wrong, it's just like, well, whatever.
+I would have never taken that trade anyway.
+So it's important to know the context here, okay?
+With that aside, let's move forward.
+So these are me putting in a leader in the market just to see if I can get a better read.
+Even though I want to see it going lower, I'm not so sure with all this back and forth movement.
+I don't know if it wants to run higher for reach for a higher form of buy-side liquidity
+or if it's going to run lower for that low.
+So I tossed in two orders.
+And you can see them when I show you the history on my next slide.
+But all this went away.
+And then here's where I went short here and I covered basically,
+then I went long, right on that candle right there.
+And what was my price?
+$14,505.50, okay?
+And I closed above that high.
+Remember the high was at $14,620?
+Here it is, $14,622.75.
+So that's 117 handles.
+I don't care about these little Mickey Mouse moves back here because that is a premium for Intel.
+I'm going to make a small investment to get a better read on these types of moves here, okay?
+If I show you these types of charts or I make them available on the internet
+with no context behind them whatsoever, none.
+They would be trolled all day long and they would beat their chest and feel smart
+like they're saying something that means something.
+They have no idea.
+They have no reason to think that anything they're saying is valid or true.
+But I'm showing you the logic here, okay?
+This is not latency, okay?
+When I was doing latency tests, that is me testing the feedback timing from putting a trade in,
+how fast I can put orders in, what type of slippage I'm getting because I have an algorithm.
+And that timing is important for me because this account won't stay at one contract.
+It will eventually grow so I can do more.
+So I need to know how fast I can ramp it up or is it going to take me a little bit longer term time frame
+to build it up before I can start pressing it harder.
+Everything I'm showing you in this account is all one mini contract basis.
+Not more than one, just one because of the leverage and the limitations of margin.
+It prevents me from doing so, okay?
+As you can see, it's $37,823.15.
+And those trades that I showed you on the chart, here is that history
+or whatever somebody was posting, show us the history.
+No, it's not a live account unless you can show this area here.
+Well, here's the trades I've taken for today.
+Here was the initial trade here, okay?
+You might look at this and say, oh man, I wouldn't do that, pay $750.
+I'm looking for significant price moves.
+I'm looking at trades that are a little bit more significant intraday because that's the model I'm teaching you.
+Now, I can teach you a very high frequency type trading style
+that literally will blow the doors and beat the brakes off of all these supposed algorithms that YouTube's promoting.
+And they won't have these types of trades in them, okay?
+It'll be just real clean, like $500 runs or $300 runs on equity.
+And then you get in and get out in one contract.
+So as you build this up, you know, 10 contracts, it would be easy for you to do $3,000 to $5,000 a day.
+If you take the results I'm showing you here, these are the trade results.
+These are my two leaders I put in, okay?
+And I got a better feel for what the price was going to do.
+Now, I took the trade here.
+This one here, once we got closer to the actual setup around $1030, $1036 candle,
+these again, I was testing whether or not that there's going to be a run.
+Now, I'm sacrificing this and a little bit more of my starting equity to get that information
+because I know if I get the right intel, I know if I'm buying, okay, I'm going to be buying.
+Then I'm going to look at the S&P like I showed you tonight.
+The pattern, the setup, remember what I was telling you in the beginning of this mentorship?
+This pattern forms every single day, but you have to look for it.
+It may not be in your asset.
+It may not be in your particular market, but it exists.
+All of these markets move like boats in a high tide and low tide.
+All boats rise in high tide.
+All boats drop and lower with low tide.
+So, I'm trying to get a read on this environment as a whole, not just my own asset class.
+Since I'm trading the NASDAQ, I'm not limiting my view or analysis to just NASDAQ.
+There has to be some intermarket relationships, okay?
+And I'm combining markets that I'm not even trading like the Dow and the S&P,
+but I'm using the feedback that they're providing me in terms of intermarket relationships.
+So, that's what I taught you tonight.
+Intermarket relationships and using the consolidation hurdles.
+Like when you have a consolidation, what do you do?
+Well, this is what I do.
+You know, I'll throw a contract in there to see what it's doing and I'll get a feel for that.
+I don't care about drawdown because I'm comfortable.
+I can go in and fix the drawdown.
+At the end of the year, you're going to see that every single day in here,
+there's drawdown and I correct it.
+My goal is no losing days.
+Now, that's not something that you should have as a goal coming out of the gates as a new student.
+I'm not saying that you're ever going to get to that point and I do have losing days,
+but I'm not showing losing days predominantly.
+If I have a losing day here or there, it's probably been two since the start of this account.
+I fixed the drawdown.
+I know how to do that.
+So, when I was doing latency tests and I'm testing TD Ameritrade speed
+and how they can deal with my positions when I'm getting in, getting out,
+getting in, getting out, I'm getting a read on how fast they can fill me,
+what type of slippage I'm having because when you start doing lots of contracts,
+that's going to mean a whole lot more than just one contract.
+But one contract, as you can see here, I want to say this real quick and get out of the way.
+The profits and loss category right there, that little tab, it's at $13,927.
+That is not a lot of money, folks.
+It's not, but it's 51 plus percent now in two weeks of trading.
+Two weeks.
+Well, two weeks in today is not all a day, so two weeks in one day.
+So, two weeks, one day, 51%.
+Now, it's one contract.
+If I was trading with 10 contracts, we would be in some serious money then, right?
+You'd start paying more attention to it then, right?
+$13,000 almost $14,000 isn't that much money.
+But what happens if you start doing that every single month?
+I'm not suggesting that you can or will or promising that you will,
+but what happens if you do?
+Could you make a living on that?
+I'm just asking.
+I put a poll on my community tab and I asked everyone that would read it.
+Is 20% a month return?
+Is that a respectable rate of return?
+And if you look at the results, it's predominantly yes.
+The other answer was no, it's not enough for me.
+Now, I know there's a lot of trolls that like to watch me.
+They'll put whatever the expected adverse choice would be.
+They'll choose that one.
+Okay, but I'm sure there's some of you that think because your first,
+you know, impression about trading is everybody gets rich and nobody loses money.
+And everybody gets Lamborghini's in the first three months and it's just great.
+You know, nothing bad can happen.
+It's all up from here.
+And I've never been a mentor like that.
+Okay, I've had very nice flashy things, but I don't try to promote that idea.
+I teach you this is going to take a lot of work.
+But the work and the things that are real about this industry
+and how you're going to have to get like I'm teaching you like what causes me to get clarity
+because sometimes I don't have it.
+I don't know is something I say periodically and not knowing something is not ignorance.
+It's not an absence of skill.
+It's honesty and you have to be honest with yourself and you cannot assume that you're going
+to be coming into these markets being perfect
+because perfect is not something that exists in trading.
+It does not exist.
+There is never going to be someone that's perfect.
+You're in this industry to do what?
+Make money.
+That's it.
+If you're in here for any other reason, I'm in here to impress my dad,
+impress my mom, my girlfriend, boyfriend, husband, whatever.
+Old-gen teachers.
+That's the wrong reason because you're doing things from an emotional high.
+And when you have the emotional low, it really hurts.
+And you need to keep yourself focused on why you're doing this.
+You're doing it to make money, to improve your financial condition.
+Like I mentioned before I started this mentorship,
+I believe that there are hard times coming ahead
+and you don't need to make $14,000 in two weeks.
+You don't need that.
+But if you make your car note for the month
+or if you make 50% of your mortgage or rent payment every month
+with something like this, and I'm not saying or promising you can,
+but think like that.
+Let it evolve from that.
+When I was a young man, and I said that many times in my videos
+and I have some people in this mentorship that are watching
+that they don't like when I do these types of rants and things,
+and I'll say, oh, stick to the topic, blah, blah, blah, get to the point.
+This is the point, okay?
+Because you're going to, if you're not trading with live money right now
+you're going to have these things come up in your own thinking
+and they're going to be barriers.
+So when that happens, you're going to be wanting to email me,
+or you're going to wrestle with it and not know how to deal with it.
+But when I first started, back when I was 20 years old,
+I'm looking at the market thinking,
+if I can get to the point where I could save $1,000 a month,
+by the time I'm in my 40s, I won't need to work.
+Now, obviously, I didn't factor in inflation and all that stuff,
+but a million dollars by 40, that was enough for me to get to work.
+I'm going to focus on learning how to do this.
+Contrast that with what you see on YouTube today.
+Follow my signal service, join my mentorship.
+I made $60,000 in one trade, here's the proof,
+here's the withdrawal, here's this, here's that.
+That is not something that is sustainable,
+and it's such a wild unicorn that just pops up once in a while.
+You can see these people pulling out $60,000 consistently every single week.
+That's not happening, okay?
+But I'm pulling out $6,000 a week consistently.
+Now, that's not a lot of money.
+It's not.
+But I'm quite confident in saying that I think that the majority of you,
+and I'm talking the high 90% of you,
+could live pretty nice on $6,000 a week.
+Will the market continuously offer me $6,000?
+I don't know.
+I haven't traded the indices in a long time,
+but I traded these markets 30 years ago, okay?
+And I know them.
+So I'm not scared of them.
+I'm not scared of the volatility.
+I love it.
+But if you look at the relationship of how these negative trades give me intel,
+they give me insight,
+because I'm trying to get a read on the next swing on that daily chart.
+These are all small little investments on me getting a better read on that.
+So you think that your trading account is never going to have any of these in them.
+When these are an informed trader,
+someone that's seasoned, that knows what they're doing,
+they'll invest in their own trading.
+Think about what I'm telling you.
+You're investing in yourself to get more information
+that you can't collect just by watching the price action.
+So you got to get a closer feel for it.
+And you invest and you put something in the marketplace.
+Now, there are trades,
+and I've mentioned this,
+I'm not sure which video it was in the mentorship,
+but I did one and they were losing trades.
+They were wrong ideas.
+They were absolutely wrong ideas.
+Not all of a losing trade record is errors.
+And that's important because if you just look at somebody's trading statements,
+well, yeah, their positions and their statements,
+that's not going to give you the context that would be required.
+Like I could look at someone's statement and say,
+okay, yeah, they're making money.
+But in reality,
+unless I look at what they're doing on a chart,
+they could be lucky.
+They could be just getting lucky.
+And this today was me investing in trying to get a feel for
+what I think is going to happen on the next few days worth of data.
+And I'll throw in a couple trades where it doesn't matter to me if I'm losing.
+And sometimes when I do this,
+they're winning trades,
+but they're not meant to be winning trades or losing trades.
+It's just me getting a read on it.
+Now, when you do a micro account,
+okay, it wouldn't be this much money.
+And you may not trade with this style.
+I know many of my students don't do this
+because they just don't think it's a worthwhile investment.
+But those same traders that are under my to-do list
+are not capturing 100 plus handle moves in these indices either.
+So it's a trade-off, okay?
+What is it you're trying to do?
+What are you trying to accomplish?
+I'm not trying to get 10 handles on a lot of contracts
+and scalp, scalp, scalp, okay?
+I know what I'm looking for.
+In this tab over here where it says Profit and Losses,
+I don't care how much money I deposit in the account.
+The broker will never put that money in that tab.
+So when you read people making comments on the internet,
+and I have a few of them in the previous video
+that I mentioned and showed today
+where I was showing my live account
+logging into it in the whole show,
+they said that I'm adding money
+and this is reflecting the additions.
+And that just proves that these people have no idea
+what a live account looks like.
+They've never seen one in their life.
+No broker ever would ever reflect deposits
+in the Profits and Loss category.
+That would never happen.
+And this is absolutely profits.
+And organizations like the CFTC
+would literally come after me or anybody else.
+If that wasn't real money,
+I'd be breaking the law by saying it is real money.
+That's real profits right there, okay?
+These trades here,
+I cleaned up all of this with that trade right there.
+Okay, but I wanna give something that I think and believe
+that is realistic.
+My intentions are not to run this account up to a million dollars
+because I don't think that you learning from this YouTube channel
+that that is realistic.
+Can some of you do it?
+Well, the sky is not the limit.
+Okay, I've on record many times saying that.
+I have students that do very, very well.
+I have students that don't make money at all.
+Now, you might be an exception.
+I don't know that.
+You may believe it.
+I don't know, okay?
+But the things I'm teaching on this YouTube channel,
+I have faith in.
+That's the only thing I'm showing you here.
+I'm not saying look what I can do so therefore you can do it too.
+I cannot promise you that you're gonna get the same results.
+In fact, I'm promising you that you won't get the same results as me, okay?
+But I try to trade this account with the expectation also
+that I don't want it to be consistently over and over again
+where it's just too good to be believable
+because I want you to be able to see these statements at the end of the year
+and look at them and refer to them and say, you know what?
+There's these times in the market in certain months and certain days
+where there was drawdown in this account
+and it came out of that drawdown and look where it ended for the year
+or look where it ended for each month.
+That is tangible real-world help
+when you feel like if you have a losing streak
+or if you have losing trades and you look at someone
+that's been able to use the logic that I'm teaching you and still correct it.
+Now, I can correct the drawdown intraday because I know how to trade very well.
+I'm not bragging. It's just the facts.
+If I know what I'm looking for, whatever drawdown I have
+and I can correct the intraday drawdown that I've had on the chart.
+If we look at how the market can give us these opportunities
+and you can see that this trade here,
+there's that entry at $14,505.50 and a half right there.
+$14,622.75 right here.
+That was the sell. That was the exit.
+Here's the commission costs.
+Here's the fees and here's the commission that TD Ameritrade takes out
+and here's the return on that one trade, $2,345.
+$2,345.
+That cancels out all of the leaders I put in to get a feel for it
+and I pocketed $1,100 for one day for a short amount of time.
+I could have held it. I could have done that using what I'm teaching you here.
+But I'm trying to teach by example so that way you don't look at me
+do unrealistic things that you can't do right away.
+Do I believe someone that has put a year into trading
+and studying what I'm doing with this mentorship can trade like this?
+I personally believe yes.
+But does that mean that you are all going to do it?
+No. If I didn't believe you could do it, I wouldn't be up here doing it.
+The logic is being shown to you.
+I showed you in the charts how I use the S&P to time my NASDAQ trade
+and here are the actual history. This is it.
+I got asked today, show this.
+Okay, here it is. Do the numbers here.
+Add them up and then add it to that profit and look at the video I just posted today.
+And some of you are going to say, oh, this is photoshopped.
+Photoshop thing because it's on your PowerPoint.
+I do PowerPoint because I'm not having to worry about hiding my user number.
+Because if I hide that, then you can't see all the other details in here.
+I think it's what turns off. So I want to keep everything so you can see it.
+So it just allows me to not worry about it.
+But nonetheless, I want you to think about how daily bias is not an everyday bias
+that's going to work in your favor.
+Some days I go in, I'm expecting like last night,
+I prefer to see the market go a little bit lower and it didn't deliver.
+So I had to make adjustments.
+And then I caught myself on the right side of the daily range,
+exiting where I teach you, getting in where I teach you.
+Right there, there's logic. That's the proof.
+There will be days where I try to do this and I'm going to have a losing day.
+It will happen. I will not be able to correct it.
+It will be a losing negative day.
+When that happens, the first instance that that happens, I'm going to show you it.
+I'm not trying to hide the losing days.
+But the trader in me, the person that is ICT,
+if I have the capability, I refuse to let my negative day stay negative at the close.
+Now, you might look at that as,
+oh, well, you can't accept the losing trade and you're trading emotionally.
+That's nonsense.
+This is someone that's got three decades of experience and I know how to fix it.
+So if you knew how to fix it, wouldn't you do it?
+Right. So again, everybody's going to have an opinion
+and everybody's going to have a way of thinking how they need to be taught.
+But I've been doing this for a very long time and I'm not going to change my style.
+So the order of which I'm teaching it, the topics I'm talking about,
+the way I'm showing it to you in the charts, that's how I'm trading.
+I'm putting the trades on based on that logic.
+So that way you can see I have faith in this.
+You may not have faith in this.
+You may never take these trades.
+You may never ever put any effort into learning them.
+You're just watching this like it's a Netflix binge watching scenario.
+Okay, that's cool.
+But this is something that is transferable.
+I can do it.
+It will repeat to answer your questions.
+I'm getting a lot of comments also and I'm going to close the video here.
+The algorithms are not going to change because ICT is teaching you how to navigate with them.
+Period.
+Why am I trading these markets when I'm supposed to be the Forex guru?
+Well, if you look at Forex, Forex is going real quiet.
+It's sideways.
+So I'm going to trade this market also as a compare and contrast.
+I've been doing this market a lot longer than Forex.
+Again, I started with these markets here and bonds, which when we get into May and June,
+I'll probably trade some bonds in here as well.
+I'll give you some tips on how that market works a little bit too.
+But hopefully you got something from this.
+I was a little all over the place, but I wanted to be relaxed and communicate a lot of things
+that were coming to me by way of the comment section.
+I appreciate all of your comments.
+I appreciate all of the feedback you guys are giving me.
+Just so you know, I know some of you are probably leaving these sweet sugar rush comments
+and really really lavishing me with adoration.
+I'm not trying to put those comments.
+I always accept one comment for each video as a way of saying, I liked your comment.
+I think that's a significant comment that I think the community would appreciate, not
+just, oh, this is loving ICT.
+I appreciate all of that, but just know that those types of comments are never going to
+be allowed to be shown.
+I'm holding all the comments for review because I still have some terrible things being said
+to me that are not true and I'm not going to give a stage for that.
+In closing, if anybody out there says that they're doing trades that are live and they're
+making $20,000 a day or whatever and they're not doing it in a simulator, let them show
+you by logging into their live account and doing it like this.
+I'd be interested to see that also.
+Until next time, be safe.

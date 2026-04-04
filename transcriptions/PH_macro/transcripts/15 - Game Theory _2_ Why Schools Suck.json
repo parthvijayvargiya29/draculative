@@ -1,0 +1,5757 @@
+[
+  {
+    "text": "Okay, so welcome back to game theory and",
+    "start": 0.48,
+    "duration": 6.64
+  },
+  {
+    "text": "um as I discussed last class, our goal",
+    "start": 3.84,
+    "duration": 5.52
+  },
+  {
+    "text": "is able to is to use game theory to",
+    "start": 7.12,
+    "duration": 5.52
+  },
+  {
+    "text": "analyze global events to understand why",
+    "start": 9.36,
+    "duration": 5.12
+  },
+  {
+    "text": "they're happening as well as make",
+    "start": 12.64,
+    "duration": 3.2
+  },
+  {
+    "text": "certain predictions about how they",
+    "start": 14.48,
+    "duration": 3.92
+  },
+  {
+    "text": "should develop. But to do that, I first",
+    "start": 15.84,
+    "duration": 5.6
+  },
+  {
+    "text": "need to train your mind and how to and",
+    "start": 18.4,
+    "duration": 5.52
+  },
+  {
+    "text": "how to see the world using game theory.",
+    "start": 21.44,
+    "duration": 4.72
+  },
+  {
+    "text": "So last class in our first class we",
+    "start": 23.92,
+    "duration": 5.04
+  },
+  {
+    "text": "discussed example of the dating game of",
+    "start": 26.16,
+    "duration": 6.56
+  },
+  {
+    "text": "why men and women are motivated to",
+    "start": 28.96,
+    "duration": 7.12
+  },
+  {
+    "text": "behave the the way they do when they",
+    "start": 32.72,
+    "duration": 6.4
+  },
+  {
+    "text": "look for a mate. Today I want I want to",
+    "start": 36.08,
+    "duration": 5.6
+  },
+  {
+    "text": "discuss the issue of school. Okay,",
+    "start": 39.12,
+    "duration": 5.56
+  },
+  {
+    "text": "school.",
+    "start": 41.68,
+    "duration": 3.0
+  },
+  {
+    "text": "So uh for the first few classes I'm",
+    "start": 45.28,
+    "duration": 4.0
+  },
+  {
+    "text": "going to use examples from your life",
+    "start": 47.04,
+    "duration": 4.96
+  },
+  {
+    "text": "that you know pretty well in order to",
+    "start": 49.28,
+    "duration": 4.8
+  },
+  {
+    "text": "develop the mindset for the game theory.",
+    "start": 52.0,
+    "duration": 4.08
+  },
+  {
+    "text": "So uh school is something that you",
+    "start": 54.08,
+    "duration": 4.48
+  },
+  {
+    "text": "should know very very well. As you know",
+    "start": 56.08,
+    "duration": 6.72
+  },
+  {
+    "text": "the purpose of school is to train you in",
+    "start": 58.56,
+    "duration": 6.48
+  },
+  {
+    "text": "a way that allows you to be functional",
+    "start": 62.8,
+    "duration": 6.08
+  },
+  {
+    "text": "in society as well as to be creative.",
+    "start": 65.04,
+    "duration": 6.24
+  },
+  {
+    "text": "Right? Okay. So the goals are basically",
+    "start": 68.88,
+    "duration": 4.96
+  },
+  {
+    "text": "literacy.",
+    "start": 71.28,
+    "duration": 3.84
+  },
+  {
+    "text": "All right. which means reading and",
+    "start": 73.84,
+    "duration": 3.28
+  },
+  {
+    "text": "writing.",
+    "start": 75.12,
+    "duration": 5.76
+  },
+  {
+    "text": "This is the primary purpose of school",
+    "start": 77.12,
+    "duration": 5.36
+  },
+  {
+    "text": "because in order to function in our",
+    "start": 80.88,
+    "duration": 4.96
+  },
+  {
+    "text": "society, you need to be able to absorb",
+    "start": 82.48,
+    "duration": 6.56
+  },
+  {
+    "text": "information and convey information.",
+    "start": 85.84,
+    "duration": 6.24
+  },
+  {
+    "text": "Okay. Number two",
+    "start": 89.04,
+    "duration": 5.12
+  },
+  {
+    "text": "is basically",
+    "start": 92.08,
+    "duration": 4.64
+  },
+  {
+    "text": "uh what we call the core competent core",
+    "start": 94.16,
+    "duration": 5.56
+  },
+  {
+    "text": "competencies.",
+    "start": 96.72,
+    "duration": 3.0
+  },
+  {
+    "text": "Okay, these are skills that you need to",
+    "start": 100.0,
+    "duration": 3.44
+  },
+  {
+    "text": "be successful in life including the",
+    "start": 101.44,
+    "duration": 5.92
+  },
+  {
+    "text": "ability ability to think critically to",
+    "start": 103.44,
+    "duration": 6.24
+  },
+  {
+    "text": "cooperate with others",
+    "start": 107.36,
+    "duration": 4.4
+  },
+  {
+    "text": "to coll to collaborate to communicate.",
+    "start": 109.68,
+    "duration": 5.36
+  },
+  {
+    "text": "Okay, you you you all know this. The",
+    "start": 111.76,
+    "duration": 6.0
+  },
+  {
+    "text": "last thing is what we call",
+    "start": 115.04,
+    "duration": 5.6
+  },
+  {
+    "text": "lifelong learning.",
+    "start": 117.76,
+    "duration": 5.52
+  },
+  {
+    "text": "So in an age of AI,",
+    "start": 120.64,
+    "duration": 5.92
+  },
+  {
+    "text": "in age of globalization,",
+    "start": 123.28,
+    "duration": 4.96
+  },
+  {
+    "text": "school",
+    "start": 126.56,
+    "duration": 4.16
+  },
+  {
+    "text": "is just a start of the learning process",
+    "start": 128.24,
+    "duration": 4.8
+  },
+  {
+    "text": "because every 5 years the world changes.",
+    "start": 130.72,
+    "duration": 4.8
+  },
+  {
+    "text": "So you need to be in a constant process,",
+    "start": 133.04,
+    "duration": 6.56
+  },
+  {
+    "text": "a constant state of learning. Okay? So",
+    "start": 135.52,
+    "duration": 6.48
+  },
+  {
+    "text": "you have to like actually love learning",
+    "start": 139.6,
+    "duration": 4.56
+  },
+  {
+    "text": "and you have to like know how to learn",
+    "start": 142.0,
+    "duration": 4.56
+  },
+  {
+    "text": "for yourself. So these these are the",
+    "start": 144.16,
+    "duration": 6.16
+  },
+  {
+    "text": "three basic purposes of school. and",
+    "start": 146.56,
+    "duration": 6.24
+  },
+  {
+    "text": "that's why you're at the school.",
+    "start": 150.32,
+    "duration": 5.6
+  },
+  {
+    "text": "Unfortunately, what we know is that most",
+    "start": 152.8,
+    "duration": 4.8
+  },
+  {
+    "text": "schools, I'm not saying all schools, I'm",
+    "start": 155.92,
+    "duration": 4.32
+  },
+  {
+    "text": "saying that most schools are pretty bad",
+    "start": 157.6,
+    "duration": 5.76
+  },
+  {
+    "text": "at these three things. In fact, you can",
+    "start": 160.24,
+    "duration": 7.28
+  },
+  {
+    "text": "make the argument that most schools not",
+    "start": 163.36,
+    "duration": 6.96
+  },
+  {
+    "text": "only do not teach you these skills, but",
+    "start": 167.52,
+    "duration": 5.52
+  },
+  {
+    "text": "they have the opposite effect. In fact,",
+    "start": 170.32,
+    "duration": 5.52
+  },
+  {
+    "text": "they make you hate learning. Okay, so",
+    "start": 173.04,
+    "duration": 5.92
+  },
+  {
+    "text": "let's look at literacy.",
+    "start": 175.84,
+    "duration": 4.88
+  },
+  {
+    "text": "Today in most schools you're not",
+    "start": 178.96,
+    "duration": 4.56
+  },
+  {
+    "text": "required to read books.",
+    "start": 180.72,
+    "duration": 5.2
+  },
+  {
+    "text": "In fact when you go to university",
+    "start": 183.52,
+    "duration": 4.32
+  },
+  {
+    "text": "the professors there are so shocked that",
+    "start": 185.92,
+    "duration": 4.24
+  },
+  {
+    "text": "you don't read books that instead they",
+    "start": 187.84,
+    "duration": 5.12
+  },
+  {
+    "text": "make you read paragraphs",
+    "start": 190.16,
+    "duration": 5.76
+  },
+  {
+    "text": "or watch videos. Okay. So in terms of",
+    "start": 192.96,
+    "duration": 4.64
+  },
+  {
+    "text": "literacy",
+    "start": 195.92,
+    "duration": 4.24
+  },
+  {
+    "text": "around the world",
+    "start": 197.6,
+    "duration": 5.84
+  },
+  {
+    "text": "people are losing the capacity to read",
+    "start": 200.16,
+    "duration": 5.92
+  },
+  {
+    "text": "and to write.",
+    "start": 203.44,
+    "duration": 4.0
+  },
+  {
+    "text": "And not only that, but people's",
+    "start": 206.08,
+    "duration": 4.32
+  },
+  {
+    "text": "attention spans have decreased. It's",
+    "start": 207.44,
+    "duration": 6.32
+  },
+  {
+    "text": "very hard for a professor to give you an",
+    "start": 210.4,
+    "duration": 5.52
+  },
+  {
+    "text": "hour lecture.",
+    "start": 213.76,
+    "duration": 4.96
+  },
+  {
+    "text": "People lose focus after about 5 minutes.",
+    "start": 215.92,
+    "duration": 5.52
+  },
+  {
+    "text": "Okay? So this is one problem. Another",
+    "start": 218.72,
+    "duration": 5.2
+  },
+  {
+    "text": "problem is",
+    "start": 221.44,
+    "duration": 3.6
+  },
+  {
+    "text": "school is supposed to teach you",
+    "start": 223.92,
+    "duration": 3.12
+  },
+  {
+    "text": "creativity, critical thinking skills,",
+    "start": 225.04,
+    "duration": 4.24
+  },
+  {
+    "text": "collaboration, but it doesn't do that.",
+    "start": 227.04,
+    "duration": 4.56
+  },
+  {
+    "text": "Look at collaboration. In school, it's a",
+    "start": 229.28,
+    "duration": 5.76
+  },
+  {
+    "text": "competition where you believe that it's",
+    "start": 231.6,
+    "duration": 5.68
+  },
+  {
+    "text": "a zero- sum game. So, for you to get",
+    "start": 235.04,
+    "duration": 4.4
+  },
+  {
+    "text": "ahead, you need to screw over your",
+    "start": 237.28,
+    "duration": 4.8
+  },
+  {
+    "text": "classmate.",
+    "start": 239.44,
+    "duration": 4.8
+  },
+  {
+    "text": "So, class ranking is very important. So,",
+    "start": 242.08,
+    "duration": 4.32
+  },
+  {
+    "text": "that's kind of odd.",
+    "start": 244.24,
+    "duration": 3.84
+  },
+  {
+    "text": "Okay. And the last thing, of course, is",
+    "start": 246.4,
+    "duration": 5.28
+  },
+  {
+    "text": "lifelong learning where school teaches",
+    "start": 248.08,
+    "duration": 7.28
+  },
+  {
+    "text": "you to hate school and therefore teaches",
+    "start": 251.68,
+    "duration": 6.48
+  },
+  {
+    "text": "you how to hate learning, especially in",
+    "start": 255.36,
+    "duration": 6.32
+  },
+  {
+    "text": "China. Okay? Especially in China where",
+    "start": 258.16,
+    "duration": 5.36
+  },
+  {
+    "text": "you work hard until the national",
+    "start": 261.68,
+    "duration": 4.56
+  },
+  {
+    "text": "entrance examination at age 18. And then",
+    "start": 263.52,
+    "duration": 4.56
+  },
+  {
+    "text": "after the exam examination ends, what do",
+    "start": 266.24,
+    "duration": 4.08
+  },
+  {
+    "text": "you do? You burn your books. That's the",
+    "start": 268.08,
+    "duration": 4.0
+  },
+  {
+    "text": "great ceremony here in China. Right",
+    "start": 270.32,
+    "duration": 3.6
+  },
+  {
+    "text": "after the examination, you take your",
+    "start": 272.08,
+    "duration": 3.36
+  },
+  {
+    "text": "books, you rip out the pages, and you",
+    "start": 273.92,
+    "duration": 3.92
+  },
+  {
+    "text": "throw it in the sky to to signal your",
+    "start": 275.44,
+    "duration": 4.0
+  },
+  {
+    "text": "liberation, your liberation. And you're",
+    "start": 277.84,
+    "duration": 3.76
+  },
+  {
+    "text": "like, I never ever want to read a book",
+    "start": 279.44,
+    "duration": 4.08
+  },
+  {
+    "text": "again. I never ever want to take a test",
+    "start": 281.6,
+    "duration": 4.16
+  },
+  {
+    "text": "again. I never want to learn again.",
+    "start": 283.52,
+    "duration": 6.08
+  },
+  {
+    "text": "Okay. So",
+    "start": 285.76,
+    "duration": 5.84
+  },
+  {
+    "text": "around the world, most schools, not all",
+    "start": 289.6,
+    "duration": 3.52
+  },
+  {
+    "text": "schools, there are there are some really",
+    "start": 291.6,
+    "duration": 4.8
+  },
+  {
+    "text": "good schools out there, but most schools",
+    "start": 293.12,
+    "duration": 5.76
+  },
+  {
+    "text": "are failing in their mission. School",
+    "start": 296.4,
+    "duration": 5.36
+  },
+  {
+    "text": "sucks. And so the question for us today",
+    "start": 298.88,
+    "duration": 4.4
+  },
+  {
+    "text": "is",
+    "start": 301.76,
+    "duration": 4.64
+  },
+  {
+    "text": "why is this the case? And so we're going",
+    "start": 303.28,
+    "duration": 6.32
+  },
+  {
+    "text": "to use game theory to analyze why this",
+    "start": 306.4,
+    "duration": 6.08
+  },
+  {
+    "text": "is the case. All right. [snorts]",
+    "start": 309.6,
+    "duration": 5.88
+  },
+  {
+    "text": "So",
+    "start": 312.48,
+    "duration": 3.0
+  },
+  {
+    "text": "what I'm going to do now is I'm going to",
+    "start": 315.76,
+    "duration": 3.92
+  },
+  {
+    "text": "tell you a story about myself. So the",
+    "start": 317.6,
+    "duration": 4.88
+  },
+  {
+    "text": "year is 2008.",
+    "start": 319.68,
+    "duration": 5.92
+  },
+  {
+    "text": "I went to Yale College, okay, in the",
+    "start": 322.48,
+    "duration": 4.96
+  },
+  {
+    "text": "United States and I was English major. I",
+    "start": 325.6,
+    "duration": 4.56
+  },
+  {
+    "text": "did very well in school. So I was hired",
+    "start": 327.44,
+    "duration": 6.08
+  },
+  {
+    "text": "in 2008 to go to Shinjzhin in South",
+    "start": 330.16,
+    "duration": 6.48
+  },
+  {
+    "text": "China and help the school Shin Middle",
+    "start": 333.52,
+    "duration": 7.12
+  },
+  {
+    "text": "School build a national program to send",
+    "start": 336.64,
+    "duration": 6.4
+  },
+  {
+    "text": "kids abroad. Okay. Right. So this 2008",
+    "start": 340.64,
+    "duration": 4.24
+  },
+  {
+    "text": "which was a long time ago and back then",
+    "start": 343.04,
+    "duration": 3.28
+  },
+  {
+    "text": "not not that many students wanted to go",
+    "start": 344.88,
+    "duration": 2.88
+  },
+  {
+    "text": "abroad. There were really few",
+    "start": 346.32,
+    "duration": 3.52
+  },
+  {
+    "text": "international schools. So the first",
+    "start": 347.76,
+    "duration": 4.24
+  },
+  {
+    "text": "thing I did was I looked at the",
+    "start": 349.84,
+    "duration": 4.16
+  },
+  {
+    "text": "situation at the school. Okay. And this",
+    "start": 352.0,
+    "duration": 4.8
+  },
+  {
+    "text": "and this this this what I found.",
+    "start": 354.0,
+    "duration": 4.88
+  },
+  {
+    "text": "Okay.",
+    "start": 356.8,
+    "duration": 4.56
+  },
+  {
+    "text": "I found that students",
+    "start": 358.88,
+    "duration": 3.92
+  },
+  {
+    "text": "even though they were going abroad maybe",
+    "start": 361.36,
+    "duration": 4.08
+  },
+  {
+    "text": "about 10% of the students were planning",
+    "start": 362.8,
+    "duration": 4.32
+  },
+  {
+    "text": "to go abroad. So so that's about 80",
+    "start": 365.44,
+    "duration": 4.64
+  },
+  {
+    "text": "students uh each year. That's a lot.",
+    "start": 367.12,
+    "duration": 5.2
+  },
+  {
+    "text": "[snorts] But the way they were going",
+    "start": 370.08,
+    "duration": 4.24
+  },
+  {
+    "text": "about the process of studying abroad was",
+    "start": 372.32,
+    "duration": 4.08
+  },
+  {
+    "text": "problematic. Okay. So first of all, all",
+    "start": 374.32,
+    "duration": 3.44
+  },
+  {
+    "text": "they were doing was taking regular",
+    "start": 376.4,
+    "duration": 3.5
+  },
+  {
+    "text": "Chinese classes",
+    "start": 377.76,
+    "duration": 3.44
+  },
+  {
+    "text": "[snorts]",
+    "start": 379.9,
+    "duration": 2.98
+  },
+  {
+    "text": "and you know in Chinese classes all you",
+    "start": 381.2,
+    "duration": 4.16
+  },
+  {
+    "text": "do is you sit in a room of 50 kids and",
+    "start": 382.88,
+    "duration": 4.56
+  },
+  {
+    "text": "you take notes and you take tests, you",
+    "start": 385.36,
+    "duration": 3.36
+  },
+  {
+    "text": "don't communicate, you don't ask",
+    "start": 387.44,
+    "duration": 3.92
+  },
+  {
+    "text": "questions, you don't debate. Okay, so",
+    "start": 388.72,
+    "duration": 5.76
+  },
+  {
+    "text": "that's one problem. Another problem is",
+    "start": 391.36,
+    "duration": 4.4
+  },
+  {
+    "text": "that the students were spending all",
+    "start": 394.48,
+    "duration": 5.92
+  },
+  {
+    "text": "their time memorizing SAT word list.",
+    "start": 395.76,
+    "duration": 6.72
+  },
+  {
+    "text": "Okay, they were not reading, they were",
+    "start": 400.4,
+    "duration": 4.24
+  },
+  {
+    "text": "not writing,",
+    "start": 402.48,
+    "duration": 5.92
+  },
+  {
+    "text": "they were just memorizing words.",
+    "start": 404.64,
+    "duration": 5.68
+  },
+  {
+    "text": "And the other thing that they did to",
+    "start": 408.4,
+    "duration": 6.24
+  },
+  {
+    "text": "make their applications look good is",
+    "start": 410.32,
+    "duration": 8.16
+  },
+  {
+    "text": "model United Nations. Okay,",
+    "start": 414.64,
+    "duration": 6.0
+  },
+  {
+    "text": "and that's fine. Maybe some of you are",
+    "start": 418.48,
+    "duration": 3.44
+  },
+  {
+    "text": "modeling United Nations and that's a",
+    "start": 420.64,
+    "duration": 3.76
+  },
+  {
+    "text": "great activity but everyone was doing",
+    "start": 421.92,
+    "duration": 4.24
+  },
+  {
+    "text": "it. There was absolutely no",
+    "start": 424.4,
+    "duration": 4.0
+  },
+  {
+    "text": "differentiation.",
+    "start": 426.16,
+    "duration": 4.48
+  },
+  {
+    "text": "All right. So I looked at the situation.",
+    "start": 428.4,
+    "duration": 4.72
+  },
+  {
+    "text": "I said no I mean you might be able to",
+    "start": 430.64,
+    "duration": 5.04
+  },
+  {
+    "text": "get into a good American university",
+    "start": 433.12,
+    "duration": 4.88
+  },
+  {
+    "text": "because you know these kids are very",
+    "start": 435.68,
+    "duration": 5.6
+  },
+  {
+    "text": "smart but I wanted to them do well at",
+    "start": 438.0,
+    "duration": 5.44
+  },
+  {
+    "text": "the university and to do well in life.",
+    "start": 441.28,
+    "duration": 5.36
+  },
+  {
+    "text": "Okay. So I made certain changes to the",
+    "start": 443.44,
+    "duration": 5.44
+  },
+  {
+    "text": "curriculum and to the school. Okay. So",
+    "start": 446.64,
+    "duration": 4.88
+  },
+  {
+    "text": "first thing I did was I set up a seminar",
+    "start": 448.88,
+    "duration": 4.32
+  },
+  {
+    "text": "system.",
+    "start": 451.52,
+    "duration": 3.28
+  },
+  {
+    "text": "So rather than in Chinese classes, I",
+    "start": 453.2,
+    "duration": 4.24
+  },
+  {
+    "text": "invited these American teachers to come",
+    "start": 454.8,
+    "duration": 4.96
+  },
+  {
+    "text": "and teach seminars like we have at the",
+    "start": 457.44,
+    "duration": 4.88
+  },
+  {
+    "text": "school where 10 20 kids are in a room",
+    "start": 459.76,
+    "duration": 5.28
+  },
+  {
+    "text": "and they discuss books that they read",
+    "start": 462.32,
+    "duration": 8.16
+  },
+  {
+    "text": "together. Okay. Um rather than SAT word",
+    "start": 465.04,
+    "duration": 9.6
+  },
+  {
+    "text": "memorization, I had them read books.",
+    "start": 470.48,
+    "duration": 5.84
+  },
+  {
+    "text": "Students were required to read a lot of",
+    "start": 474.64,
+    "duration": 4.4
+  },
+  {
+    "text": "books. In fact, I established a 5,000",
+    "start": 476.32,
+    "duration": 5.6
+  },
+  {
+    "text": "book English library at the school where",
+    "start": 479.04,
+    "duration": 4.32
+  },
+  {
+    "text": "students can just go and borrow books",
+    "start": 481.92,
+    "duration": 4.16
+  },
+  {
+    "text": "and read. I wanted to teach students the",
+    "start": 483.36,
+    "duration": 5.68
+  },
+  {
+    "text": "joy of reading.",
+    "start": 486.08,
+    "duration": 5.12
+  },
+  {
+    "text": "Um, and then in terms of activities, I",
+    "start": 489.04,
+    "duration": 3.44
+  },
+  {
+    "text": "didn't want students to do M United",
+    "start": 491.2,
+    "duration": 2.48
+  },
+  {
+    "text": "Nations anymore because I didn't want",
+    "start": 492.48,
+    "duration": 3.04
+  },
+  {
+    "text": "kids sitting around just talking. I",
+    "start": 493.68,
+    "duration": 3.84
+  },
+  {
+    "text": "wanted to let them do things. Okay. So,",
+    "start": 495.52,
+    "duration": 3.6
+  },
+  {
+    "text": "I set up two new new activities. The",
+    "start": 497.52,
+    "duration": 4.16
+  },
+  {
+    "text": "first is called the coffee house.",
+    "start": 499.12,
+    "duration": 5.76
+  },
+  {
+    "text": "And the coffee house is is the first",
+    "start": 501.68,
+    "duration": 5.36
+  },
+  {
+    "text": "coffee house in China in a Chinese high",
+    "start": 504.88,
+    "duration": 3.6
+  },
+  {
+    "text": "school. There are lots of coffee houses",
+    "start": 507.04,
+    "duration": 4.48
+  },
+  {
+    "text": "today, but I was the first person to set",
+    "start": 508.48,
+    "duration": 6.32
+  },
+  {
+    "text": "up a coffee house where students had to",
+    "start": 511.52,
+    "duration": 5.84
+  },
+  {
+    "text": "run a business. They had to work as",
+    "start": 514.8,
+    "duration": 5.2
+  },
+  {
+    "text": "waiters and provide good service to",
+    "start": 517.36,
+    "duration": 4.32
+  },
+  {
+    "text": "customers. And it was it was a",
+    "start": 520.0,
+    "duration": 2.96
+  },
+  {
+    "text": "collaboration effort. As you can",
+    "start": 521.68,
+    "duration": 3.12
+  },
+  {
+    "text": "imagine, this is great for the students",
+    "start": 522.96,
+    "duration": 4.16
+  },
+  {
+    "text": "to learn collaboration, to learn",
+    "start": 524.8,
+    "duration": 4.72
+  },
+  {
+    "text": "finance, to learn entrepreneurship.",
+    "start": 527.12,
+    "duration": 3.6
+  },
+  {
+    "text": "Okay. So, that was a very successful",
+    "start": 529.52,
+    "duration": 2.96
+  },
+  {
+    "text": "activity.",
+    "start": 530.72,
+    "duration": 3.52
+  },
+  {
+    "text": "Uh, do you have a question?",
+    "start": 532.48,
+    "duration": 2.8
+  },
+  {
+    "text": ">> Yeah.",
+    "start": 534.24,
+    "duration": 4.04
+  },
+  {
+    "text": ">> Okay.",
+    "start": 535.28,
+    "duration": 3.0
+  },
+  {
+    "text": ">> I mean, was that like similar with our",
+    "start": 540.08,
+    "duration": 5.84
+  },
+  {
+    "text": "moon coffee like the coffee in the west",
+    "start": 542.56,
+    "duration": 4.24
+  },
+  {
+    "text": "south store?",
+    "start": 545.92,
+    "duration": 4.4
+  },
+  {
+    "text": ">> Okay. Um, 2008 I was the first person to",
+    "start": 546.8,
+    "duration": 4.64
+  },
+  {
+    "text": "do anything. Okay.",
+    "start": 550.32,
+    "duration": 1.92
+  },
+  {
+    "text": ">> Oh, okay.",
+    "start": 551.44,
+    "duration": 2.72
+  },
+  {
+    "text": ">> Okay. Just I mean like like",
+    "start": 552.24,
+    "duration": 2.96
+  },
+  {
+    "text": ">> similar.",
+    "start": 554.16,
+    "duration": 2.8
+  },
+  {
+    "text": ">> Yeah. [clears throat] All right. So the",
+    "start": 555.2,
+    "duration": 3.6
+  },
+  {
+    "text": "coffee house was an activity I set up",
+    "start": 556.96,
+    "duration": 3.6
+  },
+  {
+    "text": "which was very successful. It's still",
+    "start": 558.8,
+    "duration": 3.28
+  },
+  {
+    "text": "there today guys. If you go to middle",
+    "start": 560.56,
+    "duration": 2.88
+  },
+  {
+    "text": "school you will see the coffee house",
+    "start": 562.08,
+    "duration": 3.52
+  },
+  {
+    "text": "still there a long long time after I I",
+    "start": 563.44,
+    "duration": 3.68
+  },
+  {
+    "text": "went away. The other thing I did was",
+    "start": 565.6,
+    "duration": 3.6
+  },
+  {
+    "text": "something called the daily newspaper.",
+    "start": 567.12,
+    "duration": 5.44
+  },
+  {
+    "text": "[snorts] And this was the first daily",
+    "start": 569.2,
+    "duration": 6.56
+  },
+  {
+    "text": "newspaper in China in a high school and",
+    "start": 572.56,
+    "duration": 4.8
+  },
+  {
+    "text": "probably maybe even around the world",
+    "start": 575.76,
+    "duration": 4.64
+  },
+  {
+    "text": "where students every day had to report,",
+    "start": 577.36,
+    "duration": 5.68
+  },
+  {
+    "text": "collect information, write articles,",
+    "start": 580.4,
+    "duration": 4.32
+  },
+  {
+    "text": "edit and publish it and they worked",
+    "start": 583.04,
+    "duration": 3.92
+  },
+  {
+    "text": "until like midnight. sometimes until 2",
+    "start": 584.72,
+    "duration": 4.8
+  },
+  {
+    "text": "am and then at 7 am they had to get up",
+    "start": 586.96,
+    "duration": 5.28
+  },
+  {
+    "text": "and um deliver the newspaper to all the",
+    "start": 589.52,
+    "duration": 4.16
+  },
+  {
+    "text": "students and these were two very",
+    "start": 592.24,
+    "duration": 5.28
+  },
+  {
+    "text": "successful activities [snorts] and",
+    "start": 593.68,
+    "duration": 6.08
+  },
+  {
+    "text": "um so I understand game theoriz says",
+    "start": 597.52,
+    "duration": 5.12
+  },
+  {
+    "text": "okay if you want to make this transition",
+    "start": 599.76,
+    "duration": 5.52
+  },
+  {
+    "text": "from the old system to new system you",
+    "start": 602.64,
+    "duration": 6.08
+  },
+  {
+    "text": "also have to establish a new culture",
+    "start": 605.28,
+    "duration": 6.0
+  },
+  {
+    "text": "to allow these activities to flourish",
+    "start": 608.72,
+    "duration": 5.28
+  },
+  {
+    "text": "okay and so my three major principles",
+    "start": 611.28,
+    "duration": 4.72
+  },
+  {
+    "text": "for",
+    "start": 614.0,
+    "duration": 5.48
+  },
+  {
+    "text": "um transparency,",
+    "start": 616.0,
+    "duration": 3.48
+  },
+  {
+    "text": "um innovation,",
+    "start": 622.56,
+    "duration": 3.24
+  },
+  {
+    "text": "okay, transparency,",
+    "start": 628.16,
+    "duration": 4.88
+  },
+  {
+    "text": "um innovation,",
+    "start": 630.56,
+    "duration": 4.8
+  },
+  {
+    "text": "openness.",
+    "start": 633.04,
+    "duration": 3.36
+  },
+  {
+    "text": "[snorts]",
+    "start": 635.36,
+    "duration": 4.0
+  },
+  {
+    "text": "And so my idea was this. Rather than sub",
+    "start": 636.4,
+    "duration": 5.12
+  },
+  {
+    "text": "a",
+    "start": 639.36,
+    "duration": 5.36
+  },
+  {
+    "text": "curriculum that was perfect, it would be",
+    "start": 641.52,
+    "duration": 5.92
+  },
+  {
+    "text": "a curriculum that would evolve over",
+    "start": 644.72,
+    "duration": 6.8
+  },
+  {
+    "text": "time. We would learn mistakes together.",
+    "start": 647.44,
+    "duration": 6.72
+  },
+  {
+    "text": "We would admit these mistakes and then",
+    "start": 651.52,
+    "duration": 4.4
+  },
+  {
+    "text": "we would correct them together and",
+    "start": 654.16,
+    "duration": 4.16
+  },
+  {
+    "text": "that's what learning is. Okay. Okay. So",
+    "start": 655.92,
+    "duration": 5.36
+  },
+  {
+    "text": "the idea of transparency [snorts] also I",
+    "start": 658.32,
+    "duration": 6.72
+  },
+  {
+    "text": "made changes all the time which created",
+    "start": 661.28,
+    "duration": 6.64
+  },
+  {
+    "text": "some chaos but it's a time for us to",
+    "start": 665.04,
+    "duration": 6.56
+  },
+  {
+    "text": "reflect and to be resilient. And I was",
+    "start": 667.92,
+    "duration": 6.16
+  },
+  {
+    "text": "very open and honest about everything",
+    "start": 671.6,
+    "duration": 5.28
+  },
+  {
+    "text": "that I was doing. And this in and so",
+    "start": 674.08,
+    "duration": 4.8
+  },
+  {
+    "text": "this system in a very short amount of",
+    "start": 676.88,
+    "duration": 3.68
+  },
+  {
+    "text": "time even though it there were a lot of",
+    "start": 678.88,
+    "duration": 4.0
+  },
+  {
+    "text": "problems in the beginning it became a",
+    "start": 680.56,
+    "duration": 5.84
+  },
+  {
+    "text": "very effective system after a semester",
+    "start": 682.88,
+    "duration": 6.64
+  },
+  {
+    "text": "or a year. And not only that the",
+    "start": 686.4,
+    "duration": 4.8
+  },
+  {
+    "text": "students who went for this program did",
+    "start": 689.52,
+    "duration": 3.6
+  },
+  {
+    "text": "very well in life. They went to Yale.",
+    "start": 691.2,
+    "duration": 3.76
+  },
+  {
+    "text": "They went to they went to Wharton",
+    "start": 693.12,
+    "duration": 5.76
+  },
+  {
+    "text": "Cornell and this program actually school",
+    "start": 694.96,
+    "duration": 7.44
+  },
+  {
+    "text": "became the most famous program in South",
+    "start": 698.88,
+    "duration": 6.32
+  },
+  {
+    "text": "China and when our students have the",
+    "start": 702.4,
+    "duration": 7.28
+  },
+  {
+    "text": "best record of college admissions",
+    "start": 705.2,
+    "duration": 7.84
+  },
+  {
+    "text": "in South China. Okay.",
+    "start": 709.68,
+    "duration": 6.16
+  },
+  {
+    "text": "So this sounds great, right? Okay. The",
+    "start": 713.04,
+    "duration": 5.44
+  },
+  {
+    "text": "problem is this. The problem is what",
+    "start": 715.84,
+    "duration": 4.16
+  },
+  {
+    "text": "happened after I established the",
+    "start": 718.48,
+    "duration": 3.36
+  },
+  {
+    "text": "program. The first one that happened",
+    "start": 720.0,
+    "duration": 7.4
+  },
+  {
+    "text": "was, okay, I was fired.",
+    "start": 721.84,
+    "duration": 5.56
+  },
+  {
+    "text": "They said, \"Get out of here.\" Okay.",
+    "start": 727.52,
+    "duration": 5.12
+  },
+  {
+    "text": "Second of all,",
+    "start": 730.48,
+    "duration": 5.68
+  },
+  {
+    "text": "the teachers, the parents, the students",
+    "start": 732.64,
+    "duration": 7.04
+  },
+  {
+    "text": "were all happy to see me go. They were",
+    "start": 736.16,
+    "duration": 4.8
+  },
+  {
+    "text": "like, \"Get out of here. We never want to",
+    "start": 739.68,
+    "duration": 3.84
+  },
+  {
+    "text": "see you again.\" The third thing that",
+    "start": 740.96,
+    "duration": 4.4
+  },
+  {
+    "text": "happened was",
+    "start": 743.52,
+    "duration": 4.08
+  },
+  {
+    "text": "I did come to a new program that was",
+    "start": 745.36,
+    "duration": 4.88
+  },
+  {
+    "text": "very similar to this. Okay. But after",
+    "start": 747.6,
+    "duration": 4.56
+  },
+  {
+    "text": "that, after four years of doing this and",
+    "start": 750.24,
+    "duration": 4.64
+  },
+  {
+    "text": "being very successful at this, I was",
+    "start": 752.16,
+    "duration": 4.96
+  },
+  {
+    "text": "never allowed to set up another program",
+    "start": 754.88,
+    "duration": 4.48
+  },
+  {
+    "text": "again. No one wanted me to work in",
+    "start": 757.12,
+    "duration": 4.56
+  },
+  {
+    "text": "management again.",
+    "start": 759.36,
+    "duration": 4.48
+  },
+  {
+    "text": "Okay? So even though I was successful,",
+    "start": 761.68,
+    "duration": 3.84
+  },
+  {
+    "text": "even though I worked really hard, even",
+    "start": 763.84,
+    "duration": 4.24
+  },
+  {
+    "text": "though I was innovative, even though I",
+    "start": 765.52,
+    "duration": 4.4
+  },
+  {
+    "text": "set up really the best study abroad",
+    "start": 768.08,
+    "duration": 3.92
+  },
+  {
+    "text": "program in all of China, I was the",
+    "start": 769.92,
+    "duration": 3.6
+  },
+  {
+    "text": "first. Everyone else copied me",
+    "start": 772.0,
+    "duration": 5.84
+  },
+  {
+    "text": "afterwards. I was fired. No one wanted",
+    "start": 773.52,
+    "duration": 6.64
+  },
+  {
+    "text": "me to stay and I was not allowed to do",
+    "start": 777.84,
+    "duration": 6.64
+  },
+  {
+    "text": "this ever again. Why? Okay. Well, the",
+    "start": 780.16,
+    "duration": 6.8
+  },
+  {
+    "text": "reason is this.",
+    "start": 784.48,
+    "duration": 4.96
+  },
+  {
+    "text": "When I was doing this,",
+    "start": 786.96,
+    "duration": 4.8
+  },
+  {
+    "text": "the word that everyone used to describe",
+    "start": 789.44,
+    "duration": 7.28
+  },
+  {
+    "text": "me was not reformer, not visionary, not",
+    "start": 791.76,
+    "duration": 10.96
+  },
+  {
+    "text": "idealist, not dreamer, but dictator.",
+    "start": 796.72,
+    "duration": 8.16
+  },
+  {
+    "text": "Okay.",
+    "start": 802.72,
+    "duration": 5.04
+  },
+  {
+    "text": "One other word that they used that was",
+    "start": 804.88,
+    "duration": 5.92
+  },
+  {
+    "text": "that was more common was this guy's an",
+    "start": 807.76,
+    "duration": 5.2
+  },
+  {
+    "text": " Okay, this guy's a complete",
+    "start": 810.8,
+    "duration": 3.84
+  },
+  {
+    "text": "Why? Because I insisted on fairness.",
+    "start": 814.64,
+    "duration": 5.64
+  },
+  {
+    "text": "Okay, I don't care who you are. I don't",
+    "start": 820.56,
+    "duration": 8.64
+  },
+  {
+    "text": "care who your parents are. I want you to",
+    "start": 823.76,
+    "duration": 8.32
+  },
+  {
+    "text": "work hard and learn. And as you can",
+    "start": 829.2,
+    "duration": 5.36
+  },
+  {
+    "text": "imagine, that pissed off a lot of",
+    "start": 832.08,
+    "duration": 4.0
+  },
+  {
+    "text": "powerful people because that's not how",
+    "start": 834.56,
+    "duration": 3.68
+  },
+  {
+    "text": "the game is played in China. Okay? It's",
+    "start": 836.08,
+    "duration": 3.52
+  },
+  {
+    "text": "actually not the game how this game is",
+    "start": 838.24,
+    "duration": 3.04
+  },
+  {
+    "text": "played anywhere in the world. The game",
+    "start": 839.6,
+    "duration": 4.56
+  },
+  {
+    "text": "is not fair. The game is established by",
+    "start": 841.28,
+    "duration": 5.76
+  },
+  {
+    "text": "stakeholders and they play the game",
+    "start": 844.16,
+    "duration": 5.92
+  },
+  {
+    "text": "according to their interest.",
+    "start": 847.04,
+    "duration": 7.76
+  },
+  {
+    "text": "Okay. So, um let's go over what",
+    "start": 850.08,
+    "duration": 7.6
+  },
+  {
+    "text": "happened. All right. [snorts]",
+    "start": 854.8,
+    "duration": 5.92
+  },
+  {
+    "text": "Okay. So Mike, I understand that there",
+    "start": 857.68,
+    "duration": 6.28
+  },
+  {
+    "text": "are stakeholders",
+    "start": 860.72,
+    "duration": 3.24
+  },
+  {
+    "text": "and the stakeholders in game theory are",
+    "start": 864.08,
+    "duration": 5.64
+  },
+  {
+    "text": "just the players.",
+    "start": 866.4,
+    "duration": 3.32
+  },
+  {
+    "text": "Okay, the players. And who are [snorts]",
+    "start": 871.36,
+    "duration": 3.2
+  },
+  {
+    "text": "the players? Well, you have the",
+    "start": 873.2,
+    "duration": 4.36
+  },
+  {
+    "text": "students,",
+    "start": 874.56,
+    "duration": 3.0
+  },
+  {
+    "text": "you have the parents,",
+    "start": 879.76,
+    "duration": 5.52
+  },
+  {
+    "text": "you have the",
+    "start": 882.8,
+    "duration": 5.92
+  },
+  {
+    "text": "um teachers,",
+    "start": 885.28,
+    "duration": 6.96
+  },
+  {
+    "text": "you have [snorts] the administrators,",
+    "start": 888.72,
+    "duration": 6.32
+  },
+  {
+    "text": "okay, the school leaders,",
+    "start": 892.24,
+    "duration": 5.84
+  },
+  {
+    "text": "you have the government,",
+    "start": 895.04,
+    "duration": 6.48
+  },
+  {
+    "text": "okay, and then you have the colleges,",
+    "start": 898.08,
+    "duration": 5.2
+  },
+  {
+    "text": "okay? The college are the US colleges",
+    "start": 901.52,
+    "duration": 3.2
+  },
+  {
+    "text": "where I'm trying to send my students.",
+    "start": 903.28,
+    "duration": 3.44
+  },
+  {
+    "text": "Okay? So these are the players in the",
+    "start": 904.72,
+    "duration": 3.84
+  },
+  {
+    "text": "game. And if you want to understand game",
+    "start": 906.72,
+    "duration": 3.44
+  },
+  {
+    "text": "theory, you need you need to understand",
+    "start": 908.56,
+    "duration": 3.44
+  },
+  {
+    "text": "the motivations",
+    "start": 910.16,
+    "duration": 3.36
+  },
+  {
+    "text": "and interests of all the different",
+    "start": 912.0,
+    "duration": 5.12
+  },
+  {
+    "text": "players that tells you why or how they",
+    "start": 913.52,
+    "duration": 5.36
+  },
+  {
+    "text": "will behave the way they do. Okay. So",
+    "start": 917.12,
+    "duration": 4.32
+  },
+  {
+    "text": "look, so here is my original",
+    "start": 918.88,
+    "duration": 4.24
+  },
+  {
+    "text": "understanding of the players which was",
+    "start": 921.44,
+    "duration": 3.2
+  },
+  {
+    "text": "clearly wrong. Okay. Because I got",
+    "start": 923.12,
+    "duration": 4.0
+  },
+  {
+    "text": "fired. All right. So the students the",
+    "start": 924.64,
+    "duration": 7.52
+  },
+  {
+    "text": "students wanted like love to learn",
+    "start": 927.12,
+    "duration": 9.08
+  },
+  {
+    "text": "get into Ivy League",
+    "start": 932.16,
+    "duration": 4.04
+  },
+  {
+    "text": "and be the best. Okay. So I thought the",
+    "start": 937.04,
+    "duration": 6.32
+  },
+  {
+    "text": "students what their motivation was to be",
+    "start": 941.04,
+    "duration": 6.16
+  },
+  {
+    "text": "the best possible person to work hard to",
+    "start": 943.36,
+    "duration": 6.4
+  },
+  {
+    "text": "love learning to be famous to get an Ivy",
+    "start": 947.2,
+    "duration": 4.56
+  },
+  {
+    "text": "League. Okay. Clearly this is wrong.",
+    "start": 949.76,
+    "duration": 3.68
+  },
+  {
+    "text": "Okay. I'm saying back then what my",
+    "start": 951.76,
+    "duration": 4.0
+  },
+  {
+    "text": "thinking was the parents well the",
+    "start": 953.44,
+    "duration": 6.0
+  },
+  {
+    "text": "parents wanted successful kids",
+    "start": 955.76,
+    "duration": 7.8
+  },
+  {
+    "text": "who were independent",
+    "start": 959.44,
+    "duration": 4.12
+  },
+  {
+    "text": "okay independent and they wanted phase",
+    "start": 964.0,
+    "duration": 5.52
+  },
+  {
+    "text": "right so they want their kids to get",
+    "start": 967.12,
+    "duration": 5.2
+  },
+  {
+    "text": "into the Ivy League",
+    "start": 969.52,
+    "duration": 7.28
+  },
+  {
+    "text": "right teachers well teachers",
+    "start": 972.32,
+    "duration": 9.76
+  },
+  {
+    "text": "wanted to do a good job Right?",
+    "start": 976.8,
+    "duration": 9.36
+  },
+  {
+    "text": "They want to teach students. They love",
+    "start": 982.08,
+    "duration": 6.4
+  },
+  {
+    "text": "teaching. They love students. They just",
+    "start": 986.16,
+    "duration": 3.6
+  },
+  {
+    "text": "want to be given the space and the",
+    "start": 988.48,
+    "duration": 3.92
+  },
+  {
+    "text": "opportunity to teach what their passion",
+    "start": 989.76,
+    "duration": 4.72
+  },
+  {
+    "text": "is. Okay.",
+    "start": 992.4,
+    "duration": 5.36
+  },
+  {
+    "text": "Administrators. Administrators. I really",
+    "start": 994.48,
+    "duration": 5.2
+  },
+  {
+    "text": "didn't like administrators. So, I just",
+    "start": 997.76,
+    "duration": 3.36
+  },
+  {
+    "text": "thought they were just they wanted good",
+    "start": 999.68,
+    "duration": 3.76
+  },
+  {
+    "text": "results. Okay. That's all. Good results.",
+    "start": 1001.12,
+    "duration": 4.32
+  },
+  {
+    "text": "As long as prov as long as I provide",
+    "start": 1003.44,
+    "duration": 4.48
+  },
+  {
+    "text": "good results, they're happy. Okay. the",
+    "start": 1005.44,
+    "duration": 5.52
+  },
+  {
+    "text": "government, they wanted innovation,",
+    "start": 1007.92,
+    "duration": 7.48
+  },
+  {
+    "text": "they wanted good workers.",
+    "start": 1010.96,
+    "duration": 4.44
+  },
+  {
+    "text": "Um, they wanted, you know, they want",
+    "start": 1017.04,
+    "duration": 5.36
+  },
+  {
+    "text": "technology, okay? They want a strong",
+    "start": 1019.92,
+    "duration": 5.28
+  },
+  {
+    "text": "China.",
+    "start": 1022.4,
+    "duration": 6.4
+  },
+  {
+    "text": "Colleges wanted the best",
+    "start": 1025.2,
+    "duration": 5.68
+  },
+  {
+    "text": "possible",
+    "start": 1028.8,
+    "duration": 4.08
+  },
+  {
+    "text": "potential.",
+    "start": 1030.88,
+    "duration": 4.56
+  },
+  {
+    "text": "Okay? They wanted students who will be",
+    "start": 1032.88,
+    "duration": 5.68
+  },
+  {
+    "text": "the leaders of the future. Okay? So 2008",
+    "start": 1035.44,
+    "duration": 5.36
+  },
+  {
+    "text": "when I set up the program, this was my",
+    "start": 1038.56,
+    "duration": 4.16
+  },
+  {
+    "text": "assumptions about who the players were",
+    "start": 1040.8,
+    "duration": 5.84
+  },
+  {
+    "text": "and what motivated them. Okay, clearly",
+    "start": 1042.72,
+    "duration": 7.36
+  },
+  {
+    "text": "clearly I was wrong about who they were.",
+    "start": 1046.64,
+    "duration": 6.48
+  },
+  {
+    "text": "Okay, so let's go over again. Let's now",
+    "start": 1050.08,
+    "duration": 5.68
+  },
+  {
+    "text": "do an anal analysis of what they really",
+    "start": 1053.12,
+    "duration": 8.16
+  },
+  {
+    "text": "really want. Okay. And the um easy",
+    "start": 1055.76,
+    "duration": 8.56
+  },
+  {
+    "text": "answer is that in game theory all the",
+    "start": 1061.28,
+    "duration": 6.0
+  },
+  {
+    "text": "players what they're motivated in is by",
+    "start": 1064.32,
+    "duration": 6.64
+  },
+  {
+    "text": "achieving the best possible results by",
+    "start": 1067.28,
+    "duration": 8.0
+  },
+  {
+    "text": "doing the least amount of work possible.",
+    "start": 1070.96,
+    "duration": 6.0
+  },
+  {
+    "text": "Okay, just remember that that's a",
+    "start": 1075.28,
+    "duration": 3.6
+  },
+  {
+    "text": "principle here. Everyone wants to",
+    "start": 1076.96,
+    "duration": 4.8
+  },
+  {
+    "text": "achieve the best results by doing the",
+    "start": 1078.88,
+    "duration": 5.28
+  },
+  {
+    "text": "least amount of work possible. People",
+    "start": 1081.76,
+    "duration": 4.8
+  },
+  {
+    "text": "are lazy and people are greedy. It's",
+    "start": 1084.16,
+    "duration": 6.4
+  },
+  {
+    "text": "that simple, guys. Okay, so students,",
+    "start": 1086.56,
+    "duration": 5.92
+  },
+  {
+    "text": "they want to get in the Ivy League, but",
+    "start": 1090.56,
+    "duration": 3.76
+  },
+  {
+    "text": "they didn't want to work hard to get in",
+    "start": 1092.48,
+    "duration": 4.0
+  },
+  {
+    "text": "the Ivy League. They wanted to do as",
+    "start": 1094.32,
+    "duration": 5.92
+  },
+  {
+    "text": "little work as possible. And if it meant",
+    "start": 1096.48,
+    "duration": 7.52
+  },
+  {
+    "text": "they had to uh work hard to get Ivy",
+    "start": 1100.24,
+    "duration": 5.2
+  },
+  {
+    "text": "League, they they like, I don't want to",
+    "start": 1104.0,
+    "duration": 2.72
+  },
+  {
+    "text": "get in the Ivy League then. I'll just",
+    "start": 1105.44,
+    "duration": 2.88
+  },
+  {
+    "text": "get into another school because who",
+    "start": 1106.72,
+    "duration": 3.36
+  },
+  {
+    "text": "cares? Okay, the best possible result,",
+    "start": 1108.32,
+    "duration": 5.04
+  },
+  {
+    "text": "least possible work. Parents are like,",
+    "start": 1110.08,
+    "duration": 5.76
+  },
+  {
+    "text": "\"Yeah, I can have my kid work hard, but",
+    "start": 1113.36,
+    "duration": 4.4
+  },
+  {
+    "text": "what's important is for me to control my",
+    "start": 1115.84,
+    "duration": 5.52
+  },
+  {
+    "text": "kid, right? For to make to because only",
+    "start": 1117.76,
+    "duration": 6.0
+  },
+  {
+    "text": "I know how to ensure my kid succeeds.",
+    "start": 1121.36,
+    "duration": 4.48
+  },
+  {
+    "text": "So, I need to I don't want my kids to",
+    "start": 1123.76,
+    "duration": 4.8
+  },
+  {
+    "text": "think critically or or be independent. I",
+    "start": 1125.84,
+    "duration": 5.68
+  },
+  {
+    "text": "want my kids to obey me.\" Now, teachers",
+    "start": 1128.56,
+    "duration": 6.0
+  },
+  {
+    "text": "are like, \"Listen, this is a job, man.\"",
+    "start": 1131.52,
+    "duration": 5.44
+  },
+  {
+    "text": "Okay? I have kids. I don't want to work",
+    "start": 1134.56,
+    "duration": 5.04
+  },
+  {
+    "text": "hard. I just want to come to school, do",
+    "start": 1136.96,
+    "duration": 4.56
+  },
+  {
+    "text": "what I'm supposed to do, do what is",
+    "start": 1139.6,
+    "duration": 3.28
+  },
+  {
+    "text": "minimally required me to collect my",
+    "start": 1141.52,
+    "duration": 3.6
+  },
+  {
+    "text": "salary and then go home. I don't want to",
+    "start": 1142.88,
+    "duration": 3.68
+  },
+  {
+    "text": "teach my passion because I don't have",
+    "start": 1145.12,
+    "duration": 3.28
+  },
+  {
+    "text": "any passion.",
+    "start": 1146.56,
+    "duration": 4.16
+  },
+  {
+    "text": "Okay, administrators are like, \"Oh my",
+    "start": 1148.4,
+    "duration": 5.36
+  },
+  {
+    "text": "god, what's important is for me to make",
+    "start": 1150.72,
+    "duration": 5.6
+  },
+  {
+    "text": "sure the powerful parents are happy. I",
+    "start": 1153.76,
+    "duration": 4.08
+  },
+  {
+    "text": "don't care about everyone else. I don't",
+    "start": 1156.32,
+    "duration": 4.16
+  },
+  {
+    "text": "care about poor parents. I don't care",
+    "start": 1157.84,
+    "duration": 5.04
+  },
+  {
+    "text": "about middle- class parents. As long as",
+    "start": 1160.48,
+    "duration": 4.96
+  },
+  {
+    "text": "the parents who are powerful are happy,",
+    "start": 1162.88,
+    "duration": 6.08
+  },
+  {
+    "text": "I keep my I can keep my job, right? The",
+    "start": 1165.44,
+    "duration": 5.68
+  },
+  {
+    "text": "government is like, you know what? I",
+    "start": 1168.96,
+    "duration": 3.76
+  },
+  {
+    "text": "don't want innovation in this country.",
+    "start": 1171.12,
+    "duration": 2.96
+  },
+  {
+    "text": "Even though I say I want I want it",
+    "start": 1172.72,
+    "duration": 3.28
+  },
+  {
+    "text": "because I don't want problems in life,",
+    "start": 1174.08,
+    "duration": 4.48
+  },
+  {
+    "text": "okay? I just want things to just stay",
+    "start": 1176.0,
+    "duration": 6.96
+  },
+  {
+    "text": "the way they are and everyone's happy.",
+    "start": 1178.56,
+    "duration": 7.04
+  },
+  {
+    "text": "Okay? So now we understand what",
+    "start": 1182.96,
+    "duration": 5.76
+  },
+  {
+    "text": "happened. All right. All right. So now",
+    "start": 1185.6,
+    "duration": 5.84
+  },
+  {
+    "text": "what I will show you is this. I will",
+    "start": 1188.72,
+    "duration": 5.12
+  },
+  {
+    "text": "show you how a game is constructed. A",
+    "start": 1191.44,
+    "duration": 3.92
+  },
+  {
+    "text": "game is constructed when all the",
+    "start": 1193.84,
+    "duration": 5.12
+  },
+  {
+    "text": "different players agree on the rules and",
+    "start": 1195.36,
+    "duration": 6.4
+  },
+  {
+    "text": "incentives of the game.",
+    "start": 1198.96,
+    "duration": 5.84
+  },
+  {
+    "text": "All right, I was an outsider. I was not",
+    "start": 1201.76,
+    "duration": 4.96
+  },
+  {
+    "text": "a player. I came in to construct a game",
+    "start": 1204.8,
+    "duration": 3.6
+  },
+  {
+    "text": "in which I felt that students would",
+    "start": 1206.72,
+    "duration": 3.84
+  },
+  {
+    "text": "thrive and they did thrive. But that's",
+    "start": 1208.4,
+    "duration": 4.56
+  },
+  {
+    "text": "not what they want. Okay? They wanted to",
+    "start": 1210.56,
+    "duration": 4.8
+  },
+  {
+    "text": "have control over the game. And if they",
+    "start": 1212.96,
+    "duration": 5.04
+  },
+  {
+    "text": "lose control, well, they call you an",
+    "start": 1215.36,
+    "duration": 5.12
+  },
+  {
+    "text": "they call you the outsider",
+    "start": 1218.0,
+    "duration": 6.24
+  },
+  {
+    "text": "an Okay. All right. So, let's",
+    "start": 1220.48,
+    "duration": 5.84
+  },
+  {
+    "text": "do this again.",
+    "start": 1224.24,
+    "duration": 5.44
+  },
+  {
+    "text": "And objectively think about",
+    "start": 1226.32,
+    "duration": 5.68
+  },
+  {
+    "text": "what the interests and motivations of",
+    "start": 1229.68,
+    "duration": 4.4
+  },
+  {
+    "text": "each player are. And when their",
+    "start": 1232.0,
+    "duration": 4.56
+  },
+  {
+    "text": "interests converge, that's the game they",
+    "start": 1234.08,
+    "duration": 7.84
+  },
+  {
+    "text": "play. All right? So you have students,",
+    "start": 1236.56,
+    "duration": 8.32
+  },
+  {
+    "text": "parents,",
+    "start": 1241.92,
+    "duration": 6.12
+  },
+  {
+    "text": "uh teachers,",
+    "start": 1244.88,
+    "duration": 3.16
+  },
+  {
+    "text": "uh leaders, school administrators",
+    "start": 1248.4,
+    "duration": 7.2
+  },
+  {
+    "text": "and then the colleges.",
+    "start": 1252.32,
+    "duration": 5.28
+  },
+  {
+    "text": "Okay.",
+    "start": 1255.6,
+    "duration": 3.36
+  },
+  {
+    "text": "Another thing that you have to do in",
+    "start": 1257.6,
+    "duration": 2.96
+  },
+  {
+    "text": "game theory that's very important is you",
+    "start": 1258.96,
+    "duration": 5.6
+  },
+  {
+    "text": "have to rank the power of uh power of",
+    "start": 1260.56,
+    "duration": 7.12
+  },
+  {
+    "text": "each player. Uh you have a question.",
+    "start": 1264.56,
+    "duration": 4.08
+  },
+  {
+    "text": "government.",
+    "start": 1267.68,
+    "duration": 2.08
+  },
+  {
+    "text": ">> Excuse me.",
+    "start": 1268.64,
+    "duration": 3.36
+  },
+  {
+    "text": ">> The government. Yes. Sorry. Uh you're",
+    "start": 1269.76,
+    "duration": 3.68
+  },
+  {
+    "text": "you're right. I I I forgot about the",
+    "start": 1272.0,
+    "duration": 3.12
+  },
+  {
+    "text": "government.",
+    "start": 1273.44,
+    "duration": 4.8
+  },
+  {
+    "text": "Okay. And the government.",
+    "start": 1275.12,
+    "duration": 4.64
+  },
+  {
+    "text": "Yeah. Another thing that that you have",
+    "start": 1278.24,
+    "duration": 4.24
+  },
+  {
+    "text": "to do in game theory is you have to rank",
+    "start": 1279.76,
+    "duration": 5.6
+  },
+  {
+    "text": "the importance of the players. Okay. So,",
+    "start": 1282.48,
+    "duration": 5.36
+  },
+  {
+    "text": "not all players are equal. So, in this",
+    "start": 1285.36,
+    "duration": 3.68
+  },
+  {
+    "text": "game theory, even though there are",
+    "start": 1287.84,
+    "duration": 3.84
+  },
+  {
+    "text": "students and students are the majority,",
+    "start": 1289.04,
+    "duration": 5.92
+  },
+  {
+    "text": "students actually don't matter. Okay.",
+    "start": 1291.68,
+    "duration": 5.76
+  },
+  {
+    "text": "what students actually think and want",
+    "start": 1294.96,
+    "duration": 4.72
+  },
+  {
+    "text": "don't actually matter. What matters of",
+    "start": 1297.44,
+    "duration": 5.52
+  },
+  {
+    "text": "course are the parents because the",
+    "start": 1299.68,
+    "duration": 5.36
+  },
+  {
+    "text": "parents pay",
+    "start": 1302.96,
+    "duration": 3.84
+  },
+  {
+    "text": "to play in this game and parents can",
+    "start": 1305.04,
+    "duration": 3.44
+  },
+  {
+    "text": "cause a lot of problems if they they",
+    "start": 1306.8,
+    "duration": 3.04
+  },
+  {
+    "text": "don't get what they want. Okay? So the",
+    "start": 1308.48,
+    "duration": 2.8
+  },
+  {
+    "text": "most important are the parents. Then you",
+    "start": 1309.84,
+    "duration": 3.36
+  },
+  {
+    "text": "have the teachers. Why? Because the",
+    "start": 1311.28,
+    "duration": 3.12
+  },
+  {
+    "text": "teachers are the ones who are",
+    "start": 1313.2,
+    "duration": 3.76
+  },
+  {
+    "text": "implementing the rules of the game.",
+    "start": 1314.4,
+    "duration": 4.24
+  },
+  {
+    "text": "Okay? The way that teachers behave",
+    "start": 1316.96,
+    "duration": 5.52
+  },
+  {
+    "text": "determines how this game is played.",
+    "start": 1318.64,
+    "duration": 6.8
+  },
+  {
+    "text": "And then these two are the most",
+    "start": 1322.48,
+    "duration": 5.36
+  },
+  {
+    "text": "important. Okay. Then maybe you have",
+    "start": 1325.44,
+    "duration": 4.8
+  },
+  {
+    "text": "administrators as well, but they're not",
+    "start": 1327.84,
+    "duration": 4.16
+  },
+  {
+    "text": "as important as a parents and the",
+    "start": 1330.24,
+    "duration": 3.44
+  },
+  {
+    "text": "teachers.",
+    "start": 1332.0,
+    "duration": 3.44
+  },
+  {
+    "text": "The government doesn't really matter",
+    "start": 1333.68,
+    "duration": 3.92
+  },
+  {
+    "text": "because they don't really care, right?",
+    "start": 1335.44,
+    "duration": 4.56
+  },
+  {
+    "text": "It's one school among thousands. Who",
+    "start": 1337.6,
+    "duration": 4.32
+  },
+  {
+    "text": "cares what the school does as long as it",
+    "start": 1340.0,
+    "duration": 3.76
+  },
+  {
+    "text": "doesn't cause me any problems? The",
+    "start": 1341.92,
+    "duration": 4.16
+  },
+  {
+    "text": "colleges don't care either. You they say",
+    "start": 1343.76,
+    "duration": 6.4
+  },
+  {
+    "text": "they want really passionate students who",
+    "start": 1346.08,
+    "duration": 5.84
+  },
+  {
+    "text": "are curious, who are match from China.",
+    "start": 1350.16,
+    "duration": 4.48
+  },
+  {
+    "text": "They don't care. Okay? For them, it's a",
+    "start": 1351.92,
+    "duration": 4.16
+  },
+  {
+    "text": "business. They just want students who",
+    "start": 1354.64,
+    "duration": 4.0
+  },
+  {
+    "text": "are willing to pay money to get a crappy",
+    "start": 1356.08,
+    "duration": 4.8
+  },
+  {
+    "text": "education in America.",
+    "start": 1358.64,
+    "duration": 3.76
+  },
+  {
+    "text": "All right? So, the costs don't really",
+    "start": 1360.88,
+    "duration": 3.12
+  },
+  {
+    "text": "matter. They'll take anyone who's",
+    "start": 1362.4,
+    "duration": 4.48
+  },
+  {
+    "text": "willing to pay.",
+    "start": 1364.0,
+    "duration": 4.88
+  },
+  {
+    "text": "And the Ivy League, yeah, everyone's",
+    "start": 1366.88,
+    "duration": 3.6
+  },
+  {
+    "text": "getting Ivy League, but but who do the",
+    "start": 1368.88,
+    "duration": 4.16
+  },
+  {
+    "text": "Ivy League want? They want people who",
+    "start": 1370.48,
+    "duration": 4.24
+  },
+  {
+    "text": "want to be successful in life, right?",
+    "start": 1373.04,
+    "duration": 3.44
+  },
+  {
+    "text": "And who are these people? Not the best",
+    "start": 1374.72,
+    "duration": 3.52
+  },
+  {
+    "text": "students. These are people from powerful",
+    "start": 1376.48,
+    "duration": 4.4
+  },
+  {
+    "text": "families. Okay? So, this game is rigged,",
+    "start": 1378.24,
+    "duration": 4.88
+  },
+  {
+    "text": "right? They have all this talk about,",
+    "start": 1380.88,
+    "duration": 4.48
+  },
+  {
+    "text": "you know, we want the best motivated",
+    "start": 1383.12,
+    "duration": 3.92
+  },
+  {
+    "text": "students. We want PE students who are",
+    "start": 1385.36,
+    "duration": 2.88
+  },
+  {
+    "text": "curious, we're passionate. It's all",
+    "start": 1387.04,
+    "duration": 2.88
+  },
+  {
+    "text": "nonsense. Yeah, that's not how the game",
+    "start": 1388.24,
+    "duration": 2.96
+  },
+  {
+    "text": "is played. So, the cards don't really",
+    "start": 1389.92,
+    "duration": 3.36
+  },
+  {
+    "text": "matter either. [snorts] Um, okay. So,",
+    "start": 1391.2,
+    "duration": 4.24
+  },
+  {
+    "text": "these are the three major players. The",
+    "start": 1393.28,
+    "duration": 4.24
+  },
+  {
+    "text": "parents, the teachers, administrators,",
+    "start": 1395.44,
+    "duration": 3.76
+  },
+  {
+    "text": "students, government, colleges, they are",
+    "start": 1397.52,
+    "duration": 3.76
+  },
+  {
+    "text": "in this game, they don't really matter.",
+    "start": 1399.2,
+    "duration": 4.88
+  },
+  {
+    "text": "Okay. So, now we're going to do is we'll",
+    "start": 1401.28,
+    "duration": 6.56
+  },
+  {
+    "text": "analyze the mentality, the worldview,",
+    "start": 1404.08,
+    "duration": 6.8
+  },
+  {
+    "text": "the interests of each player. Okay. And",
+    "start": 1407.84,
+    "duration": 4.72
+  },
+  {
+    "text": "again once you do that once we figure",
+    "start": 1410.88,
+    "duration": 3.92
+  },
+  {
+    "text": "out where they converge then we know how",
+    "start": 1412.56,
+    "duration": 4.88
+  },
+  {
+    "text": "the game is constructed. All right",
+    "start": 1414.8,
+    "duration": 3.84
+  },
+  {
+    "text": "[clears throat] so let's look at",
+    "start": 1417.44,
+    "duration": 5.04
+  },
+  {
+    "text": "students. Students okay I mean they want",
+    "start": 1418.64,
+    "duration": 6.08
+  },
+  {
+    "text": "to be popular",
+    "start": 1422.48,
+    "duration": 5.84
+  },
+  {
+    "text": "right so most students come to school",
+    "start": 1424.72,
+    "duration": 5.04
+  },
+  {
+    "text": "and actually their priority is not to",
+    "start": 1428.32,
+    "duration": 3.28
+  },
+  {
+    "text": "learn. The priority is to make friends",
+    "start": 1429.76,
+    "duration": 4.24
+  },
+  {
+    "text": "and to be popular among their friends.",
+    "start": 1431.6,
+    "duration": 4.24
+  },
+  {
+    "text": "Okay that that's just human nature.",
+    "start": 1434.0,
+    "duration": 5.04
+  },
+  {
+    "text": "That's true right? [snorts] Um then you",
+    "start": 1435.84,
+    "duration": 5.6
+  },
+  {
+    "text": "have",
+    "start": 1439.04,
+    "duration": 5.84
+  },
+  {
+    "text": "uh please teachers",
+    "start": 1441.44,
+    "duration": 5.44
+  },
+  {
+    "text": "and parents. Okay, this guy this is",
+    "start": 1444.88,
+    "duration": 3.44
+  },
+  {
+    "text": "really important to understand. You're",
+    "start": 1446.88,
+    "duration": 3.28
+  },
+  {
+    "text": "not in school not to learn. You're in",
+    "start": 1448.32,
+    "duration": 4.08
+  },
+  {
+    "text": "school to please parents into teachers.",
+    "start": 1450.16,
+    "duration": 4.88
+  },
+  {
+    "text": "Why? Because parents are the ones who",
+    "start": 1452.4,
+    "duration": 5.28
+  },
+  {
+    "text": "pay for your way in life, right? The",
+    "start": 1455.04,
+    "duration": 4.4
+  },
+  {
+    "text": "ones who give you food. Teachers are the",
+    "start": 1457.68,
+    "duration": 3.68
+  },
+  {
+    "text": "one who gives you grades. You're not",
+    "start": 1459.44,
+    "duration": 3.6
+  },
+  {
+    "text": "here to learn. You're here to please",
+    "start": 1461.36,
+    "duration": 4.24
+  },
+  {
+    "text": "them. There's a difference. Okay? And",
+    "start": 1463.04,
+    "duration": 5.6
+  },
+  {
+    "text": "grades are a way of showing how well",
+    "start": 1465.6,
+    "duration": 5.76
+  },
+  {
+    "text": "you're pleasing the parents and the",
+    "start": 1468.64,
+    "duration": 4.64
+  },
+  {
+    "text": "teachers.",
+    "start": 1471.36,
+    "duration": 5.84
+  },
+  {
+    "text": "Okay. Is that true? All right. Um and",
+    "start": 1473.28,
+    "duration": 8.56
+  },
+  {
+    "text": "then you're like have fun.",
+    "start": 1477.2,
+    "duration": 9.92
+  },
+  {
+    "text": "Okay. And then get a good college.",
+    "start": 1481.84,
+    "duration": 7.76
+  },
+  {
+    "text": "Okay.",
+    "start": 1487.12,
+    "duration": 5.76
+  },
+  {
+    "text": "All right. So, am I missing any anything",
+    "start": 1489.6,
+    "duration": 5.6
+  },
+  {
+    "text": "among my students?",
+    "start": 1492.88,
+    "duration": 3.68
+  },
+  {
+    "text": "All right. So, but okay. I'm sure",
+    "start": 1495.2,
+    "duration": 2.64
+  },
+  {
+    "text": "there's more, but but let's just keep on",
+    "start": 1496.56,
+    "duration": 3.76
+  },
+  {
+    "text": "going. Okay. Now, parents, well, the",
+    "start": 1497.84,
+    "duration": 5.2
+  },
+  {
+    "text": "parents, what they want is, of course,",
+    "start": 1500.32,
+    "duration": 5.2
+  },
+  {
+    "text": "successful kids.",
+    "start": 1503.04,
+    "duration": 4.24
+  },
+  {
+    "text": "But they want successful kids not",
+    "start": 1505.52,
+    "duration": 5.04
+  },
+  {
+    "text": "because they believe that success will",
+    "start": 1507.28,
+    "duration": 4.96
+  },
+  {
+    "text": "make their kid happy. What they really",
+    "start": 1510.56,
+    "duration": 5.2
+  },
+  {
+    "text": "want, of course, is face,",
+    "start": 1512.24,
+    "duration": 5.41
+  },
+  {
+    "text": "right?",
+    "start": 1515.76,
+    "duration": 2.48
+  },
+  {
+    "text": ">> [snorts]",
+    "start": 1517.65,
+    "duration": 2.51
+  },
+  {
+    "text": ">> They want their kid to go to the Ivory",
+    "start": 1518.24,
+    "duration": 3.92
+  },
+  {
+    "text": "League and they only the kid the Ivy",
+    "start": 1520.16,
+    "duration": 4.16
+  },
+  {
+    "text": "League provides a good education or",
+    "start": 1522.16,
+    "duration": 3.44
+  },
+  {
+    "text": "their kid will be happy at the Ivy",
+    "start": 1524.32,
+    "duration": 2.72
+  },
+  {
+    "text": "League. They just want to brag to their",
+    "start": 1525.6,
+    "duration": 2.88
+  },
+  {
+    "text": "relatives and their friends and their",
+    "start": 1527.04,
+    "duration": 4.4
+  },
+  {
+    "text": "colleagues. My kid is at Brown or",
+    "start": 1528.48,
+    "duration": 5.44
+  },
+  {
+    "text": "Cornell or Dartmouth.",
+    "start": 1531.44,
+    "duration": 6.24
+  },
+  {
+    "text": "Okay. Um but face also means to treat",
+    "start": 1533.92,
+    "duration": 7.36
+  },
+  {
+    "text": "education as a luxury product.",
+    "start": 1537.68,
+    "duration": 5.44
+  },
+  {
+    "text": "Why do parents send kids to national",
+    "start": 1541.28,
+    "duration": 3.28
+  },
+  {
+    "text": "schools? Not because national schools",
+    "start": 1543.12,
+    "duration": 3.2
+  },
+  {
+    "text": "provide a better education. It's because",
+    "start": 1544.56,
+    "duration": 3.44
+  },
+  {
+    "text": "international schools are more expensive",
+    "start": 1546.32,
+    "duration": 3.6
+  },
+  {
+    "text": "and most importantly international",
+    "start": 1548.0,
+    "duration": 6.88
+  },
+  {
+    "text": "schools have white faces, right? White",
+    "start": 1549.92,
+    "duration": 7.96
+  },
+  {
+    "text": "faces.",
+    "start": 1554.88,
+    "duration": 3.0
+  },
+  {
+    "text": "Okay,",
+    "start": 1559.28,
+    "duration": 3.0
+  },
+  {
+    "text": "this is the main marketing tool of",
+    "start": 1562.64,
+    "duration": 5.52
+  },
+  {
+    "text": "international schools, right?",
+    "start": 1565.52,
+    "duration": 5.6
+  },
+  {
+    "text": "They have all these white faces, white",
+    "start": 1568.16,
+    "duration": 4.72
+  },
+  {
+    "text": "teachers like, \"Oh my god, this is a",
+    "start": 1571.12,
+    "duration": 3.04
+  },
+  {
+    "text": "real national school now.\" You don't",
+    "start": 1572.88,
+    "duration": 2.8
+  },
+  {
+    "text": "care if the what if the teacher actually",
+    "start": 1574.16,
+    "duration": 3.12
+  },
+  {
+    "text": "good at what they're doing. You don't",
+    "start": 1575.68,
+    "duration": 3.52
+  },
+  {
+    "text": "care if the kids are actually learning.",
+    "start": 1577.28,
+    "duration": 3.04
+  },
+  {
+    "text": "You don't care what the curriculum is.",
+    "start": 1579.2,
+    "duration": 2.16
+  },
+  {
+    "text": "You don't understand that sort of stuff.",
+    "start": 1580.32,
+    "duration": 2.64
+  },
+  {
+    "text": "You just understand, okay, 10 white",
+    "start": 1581.36,
+    "duration": 4.16
+  },
+  {
+    "text": "faces, therefore this is a good school.",
+    "start": 1582.96,
+    "duration": 5.44
+  },
+  {
+    "text": "It's that simple. Okay? [snorts]",
+    "start": 1585.52,
+    "duration": 4.56
+  },
+  {
+    "text": "And then of course you want some good",
+    "start": 1588.4,
+    "duration": 4.0
+  },
+  {
+    "text": "outcome.",
+    "start": 1590.08,
+    "duration": 4.8
+  },
+  {
+    "text": "Okay? You want you want a good outcome.",
+    "start": 1592.4,
+    "duration": 4.08
+  },
+  {
+    "text": "You don't care if your kid is actually",
+    "start": 1594.88,
+    "duration": 3.28
+  },
+  {
+    "text": "learning in school. What you want is",
+    "start": 1596.48,
+    "duration": 4.64
+  },
+  {
+    "text": "your kid to get good grades, to get in a",
+    "start": 1598.16,
+    "duration": 5.36
+  },
+  {
+    "text": "good college. Okay? These are not the",
+    "start": 1601.12,
+    "duration": 4.4
+  },
+  {
+    "text": "same thing, right? So that's the",
+    "start": 1603.52,
+    "duration": 5.44
+  },
+  {
+    "text": "parents. Then the teachers. Teachers are",
+    "start": 1605.52,
+    "duration": 6.64
+  },
+  {
+    "text": "really simple because teachers do this",
+    "start": 1608.96,
+    "duration": 7.2
+  },
+  {
+    "text": "job and for them the priority is to do",
+    "start": 1612.16,
+    "duration": 8.0
+  },
+  {
+    "text": "as little work as possible to get by.",
+    "start": 1616.16,
+    "duration": 5.6
+  },
+  {
+    "text": "Okay? I'm not saying all teachers. I'm",
+    "start": 1620.16,
+    "duration": 3.12
+  },
+  {
+    "text": "saying the majority of teachers in the",
+    "start": 1621.76,
+    "duration": 4.48
+  },
+  {
+    "text": "school are just trying to get by because",
+    "start": 1623.28,
+    "duration": 5.92
+  },
+  {
+    "text": "quite honestly, they have families, they",
+    "start": 1626.24,
+    "duration": 4.4
+  },
+  {
+    "text": "have other responsibilities. So you",
+    "start": 1629.2,
+    "duration": 3.92
+  },
+  {
+    "text": "don't have time to focus entirely in",
+    "start": 1630.64,
+    "duration": 7.28
+  },
+  {
+    "text": "school, okay? So basically just get by,",
+    "start": 1633.12,
+    "duration": 8.0
+  },
+  {
+    "text": "okay? Or the minimum",
+    "start": 1637.92,
+    "duration": 6.56
+  },
+  {
+    "text": "amount of work,",
+    "start": 1641.12,
+    "duration": 5.2
+  },
+  {
+    "text": "okay? You may not you may not believe",
+    "start": 1644.48,
+    "duration": 3.2
+  },
+  {
+    "text": "this, but like when you actually grow up",
+    "start": 1646.32,
+    "duration": 3.28
+  },
+  {
+    "text": "and get a job, you'll do the same thing.",
+    "start": 1647.68,
+    "duration": 3.6
+  },
+  {
+    "text": "Okay, just get the do a minimum amount",
+    "start": 1649.6,
+    "duration": 4.4
+  },
+  {
+    "text": "of work in order to get by.",
+    "start": 1651.28,
+    "duration": 5.04
+  },
+  {
+    "text": "um administrators they want good",
+    "start": 1654.0,
+    "duration": 4.48
+  },
+  {
+    "text": "outcomes",
+    "start": 1656.32,
+    "duration": 3.76
+  },
+  {
+    "text": "but what their real priority is to",
+    "start": 1658.48,
+    "duration": 4.08
+  },
+  {
+    "text": "protect",
+    "start": 1660.08,
+    "duration": 4.24
+  },
+  {
+    "text": "relationship",
+    "start": 1662.56,
+    "duration": 4.56
+  },
+  {
+    "text": "with parents. Okay, just give parents",
+    "start": 1664.32,
+    "duration": 5.04
+  },
+  {
+    "text": "what they want.",
+    "start": 1667.12,
+    "duration": 4.16
+  },
+  {
+    "text": "Okay, their job is to sell the school.",
+    "start": 1669.36,
+    "duration": 3.36
+  },
+  {
+    "text": "So, so whatever parents want, you just",
+    "start": 1671.28,
+    "duration": 4.16
+  },
+  {
+    "text": "give it to them. And administrators",
+    "start": 1672.72,
+    "duration": 5.04
+  },
+  {
+    "text": "also, by the way, have families. This is",
+    "start": 1675.44,
+    "duration": 4.0
+  },
+  {
+    "text": "a job for them. They also just want to",
+    "start": 1677.76,
+    "duration": 3.68
+  },
+  {
+    "text": "get by,",
+    "start": 1679.44,
+    "duration": 3.2
+  },
+  {
+    "text": "okay? They're not trying to build the",
+    "start": 1681.44,
+    "duration": 2.8
+  },
+  {
+    "text": "best school possible. They're not trying",
+    "start": 1682.64,
+    "duration": 2.96
+  },
+  {
+    "text": "to change the world. They're not trying",
+    "start": 1684.24,
+    "duration": 2.56
+  },
+  {
+    "text": "to educate students. They're just trying",
+    "start": 1685.6,
+    "duration": 3.76
+  },
+  {
+    "text": "to get by, do the least amount of work",
+    "start": 1686.8,
+    "duration": 4.64
+  },
+  {
+    "text": "in order to",
+    "start": 1689.36,
+    "duration": 5.28
+  },
+  {
+    "text": "uh get by. Government is okay. They say",
+    "start": 1691.44,
+    "duration": 5.04
+  },
+  {
+    "text": "they want innovation, creativity,",
+    "start": 1694.64,
+    "duration": 4.96
+  },
+  {
+    "text": "technology, but really it's just like no",
+    "start": 1696.48,
+    "duration": 6.16
+  },
+  {
+    "text": "problems, guys.",
+    "start": 1699.6,
+    "duration": 4.48
+  },
+  {
+    "text": "Okay? As long as you don't care any",
+    "start": 1702.64,
+    "duration": 3.52
+  },
+  {
+    "text": "problems for us, we're happy with you.",
+    "start": 1704.08,
+    "duration": 4.88
+  },
+  {
+    "text": "Just stay away from us. We're happy to",
+    "start": 1706.16,
+    "duration": 4.4
+  },
+  {
+    "text": "not bother you. Please don't come bother",
+    "start": 1708.96,
+    "duration": 4.4
+  },
+  {
+    "text": "us. Yeah, that's government. Also, what",
+    "start": 1710.56,
+    "duration": 4.96
+  },
+  {
+    "text": "they want is for students who will also",
+    "start": 1713.36,
+    "duration": 5.92
+  },
+  {
+    "text": "be no problems in the future, right?",
+    "start": 1715.52,
+    "duration": 6.24
+  },
+  {
+    "text": "Right. So, compliance. So, as long as",
+    "start": 1719.28,
+    "duration": 5.92
+  },
+  {
+    "text": "schools are teaching you how to obey",
+    "start": 1721.76,
+    "duration": 5.12
+  },
+  {
+    "text": "authority,",
+    "start": 1725.2,
+    "duration": 3.84
+  },
+  {
+    "text": "how to comply,",
+    "start": 1726.88,
+    "duration": 3.68
+  },
+  {
+    "text": "how to do what you're told, they're",
+    "start": 1729.04,
+    "duration": 4.0
+  },
+  {
+    "text": "happy. You're a good school. Okay?",
+    "start": 1730.56,
+    "duration": 6.72
+  },
+  {
+    "text": "Colleges again just want the money.",
+    "start": 1733.04,
+    "duration": 5.92
+  },
+  {
+    "text": "Okay? That's all they care about. If",
+    "start": 1737.28,
+    "duration": 3.12
+  },
+  {
+    "text": "you're willing to go to American College",
+    "start": 1738.96,
+    "duration": 3.6
+  },
+  {
+    "text": "and pay how much how much is is it",
+    "start": 1740.4,
+    "duration": 4.48
+  },
+  {
+    "text": "nowadays like 50,000 100,000 a year?",
+    "start": 1742.56,
+    "duration": 4.96
+  },
+  {
+    "text": "That's a lot of money, guys. Okay. If",
+    "start": 1744.88,
+    "duration": 3.84
+  },
+  {
+    "text": "you're willing to pay that, they'll take",
+    "start": 1747.52,
+    "duration": 3.92
+  },
+  {
+    "text": "you. I guarantee you. Even even if you",
+    "start": 1748.72,
+    "duration": 5.36
+  },
+  {
+    "text": "don't speak English, they'll take you.",
+    "start": 1751.44,
+    "duration": 6.52
+  },
+  {
+    "text": "All right. Uh yeah.",
+    "start": 1754.08,
+    "duration": 3.88
+  },
+  {
+    "text": "So, you mentioned that earlier like the",
+    "start": 1761.04,
+    "duration": 4.4
+  },
+  {
+    "text": "the the purpose of education are that",
+    "start": 1763.36,
+    "duration": 4.32
+  },
+  {
+    "text": "three things, but now schools don't do",
+    "start": 1765.44,
+    "duration": 5.44
+  },
+  {
+    "text": "that. So what caused the transformation?",
+    "start": 1767.68,
+    "duration": 4.32
+  },
+  {
+    "text": ">> Yeah, that's a really good question.",
+    "start": 1770.88,
+    "duration": 1.92
+  },
+  {
+    "text": "when and also",
+    "start": 1772.0,
+    "duration": 2.32
+  },
+  {
+    "text": ">> yeah okay [snorts]",
+    "start": 1772.8,
+    "duration": 4.72
+  },
+  {
+    "text": "so what we discussed last class is the",
+    "start": 1774.32,
+    "duration": 7.16
+  },
+  {
+    "text": "idea of superstructure right",
+    "start": 1777.52,
+    "duration": 3.96
+  },
+  {
+    "text": "superructure",
+    "start": 1782.0,
+    "duration": 3.44
+  },
+  {
+    "text": "sorry",
+    "start": 1783.76,
+    "duration": 3.92
+  },
+  {
+    "text": "superructure",
+    "start": 1785.44,
+    "duration": 6.0
+  },
+  {
+    "text": "is just the macro picture of a society",
+    "start": 1787.68,
+    "duration": 5.44
+  },
+  {
+    "text": "it's demographics how many people are",
+    "start": 1791.44,
+    "duration": 4.0
+  },
+  {
+    "text": "there it's economy it's politics it's",
+    "start": 1793.12,
+    "duration": 5.12
+  },
+  {
+    "text": "religion okay and we discuss how",
+    "start": 1795.44,
+    "duration": 6.72
+  },
+  {
+    "text": "societies are born they mature and then",
+    "start": 1798.24,
+    "duration": 7.12
+  },
+  {
+    "text": "they die. Okay. So there's actually",
+    "start": 1802.16,
+    "duration": 5.92
+  },
+  {
+    "text": "another way of understanding this. You",
+    "start": 1805.36,
+    "duration": 5.2
+  },
+  {
+    "text": "can actually use three metrics to",
+    "start": 1808.08,
+    "duration": 4.96
+  },
+  {
+    "text": "understand how societies develop. Okay.",
+    "start": 1810.56,
+    "duration": 7.0
+  },
+  {
+    "text": "And these three metrics are cohesion,",
+    "start": 1813.04,
+    "duration": 4.52
+  },
+  {
+    "text": "openness",
+    "start": 1817.76,
+    "duration": 5.28
+  },
+  {
+    "text": "and energy.",
+    "start": 1820.64,
+    "duration": 5.52
+  },
+  {
+    "text": "Okay. So what is energy? Energy just",
+    "start": 1823.04,
+    "duration": 6.88
+  },
+  {
+    "text": "means you want to work hard.",
+    "start": 1826.16,
+    "duration": 6.96
+  },
+  {
+    "text": "Okay. you are, you believe, you're",
+    "start": 1829.92,
+    "duration": 5.12
+  },
+  {
+    "text": "motivated, you're driven, you work hard",
+    "start": 1833.12,
+    "duration": 4.4
+  },
+  {
+    "text": "all the time. And working hard just",
+    "start": 1835.04,
+    "duration": 4.16
+  },
+  {
+    "text": "doesn't mean like you work 12 hours. It",
+    "start": 1837.52,
+    "duration": 3.68
+  },
+  {
+    "text": "just means like you're focused, you're",
+    "start": 1839.2,
+    "duration": 3.6
+  },
+  {
+    "text": "attentive,",
+    "start": 1841.2,
+    "duration": 3.6
+  },
+  {
+    "text": "right? So, for example, if you're",
+    "start": 1842.8,
+    "duration": 4.88
+  },
+  {
+    "text": "working at a restaurant as a cook, you",
+    "start": 1844.8,
+    "duration": 4.72
+  },
+  {
+    "text": "want to make a really good meal. Okay?",
+    "start": 1847.68,
+    "duration": 3.92
+  },
+  {
+    "text": "You're energetic about it. Okay? Does",
+    "start": 1849.52,
+    "duration": 4.64
+  },
+  {
+    "text": "that make sense? That's energy. Okay?",
+    "start": 1851.6,
+    "duration": 6.24
+  },
+  {
+    "text": "So, um, openness just means that you",
+    "start": 1854.16,
+    "duration": 6.48
+  },
+  {
+    "text": "want to learn, you want to grow, you're",
+    "start": 1857.84,
+    "duration": 5.44
+  },
+  {
+    "text": "willing to admit you made a mistake and",
+    "start": 1860.64,
+    "duration": 6.96
+  },
+  {
+    "text": "improve on yourself. Okay. And the last",
+    "start": 1863.28,
+    "duration": 7.84
+  },
+  {
+    "text": "thing is cohesion where you are you see",
+    "start": 1867.6,
+    "duration": 8.0
+  },
+  {
+    "text": "yourself as part of a society, part of",
+    "start": 1871.12,
+    "duration": 7.84
+  },
+  {
+    "text": "part of a community of people and you",
+    "start": 1875.6,
+    "duration": 6.56
+  },
+  {
+    "text": "want your community to grow as well.",
+    "start": 1878.96,
+    "duration": 5.44
+  },
+  {
+    "text": "And when you have all three things",
+    "start": 1882.16,
+    "duration": 5.6
+  },
+  {
+    "text": "together, the schools are great. Okay?",
+    "start": 1884.4,
+    "duration": 6.48
+  },
+  {
+    "text": "And so, for example, go to Finland.",
+    "start": 1887.76,
+    "duration": 5.76
+  },
+  {
+    "text": "It's a small country, maybe about 5",
+    "start": 1890.88,
+    "duration": 4.56
+  },
+  {
+    "text": "million people, but the schools are",
+    "start": 1893.52,
+    "duration": 5.28
+  },
+  {
+    "text": "amazing. Why? Because Finland is an",
+    "start": 1895.44,
+    "duration": 6.08
+  },
+  {
+    "text": "energetic, open, and coy society. And",
+    "start": 1898.8,
+    "duration": 4.8
+  },
+  {
+    "text": "when you're hear that, what you want to",
+    "start": 1901.52,
+    "duration": 4.56
+  },
+  {
+    "text": "do is invest in the future. And what",
+    "start": 1903.6,
+    "duration": 4.4
+  },
+  {
+    "text": "that means is you want you have to make",
+    "start": 1906.08,
+    "duration": 3.6
+  },
+  {
+    "text": "sure that every child not just your",
+    "start": 1908.0,
+    "duration": 4.16
+  },
+  {
+    "text": "child but every child has good future",
+    "start": 1909.68,
+    "duration": 4.72
+  },
+  {
+    "text": "has good education. And so what you do",
+    "start": 1912.16,
+    "duration": 4.24
+  },
+  {
+    "text": "is you have your best and brightest",
+    "start": 1914.4,
+    "duration": 3.84
+  },
+  {
+    "text": "become teachers,",
+    "start": 1916.4,
+    "duration": 4.96
+  },
+  {
+    "text": "right? You pay them very well. You give",
+    "start": 1918.24,
+    "duration": 5.36
+  },
+  {
+    "text": "them high status and you give them a lot",
+    "start": 1921.36,
+    "duration": 5.32
+  },
+  {
+    "text": "of autonom.",
+    "start": 1923.6,
+    "duration": 3.08
+  },
+  {
+    "text": "And if you do that, the schools are",
+    "start": 1927.36,
+    "duration": 5.28
+  },
+  {
+    "text": "great. And guess what guys? in China",
+    "start": 1929.04,
+    "duration": 6.72
+  },
+  {
+    "text": "in maybe 1980s, the schools were amazing",
+    "start": 1932.64,
+    "duration": 5.36
+  },
+  {
+    "text": "here. Okay,",
+    "start": 1935.76,
+    "duration": 4.96
+  },
+  {
+    "text": "what we're seeing today is today. But if",
+    "start": 1938.0,
+    "duration": 4.64
+  },
+  {
+    "text": "you go back to the 1980s, the schools",
+    "start": 1940.72,
+    "duration": 3.52
+  },
+  {
+    "text": "were really good. If you went to a",
+    "start": 1942.64,
+    "duration": 3.12
+  },
+  {
+    "text": "school in China, I'm I'm not talking",
+    "start": 1944.24,
+    "duration": 2.32
+  },
+  {
+    "text": "about like the best. I'm just talking",
+    "start": 1945.76,
+    "duration": 3.36
+  },
+  {
+    "text": "about like an average school, teachers",
+    "start": 1946.56,
+    "duration": 4.72
+  },
+  {
+    "text": "felt respected.",
+    "start": 1949.12,
+    "duration": 4.0
+  },
+  {
+    "text": "They believed that the responsibility to",
+    "start": 1951.28,
+    "duration": 5.92
+  },
+  {
+    "text": "train the young. They took pride",
+    "start": 1953.12,
+    "duration": 7.28
+  },
+  {
+    "text": "and joy in their work and the students",
+    "start": 1957.2,
+    "duration": 5.04
+  },
+  {
+    "text": "enjoyed learning. And guess what? Back",
+    "start": 1960.4,
+    "duration": 5.6
+  },
+  {
+    "text": "in 1980s, kids did less work.",
+    "start": 1962.24,
+    "duration": 5.84
+  },
+  {
+    "text": "There were less tests, there was less",
+    "start": 1966.0,
+    "duration": 4.96
+  },
+  {
+    "text": "pressure and they learn a lot more.",
+    "start": 1968.08,
+    "duration": 4.8
+  },
+  {
+    "text": "Okay?",
+    "start": 1970.96,
+    "duration": 5.36
+  },
+  {
+    "text": "So when a society be starts",
+    "start": 1972.88,
+    "duration": 5.2
+  },
+  {
+    "text": "and begins, you have these three",
+    "start": 1976.32,
+    "duration": 4.48
+  },
+  {
+    "text": "aspects. But over time,",
+    "start": 1978.08,
+    "duration": 6.88
+  },
+  {
+    "text": "what happens is all three decline.",
+    "start": 1980.8,
+    "duration": 6.56
+  },
+  {
+    "text": "Why? Because",
+    "start": 1984.96,
+    "duration": 4.48
+  },
+  {
+    "text": "there's more corruption, there's more",
+    "start": 1987.36,
+    "duration": 4.88
+  },
+  {
+    "text": "inequality, there's more wealth. Okay?",
+    "start": 1989.44,
+    "duration": 7.52
+  },
+  {
+    "text": "So, what happens is wealth generation",
+    "start": 1992.24,
+    "duration": 7.68
+  },
+  {
+    "text": "and inequality, corruption,",
+    "start": 1996.96,
+    "duration": 6.32
+  },
+  {
+    "text": "and so people feel under stress. Okay?",
+    "start": 1999.92,
+    "duration": 5.12
+  },
+  {
+    "text": "So, rather than cohesion, you have",
+    "start": 2003.28,
+    "duration": 5.2
+  },
+  {
+    "text": "individualization, individual.",
+    "start": 2005.04,
+    "duration": 4.48
+  },
+  {
+    "text": "Okay? Does that make sense? Where",
+    "start": 2008.48,
+    "duration": 2.48
+  },
+  {
+    "text": "everyone's like, you know what? I don't",
+    "start": 2009.52,
+    "duration": 2.88
+  },
+  {
+    "text": "care if other kids are doing well.",
+    "start": 2010.96,
+    "duration": 2.96
+  },
+  {
+    "text": "What's important is that my kid does",
+    "start": 2012.4,
+    "duration": 4.64
+  },
+  {
+    "text": "well because it's a zero- sum game. If",
+    "start": 2013.92,
+    "duration": 4.72
+  },
+  {
+    "text": "if if all the other kids in the school",
+    "start": 2017.04,
+    "duration": 3.76
+  },
+  {
+    "text": "do really well, but my kid flunks out,",
+    "start": 2018.64,
+    "duration": 4.88
+  },
+  {
+    "text": "I'm dead. I'm screwed. So, I rather my",
+    "start": 2020.8,
+    "duration": 4.72
+  },
+  {
+    "text": "kid do okay and every other kid gets",
+    "start": 2023.52,
+    "duration": 4.24
+  },
+  {
+    "text": "screwed over. Okay. So, now it's a",
+    "start": 2025.52,
+    "duration": 4.72
+  },
+  {
+    "text": "competition",
+    "start": 2027.76,
+    "duration": 5.44
+  },
+  {
+    "text": "in schools.",
+    "start": 2030.24,
+    "duration": 5.84
+  },
+  {
+    "text": "All right. Openness. Are you willing to",
+    "start": 2033.2,
+    "duration": 5.2
+  },
+  {
+    "text": "learn from your mistakes? And the answer",
+    "start": 2036.08,
+    "duration": 3.6
+  },
+  {
+    "text": "is no. Because if I'm an administrator",
+    "start": 2038.4,
+    "duration": 3.28
+  },
+  {
+    "text": "and I say to parents, \"I'm sorry. I made",
+    "start": 2039.68,
+    "duration": 3.2
+  },
+  {
+    "text": "a mistake today.\" The parents will be",
+    "start": 2041.68,
+    "duration": 3.12
+  },
+  {
+    "text": "like, \"You're fired. Get out of here.",
+    "start": 2042.88,
+    "duration": 4.88
+  },
+  {
+    "text": "You're incompetent.\" Okay? So, you could",
+    "start": 2044.8,
+    "duration": 4.96
+  },
+  {
+    "text": "be like the best person in the world,",
+    "start": 2047.76,
+    "duration": 3.6
+  },
+  {
+    "text": "but if you make make a mistake, the",
+    "start": 2049.76,
+    "duration": 4.56
+  },
+  {
+    "text": "parents will come and kill you. But if",
+    "start": 2051.36,
+    "duration": 4.24
+  },
+  {
+    "text": "you you but you could be the worst",
+    "start": 2054.32,
+    "duration": 2.4
+  },
+  {
+    "text": "person in the world, but you just hide",
+    "start": 2055.6,
+    "duration": 2.48
+  },
+  {
+    "text": "in your office. The parents can't find",
+    "start": 2056.72,
+    "duration": 3.52
+  },
+  {
+    "text": "you. You're okay. Okay. So, school",
+    "start": 2058.08,
+    "duration": 5.68
+  },
+  {
+    "text": "administrators are are are now afraid to",
+    "start": 2060.24,
+    "duration": 6.0
+  },
+  {
+    "text": "admit they're wrong, which means that a",
+    "start": 2063.76,
+    "duration": 6.08
+  },
+  {
+    "text": "school can never improve.",
+    "start": 2066.24,
+    "duration": 5.12
+  },
+  {
+    "text": "Right? Then you have energy which is",
+    "start": 2069.84,
+    "duration": 5.2
+  },
+  {
+    "text": "like you know what if I do a good job",
+    "start": 2071.36,
+    "duration": 7.2
+  },
+  {
+    "text": "parents will want me to do a better job.",
+    "start": 2075.04,
+    "duration": 5.04
+  },
+  {
+    "text": "I can't please all the parents. So I'll",
+    "start": 2078.56,
+    "duration": 4.4
+  },
+  {
+    "text": "just hide my office do as little work as",
+    "start": 2080.08,
+    "duration": 5.84
+  },
+  {
+    "text": "possible and then if parents complain",
+    "start": 2082.96,
+    "duration": 7.44
+  },
+  {
+    "text": "I'll just shut off my brain. Okay. And",
+    "start": 2085.92,
+    "duration": 7.12
+  },
+  {
+    "text": "this is happening because",
+    "start": 2090.4,
+    "duration": 4.64
+  },
+  {
+    "text": "of wealth generation. 1980s China was",
+    "start": 2093.04,
+    "duration": 4.24
+  },
+  {
+    "text": "really poor.",
+    "start": 2095.04,
+    "duration": 6.0
+  },
+  {
+    "text": "And no only way to get to to lead a",
+    "start": 2097.28,
+    "duration": 5.84
+  },
+  {
+    "text": "better life is through education. That's",
+    "start": 2101.04,
+    "duration": 4.16
+  },
+  {
+    "text": "why students work hard. If students work",
+    "start": 2103.12,
+    "duration": 4.24
+  },
+  {
+    "text": "hard, teachers are motivated to teach",
+    "start": 2105.2,
+    "duration": 5.84
+  },
+  {
+    "text": "well. And now you having a time when you",
+    "start": 2107.36,
+    "duration": 8.24
+  },
+  {
+    "text": "know today in 2025 26 when parents have",
+    "start": 2111.04,
+    "duration": 7.84
+  },
+  {
+    "text": "money. So it doesn't matter if you don't",
+    "start": 2115.6,
+    "duration": 4.96
+  },
+  {
+    "text": "do well in school because your parents",
+    "start": 2118.88,
+    "duration": 4.16
+  },
+  {
+    "text": "can just give you an apartment, can buy",
+    "start": 2120.56,
+    "duration": 4.32
+  },
+  {
+    "text": "you a car.",
+    "start": 2123.04,
+    "duration": 3.92
+  },
+  {
+    "text": "Who cares if you do well in school? So",
+    "start": 2124.88,
+    "duration": 3.6
+  },
+  {
+    "text": "you're not motivated. If you're not",
+    "start": 2126.96,
+    "duration": 3.2
+  },
+  {
+    "text": "motivated, indifferent, then as a",
+    "start": 2128.48,
+    "duration": 4.4
+  },
+  {
+    "text": "teacher, why am I going to want to",
+    "start": 2130.16,
+    "duration": 5.04
+  },
+  {
+    "text": "teach? Well,",
+    "start": 2132.88,
+    "duration": 3.76
+  },
+  {
+    "text": "okay. So it's a super structure of",
+    "start": 2135.2,
+    "duration": 3.84
+  },
+  {
+    "text": "society. Okay. Does does that make",
+    "start": 2136.64,
+    "duration": 4.0
+  },
+  {
+    "text": "sense?",
+    "start": 2139.04,
+    "duration": 4.8
+  },
+  {
+    "text": "All right. Any more questions?",
+    "start": 2140.64,
+    "duration": 5.04
+  },
+  {
+    "text": "Okay. Okay. So So thank you. Okay. So",
+    "start": 2143.84,
+    "duration": 4.84
+  },
+  {
+    "text": "again",
+    "start": 2145.68,
+    "duration": 3.0
+  },
+  {
+    "text": "um",
+    "start": 2151.28,
+    "duration": 4.08
+  },
+  {
+    "text": "superructure determines the motivations",
+    "start": 2152.96,
+    "duration": 5.76
+  },
+  {
+    "text": "of the players and where the interest of",
+    "start": 2155.36,
+    "duration": 5.12
+  },
+  {
+    "text": "the players converge is the game that",
+    "start": 2158.72,
+    "duration": 5.28
+  },
+  {
+    "text": "you have. Okay. All right. So you go",
+    "start": 2160.48,
+    "duration": 5.44
+  },
+  {
+    "text": "back to this list and what we're seeing",
+    "start": 2164.0,
+    "duration": 4.92
+  },
+  {
+    "text": "is",
+    "start": 2165.92,
+    "duration": 3.0
+  },
+  {
+    "text": "parents just want white faces.",
+    "start": 2169.76,
+    "duration": 6.32
+  },
+  {
+    "text": "Okay, sorry. white faces",
+    "start": 2173.44,
+    "duration": 4.88
+  },
+  {
+    "text": "and they want",
+    "start": 2176.08,
+    "duration": 4.56
+  },
+  {
+    "text": "um successful kids which means good",
+    "start": 2178.32,
+    "duration": 4.48
+  },
+  {
+    "text": "grades.",
+    "start": 2180.64,
+    "duration": 4.48
+  },
+  {
+    "text": "Okay. Um parents teachers just want to",
+    "start": 2182.8,
+    "duration": 3.84
+  },
+  {
+    "text": "get by and do as little work as",
+    "start": 2185.12,
+    "duration": 4.16
+  },
+  {
+    "text": "possible. The ministry just want to",
+    "start": 2186.64,
+    "duration": 4.96
+  },
+  {
+    "text": "protect relationship with parents. Okay.",
+    "start": 2189.28,
+    "duration": 5.04
+  },
+  {
+    "text": "And so when you do this convergence this",
+    "start": 2191.6,
+    "duration": 6.84
+  },
+  {
+    "text": "this is what schools look like now.",
+    "start": 2194.32,
+    "duration": 4.12
+  },
+  {
+    "text": "Okay.",
+    "start": 2198.64,
+    "duration": 4.32
+  },
+  {
+    "text": "schools in China, international schools",
+    "start": 2200.88,
+    "duration": 3.92
+  },
+  {
+    "text": "in China, by the way. And again, this is",
+    "start": 2202.96,
+    "duration": 3.52
+  },
+  {
+    "text": "like the majority. I'm not saying it's",
+    "start": 2204.8,
+    "duration": 2.64
+  },
+  {
+    "text": "every school, but I'm saying it's the",
+    "start": 2206.48,
+    "duration": 3.2
+  },
+  {
+    "text": "majority. Okay? What you have are white",
+    "start": 2207.44,
+    "duration": 5.24
+  },
+  {
+    "text": "faces,",
+    "start": 2209.68,
+    "duration": 3.0
+  },
+  {
+    "text": "easy grades, right? It's really easy to",
+    "start": 2213.68,
+    "duration": 7.76
+  },
+  {
+    "text": "get a good grade. All right. Um,",
+    "start": 2217.44,
+    "duration": 6.8
+  },
+  {
+    "text": "some top students,",
+    "start": 2221.44,
+    "duration": 5.12
+  },
+  {
+    "text": "these students are given scholarships",
+    "start": 2224.24,
+    "duration": 4.96
+  },
+  {
+    "text": "and then they're sent to top",
+    "start": 2226.56,
+    "duration": 5.2
+  },
+  {
+    "text": "universities.",
+    "start": 2229.2,
+    "duration": 7.48
+  },
+  {
+    "text": "Okay. Then you have lots of cheating.",
+    "start": 2231.76,
+    "duration": 4.92
+  },
+  {
+    "text": "Okay. And high turnover",
+    "start": 2238.16,
+    "duration": 6.24
+  },
+  {
+    "text": "where students leave, teachers leave,",
+    "start": 2241.28,
+    "duration": 5.84
+  },
+  {
+    "text": "but new ones come in. So, who cares?",
+    "start": 2244.4,
+    "duration": 4.4
+  },
+  {
+    "text": "Okay. And this is what it looks like.",
+    "start": 2247.12,
+    "duration": 3.84
+  },
+  {
+    "text": "This this what happens when you take the",
+    "start": 2248.8,
+    "duration": 4.24
+  },
+  {
+    "text": "interests of these different players,",
+    "start": 2250.96,
+    "duration": 4.0
+  },
+  {
+    "text": "you converge them together. And this is",
+    "start": 2253.04,
+    "duration": 4.72
+  },
+  {
+    "text": "what what schools look like today.",
+    "start": 2254.96,
+    "duration": 4.56
+  },
+  {
+    "text": "There's lots of white faces, lots of",
+    "start": 2257.76,
+    "duration": 4.56
+  },
+  {
+    "text": "really nice buildings, lots of fancy",
+    "start": 2259.52,
+    "duration": 4.4
+  },
+  {
+    "text": "activities,",
+    "start": 2262.32,
+    "duration": 6.16
+  },
+  {
+    "text": "great marketing, beautiful website,",
+    "start": 2263.92,
+    "duration": 6.96
+  },
+  {
+    "text": "really motivate admissions officers.",
+    "start": 2268.48,
+    "duration": 4.24
+  },
+  {
+    "text": "Then you have easy grades where everyone",
+    "start": 2270.88,
+    "duration": 5.76
+  },
+  {
+    "text": "gets an A no matter what you do. Um, you",
+    "start": 2272.72,
+    "duration": 5.52
+  },
+  {
+    "text": "have some top students who will get into",
+    "start": 2276.64,
+    "duration": 4.4
+  },
+  {
+    "text": "good school so that um the the school",
+    "start": 2278.24,
+    "duration": 5.12
+  },
+  {
+    "text": "can brag about them. You have lots of",
+    "start": 2281.04,
+    "duration": 4.48
+  },
+  {
+    "text": "cheating going on. Okay, if you don't",
+    "start": 2283.36,
+    "duration": 4.4
+  },
+  {
+    "text": "get a good grade, just complain and",
+    "start": 2285.52,
+    "duration": 4.64
+  },
+  {
+    "text": "you'll get a good grade. Okay, so that",
+    "start": 2287.76,
+    "duration": 4.4
+  },
+  {
+    "text": "happened to me at the school where I",
+    "start": 2290.16,
+    "duration": 6.64
+  },
+  {
+    "text": "tried my first year to give um fair",
+    "start": 2292.16,
+    "duration": 6.56
+  },
+  {
+    "text": "grades. Okay, and a fair grade is not",
+    "start": 2296.8,
+    "duration": 3.44
+  },
+  {
+    "text": "like I I give you a 20. I give you like",
+    "start": 2298.72,
+    "duration": 3.6
+  },
+  {
+    "text": "an 80 and students complain about me. So",
+    "start": 2300.24,
+    "duration": 4.4
+  },
+  {
+    "text": "now, so I'm stuck giving them like a",
+    "start": 2302.32,
+    "duration": 6.16
+  },
+  {
+    "text": "pass fail, right? So it's not hard for",
+    "start": 2304.64,
+    "duration": 5.28
+  },
+  {
+    "text": "students to get to pass. If you don't",
+    "start": 2308.48,
+    "duration": 3.36
+  },
+  {
+    "text": "like a teacher, just complain and then",
+    "start": 2309.92,
+    "duration": 4.72
+  },
+  {
+    "text": "the teacher has to change. And so you",
+    "start": 2311.84,
+    "duration": 4.8
+  },
+  {
+    "text": "now you have high ch turnover where",
+    "start": 2314.64,
+    "duration": 4.72
+  },
+  {
+    "text": "teachers feel stressed out and where",
+    "start": 2316.64,
+    "duration": 4.8
+  },
+  {
+    "text": "parents are never happy and where",
+    "start": 2319.36,
+    "duration": 4.48
+  },
+  {
+    "text": "students don't care.",
+    "start": 2321.44,
+    "duration": 4.16
+  },
+  {
+    "text": "Okay?",
+    "start": 2323.84,
+    "duration": 6.56
+  },
+  {
+    "text": "Doesn't make sense. This is why schools",
+    "start": 2325.6,
+    "duration": 7.68
+  },
+  {
+    "text": "suck. And I'm I'm saying they suck not",
+    "start": 2330.4,
+    "duration": 6.24
+  },
+  {
+    "text": "just in China, not just in our schools,",
+    "start": 2333.28,
+    "duration": 7.44
+  },
+  {
+    "text": "but in most places around the world. And",
+    "start": 2336.64,
+    "duration": 5.36
+  },
+  {
+    "text": "it has to do with the superstructure of",
+    "start": 2340.72,
+    "duration": 3.36
+  },
+  {
+    "text": "society.",
+    "start": 2342.0,
+    "duration": 5.84
+  },
+  {
+    "text": "Okay. But what but I I mean like the",
+    "start": 2344.08,
+    "duration": 5.52
+  },
+  {
+    "text": "point of today's class is not like",
+    "start": 2347.84,
+    "duration": 3.6
+  },
+  {
+    "text": "schools suck, don't go to school. The",
+    "start": 2349.6,
+    "duration": 3.92
+  },
+  {
+    "text": "point of today's class is we're trying",
+    "start": 2351.44,
+    "duration": 3.84
+  },
+  {
+    "text": "to analyze",
+    "start": 2353.52,
+    "duration": 4.8
+  },
+  {
+    "text": "why schools are the way they are. And",
+    "start": 2355.28,
+    "duration": 6.24
+  },
+  {
+    "text": "one way to analyze it is by figuring out",
+    "start": 2358.32,
+    "duration": 6.56
+  },
+  {
+    "text": "what at what point, okay,",
+    "start": 2361.52,
+    "duration": 6.32
+  },
+  {
+    "text": "do the different players converge,",
+    "start": 2364.88,
+    "duration": 4.64
+  },
+  {
+    "text": "right?",
+    "start": 2367.84,
+    "duration": 3.52
+  },
+  {
+    "text": "So think of you have different sets,",
+    "start": 2369.52,
+    "duration": 4.56
+  },
+  {
+    "text": "right?",
+    "start": 2371.36,
+    "duration": 2.72
+  },
+  {
+    "text": "Okay. Parents,",
+    "start": 2376.4,
+    "duration": 4.55
+  },
+  {
+    "text": "teachers,",
+    "start": 2378.96,
+    "duration": 3.28
+  },
+  {
+    "text": "[snorts]",
+    "start": 2380.95,
+    "duration": 3.93
+  },
+  {
+    "text": "students, government,",
+    "start": 2382.24,
+    "duration": 5.76
+  },
+  {
+    "text": "ecologist. Okay. And their convergence",
+    "start": 2384.88,
+    "duration": 6.56
+  },
+  {
+    "text": "point is the game they play.",
+    "start": 2388.0,
+    "duration": 5.04
+  },
+  {
+    "text": "Okay. Now, what's important for us to",
+    "start": 2391.44,
+    "duration": 5.28
+  },
+  {
+    "text": "understand is that there is actually a",
+    "start": 2393.04,
+    "duration": 6.64
+  },
+  {
+    "text": "lot of room to this convergence point.",
+    "start": 2396.72,
+    "duration": 7.52
+  },
+  {
+    "text": "So it's possible to do reform but only",
+    "start": 2399.68,
+    "duration": 7.76
+  },
+  {
+    "text": "within a subset of",
+    "start": 2404.24,
+    "duration": 6.88
+  },
+  {
+    "text": "of this convergence point.",
+    "start": 2407.44,
+    "duration": 8.8
+  },
+  {
+    "text": "Okay. So my problem is back in 2008 I",
+    "start": 2411.12,
+    "duration": 6.32
+  },
+  {
+    "text": "was like you know what I'm going to set",
+    "start": 2416.24,
+    "duration": 4.64
+  },
+  {
+    "text": "up a new universe",
+    "start": 2417.44,
+    "duration": 6.24
+  },
+  {
+    "text": "my own world. I'll make up the rules.",
+    "start": 2420.88,
+    "duration": 4.32
+  },
+  {
+    "text": "I'll be god and you just have to play",
+    "start": 2423.68,
+    "duration": 2.96
+  },
+  {
+    "text": "the game. I tell you to play the game.",
+    "start": 2425.2,
+    "duration": 2.8
+  },
+  {
+    "text": "Okay. That's why everyone is like you're",
+    "start": 2426.64,
+    "duration": 3.76
+  },
+  {
+    "text": "an",
+    "start": 2428.0,
+    "duration": 4.88
+  },
+  {
+    "text": "Okay, whatever you do, whatever game you",
+    "start": 2430.4,
+    "duration": 4.8
+  },
+  {
+    "text": "set up has to be within this conversion",
+    "start": 2432.88,
+    "duration": 5.76
+  },
+  {
+    "text": "point in order for players to accept it.",
+    "start": 2435.2,
+    "duration": 5.6
+  },
+  {
+    "text": "Okay, and this is true for everything.",
+    "start": 2438.64,
+    "duration": 3.52
+  },
+  {
+    "text": "If you want to implement political",
+    "start": 2440.8,
+    "duration": 3.52
+  },
+  {
+    "text": "reform anywhere, you have to figure out",
+    "start": 2442.16,
+    "duration": 3.44
+  },
+  {
+    "text": "where the different stakeholders",
+    "start": 2444.32,
+    "duration": 4.32
+  },
+  {
+    "text": "converge and figure out how to move the",
+    "start": 2445.6,
+    "duration": 6.64
+  },
+  {
+    "text": "stakeholders from one part of the",
+    "start": 2448.64,
+    "duration": 5.76
+  },
+  {
+    "text": "convergence point to another part of the",
+    "start": 2452.24,
+    "duration": 3.52
+  },
+  {
+    "text": "conver convergence point. Okay, this",
+    "start": 2454.4,
+    "duration": 4.24
+  },
+  {
+    "text": "slow incremental reform.",
+    "start": 2455.76,
+    "duration": 5.76
+  },
+  {
+    "text": "Okay, does that make sense? Okay, any",
+    "start": 2458.64,
+    "duration": 7.56
+  },
+  {
+    "text": "questions before I I conclude",
+    "start": 2461.52,
+    "duration": 4.68
+  },
+  {
+    "text": "guys ask questions?",
+    "start": 2469.04,
+    "duration": 4.64
+  },
+  {
+    "text": "What what was this clear?",
+    "start": 2471.2,
+    "duration": 6.2
+  },
+  {
+    "text": ">> Yeah, you have a question.",
+    "start": 2473.68,
+    "duration": 3.72
+  },
+  {
+    "text": "So in the future will we learn more",
+    "start": 2480.88,
+    "duration": 5.6
+  },
+  {
+    "text": "about how do we find out what causes",
+    "start": 2483.12,
+    "duration": 5.12
+  },
+  {
+    "text": "different stakeholders to have different",
+    "start": 2486.48,
+    "duration": 4.32
+  },
+  {
+    "text": "interests like in the future? It's like",
+    "start": 2488.24,
+    "duration": 3.76
+  },
+  {
+    "text": "not really really",
+    "start": 2490.8,
+    "duration": 2.24
+  },
+  {
+    "text": ">> okay. Yeah, that's a really good",
+    "start": 2492.0,
+    "duration": 2.4
+  },
+  {
+    "text": "question. So so thank you for asking.",
+    "start": 2493.04,
+    "duration": 4.24
+  },
+  {
+    "text": "Okay.",
+    "start": 2494.4,
+    "duration": 4.4
+  },
+  {
+    "text": "All right.",
+    "start": 2497.28,
+    "duration": 4.48
+  },
+  {
+    "text": "So the question is",
+    "start": 2498.8,
+    "duration": 6.64
+  },
+  {
+    "text": "where do the interest",
+    "start": 2501.76,
+    "duration": 7.28
+  },
+  {
+    "text": "of these different players come from?",
+    "start": 2505.44,
+    "duration": 6.88
+  },
+  {
+    "text": "Okay. And",
+    "start": 2509.04,
+    "duration": 5.12
+  },
+  {
+    "text": "I mean the easy answer is the super",
+    "start": 2512.32,
+    "duration": 5.76
+  },
+  {
+    "text": "structure of society. Okay, people are",
+    "start": 2514.16,
+    "duration": 6.48
+  },
+  {
+    "text": "responding to their culture.",
+    "start": 2518.08,
+    "duration": 4.24
+  },
+  {
+    "text": "But in game theory, what I want to teach",
+    "start": 2520.64,
+    "duration": 4.32
+  },
+  {
+    "text": "you is that it's because they themselves",
+    "start": 2522.32,
+    "duration": 4.8
+  },
+  {
+    "text": "are playing different games.",
+    "start": 2524.96,
+    "duration": 7.48
+  },
+  {
+    "text": "Okay, so let's look at parents.",
+    "start": 2527.12,
+    "duration": 5.32
+  },
+  {
+    "text": "[snorts] Okay, parents have different",
+    "start": 2532.91,
+    "duration": 7.09
+  },
+  {
+    "text": "identities. They are um family,",
+    "start": 2535.2,
+    "duration": 7.68
+  },
+  {
+    "text": "they are colleagues.",
+    "start": 2540.0,
+    "duration": 5.84
+  },
+  {
+    "text": "Okay. And depending on on on their",
+    "start": 2542.88,
+    "duration": 4.72
+  },
+  {
+    "text": "identity, they're playing a different",
+    "start": 2545.84,
+    "duration": 4.64
+  },
+  {
+    "text": "game. All right. So, what does family",
+    "start": 2547.6,
+    "duration": 6.48
+  },
+  {
+    "text": "family mean? Family means that you",
+    "start": 2550.48,
+    "duration": 8.16
+  },
+  {
+    "text": "um might have brothers, right? Brothers.",
+    "start": 2554.08,
+    "duration": 6.24
+  },
+  {
+    "text": "What do brothers do? They compete",
+    "start": 2558.64,
+    "duration": 4.0
+  },
+  {
+    "text": "against each other, right? You have",
+    "start": 2560.32,
+    "duration": 4.0
+  },
+  {
+    "text": "three brothers. You want to prove that",
+    "start": 2562.64,
+    "duration": 3.44
+  },
+  {
+    "text": "you're better than your brother. How?",
+    "start": 2564.32,
+    "duration": 3.68
+  },
+  {
+    "text": "Well, by having more money, by having",
+    "start": 2566.08,
+    "duration": 4.56
+  },
+  {
+    "text": "better kids, by having a more beautiful",
+    "start": 2568.0,
+    "duration": 4.48
+  },
+  {
+    "text": "wife. Okay, that's a game they're",
+    "start": 2570.64,
+    "duration": 4.0
+  },
+  {
+    "text": "playing,",
+    "start": 2572.48,
+    "duration": 5.2
+  },
+  {
+    "text": "right? Um, but then you have colleagues.",
+    "start": 2574.64,
+    "duration": 6.4
+  },
+  {
+    "text": "You have colleagues",
+    "start": 2577.68,
+    "duration": 6.0
+  },
+  {
+    "text": "and the game you're trying to play there",
+    "start": 2581.04,
+    "duration": 4.08
+  },
+  {
+    "text": "is get along your colleagues because",
+    "start": 2583.68,
+    "duration": 3.04
+  },
+  {
+    "text": "that that's what ensures your success in",
+    "start": 2585.12,
+    "duration": 4.16
+  },
+  {
+    "text": "life. Okay? So you need to make sure",
+    "start": 2586.72,
+    "duration": 6.4
+  },
+  {
+    "text": "that your child no matter how he or she",
+    "start": 2589.28,
+    "duration": 6.96
+  },
+  {
+    "text": "is educated is able to become friends",
+    "start": 2593.12,
+    "duration": 4.96
+  },
+  {
+    "text": "with the sons and daughters of your",
+    "start": 2596.24,
+    "duration": 4.08
+  },
+  {
+    "text": "colleagues.",
+    "start": 2598.08,
+    "duration": 3.84
+  },
+  {
+    "text": "Okay?",
+    "start": 2600.32,
+    "duration": 4.72
+  },
+  {
+    "text": "So because this is what ensures success.",
+    "start": 2601.92,
+    "duration": 4.24
+  },
+  {
+    "text": "All right? And so there are other games",
+    "start": 2605.04,
+    "duration": 2.72
+  },
+  {
+    "text": "as well. But but you understand this",
+    "start": 2606.16,
+    "duration": 3.6
+  },
+  {
+    "text": "right? You understand how parents so",
+    "start": 2607.76,
+    "duration": 4.96
+  },
+  {
+    "text": "calculation isn't just like my kid I",
+    "start": 2609.76,
+    "duration": 4.64
+  },
+  {
+    "text": "want my kid to be successful. No, no.",
+    "start": 2612.72,
+    "duration": 3.76
+  },
+  {
+    "text": "You're thinking about how to play",
+    "start": 2614.4,
+    "duration": 3.68
+  },
+  {
+    "text": "different games and be successful in",
+    "start": 2616.48,
+    "duration": 5.92
+  },
+  {
+    "text": "other games, right? Because if you if",
+    "start": 2618.08,
+    "duration": 6.48
+  },
+  {
+    "text": "your kid becomes very successful but not",
+    "start": 2622.4,
+    "duration": 6.4
+  },
+  {
+    "text": "in a way that pleases the colleagues,",
+    "start": 2624.56,
+    "duration": 6.48
+  },
+  {
+    "text": "you become you can be thrown out of the",
+    "start": 2628.8,
+    "duration": 3.92
+  },
+  {
+    "text": "game. Okay. The people that the thing",
+    "start": 2631.04,
+    "duration": 5.28
+  },
+  {
+    "text": "that people fear the most is the idea of",
+    "start": 2632.72,
+    "duration": 6.56
+  },
+  {
+    "text": "aization. Okay.",
+    "start": 2636.32,
+    "duration": 5.84
+  },
+  {
+    "text": "or basically just exile",
+    "start": 2639.28,
+    "duration": 6.4
+  },
+  {
+    "text": "where you are no longer part of the",
+    "start": 2642.16,
+    "duration": 5.6
+  },
+  {
+    "text": "group. They kick you out as a player.",
+    "start": 2645.68,
+    "duration": 3.68
+  },
+  {
+    "text": "Okay,",
+    "start": 2647.76,
+    "duration": 3.36
+  },
+  {
+    "text": "that's what people are afraid of and",
+    "start": 2649.36,
+    "duration": 4.88
+  },
+  {
+    "text": "that's why people are motivated by what",
+    "start": 2651.12,
+    "duration": 4.4
+  },
+  {
+    "text": "they do because they're trying to",
+    "start": 2654.24,
+    "duration": 3.36
+  },
+  {
+    "text": "they're trying as hard as possible to to",
+    "start": 2655.52,
+    "duration": 4.32
+  },
+  {
+    "text": "play the game",
+    "start": 2657.6,
+    "duration": 4.88
+  },
+  {
+    "text": "and get along with other other players",
+    "start": 2659.84,
+    "duration": 4.16
+  },
+  {
+    "text": "while at the same time competing against",
+    "start": 2662.48,
+    "duration": 3.6
+  },
+  {
+    "text": "them. So so it's a weird psychology.",
+    "start": 2664.0,
+    "duration": 3.76
+  },
+  {
+    "text": "Okay, you're trying to beat them. At the",
+    "start": 2666.08,
+    "duration": 4.48
+  },
+  {
+    "text": "same time, you don't want to piss them",
+    "start": 2667.76,
+    "duration": 4.32
+  },
+  {
+    "text": "off and get thrown out of the game.",
+    "start": 2670.56,
+    "duration": 3.2
+  },
+  {
+    "text": "Okay,",
+    "start": 2672.08,
+    "duration": 3.12
+  },
+  {
+    "text": "and this is what prevents the idea of",
+    "start": 2673.76,
+    "duration": 4.44
+  },
+  {
+    "text": "cheating.",
+    "start": 2675.2,
+    "duration": 3.0
+  },
+  {
+    "text": "But from the perspective of the game, if",
+    "start": 2680.8,
+    "duration": 4.56
+  },
+  {
+    "text": "you're doing anything different, that's",
+    "start": 2683.36,
+    "duration": 3.76
+  },
+  {
+    "text": "still cheating.",
+    "start": 2685.36,
+    "duration": 4.48
+  },
+  {
+    "text": "Okay? Because so another way of saying",
+    "start": 2687.12,
+    "duration": 6.88
+  },
+  {
+    "text": "this is a lot of the rebellion against",
+    "start": 2689.84,
+    "duration": 9.76
+  },
+  {
+    "text": "what I was doing as a reformer is I was",
+    "start": 2694.0,
+    "duration": 9.52
+  },
+  {
+    "text": "subverting traditional Chinese values.",
+    "start": 2699.6,
+    "duration": 8.08
+  },
+  {
+    "text": "Okay. I was arguing against the norms,",
+    "start": 2703.52,
+    "duration": 6.24
+  },
+  {
+    "text": "the values,",
+    "start": 2707.68,
+    "duration": 4.8
+  },
+  {
+    "text": "the conventions of this country. And",
+    "start": 2709.76,
+    "duration": 6.24
+  },
+  {
+    "text": "it's and so if people believed in me",
+    "start": 2712.48,
+    "duration": 6.4
+  },
+  {
+    "text": "then they risk themselves being",
+    "start": 2716.0,
+    "duration": 6.4
+  },
+  {
+    "text": "ostracized by the larger community.",
+    "start": 2718.88,
+    "duration": 6.56
+  },
+  {
+    "text": "Okay, does that make sense? All right,",
+    "start": 2722.4,
+    "duration": 7.04
+  },
+  {
+    "text": "so that's parents. Then you have",
+    "start": 2725.44,
+    "duration": 6.32
+  },
+  {
+    "text": "um",
+    "start": 2729.44,
+    "duration": 4.72
+  },
+  {
+    "text": "um",
+    "start": 2731.76,
+    "duration": 4.48
+  },
+  {
+    "text": "right. Okay, but students, right? So",
+    "start": 2734.16,
+    "duration": 5.76
+  },
+  {
+    "text": "students they're trying to play a game",
+    "start": 2736.24,
+    "duration": 5.36
+  },
+  {
+    "text": "where they do well in school because",
+    "start": 2739.92,
+    "duration": 4.08
+  },
+  {
+    "text": "that ensures a good outcome but at the",
+    "start": 2741.6,
+    "duration": 3.92
+  },
+  {
+    "text": "same time students play other games as",
+    "start": 2744.0,
+    "duration": 2.96
+  },
+  {
+    "text": "well. So for for example a friendship",
+    "start": 2745.52,
+    "duration": 3.12
+  },
+  {
+    "text": "game right where you're trying to have",
+    "start": 2746.96,
+    "duration": 2.96
+  },
+  {
+    "text": "as many friends as possible. You're",
+    "start": 2748.64,
+    "duration": 2.4
+  },
+  {
+    "text": "trying to be popular in school. That's",
+    "start": 2749.92,
+    "duration": 2.56
+  },
+  {
+    "text": "another game you play. You're also",
+    "start": 2751.04,
+    "duration": 3.76
+  },
+  {
+    "text": "trying to please your parents",
+    "start": 2752.48,
+    "duration": 4.08
+  },
+  {
+    "text": "right because by pleasing your parents",
+    "start": 2754.8,
+    "duration": 3.6
+  },
+  {
+    "text": "that ensures that you have an easy",
+    "start": 2756.56,
+    "duration": 4.32
+  },
+  {
+    "text": "comfortable [music] life. In fact you",
+    "start": 2758.4,
+    "duration": 4.32
+  },
+  {
+    "text": "could argue that of these three games",
+    "start": 2760.88,
+    "duration": 3.52
+  },
+  {
+    "text": "pleasing your parents is the most",
+    "start": 2762.72,
+    "duration": 5.12
+  },
+  {
+    "text": "important. Then comes um having good",
+    "start": 2764.4,
+    "duration": 5.84
+  },
+  {
+    "text": "friends because [music] that will also",
+    "start": 2767.84,
+    "duration": 4.0
+  },
+  {
+    "text": "ensure your success in life. And the and",
+    "start": 2770.24,
+    "duration": 3.04
+  },
+  {
+    "text": "the game that you care the least about",
+    "start": 2771.84,
+    "duration": 3.68
+  },
+  {
+    "text": "that matters the least is actually doing",
+    "start": 2773.28,
+    "duration": 4.72
+  },
+  {
+    "text": "all in school learning learning in",
+    "start": 2775.52,
+    "duration": 4.16
+  },
+  {
+    "text": "school.",
+    "start": 2778.0,
+    "duration": 4.08
+  },
+  {
+    "text": "Okay.",
+    "start": 2779.68,
+    "duration": 4.64
+  },
+  {
+    "text": "Does does that make sense? So game",
+    "start": 2782.08,
+    "duration": 5.04
+  },
+  {
+    "text": "theory it sounds easy but it's very very",
+    "start": 2784.32,
+    "duration": 4.48
+  },
+  {
+    "text": "complicated because we're complicated",
+    "start": 2787.12,
+    "duration": 3.84
+  },
+  {
+    "text": "individuals.",
+    "start": 2788.8,
+    "duration": 5.12
+  },
+  {
+    "text": "Each one of us has different identities,",
+    "start": 2790.96,
+    "duration": 5.36
+  },
+  {
+    "text": "has different motivations, and has",
+    "start": 2793.92,
+    "duration": 4.48
+  },
+  {
+    "text": "different outlooks. And and also what's",
+    "start": 2796.32,
+    "duration": 3.44
+  },
+  {
+    "text": "really important for us to understand is",
+    "start": 2798.4,
+    "duration": 3.52
+  },
+  {
+    "text": "we're always changing as people. Okay?",
+    "start": 2799.76,
+    "duration": 3.6
+  },
+  {
+    "text": "So the way that you behaved in",
+    "start": 2801.92,
+    "duration": 3.36
+  },
+  {
+    "text": "kindergarten is not the way you behave",
+    "start": 2803.36,
+    "duration": 3.6
+  },
+  {
+    "text": "today in high school, it will not be the",
+    "start": 2805.28,
+    "duration": 3.52
+  },
+  {
+    "text": "way you behave when you enter society.",
+    "start": 2806.96,
+    "duration": 3.68
+  },
+  {
+    "text": "You're always changing because the game",
+    "start": 2808.8,
+    "duration": 3.76
+  },
+  {
+    "text": "is always changing. You must adapt to",
+    "start": 2810.64,
+    "duration": 4.48
+  },
+  {
+    "text": "new games that have different players",
+    "start": 2812.56,
+    "duration": 4.64
+  },
+  {
+    "text": "and have new requirements. Okay. So",
+    "start": 2815.12,
+    "duration": 4.56
+  },
+  {
+    "text": "that's wonderful about us where we are",
+    "start": 2817.2,
+    "duration": 4.24
+  },
+  {
+    "text": "easily",
+    "start": 2819.68,
+    "duration": 5.6
+  },
+  {
+    "text": "adaptable where we are we are resilient",
+    "start": 2821.44,
+    "duration": 8.64
+  },
+  {
+    "text": "okay but um we are always changing",
+    "start": 2825.28,
+    "duration": 9.76
+  },
+  {
+    "text": "according to the game and and",
+    "start": 2830.08,
+    "duration": 8.08
+  },
+  {
+    "text": "we are who we are is often determined by",
+    "start": 2835.04,
+    "duration": 6.56
+  },
+  {
+    "text": "the nature of the game. Okay. So you",
+    "start": 2838.16,
+    "duration": 6.16
+  },
+  {
+    "text": "could have come into school",
+    "start": 2841.6,
+    "duration": 5.6
+  },
+  {
+    "text": "wanting to learn, being creative and all",
+    "start": 2844.32,
+    "duration": 4.48
+  },
+  {
+    "text": "that, but eventually you you recognize",
+    "start": 2847.2,
+    "duration": 3.12
+  },
+  {
+    "text": "that that's not really rewarded in",
+    "start": 2848.8,
+    "duration": 5.04
+  },
+  {
+    "text": "school. All right? Getting along, having",
+    "start": 2850.32,
+    "duration": 7.44
+  },
+  {
+    "text": "lots of friends, doing helping other",
+    "start": 2853.84,
+    "duration": 6.16
+  },
+  {
+    "text": "students cheat, that's rewarded. And so",
+    "start": 2857.76,
+    "duration": 4.48
+  },
+  {
+    "text": "you adapt to the game and that's why you",
+    "start": 2860.0,
+    "duration": 5.28
+  },
+  {
+    "text": "behave the way you do. Okay? And if you",
+    "start": 2862.24,
+    "duration": 4.4
+  },
+  {
+    "text": "actually go back and think about",
+    "start": 2865.28,
+    "duration": 4.16
+  },
+  {
+    "text": "everything that you did in school,",
+    "start": 2866.64,
+    "duration": 5.44
+  },
+  {
+    "text": "the answer is you're responding to a",
+    "start": 2869.44,
+    "duration": 7.84
+  },
+  {
+    "text": "certain incentive or rule of the game.",
+    "start": 2872.08,
+    "duration": 6.96
+  },
+  {
+    "text": "Okay?",
+    "start": 2877.28,
+    "duration": 3.76
+  },
+  {
+    "text": "And that's what you need to that's what",
+    "start": 2879.04,
+    "duration": 3.92
+  },
+  {
+    "text": "we need to understand",
+    "start": 2881.04,
+    "duration": 4.72
+  },
+  {
+    "text": "about game theory.",
+    "start": 2882.96,
+    "duration": 5.76
+  },
+  {
+    "text": "Game theory, it's not about ideas. It's",
+    "start": 2885.76,
+    "duration": 5.12
+  },
+  {
+    "text": "not about ideals. It's not the way",
+    "start": 2888.72,
+    "duration": 4.08
+  },
+  {
+    "text": "things should be. It's the way things",
+    "start": 2890.88,
+    "duration": 3.6
+  },
+  {
+    "text": "are. And the way things are are",
+    "start": 2892.8,
+    "duration": 5.04
+  },
+  {
+    "text": "determined by who players are and the",
+    "start": 2894.48,
+    "duration": 6.0
+  },
+  {
+    "text": "way players behave",
+    "start": 2897.84,
+    "duration": 5.12
+  },
+  {
+    "text": "um is a response to their the game they",
+    "start": 2900.48,
+    "duration": 4.8
+  },
+  {
+    "text": "believe they're playing. Okay, does that",
+    "start": 2902.96,
+    "duration": 4.8
+  },
+  {
+    "text": "make sense? Okay, so so thank you. Any",
+    "start": 2905.28,
+    "duration": 5.72
+  },
+  {
+    "text": "more questions?",
+    "start": 2907.76,
+    "duration": 3.24
+  },
+  {
+    "text": "Okay, great. So um we will continue this",
+    "start": 2912.96,
+    "duration": 7.56
+  },
+  {
+    "text": "next class. Okay.",
+    "start": 2916.64,
+    "duration": 3.88
+  }
+]

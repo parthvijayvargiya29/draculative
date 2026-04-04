@@ -1,0 +1,870 @@
+start	end	text
+0	4660	Welcome to ICT for Dummies Episode 7
+4660	6360	Liquidity Part 2
+6360	10000	Highest Probability Liquidity Pools
+10000	13360	Highest Probability Liquidity Pools
+13360	16600	Yo yo, check it, we gon' do this session
+16600	20360	I don't even want to go back to my brethrens, listen
+20360	23000	We going to the Probability Liquidity Pools
+23000	26200	Don't be asking me where I'm going because I'm gonna do
+26760	30760	Liquidity
+30760	32760	She wanna be with me
+32760	34760	Alright yo, cut this shit right now
+34760	35760	Stop it!
+35760	38360	Liquidity Part 2, Highest Probability Liquidity Pools
+38360	41160	Today we're going to be going over all the different types of liquidity pool
+41160	45800	In the first liquidity video we went over the basic bi-side liquidity and cell-side liquidity
+45800	49160	Which is essentially the foundation of liquidity
+49160	53160	But there is way more to that than just bi-side liquidity and cell-side liquidity
+53320	55320	So hopefully you can learn something new with this video
+55320	57920	And show you how to truly identify the different types of liquidity
+57920	61920	Whether it is time liquidity, whether it is internal liquidity, whether it is external liquidity
+61920	62920	There's a whole lot of it
+62920	64920	Whether it's your mom's liquidity, I'm just kidding
+64920	68120	Anyways, so let's start off pretty simple here
+68120	71120	Alright guys, the first type of liquidity that we're going to go over is session liquidity
+71120	72120	Why is this important?
+72120	76920	It's because price often reacts very strongly to previous session highs and lows
+76920	80720	This is where the major high and major lows are going to be of each session
+80880	82880	For example, on the left side here you can see we have Asian session
+82880	85880	So you have the entire Asia session and you can see here's the major high
+85880	86880	And here's the major low
+86880	90880	There is going to be a lot of liquidity resting in both the high and the low
+90880	92880	And so for example when a new session starts
+92880	95880	You can see London session for example
+95880	97880	Once it sweeps Asia highs
+97880	100880	It'll typically get a reaction and then trade to maybe Asia lows
+100880	102880	Same thing will apply once you're trading New York session
+102880	105880	You want to be looking out for these highs and lows
+105880	108880	So very often when we're trading New York session
+109040	113040	We're looking to target maybe London highs or maybe London lows as our external liquidity
+113040	117040	Why? Because there is a lot of liquidity resting in both those highs and lows
+117040	120040	Okay, so the indicator I have here is ICT kill zones and pivot
+120040	123040	So this marks out these sessions that we have
+123040	125040	For example here we have Asia session and we have London session
+125040	129040	And this shows us our Asia session high and also the Asia session low
+129040	132040	This is the lowest point at which Asia session has traded to
+132040	133040	And this is the highest point
+133040	137040	And at these two levels there are going to be a lot of liquidity resting there
+137200	139200	A lot of stop losses resting there
+139200	140200	Just think about this logically
+140200	142200	If someone's taking for example a short during Asia session
+142200	145200	They're most likely putting their stop loss at that Asia session high
+145200	147200	Or if they're taking a long at that Asia session low
+147200	150200	Considering that these are both incredibly prominent liquidity pools
+150200	154200	What can you expect when previous session trades to either these high or these lows
+154200	155200	You're going to expect rejection
+155200	157200	Now let's look at London session
+157200	158200	Let's see what happens here
+158200	160200	As you can see during London session
+160200	163200	We went ahead and ran up to Asia highs
+163200	164200	After we swept Asia highs
+164200	165200	What happened?
+165360	168360	We got displacement lower and then we ran to London lows
+168360	170360	And as you guys have heard us say before
+170360	172360	Price is always doing one of two things
+172360	174360	It's either rebalancing ranges or it is seeking liquidity
+174360	176360	In the case of session highs and lows
+176360	180360	It will typically run from one session high to another session low
+180360	182360	Or from one session low to another session high
+182360	185360	Understanding the importance of previous session highs and lows
+185360	188360	Is going to help you determine your bias every single day
+188360	190360	So if we're going into New York session
+190360	192360	And we see that London highs has been swept
+192360	194360	We can expect price to now trade to London session lows
+194520	195520	And you're also probably wondering
+195520	197520	What are these other sessions on the chart
+197520	198520	So for example
+198520	200520	If I'm trading during New York PM session
+200520	202520	There's going to be resting liquidity
+202520	203520	At what?
+203520	204520	The previous session right?
+204520	206520	So lunch hour or New York AM session
+206520	208520	We went over these sessions guys in the last video
+208520	210520	So if you need to look back at that
+210520	212520	To see what times these sessions are happening at
+212520	214520	Go look back at that other video
+214520	215520	But as you can see here
+215520	216520	Asia session lows
+216520	217520	That's a draw on liquidity
+217520	218520	Asia session highs
+218520	219520	That's a draw on liquidity
+219520	220520	And your goal as a trader
+220520	222520	Is to always find the next draw on liquidity
+222680	224680	If you're trading London session for example
+224680	225680	On this day
+225680	226680	And you see okay
+226680	228680	We just took out Asia session highs
+228680	230680	We could potentially be looking for shorts to wear now
+230680	231680	Asia session lows
+231680	233680	That's how price is going to play out most of the time right?
+233680	234680	We sweep Asian highs
+234680	236680	London session trades to Asia session lows
+236680	238680	Now let's look at New York session for example
+238680	240680	After New York session is done
+240680	241680	What do we create?
+241680	242680	We create these extreme lows
+242680	243680	And these extreme highs
+243680	244680	This is New York session AM high
+244680	246680	New York session AM low
+246680	247680	What happens here?
+247680	249680	Price takes out New York session AM low
+249680	251680	And then runs to New York AM session high
+251840	253840	The only thing you really need to be taking out of this
+253840	255840	Is that you always want to be referring to previous session highs and lows
+255840	257840	To find the next draw on liquidity
+257840	258840	Alright guys
+258840	259840	Once again
+259840	260840	Just to emphasize how these draw on liquidity works
+260840	261840	You can think about it like this
+261840	262840	Let's say you have Asia session here
+262840	263840	London session here
+263840	264840	And now we're currently in New York AM session
+264840	266840	If we're trading New York AM session
+266840	267840	And we see that price
+267840	269840	During New York AM session runs to London lows
+269840	271840	And now this extreme low from London session has been swept
+271840	273840	We can now anticipate
+273840	275840	That there will be rejection at this level
+275840	277840	If other confluences are in line of course
+277840	279840	And look to see if longs
+280000	282000	Will present themselves towards where?
+282000	284000	London session highs right?
+284000	286000	And guys note that this doesn't always need to happen
+286000	288000	Just because if we sweep one of the highs or the lows
+288000	289000	Of that session
+289000	291000	Does not mean that we need to trade back
+291000	292000	To the other side of the range
+292000	294000	But it is typical of price
+294000	296000	And you can't expect that reaction to happen
+296000	297000	Like Patrick was saying
+297000	299000	If we start getting that structure higher
+299000	301000	Or if we start getting that structure lower
+301000	303000	And actually breaking through this low
+303000	305000	Then we can expect this high just not to get traded back to
+305000	307000	Yeah so like Blake was saying
+307000	309000	If you notice that during New York AM session
+309160	311160	We go ahead and displace through London lows
+311160	313160	And we're not getting a reaction out of it
+313160	314160	What can you expect?
+314160	316160	Well you can probably expect price to continue
+316160	318160	Trading lower during New York AM session
+318160	320160	Rather than trading back to a previous session high
+320160	322160	So truly the importance of all this
+322160	324160	Is that if you understand
+324160	326160	How strong these liquidity pools are
+326160	328160	In these previous session highs and lows
+328160	330160	You can identify whether or not price wants to react from them
+330160	332160	And reverse or continue in that direction
+332160	334160	Alright guys so the next major draw on liquidity
+334160	336160	That we have is going to be
+336160	338160	Previous day high and previous day low
+338320	340320	You can also see this getting referred to as
+340320	342320	PDH or PDL
+342320	344320	Now how you actually find these draws on liquidity
+344320	346320	Is just by going on the daily candle right here
+346320	348320	So if you just go to your timeframes
+348320	350320	If you click on the daily candle
+350320	352320	This previous day low candle and this previous day high candle
+352320	354320	Is all going to be draws on liquidity
+354320	356320	Alright so looking at this range right here guys
+356320	358320	We can mark out our previous day high and previous day low
+358320	360320	So this is the candle from yesterday right here
+360320	362320	This is previous day high
+362320	364320	And then this is our previous day low
+364320	366320	And as you can see right here guys
+366480	368480	The previous day high is just the highest point
+368480	370480	In which price has traded to
+370480	372480	For that day
+372480	374480	And the previous day low is the lowest point
+374480	376480	In which price has traded to for that day
+376480	378480	It's going to be a very high probability draw on liquidity
+378480	380480	When you're going into the next day
+380480	382480	Because at the end of the day this is going to help you
+382480	384480	Find your daily bias
+384480	386480	Where the daily candle is actually expanding towards
+386480	388480	And as you can see here guys we ended up forming
+388480	390480	Some bullish structure towards this previous day high
+390480	392480	We ended up taking it out and then displacing back lower
+392480	394480	And I want you guys to remember
+394640	396640	That liquidity pools can not only be areas
+396640	398640	Where you want price to go to
+398640	400640	But also where areas that price can react
+400640	402640	Off of and trade the opposite direction from
+402640	404640	So for example here
+404640	406640	You could be taking longs towards this draw on liquidity
+406640	408640	Because we are in this bullish structure
+408640	410640	But then after that once we get that reaction
+410640	412640	Off of that liquidity pool we start forming
+412640	414640	Structure to validate a bearish bias right
+414640	416640	Then shorts could be valid
+416640	418640	A good practice to have every single morning
+418640	420640	Just going into your trading session would be
+420640	422640	To mark out something like previous day high and previous day low
+422800	424800	So you know the range that you are trading within
+424800	426800	Previous day high and previous day low is going to serve
+426800	428800	As an external liquidity point right
+428800	430800	These are never going to be your first TPs
+430800	432800	Previous session highs and previous session lows
+432800	434800	Previous day highs and previous day lows
+434800	436800	These shouldn't be your first TPs
+436800	438800	A general rule of thumb is that your first TPs should be internal liquidity
+438800	440800	Now previous day high and previous day low
+440800	442800	Like every other liquidity pool guys
+442800	444800	Doesn't necessarily have to get traded to right
+444800	446800	But if you can start seeing that structure
+446800	448800	To validate your bias towards that draw on liquidity
+448800	450800	And we'll get into structure
+450960	452960	Entry models later on but it's good to know
+452960	454960	Actually just what these draws on liquidity actually are
+454960	456960	Alright guys so for this next liquidity pool
+456960	458960	We have low resistance liquidity
+458960	460960	Also known as trend line liquidity
+460960	462960	Or you'll also hear it referred to as failure swings
+462960	464960	So this is known as trend line liquidity
+464960	466960	Because you can usually just draw a line
+466960	468960	And it will look like a trend line
+468960	470960	Now trend line liquidity is important
+470960	472960	Or LRL or failure swings
+472960	474960	Right this is what the books teach you right
+474960	476960	Every time you hit this line right here
+476960	478960	These people are going long and they are placing their stop losses where
+479120	481120	Well at these swings
+481120	483120	This is also called a failure swing
+483120	485120	Because it's not taking the recent low
+485120	487120	As you can see here we make a low
+487120	489120	We make a high, we make a higher low
+489120	491120	We don't make a lower low we make a higher low
+491120	493120	Then we have another high, higher low
+493120	495120	So these are all failure swings because they are not taking that recent low
+495120	497120	And every time this trend line
+497120	499120	Is getting hit
+499120	501120	There is going to be stop losses placed there
+501120	503120	In other words if you refer back to our last liquidity video
+503120	505120	We went over buy side liquidity and sell side liquidity
+505120	507120	So if we are generating
+507280	509280	Low resistance liquidity in bullish order flow
+509280	511280	What are we generating
+511280	513280	We are generating a bunch of sell side liquidity
+513280	515280	Right
+515280	517280	We have price continuing to run higher
+517280	519280	But failing to take out the previous low
+519280	521280	So what do we have amongst all these lows
+521280	523280	More sell side liquidity
+523280	525280	And so when you have all this sell side liquidity
+525280	527280	Just bunched up together
+527280	529280	That creates low resistance liquidity
+529280	531280	Same applies for a bearish sense right
+531280	533280	If we are trending bearish
+533280	535280	We can mark out this trend line liquidity
+535440	537440	Then we can see here that amongst all these
+537440	539440	Failure swings
+539440	541440	We have what, buy side liquidity
+541440	543440	And so we have a bunch of buy side
+543440	545440	Being generated amongst this trend line
+545440	547440	Therefore creating low resistance liquidity
+547440	549440	So now let's actually look at this on the chart
+549440	551440	Alright guys as you can see right here
+551440	553440	We have bullish trend line liquidity
+553440	555440	Bullish low resistance liquidity
+555440	557440	Now why is this low resistance liquidity
+557440	559440	Because there are failure swings being made
+559440	561440	At every single swing point
+561440	563440	Meaning that every time we make a swing high
+563600	565600	Every swing high is not taking that previous swing high
+565600	567600	So we just keep making these lower highs
+567600	569600	So as you can see here we have a swing high
+569600	571600	There's stop losses being rested here
+571600	573600	We have another swing high, stop losses being rested here
+573600	575600	More swing highs, stop losses are being rested here
+575600	577600	And these stop losses aren't getting taken
+577600	579600	Right, so they just keep getting generated
+579600	581600	Keep getting generated
+581600	583600	This is also known as generated liquidity
+583600	585600	You'll hear often times
+585600	587600	And then eventually the market likes to take out these
+587600	589600	Stop losses usually really fast
+589600	591600	We usually see super fast movement
+591760	593760	Through all of these swing highs
+593760	595760	Through all of these stop losses
+595760	597760	And that's exactly what the market does right here
+597760	599760	So in really simple words
+599760	601760	Just look for bunched up highs or bunched up lows
+601760	603760	That's going to be your low resistance liquidity
+603760	605760	If we pair this with a little bit of previous concepts here
+605760	607760	You can see that before price ran this low resistance liquidity
+607760	609760	We went ahead and swept some sell side
+609760	611760	We react off that sell side
+611760	613760	And then price goes ahead and rips through all this LR
+613760	615760	And typically it will run through all the LR
+615760	617760	Rather than just the first swing high
+617760	619760	And that is something you should really know
+619920	621920	Because low resistance liquidity in general
+621920	623920	Is a pretty obvious draw on liquidity
+623920	625920	Especially on the lower timeframes
+625920	627920	So definitely make sure you can understand
+627920	629920	The concept of low resistance liquidity
+629920	631920	Because if you're able to spot it
+631920	633920	You're going to be able to take trades targeting the low resistance liquidity
+633920	635920	Just think about it like a bunch of stop losses
+635920	637920	Ready to get ran through
+637920	639920	Alright now we'll show an example of what bearish low resistance liquidity looks like
+639920	641920	Alright now here's an example of bearish low resistance liquidity
+641920	643920	Now this is trendline liquidity
+643920	645920	Because every time we make that swing low
+645920	647920	The next swing low is not taking that previous swing low
+648080	650080	And it's just making a higher low
+650080	652080	As you can see here we have a swing low
+652080	654080	Then we have that higher low
+654080	656080	Another swing low, we have another higher low
+656080	658080	And we have another higher low
+658080	660080	And these are all just stop losses ready to get ran
+660080	662080	We have stop losses here
+662080	664080	We have stop losses here, here, here, here
+664080	666080	We have a bunch of bunched up sell side liquidity
+666080	668080	Using some previous concepts right
+668080	670080	We reject off of this bearish for rally
+670080	672080	Got to the left of us
+672080	674080	And then all these lows end up getting ran through
+674080	676080	So yeah being able to spot this guys
+676240	678240	This is going to help you a lot also
+678240	680240	Just with bias in general
+680240	682240	If you can see where the low resistance liquidity
+682240	684240	Is being generated
+684240	686240	Then that is most likely where the market is going to be drawing towards
+686240	688240	Alright guys so next up we have
+688240	690240	Equal highs and equal lows
+690240	692240	Mark this out using EQH and EQL
+692240	694240	So equal highs and equal lows
+694240	696240	Are going to be highs and lows printed
+696240	698240	At the same exact price point
+698240	700240	So as you can see here
+700240	702240	This candle's high is printed exactly
+702240	704240	At what? 27201.0
+704400	706400	And then the high right next to it
+706400	708400	Is printed exactly at 27201
+708400	710400	And on the right of us you can see that these are not
+710400	712400	Equal highs, why? Because it's not printed
+712400	714400	At the exact same price point
+714400	716400	And equal lows same thing and also it doesn't matter guys
+716400	718400	What candle color it is
+718400	720400	This can be a green candle, this can be a red candle
+720400	722400	These equal lows are printed also at the exact same price point
+722400	724400	And these are not equal lows because these are not printed
+724400	726400	At the exact same price point
+726400	728400	Let's just get into some now chart examples
+728400	730400	Now very similarly to the last concept
+730400	732400	About trend line liquidity
+732560	734560	The books often teach you to be
+734560	736560	Longing when there's a bullish trend line
+736560	738560	And to be shorting when there's like this bearish trend line
+738560	740560	And that's not always the case
+740560	742560	And that's not really how we're going to be trading
+742560	744560	Because we trade ICD concepts right?
+744560	746560	And equal highs, the books teach you that
+746560	748560	This is an area of resistance
+748560	750560	And that you should short this
+750560	752560	And where are people going to be putting those stop losses?
+752560	754560	Well at that resistance level right? At those equal highs
+754560	756560	So there's going to be a lot of liquidity generating there
+756560	758560	And same thing for the equal lows
+758560	760560	Well people are going to be longing this area
+760720	762720	Why? Because they see it as support
+762720	764720	They see this bouncing off the same price point again
+764720	766720	And they're going to be like
+766720	768720	Oh this is a great area to go long
+768720	770720	And then they're going to be putting their stop losses there
+770720	772720	And then this is just a great liquidity pool for us
+772720	774720	Smart money traders to be targeting
+774720	776720	You'll see them getting made on both NQ
+776720	778720	And also ES
+778720	780720	But what should you actually be paying attention to?
+780720	782720	Well ES, since it is a less volatile index
+782720	784720	Not many people are trading on ES
+784720	786720	Versus NQ
+786720	788720	You're going to see a lot more
+788880	790880	Equal highs and lows getting made
+790880	792880	But then they're not actually getting taken
+792880	794880	You're going to just see a lot more equal lows and equal highs
+794880	796880	Getting made on ES
+796880	798880	You don't want to be paying attention to it
+798880	800880	Because the liquidity pools are not as prominent as NQ
+800880	802880	Alright so as you guys see on the left here
+802880	804880	We have NQ and on the right here
+804880	806880	We have ES
+806880	808880	Now NQ is going to be having a lot less
+808880	810880	Of these equal highs and equal lows
+810880	812880	Versus ES has a lot more of these
+812880	814880	Equal highs and lows
+814880	816880	Now this is just because there's more volatility
+817040	819040	On NQ versus ES
+819040	821040	Right?
+821040	823040	So you do not want to be paying attention to these
+823040	825040	Equal highs and lows on ES
+825040	827040	This is going to be messing you up
+827040	829040	And because we're trading on NQ
+829040	831040	This is actually what you should be focusing on
+831040	833040	Now this indicator I use guys is just
+833040	835040	Equal highs and lows by Jay Zester
+835040	837040	So this just marks out all of the
+837040	839040	Equal highs and lows that are being made
+839040	841040	Even when they're spread apart like this
+841040	843040	And just to sort of play off what Blake was saying
+843040	845040	The reason there's so many equal highs and equal lows
+845040	847040	In comparison to ES, the S&P 500 futures charts
+847040	849040	Is because they are created due to
+849040	851040	The lack of volatility
+851040	853040	In comparison to NQ where equal highs and equal lows
+853040	855040	Are an actual generation of
+855040	857040	Liquidity rather than just a result
+857040	859040	Of low volatility if that makes sense
+859040	861040	So when they're created on
+861040	863040	NQ and ES you can anticipate
+863040	865040	Those to be way more prominent liquidity pools
+865040	867040	You can expect price to trade to those levels
+867040	869040	To react from those levels in comparison to ES
+869040	871040	Where they're just really another
+871040	873040	Swing high or swing low or another
+873040	875040	Random set of equal highs and equal lows
+875040	877040	Don't refer to equal highs and equal lows on ES
+877040	879040	Make sure you're trying to spot them on NQ
+879040	881040	And start noticing how price
+881040	883040	Reacts at those levels
+883040	885040	So you can obviously see that there's times
+885040	887040	Where you will have equal lows or equal highs
+887040	889040	That are practically one or two
+889040	891040	Three candles apart, for example right here
+891040	893040	You have equal lows and then there's
+893040	895040	Times where you have equal highs that
+895040	897040	Are two swings apart, right?
+897040	899040	So you have a swing high right here and a swing high
+899040	901040	Right here. These swing highs
+901040	903040	And swing lows when they're two
+903040	905040	Separate trading legs and
+905040	907040	Separate swings apart
+907040	909040	They're going to hold more power than something like
+909040	911040	A pair of equal lows that are
+911040	913040	Backed by two consistent candles or something
+913040	915040	Like that. So anytime you
+915040	917040	Do identify equal highs
+917040	919040	Or equal lows that are created from two
+919040	921040	Major swings, just know that that's going to
+921040	923040	Hold a lot more power as a liquidity pool
+923040	925040	In general. Alright guys next up we have
+925040	927040	Data wicks. These are going to be your data lows
+927040	929040	And your data highs. Now what actually is a
+929040	931040	Data wick? Well a data wick occurs
+931040	933040	When there is news. Now remember guys
+933040	935040	When we were talking about time in the last video
+935040	937040	Where we brought up Forex Factory. So Forex Factory
+937040	939040	Again guys is going to be telling you when this
+939040	941040	High impact news is occurring. So you'll most
+941040	943040	Likely be seeing these data wicks
+943040	945040	Happen during high impact
+945040	947040	Red folder news. This is going to be typically
+947040	949040	At times like 8.30am,
+949040	951040	10am, yeah FOMC
+951040	953040	At 2 and 2.30pm. And really
+953040	955040	Just any other red folder news event
+955040	957040	That you can find on a website like Forex Factory
+957040	959040	Or whatever other news
+959040	961040	News event website you use
+961040	963040	But just know that anytime
+963040	965040	These high impact news are released
+965040	967040	There's typically going to be one incredibly
+967040	969040	Volatile candle in the market
+969040	971040	Which is going to create a data high
+971040	973040	And it's going to create a data low. And obviously
+973040	975040	As you can see in this illustration here
+975040	977040	That high and low is going to serve as what?
+977040	979040	A very prominent liquidity pool. So you'll
+979040	981040	See price typically do stuff
+981040	983040	Like this. Where news will drop. Let's say it's
+983040	985040	Like an 8.30 CPI. After CPI drops
+985040	987040	Price will trade to the CPI high
+987040	989040	The data high. It will sweep it
+989040	991040	And then react and then maybe trade to the data low
+991040	993040	This is actually a super
+993040	995040	Super common occurrence that you'll see with
+995040	997040	Data wicks and
+997040	999040	Actually will serve as a great confluence
+999040	1001040	When it comes to the inversion model which we'll get
+1001040	1003040	Into later in the future. But
+1003040	1005040	Get in the habit of marking out
+1005040	1007040	Data highs and data lows anytime
+1007040	1009040	Red folder news drops
+1009040	1011040	Because those are really, really, really
+1011040	1013040	Important levels. Now the reason these data wicks
+1013040	1015040	Are actually draws on liquidity is because these
+1015040	1017040	Are seen as imbalances in the market
+1017040	1019040	These huge wicks are imbalances
+1019040	1021040	Because there's not orders getting filled
+1021040	1023040	Here, right? So price needs to trade
+1023040	1025040	Back towards these prominent wicks
+1025040	1027040	And again they're going to be very, very obvious
+1027040	1029040	Price will typically fill orders here
+1029040	1031040	Or seek liquidity here. Now this might be
+1031040	1033040	Like a stupid thing to say, but if
+1033040	1035040	You ever do see a random candle that's
+1035040	1037040	Not a news event create two
+1037040	1039040	Crazy volatile
+1039040	1041040	Wicks. Don't just mark that as data highs
+1041040	1043040	And data lows. Make sure it is actually
+1043040	1045040	A news event that is creating these wicks
+1045040	1047040	If not, you're simply not going to be marking out
+1047040	1049040	Data highs and data lows and it might confuse you
+1049040	1051040	Alright guys, so on this day, this was
+1051040	1053040	Friday, March 7th. If we go over
+1053040	1055040	To Forex Factory right here, we see
+1055040	1057040	That there is NFP, right? So this is
+1057040	1059040	Non-farm employment change
+1059040	1061040	This is a red folder high impact news event
+1061040	1063040	And as you can see here, in the next candle
+1063040	1065040	That drops, we have an extremely
+1065040	1067040	Volatile candle that takes out a lot
+1067040	1069040	Of buy side, a lot of sell side liquidity. It's a
+1069040	1071040	Huge, huge candle of around
+1071040	1073040	This was around 200 points this day and it
+1073040	1075040	Creates this data high and this data low
+1075040	1077040	Now like what Patrick was saying, when you see
+1077040	1079040	These highs and lows being made, you can
+1079040	1081040	Wait for one of these ranges to be taken
+1081040	1083040	To then target the opposing range
+1083040	1085040	So for example here, we end up taking out this
+1085040	1087040	Data high, we end up trading lower, we have
+1087040	1089040	A bearish for value gap, which eventually
+1089040	1091040	Delivers us to this data low
+1091040	1093040	So really, like I was saying, all you gotta take
+1093040	1095040	Away from this, anytime you have those high impact news
+1095040	1097040	Days, just mark out that candle
+1097040	1099040	As you can see here, immediately after
+1099040	1101040	8.30, which was a news candle, you have 8.31
+1101040	1103040	Sweep that data high and then you start getting
+1103040	1105040	Displacement lower towards data lows. Honestly
+1105040	1107040	My best advice to you guys is
+1107040	1109040	That when you have days like this where you have
+1109040	1111040	High impact news, really try to identify
+1111040	1113040	These levels and wait for
+1113040	1115040	Price to take out one of these highs
+1115040	1117040	Or lows, whether it is the data highs first or the
+1117040	1119040	Data lows first and then look to see
+1119040	1121040	If there are entry opportunities
+1121040	1123040	Towards the level that hasn't been taken out
+1123040	1125040	Yet, right? In this case, you had the sweep of data highs
+1125040	1127040	First, so now you can anticipate, okay, maybe
+1127040	1129040	We can find shorts to data lows. Regarding
+1129040	1131040	Your entry, we're gonna elaborate on that more
+1131040	1133040	In future videos, but for now
+1133040	1135040	Just focus on always
+1135040	1137040	Marking out these data highs and data lows
+1137040	1139040	Anytime on these high impact news days
+1139040	1141040	Okay, so next up here, guys, we have is unfilled
+1141040	1143040	For value gaps. You also hear this being
+1143040	1145040	Referred to as your internal range liquidity
+1145040	1147040	Your IRL, and this is just how the market
+1147040	1149040	Moves. We move from internal range liquidity
+1149040	1151040	To external range liquidity, and external
+1151040	1153040	Range liquidity is just those buy side
+1153040	1155040	And sell side, those major swing highs
+1155040	1157040	Those major swing lows. We went over that
+1157040	1159040	In our first video, right? Discussing
+1159040	1161040	Liquidity part one
+1161040	1163040	And this is how we get to those external
+1163040	1165040	Range liquidity pools by this internal
+1165040	1167040	Range liquidity or these unfilled for value
+1167040	1169040	Gaps. So oftentimes what you'll see the market
+1169040	1171040	Do is we'll have this being
+1171040	1173040	Our external range liquidity right here. The market
+1173040	1175040	Will then trade towards this internal
+1175040	1177040	Range liquidity being this unfilled
+1177040	1179040	For value gap. This is an imbalance
+1179040	1181040	In the market, right? Same thing like the
+1181040	1183040	Data wicks where we want to fill orders
+1183040	1185040	The market likes to fill orders at
+1185040	1187040	This internal range liquidity at these for value
+1187040	1189040	Gaps. And then once we trade into this, this is
+1189040	1191040	Your internal range liquidity and then we trade
+1191040	1193040	To that external range liquidity, right? And
+1193040	1195040	This keeps happening where we keep trading
+1195040	1197040	Into internal range liquidity to external
+1197040	1199040	Until we obviously have a shift
+1199040	1201040	In structure. And for a bearish sense here
+1201040	1203040	We're trading with this external range liquidity
+1203040	1205040	We then trade higher into
+1205040	1207040	This bearish for value gap which is that
+1207040	1209040	Internal range liquidity to then trade back
+1209040	1211040	Lower to the external range liquidity. Okay
+1211040	1213040	Guys, now let's get into some examples of
+1213040	1215040	This. Okay guys, so as you can see here we have
+1215040	1217040	A bunch of these bullish for value gaps here
+1217040	1219040	That are unfilled. So this is that imbalance
+1219040	1221040	Right? This is that internal range liquidity
+1221040	1223040	And then above here we have our external range
+1223040	1225040	Liquidity here and we also have some
+1225040	1227040	Buyside liquidity right here. So typically what you'll
+1227040	1229040	See the market do after we take out
+1229040	1231040	Buyside liquidity is for then price
+1231040	1233040	To rebalance towards this internal range
+1233040	1235040	Liquidity, right? So we can mark this out as our
+1235040	1237040	ERL. This is your external range.
+1237040	1239040	This is also your external range but since we are
+1239040	1241040	Bullish, right? And we are creating these bullish
+1241040	1243040	For value gaps, you can expect this to trade towards
+1243040	1245040	That buyside external range liquidity. Price
+1245040	1247040	Then trades into these imbalances
+1247040	1249040	And then trades towards this external range
+1249040	1251040	Liquidity. And then again we create
+1251040	1253040	More unfilled bullish for value gaps. We have
+1253040	1255040	One right here. We can then mark out our
+1255040	1257040	External range liquidity. Price then trades
+1257040	1259040	Into this for value gap. We seek out that
+1259040	1261040	Liquidity and we will keep doing this until
+1261040	1263040	We have a shift in structure, right? We keep
+1263040	1265040	Trading to these for value gaps. We then have another
+1265040	1267040	Unfilled bullish five minute for value gap right here.
+1267040	1269040	We then mark out our external range liquidity.
+1269040	1271040	This is our internal range liquidity. We trade
+1271040	1273040	Into this for value gap and that delivers us
+1273040	1275040	Towards this external range liquidity. So this is simply
+1275040	1277040	Just how the market moves, guys. Through these unfilled
+1277040	1279040	For value gaps and through this buyside and
+1279040	1281040	Sellside external range liquidity. And this will
+1281040	1283040	Keep happening until we have that shift
+1283040	1285040	In structure, that market structure shift.
+1285040	1287040	And if you think back to our first liquidity video where
+1287040	1289040	I was just talking about, you know, bullish structure
+1289040	1291040	And bearish structure where in bullish structure
+1291040	1293040	You're generating lots of sellside, bearish structure
+1293040	1295040	You're generating lots of buyside, right?
+1295040	1297040	And in order to maintain bullish
+1297040	1299040	Order flow or bearish order flow, you need to be trading
+1299040	1301040	Back towards this internal liquidity, right?
+1301040	1303040	So if we were to draw this out with simply
+1303040	1305040	Just a strong tool, bullish price action
+1305040	1307040	Is going to look like this. It's going to move up.
+1307040	1309040	It's going to create that higher low
+1309040	1311040	Every single time and higher high.
+1311040	1313040	And every single time that it's doing this, what are
+1313040	1315040	You also doing? You're trading back
+1315040	1317040	Towards this internal liquidity, these unfilled
+1317040	1319040	Gaps that's delivering price higher.
+1319040	1321040	Same is going to apply vice versa
+1321040	1323040	In a bearish sense. So this is just
+1323040	1325040	Good to know because anytime, for example,
+1325040	1327040	You want to take a long and bullish
+1327040	1329040	Order flow, you want to wait for price to hit
+1329040	1331040	That internal liquidity before you execute
+1331040	1333040	A long and take a trade higher, right?
+1333040	1335040	You don't want to be longing at these
+1335040	1337040	Peaks. You want to wait for price to trade
+1337040	1339040	Back towards that internal liquidity and then you
+1339040	1341040	Can target that external liquidity. Alright guys
+1341040	1343040	And finally, for the last liquidity
+1343040	1345040	Pool, we have the devil's mark.
+1345040	1347040	This is also known as just a
+1347040	1349040	Wickless candle, a candle without a wick.
+1349040	1351040	So typically, every single candle you guys
+1351040	1353040	See will have a wick on the top and have a wick
+1353040	1355040	On the bottom. With the devil's mark, the candle
+1355040	1357040	Fails to print a wick. And for this example,
+1357040	1359040	We fail to print that open high
+1359040	1361040	That you typically see with a bullish
+1361040	1363040	Candle and we just print an open low.
+1363040	1365040	For example, here in the bearish sense, we fail to
+1365040	1367040	Print that open low and we just create
+1367040	1369040	That open high. And this is
+1369040	1371040	Actually just an imbalance in price. So what
+1371040	1373040	Price typically likes to do is
+1373040	1375040	Trade away from this and then add that
+1375040	1377040	Wick later on. You really want to focus on
+1377040	1379040	Devil's marks just on the higher time frame because
+1379040	1381040	Typically with lower time frame candles,
+1381040	1383040	You can see that, you know, it is common
+1383040	1385040	For price to fail to create
+1385040	1387040	A wick. But it's not going to be as
+1387040	1389040	Prominent as like a liquidity pool as it would
+1389040	1391040	Be on the higher time frame, right? If you have an
+1391040	1393040	Hourly candle fail to make a wick, then
+1393040	1395040	You can expect price at one point
+1395040	1397040	To trade back to that level and correct
+1397040	1399040	That imbalance in price. Now again guys, the
+1399040	1401040	Reasoning this is just so important is because
+1401040	1403040	You will rarely see candles without
+1403040	1405040	Wicks. Like pretty much every single candle
+1405040	1407040	Here you'll see has a wick, has a wick, has a wick, has a wick.
+1407040	1409040	But what do we even notice about this candle
+1409040	1411040	Right here, right? This is that 11 o'clock candle.
+1411040	1413040	So this is an hourly candle. So as you can see
+1413040	1415040	With this hourly candle, we create an
+1415040	1417040	Open low, but there's no
+1417040	1419040	High. You can mark this out as your 11
+1419040	1421040	O'clock Devil's mark. And again like what Patrick
+1421040	1423040	Was saying, you want to be focusing on this for like
+1423040	1425040	The hourly time frame. 30 minute maybe, 15
+1425040	1427040	Minute, 4 hour. But usually that
+1427040	1429040	Higher time frame is going to be a higher probability
+1429040	1431040	Liquidity pool. So here 11 o'clock
+1431040	1433040	Opens, we fail to print the open
+1433040	1435040	High. We end up trading away from it.
+1435040	1437040	And then price trades towards that Devil's mark
+1437040	1439040	Printing the wick on this
+1439040	1441040	Wickless candle. And I don't know
+1441040	1443040	Why it's called Devil's mark. Don't ask
+1443040	1445040	Me. I don't know why any of these
+1445040	1447040	Like I don't know. I don't know why it's called Devil's mark
+1447040	1449040	Actually don't ask me. I don't know
+1449040	1451040	Why a lot of these things have fucking weird ass
+1451040	1453040	Names, but it's called a Wickless candle.
+1453040	1455040	Just know they work. Just know they work
+1455040	1457040	Please. But I do want to emphasize
+1457040	1459040	Like all this works only
+1459040	1461040	When you pair it with all the other confluences
+1461040	1463040	We've taught you, right? You're not just going to take along
+1463040	1465040	Because you see this Devil's mark get printed
+1465040	1467040	Obviously that makes no sense
+1467040	1469040	What do you want to wait for? You most likely want to
+1469040	1471040	Wait for in this case to have like a sell side
+1471040	1473040	Sweep and then present maybe a long opportunity
+1473040	1475040	Towards that 11 a.m. Devil's mark.
+1475040	1477040	So as you can see here, price eventually
+1477040	1479040	Delivers lower. It takes out this sell side
+1479040	1481040	And then you get that delivery up to the Devil's mark
+1481040	1483040	Of course with more confluences
+1483040	1485040	Here you can see Fair Valley gods are getting created
+1485040	1487040	That are getting respected and then delivering price to that
+1487040	1489040	11 a.m. Devil's mark. I say it in every single video
+1489040	1491040	But you never use these concepts individually
+1491040	1493040	You try to pair them with other things
+1493040	1495040	That's how you create these strategies that deliver
+1495040	1497040	Towards these liquidity pools, towards these imbalance ranges
+1497040	1499040	Alright, so now let's pair some of this shit together
+1499040	1501040	So imagine this is a current
+1501040	1503040	Price action you're looking at
+1503040	1505040	You see New York AM session deliver to what?
+1505040	1507040	Let's say this is London lows
+1507040	1509040	Price sweeps London lows and then you identify
+1509040	1511040	Oh damn, we got some
+1511040	1513040	Low resistance liquidity above
+1513040	1515040	We have a nice buy side level above
+1515040	1517040	Right here. This buy side level
+1517040	1519040	Also has an unfilled gap
+1519040	1521040	And on top of that we have equal highs
+1521040	1523040	At this level. Oh my god, this is an amazing
+1523040	1525040	Opportunity to long. We took out London lows, we have LR above
+1525040	1527040	Buy side above, unfilled gap, equal highs
+1527040	1529040	Bang, there you go. Now you're using your
+1529040	1531040	Fucking brain. You're putting all this
+1531040	1533040	Shit together. You realize we swept
+1533040	1535040	London lows, we have all this generated buy side above
+1535040	1537040	This is a great chance to
+1537040	1539040	Long. And that's when you'll truly see these
+1539040	1541040	Concepts work. If we're in bearish order
+1541040	1543040	Flow, but we finally hit some sort of bullish
+1543040	1545040	Pedia rate, we sweep some sell side liquidity
+1545040	1547040	Now we can look for longs because we know
+1547040	1549040	There's actually a reason for price
+1549040	1551040	To deliver in this direction, right? There's imbalances
+1551040	1553040	In price, there's liquidity being generated
+1553040	1555040	This needs to get taken
+1555040	1557040	Or at least should get taken most of the time. Therefore
+1557040	1559040	You know long opportunities
+1559040	1561040	Are very viable in this
+1561040	1563040	Scenario. So what do you wait for? You wait for anything
+1563040	1565040	To validate longs in this sense, right?
+1565040	1567040	Let's say we end up opening a
+1567040	1569040	Bullish for value gap here. We tap into this
+1569040	1571040	Five minute bullish for value gap. We see it
+1571040	1573040	Getting respected. Awesome
+1573040	1575040	Great. Now let's smack some fucking
+1575040	1577040	Longs, take this LR, take this buy side
+1577040	1579040	Equal highs, fucking 10 TPs
+1579040	1581040	And we got a damn Bugatti. And you can
+1581040	1583040	Expect price to go to all
+1583040	1585040	Of this, maybe edge those
+1585040	1587040	Equal highs and then stop you out. And I'm kidding
+1587040	1589040	But yeah, like I said
+1589040	1591040	Pair everything with everything we've
+1591040	1593040	Taught you. You're slowly going to start building your
+1593040	1595040	Understanding of how all these concepts work foundationally
+1595040	1597040	How to use them with other stuff and
+1597040	1599040	How to properly execute on the market. We know
+1599040	1601040	That there's a lot of information on this video. It
+1601040	1603040	Might have been a bit overwhelming, but definitely go back
+1603040	1605040	Rewatch anything. Try to find it on the charts yourself
+1605040	1607040	Get in the habit of marking out all these
+1607040	1609040	Things and it's going to help you identify
+1609040	1611040	These liquidity pools. You're going to know where
+1611040	1613040	The next draw on liquidity is. Hence the
+1613040	1615040	Name draw on liquidity. Where is price going to
+1615040	1617040	Draw next? The only way to know where price is
+1617040	1619040	Going to draw next is by being able to identify
+1619040	1621040	These types of liquidity pools. Please guys
+1621040	1623040	Your homework is to find some
+1623040	1625040	Low resistance liquidity, find some unfilled
+1625040	1627040	Gaps, some internal range liquidity, find
+1627040	1629040	Some equal highs, some equal lows, find the fucking
+1629040	1631040	Data high and data low, find that session liquidity
+1631040	1633040	Find those London lows, those London highs, those
+1633040	1635040	Asia highs, those Asia lows and
+1635040	1637040	Notice how price is reacting off of them
+1637040	1639040	Dude, when I first started
+1639040	1641040	Trading, I would spend
+1641040	1643040	Fucking hours
+1643040	1645040	On the charts just tape reading
+1645040	1647040	Like literally I would just sit
+1647040	1649040	On my phone and look at how
+1649040	1651040	Price is moving, where it's reacting off of
+1651040	1653040	And it's going to help you understand
+1653040	1655040	The charts, right? Sit there
+1655040	1657040	Analyze, try to piece together
+1657040	1659040	Confluences and you're going to understand
+1659040	1661040	The narrative of price. It is a
+1661040	1663040	Language. Trading is a language
+1663040	1665040	And you really need to put the time in
+1665040	1667040	While you're learning to be able to identify
+1667040	1669040	These levels, to be able to see how they react
+1669040	1671040	How they deliver price and it's going to
+1671040	1673040	Make you a great trader. You're not going to become
+1673040	1675040	Great overnight, right? In the beginning you're going to
+1675040	1677040	Spend tons of tons of hours just
+1677040	1679040	Analyzing but eventually it will
+1679040	1681040	Click, it'll make sense, you'll understand
+1681040	1683040	This stuff like the back of your hand and you're going to
+1683040	1685040	Be able to execute with super high
+1685040	1687040	Conviction and low hesitation
+1687040	1689040	And catch banger trades. So yeah guys
+1689040	1691040	I mean we hope you learned something from
+1691040	1693040	Our liquidity part two, episode
+1693040	1695040	Seven. We look forward to posting more
+1695040	1697040	For you guys. We have some cool vlogs coming out as well
+1697040	1699040	Look forward to that. Please subscribe if you haven't
+1699040	1701040	Already. We're going to be trying to push out this bootcamp as
+1701040	1703040	Much as possible. We have tons of shit going on
+1703040	1705040	But we're really trying our best. We want to make
+1705040	1707040	Sure this is the best series there is on YouTube
+1707040	1709040	For ICT, for people who really want
+1709040	1711040	To get into the markets efficiently and know
+1711040	1713040	The right information. We're not going to be teaching you
+1713040	1715040	Nonsense that you don't need. Everything we teach you
+1715040	1717040	Is important and is applied every single
+1717040	1719040	Day by both Blake and I
+1719040	1721040	And this is how we've gotten to the point where we can have
+1721040	1723040	High conviction biases that play out nearly every
+1723040	1725040	Single day where we can have high conviction drawn
+1725040	1727040	Liquidities that play out nearly all the time and have
+1727040	1729040	High win rate with our trading models
+1729040	1731040	That being said, thanks so much for watching
+1731040	1733040	ICT for dummies
+1733040	1735040	Episode seven
+1735040	1737040	Liquidy part two
+1739040	1741040	Alright
+1741040	1743040	What's up, boys? Make sure to like
+1743040	1745040	Follow
+1745040	1747040	There's no following
+1747040	1749040	Follow our Instagram, follow our
+1749040	1751040	TikTok, follow our Twitter
+1751040	1753040	That we never post on ever
+1753040	1755040	Subscribe to our OnlyFans
+1765040	1767040	Wow, I'm so sorry we have to
+1767040	1769040	Teach you guys. It's a blessing and a curse
+1769040	1771040	It is. Much love

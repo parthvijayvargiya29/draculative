@@ -1,0 +1,376 @@
+1
+00:00:00,000 --> 00:00:13,040
+Alright folks welcome back. So this lesson is going to be a little bit shorter more
+
+2
+00:00:13,040 --> 00:00:18,600
+direct to the point and we'll be looking at some examples since I showed you what
+
+3
+00:00:18,600 --> 00:00:22,880
+we're looking for on Tuesday night. So Wednesday's trading and Thursday's
+
+4
+00:00:22,880 --> 00:00:30,200
+trading. We'll take a look at that. Alright first up is the e-mini S&P March
+
+5
+00:00:30,200 --> 00:00:36,720
+delivery contract for 2022. Wednesday January 26th. Why don't you take a look at this
+
+6
+00:00:36,720 --> 00:00:41,760
+low over here. Okay and don't just use my charts. You want to look at your charts
+
+7
+00:00:41,760 --> 00:00:47,680
+and go through it from your platform, your broker, whatever feed that you're
+
+8
+00:00:47,680 --> 00:00:53,840
+using. This is trading view. It's a free charting package when it's end of data
+
+9
+00:00:53,840 --> 00:00:58,600
+but if you want to have real time I think I'm paying four dollars a month
+
+10
+00:00:58,600 --> 00:01:06,160
+for the data. It's not really expensive but you want to have the low over here
+
+11
+00:01:06,160 --> 00:01:13,580
+on Wednesday the 26th and you'll see why I picked that low there because it's the
+
+12
+00:01:13,580 --> 00:01:19,220
+low. Okay and then this is the high. So we have this price run from this low to
+
+13
+00:01:19,220 --> 00:01:24,060
+this high. That's our range. So you want to drop your fib on that. Now get your
+
+14
+00:01:24,060 --> 00:01:33,260
+equilibrium price point. So as the highs were ran through we had that run up. The
+
+15
+00:01:33,260 --> 00:01:37,580
+market gets pushed into a premium. It's really expensive and then we want to
+
+16
+00:01:37,580 --> 00:01:44,380
+wait to see does it break down below the old high. It does but does it create a
+
+17
+00:01:44,380 --> 00:01:49,820
+fair value gap in here? No. Then it rallies one more time then breaks down
+
+18
+00:01:49,820 --> 00:02:00,780
+again. Inside here there's a break in market structure. We see it here then it
+
+19
+00:02:00,780 --> 00:02:07,260
+runs back up into the fair value gap here and then sells off reaching into
+
+20
+00:02:07,260 --> 00:02:15,300
+this old low which would be below the equilibrium price point of this entire
+
+21
+00:02:15,300 --> 00:02:24,540
+range or 50% level on the fib. Okay put some lipstick on this. Again here's the
+
+22
+00:02:24,540 --> 00:02:31,660
+low and the high equilibrium which is a 50 level on the Fibonacci. So we're
+
+23
+00:02:31,660 --> 00:02:39,220
+looking for a low or an imbalance below this level. Okay so we have a swing low
+
+24
+00:02:39,220 --> 00:02:44,420
+here. We have an imbalance here that could be a target. Notice how we hit it
+
+25
+00:02:44,420 --> 00:02:52,820
+there and came off of it. More pronounced low here and draws down into that. So
+
+26
+00:02:52,820 --> 00:02:59,220
+inside this shaded blue area we're gonna take a closer look at the details. Okay
+
+27
+00:02:59,220 --> 00:03:03,540
+we're zoomed in a little bit. Again still on a two-minute chart. Previous high,
+
+28
+00:03:03,540 --> 00:03:08,940
+short-term high and 830 in the morning. That starts the hunt basically. That's
+
+29
+00:03:08,940 --> 00:03:12,260
+what 830 in the morning is to me. So we're looking for an old high to be
+
+30
+00:03:12,260 --> 00:03:19,860
+violated. It does so here. Then it breaks. There's a break in market structure.
+
+31
+00:03:20,620 --> 00:03:25,300
+Swing low. This candle over here that sets the stage. Now you have a
+
+32
+00:03:25,300 --> 00:03:30,700
+opportunity. Does price draw back up into the fair value gap after this candle
+
+33
+00:03:30,700 --> 00:03:35,140
+breaks below here and giving you a bearish market structure shift. Yes it
+
+34
+00:03:35,140 --> 00:03:39,420
+trades up into that fair value gap. You can go short there and again you could
+
+35
+00:03:39,420 --> 00:03:45,260
+target this old low here or that low that was annotated before we zoomed in
+
+36
+00:03:45,260 --> 00:03:51,220
+and look at the beautiful delivery there. So hypothetical short from here
+
+37
+00:03:51,220 --> 00:03:57,020
+and hypothetical cover here. You would log that in your study journal. Don't use
+
+38
+00:03:57,020 --> 00:04:02,020
+my examples here alone. Go into your own charts and annotate them as well. So
+
+39
+00:04:02,020 --> 00:04:13,420
+shorting around we'll say 4419 and covering at we'll say 4382 just to be
+
+40
+00:04:13,420 --> 00:04:20,180
+you know not perfect. That's the opportunity of the range but you don't
+
+41
+00:04:20,180 --> 00:04:24,220
+have to have all of that and still very very nice delivery based on the logic
+
+42
+00:04:24,220 --> 00:04:29,260
+I taught you on Tuesday and the first lesson on the previous week's Friday.
+
+43
+00:04:29,260 --> 00:04:36,700
+Again there's that fair value gap and that's your candle that would be
+
+44
+00:04:36,700 --> 00:04:43,460
+considered as a ideal entry and the discount old low as a target right
+
+45
+00:04:43,460 --> 00:04:48,300
+there. So your charts would look just like this. In any open space like over
+
+46
+00:04:48,300 --> 00:04:51,500
+here you would just type in whatever important factors that you found
+
+47
+00:04:51,500 --> 00:04:56,500
+insightful about this example. How long did it take? Okay how long did it take
+
+48
+00:04:56,500 --> 00:05:02,020
+from the market structure shift occurring? How much time did it take to
+
+49
+00:05:02,020 --> 00:05:05,300
+get up into the fair value gap? That's real important. How long did it take
+
+50
+00:05:05,300 --> 00:05:11,740
+before it went from your entry down to your target in time? How much heat or
+
+51
+00:05:11,740 --> 00:05:20,420
+drawdown would you have weathered getting short? Now if you used this candle's high
+
+52
+00:05:20,420 --> 00:05:25,540
+as your entry point you technically could have got filled here but in here I
+
+53
+00:05:25,580 --> 00:05:29,860
+want to teach you to look at the total range available and in hindsight okay
+
+54
+00:05:29,860 --> 00:05:34,180
+because it gives you a framework to look for how these examples while they're not
+
+55
+00:05:34,180 --> 00:05:38,260
+exactly the same they don't repeat exactly photocopy of every single
+
+56
+00:05:38,260 --> 00:05:42,660
+previous instance of it there's a lot of similarities that you'll find that are
+
+57
+00:05:42,660 --> 00:05:46,860
+reoccurring and that's the important factor to train your eye to see it.
+
+58
+00:05:46,860 --> 00:05:51,980
+Remember the analogy I gave you on Tuesday night about the deer track and
+
+59
+00:05:51,980 --> 00:05:55,180
+being a hunter you have to know what a deer track looks like you have to know
+
+60
+00:05:55,180 --> 00:05:58,940
+what a deer track is to stalk it effectively. Well this is your pattern
+
+61
+00:05:58,940 --> 00:06:02,500
+and setup so you need to go in looking for it so it reinforces the idea that
+
+62
+00:06:02,500 --> 00:06:07,780
+you know what it looks like. All right we're looking at the e-mini NASDAQ
+
+63
+00:06:07,780 --> 00:06:13,300
+futures for Thursday January 27 2022. This is a five minute chart this is the
+
+64
+00:06:13,300 --> 00:06:18,300
+time frame you start with and you work down okay. So in the five minute right
+
+65
+00:06:18,300 --> 00:06:28,560
+away we can see the low to the high and we're looking for a high and go back in
+
+66
+00:06:28,560 --> 00:06:33,420
+time in your chart and you'll find what this is here but you have these relative
+
+67
+00:06:33,420 --> 00:06:37,940
+equal highs as well so that could have been a initial objective looking for
+
+68
+00:06:37,940 --> 00:06:41,540
+these relative equal highs to be taken out and does it break down give you a
+
+69
+00:06:41,540 --> 00:06:44,540
+fair value gap no it doesn't so it wouldn't even meet the criteria there I
+
+70
+00:06:44,540 --> 00:06:46,900
+know some of you might be looking at this well how do you know it doesn't
+
+71
+00:06:46,900 --> 00:06:51,100
+get you on a trade here listen to the rules I gave you they're very specific
+
+72
+00:06:51,100 --> 00:06:54,500
+and that's what I'm walking you through here that way you can see it's kind of
+
+73
+00:06:54,500 --> 00:07:00,780
+allowing the market or really forcing the market to show you its hand once it
+
+74
+00:07:00,780 --> 00:07:04,860
+does that then you can go in and act accordingly but you have to wait for the
+
+75
+00:07:04,860 --> 00:07:09,140
+setup you can't force it you can't think it's there it's there or it's not. So we
+
+76
+00:07:09,140 --> 00:07:11,740
+have old high here by solid quality resting above that and we have a run
+
+77
+00:07:11,740 --> 00:07:16,240
+above it once it goes above here doesn't go above it and break down and then go
+
+78
+00:07:16,240 --> 00:07:19,960
+down below that short-term low there no it goes higher so we just keep waiting
+
+79
+00:07:19,960 --> 00:07:26,260
+for a break lower to get a shift in the market structure on an intraday basis so
+
+80
+00:07:26,260 --> 00:07:31,240
+we have a swing low here it trades down through it on this candle here so you
+
+81
+00:07:31,240 --> 00:07:35,360
+know right away at that moment on this candle soon as this candle trades
+
+82
+00:07:35,360 --> 00:07:40,880
+through it you now have an opportunity then you go back into the high to that
+
+83
+00:07:40,880 --> 00:07:47,420
+candle slow and do you see a fair value gap it's right there okay this market
+
+84
+00:07:47,420 --> 00:07:53,880
+rallies back up trades into it here you can be a short seller there and the
+
+85
+00:07:53,880 --> 00:07:57,760
+market breaks down one more time we trades back into it and reaches below
+
+86
+00:07:57,760 --> 00:08:02,360
+the equilibrium price point now you have a couple targets here you could be here
+
+87
+00:08:02,360 --> 00:08:06,760
+here or in the imbalance and it hits all of them and goes a little bit further
+
+88
+00:08:06,760 --> 00:08:09,360
+lower
+
+89
+00:08:13,040 --> 00:08:18,080
+all right so that was quick and hopefully painless and again we're looking at
+
+90
+00:08:18,080 --> 00:08:22,900
+internal range liquidity and market structure shifts intraday my advice is
+
+91
+00:08:22,900 --> 00:08:29,840
+for you to go back through more data use the weekend that's coming and acquire
+
+92
+00:08:29,840 --> 00:08:35,160
+more of those examples that we can include them in your study journal next
+
+93
+00:08:35,160 --> 00:08:40,920
+week I'll work on targeting refinement and entries until I'll talk to you then
+
+94
+00:08:40,920 --> 00:08:44,400
+enjoy weekend be safe
+

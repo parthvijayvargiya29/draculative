@@ -1,0 +1,484 @@
+1
+00:00:00,000 --> 00:00:07,440
+All right, folks, welcome back.
+
+2
+00:00:07,440 --> 00:00:14,640
+This is episode number eight, Applying Institutional Order Flow to Forex Markets.
+
+3
+00:00:14,640 --> 00:00:17,920
+All right, folks, welcome back.
+
+4
+00:00:17,920 --> 00:00:24,400
+Taking a look at trading view, and I promise this is going to be a really short one tonight.
+
+5
+00:00:25,280 --> 00:00:26,640
+Let's go to Euro.
+
+6
+00:00:34,880 --> 00:00:38,000
+And whenever I'm looking at data from trading view, this is the
+
+7
+00:00:39,040 --> 00:00:45,840
+data feed I use for Forex pairs only. Forex.com, I don't want to use Oando, definitely not them.
+
+8
+00:00:45,840 --> 00:00:54,720
+All right, so we have the daily chart up for Euro, Yen.
+
+9
+00:00:56,400 --> 00:01:02,800
+Just so you know, I hate Yen pairs, I can't stand them, but for the sake of completeness,
+
+10
+00:01:03,680 --> 00:01:08,240
+this is how you would look for these types of patterns in Forex.
+
+11
+00:01:09,440 --> 00:01:14,320
+Now, I have lots of feedback in the comments section that you don't get to see,
+
+12
+00:01:14,320 --> 00:01:17,920
+but it's really just for me. I get a lot of requests whether or not this is
+
+13
+00:01:18,560 --> 00:01:22,240
+appropriate to be using for higher time frame charts, and I think daily charts are
+
+14
+00:01:23,040 --> 00:01:25,760
+what everybody classifies as a higher time frame chart.
+
+15
+00:01:25,760 --> 00:01:30,160
+So I want you to take a look at this chart before I do any mock-up on it.
+
+16
+00:01:34,800 --> 00:01:36,320
+Pause the video if you're not ready.
+
+17
+00:01:36,320 --> 00:01:43,760
+Still don't pause it, do you? All right, take a look at the
+
+18
+00:01:45,280 --> 00:01:51,520
+relative equal lows over here. See that? It's going to go quick and dirty tonight.
+
+19
+00:01:52,880 --> 00:01:59,280
+Right and dirty. All right, so we have relative equal lows marked out over here.
+
+20
+00:01:59,280 --> 00:02:04,240
+The market has traded down through and created a run higher.
+
+21
+00:02:05,040 --> 00:02:10,560
+Now, here is why I do not like the Yen pairs. Okay, I get questioned all the time. Why don't
+
+22
+00:02:10,560 --> 00:02:16,560
+you like Yen pairs? I see they move around nice, they do this, they do that. They tend to have like
+
+23
+00:02:16,560 --> 00:02:22,320
+a double return to a specific level I like to see, and you're going to see it right here.
+
+24
+00:02:22,320 --> 00:02:29,440
+Okay, swing high. The market rallies through that. There's no fair value out there.
+
+25
+00:02:30,240 --> 00:02:36,960
+It drops back down in, then it runs again, taking out this swing high. So we have two
+
+26
+00:02:38,080 --> 00:02:43,040
+points of market structure that have moved to the upside and over its prices traded above it.
+
+27
+00:02:44,160 --> 00:02:52,400
+Now, this leg here, you want to go back through that and see is there a fair value gap? Well,
+
+28
+00:02:52,400 --> 00:02:58,720
+we have one and two. Market trades down into it here,
+
+29
+00:03:01,280 --> 00:03:08,400
+sends it higher. What's above here? Buy side liquidity. This old high back here could be a
+
+30
+00:03:08,400 --> 00:03:11,760
+draw on liquidity as well. So there's going to be buy stops. Whether it trades there or not,
+
+31
+00:03:11,760 --> 00:03:20,080
+it's irrelevant. Okay, it's likely to draw to it. Just like, you know, playing horseshoes.
+
+32
+00:03:20,080 --> 00:03:23,920
+You ever play the game horseshoes? Not every single time you throw a horseshoe,
+
+33
+00:03:23,920 --> 00:03:30,000
+is it going to go on that post. But it's still fun to play, right? So you're aiming at that post,
+
+34
+00:03:30,000 --> 00:03:34,240
+whether you hit that post or not, and this would be the post in the game. Playing horseshoes,
+
+35
+00:03:34,240 --> 00:03:39,440
+you're just aiming for it. Now, obviously, we started trading a new day here, but this candle,
+
+36
+00:03:39,440 --> 00:03:47,680
+which was the 10th of February, 2022, this daily candle, we could trust that this was likely to go
+
+37
+00:03:47,680 --> 00:03:54,560
+higher because we went up, we've consolidated, and then start another run into this high here.
+
+38
+00:03:55,280 --> 00:03:59,040
+Again, whether it trades through it or not, it's irrelevant. Okay, because even a failure swing
+
+39
+00:03:59,040 --> 00:04:03,920
+to get above old highs, if there's enough range from being right here at the open to reaching up
+
+40
+00:04:03,920 --> 00:04:08,160
+to here, that's enough to take a stab at it and to see if you're going to get any kind of yield.
+
+41
+00:04:09,840 --> 00:04:15,040
+So that's an example of it occurring on a daily chart, but I want to go into this very day right
+
+42
+00:04:15,040 --> 00:04:20,080
+there, okay, the 10th. So we're going to drop down into a 15-minute time frame.
+
+43
+00:04:22,240 --> 00:04:26,080
+All right, here's the 15-minute time frame, and we're going to mark up our chart.
+
+44
+00:04:32,480 --> 00:04:36,800
+Midnight New York time, market rallies in here.
+
+45
+00:04:37,200 --> 00:04:41,920
+And then we go into the New York session right here. So we're going to go into this
+
+46
+00:04:42,800 --> 00:04:49,440
+price structure and figure it out, the run that occurred in here. So I'm going to
+
+47
+00:04:50,960 --> 00:04:55,440
+put a rectangle in this area so that way we know what we're looking at relative to this 15-minute time frame.
+
+48
+00:05:07,280 --> 00:05:10,240
+You guys ask why I do PowerPoint slides, this is the reason why.
+
+49
+00:05:11,360 --> 00:05:15,040
+It makes it a lot easier to go right to what I'm looking for. All right, we're going to drop down
+
+50
+00:05:15,040 --> 00:05:22,160
+to a five-minute chart. Okay, and if you take a look at
+
+51
+00:05:22,160 --> 00:05:35,520
+that,
+
+52
+00:05:38,400 --> 00:05:41,040
+seven o'clock in the morning, 10 o'clock in the morning, that's your New York
+
+53
+00:05:41,840 --> 00:05:46,560
+ICT kills in. Okay, that's the time of day that New York Session trades form.
+
+54
+00:05:47,360 --> 00:05:54,240
+I have more information in that regard for time of day for Forex in this channel. There's just
+
+55
+00:05:54,240 --> 00:05:58,320
+lots of videos, lots of topics and things you can explore. I don't want to beat it to death
+
+56
+00:05:58,320 --> 00:06:00,960
+because I've already done it in other places, but just know that seven o'clock in the morning
+
+57
+00:06:00,960 --> 00:06:05,760
+to 10 o'clock in the morning, New York time, again, on TradingView, you need to have it
+
+58
+00:06:05,760 --> 00:06:12,560
+toggled to that. Everything else, it'll be wrong. All right, so here is the time of day that the
+
+59
+00:06:12,560 --> 00:06:22,160
+forming of a New York setup forms. All right, so we have the market trading down,
+
+60
+00:06:24,320 --> 00:06:30,560
+takes out a swing low, trades down below that, and then punches higher, right above the swing high.
+
+61
+00:06:31,920 --> 00:06:35,840
+Inside this price lag right here, is there a fair value gap?
+
+62
+00:06:35,840 --> 00:06:38,880
+We're going to start breaking it down top down from five minutes.
+
+63
+00:06:39,840 --> 00:06:45,920
+Top down. We're going to break it down from the five minute down to the one minute chart.
+
+64
+00:06:45,920 --> 00:06:49,520
+So from this low, up to this high,
+
+65
+00:06:54,160 --> 00:07:00,880
+right in there. That's where we're going to study on each new time frame. So we'll go down to three
+
+66
+00:07:00,960 --> 00:07:12,480
+minutes. Okay, so in this price lag here, do we take out a swing low? Yes, we trade down below
+
+67
+00:07:12,480 --> 00:07:21,600
+swing low. Does it take out a swing high here? Yes, it does. So now we have a valid condition
+
+68
+00:07:21,600 --> 00:07:26,960
+to see if there's a trade. Go back through this price lag. Is there a fair value gap?
+
+69
+00:07:26,960 --> 00:07:35,440
+Right in here, and this one here. So remember what I was teaching you. It could stab down there.
+
+70
+00:07:35,440 --> 00:07:40,000
+Just be mindful of that, but try to get your entry in on that one there.
+
+71
+00:07:41,680 --> 00:07:46,720
+And this we have here trades down to it there. Now the question is going to be is how far
+
+72
+00:07:47,760 --> 00:07:51,200
+will it trade to? Because we're not looking at anything over here,
+
+73
+00:07:51,200 --> 00:07:55,120
+like it's a middle of the range type idea. So for expansion type moves,
+
+74
+00:07:55,680 --> 00:07:59,360
+practical lesson tonight, where if we don't have a range to trade inside of,
+
+75
+00:08:00,160 --> 00:08:04,480
+how do we anticipate how far I can trade up or trade down? In this case, we're looking for
+
+76
+00:08:04,480 --> 00:08:09,520
+a long. Where would our targets be? Because the old high is over here. Now I'm sure if we
+
+77
+00:08:09,520 --> 00:08:13,840
+went to a hard time frame, keep looking to the left, we'll find something. But a real easy way
+
+78
+00:08:15,200 --> 00:08:23,680
+is to take your price lag over here. See this swing low right prior to this run up.
+
+79
+00:08:23,680 --> 00:08:30,800
+Then we consolidated, drop down, create a discount, and then created our retracement rally
+
+80
+00:08:32,320 --> 00:08:38,480
+and start to run up into these highs. How can we know? Well, I like to take a fib,
+
+81
+00:08:38,480 --> 00:08:54,000
+and anchor it to a previous swing. Okay, so from this low that is high,
+
+82
+00:08:54,720 --> 00:08:57,360
+after we lead this consolidation to start to trade higher,
+
+83
+00:09:00,080 --> 00:09:06,240
+standard deviation, negative one, and I got a lot of questions. What's my setup for my fib? I
+
+84
+00:09:06,240 --> 00:09:11,200
+actually show that on the OTE primer video, so you're welcome to take a look at that on
+
+85
+00:09:11,200 --> 00:09:32,880
+the YouTube channel as well. 133.153 and high is 133.153, so right to the point that you'd be
+
+86
+00:09:32,880 --> 00:09:45,600
+looking for. And then we've seen it recede from that. Okay, so obviously when I show an example
+
+87
+00:09:45,600 --> 00:09:51,760
+like this, it makes me want to trade me in. But I hate this pair. I can't stand. There's other
+
+88
+00:09:51,760 --> 00:09:58,320
+markets that can scratch my itch for Forex, but this one is not one I like to trade. But I wanted
+
+89
+00:09:58,320 --> 00:10:02,960
+to come out tonight and kind of give you a quick view of what you could do with these
+
+90
+00:10:03,680 --> 00:10:10,320
+markets using the model. Okay, there is a approach that you can use with the London session,
+
+91
+00:10:10,320 --> 00:10:15,840
+okay, and London would be marking up your vertical lines relative to New York local time,
+
+92
+00:10:16,400 --> 00:10:21,200
+two o'clock in the morning to five a.m., so you'd have your bracket. So your operating hours would
+
+93
+00:10:21,200 --> 00:10:26,000
+be hunting the setup for New York between seven o'clock in the morning and ten o'clock
+
+94
+00:10:26,640 --> 00:10:33,040
+local New York time. For London session trades, you would look for setups that would
+
+95
+00:10:34,800 --> 00:10:38,320
+provide you a way to trade a fair value gap between two o'clock in the morning and five
+
+96
+00:10:38,320 --> 00:10:44,000
+o'clock in the morning. Okay, and that's as easy as I can make it for you. It's simple,
+
+97
+00:10:44,000 --> 00:10:48,960
+and any additional information you would want to have, I have absolutely covered it
+
+98
+00:10:48,960 --> 00:10:54,080
+in other videos in this YouTube channel. Okay, so it's predominantly a Forex channel,
+
+99
+00:10:54,080 --> 00:10:58,640
+and it's only been recently with the 2022 mentorship I'm talking and teaching about
+
+100
+00:10:58,640 --> 00:11:05,600
+the stock indices. So I got a lot of requests for Forex, so here you go. It's simply applying
+
+101
+00:11:05,600 --> 00:11:12,960
+what you've been trained with the futures indices, but just applying it to the Forex market,
+
+102
+00:11:12,960 --> 00:11:19,600
+but applying it to the time of day relative to New York or London. And yes, you can take trades
+
+103
+00:11:19,600 --> 00:11:25,760
+in Asia. Yes, you can take trades in London Close, but I'd prefer to have you just trade on
+
+104
+00:11:25,760 --> 00:11:31,040
+these two time frames here, or time of day rather, being New York open, which is what's being shown
+
+105
+00:11:31,040 --> 00:11:34,320
+here, seven o'clock in the morning to ten o'clock in the morning, New York local time. Again, always,
+
+106
+00:11:34,320 --> 00:11:38,720
+I can't say it enough because if you don't do this and you just have it set to your local time,
+
+107
+00:11:39,280 --> 00:11:46,000
+it won't work. But it's New York local time on TradingView, seven o'clock to ten o'clock. This
+
+108
+00:11:46,000 --> 00:11:52,800
+is the time when you're hunting the setup. Okay, so in summary, we can anticipate this market going
+
+109
+00:11:52,800 --> 00:11:59,920
+higher. Why? Because the Euro dollar is going higher. You can also check it by going to, let's
+
+110
+00:11:59,920 --> 00:12:16,720
+go to the daily chart first, and go to 6E, which is Euro futures, and let us use the front month
+
+111
+00:12:16,720 --> 00:12:25,840
+continuous. Okay, you can see how Euro, where has it been going? So has it been going lower or higher?
+
+112
+00:12:26,560 --> 00:12:31,120
+Clearly going higher. What has the yen been doing?
+
+113
+00:12:37,440 --> 00:12:43,120
+So when you look at Forex pairs, you want to look for that relationship between the instruments that
+
+114
+00:12:43,120 --> 00:12:51,360
+make up your pair. So Euro yen, Euro is strong, yen is weak. So what would that mean for Euro yen?
+
+115
+00:12:51,360 --> 00:12:58,000
+It would mean that if your bias is bullish, and you have this underpinning
+
+116
+00:12:58,960 --> 00:13:05,600
+between Euro and yen, it's going to make this pair go higher. It's a real simple way of looking at
+
+117
+00:13:06,240 --> 00:13:11,760
+how to determine these exotic crosses. Okay, and how to frame the logic behind whether it should
+
+118
+00:13:11,760 --> 00:13:17,280
+go higher or lower. In the applied time of day, wait for the pattern I'm teaching you, and you
+
+119
+00:13:17,280 --> 00:13:20,880
+won't need to do anything else. You don't need to buy a subscription to anybody's services. You
+
+120
+00:13:20,880 --> 00:13:26,320
+don't need to learn anything else. You don't have to buy any courses. It's all right here for free,
+
+121
+00:13:26,320 --> 00:13:32,160
+and it works. Until I talk to you next week, enjoy your weekend, and be safe.
+

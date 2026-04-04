@@ -1,0 +1,105 @@
+All right, folks, welcome back.
+All right, so this is the Tuesday, January 25th, 2022, ITT mentorship on the YouTube
+channel.
+All right.
+This is the internal range liquidity and market structure shift lecture.
+All right, so I gave you homework on the community tab.
+If you have not been paying attention to that, that's where I'm kind of keeping you abreast
+as to what you should be expecting next or something that just comes to mind that I feel
+like sharing.
+So this is the link I sent out the other day.
+And I wanted you to go through this particular chart and look for reasons that provided the
+market structure shift and the buy side and sell side liquidity.
+So if you have not done that, please stop the video and do that now.
+Otherwise, you're cheating yourself of learning opportunity.
+All right, so here is that chart, again, 15 minute time frame on the e-mini NASDAQ 100
+futures contract for March delivery 2022.
+And take your attention over here.
+OK.
+This old low and these relative equal highs, see that?
+Old low below that is sell stops.
+And relative equal highs above that is buy stops.
+Now, you could have used this high here.
+There's nothing inherently wrong about that.
+But whenever I see equal highs like this, and if it's higher than an old high over here,
+I'm going to use that.
+So that way, there's a little bit of insight for you for your study journal.
+The sell side liquidity, you can see that the market trades down, hits that, runs through
+it and rallies all the way back up, clearing equal highs.
+So the buy stops have been taken here.
+OK.
+So at both of these price points here and here, that's the, I guess, the point at which
+you'll look for or anticipate a market structure shift and you don't force it.
+OK.
+I'll try to teach my concepts.
+It'll talk about market structure breaks or shifts, and we'll use that term interchangeably.
+But for intraday, I want you to think about intraday market structure shifts because it's
+not necessarily a break in market structure that leads to prolonged multi-day movement.
+OK.
+What do I mean by that?
+If you see a market structure that's bearish and it's broken to the downside, intraday,
+that may just lead to an intraday price lag that may eventually see that high be taken
+out in the same day.
+So that's why I'm using the term market structure shift, not market structure break.
+For our conversation here on this mentorship, just know that when I'm going to lean on that
+term market structure break, it means a little bit more in context versus an intraday shift
+in market structure.
+It just means that there's likely a downside draw or an upside draw intraday by saying
+the term shift.
+OK.
+So there's a little bit of semantics there.
+All right.
+So we have both of these areas here and here where there would be a likelihood of a market
+structure shift.
+Up here, we look for a fake run above here.
+So that fake run above, how do we know it's going to be a market structure shift that's
+bearish?
+I get that question a lot, even from mentorship students.
+What you're looking for is the evidence I'm going to show you here tonight.
+OK.
+Forget everything else everybody else says about market structure breaks and shifts
+and all that stuff.
+This is it.
+OK.
+This is the brass tacks.
+There's absolutely nothing else that you need to know about it, I promise you.
+If they add anything to it, it's just because they want to sound and look different.
+But this is the algorithmic perspective of a market structure shift intraday.
+Now keep this price level in mind, so it's essentially $14,600 and $14,820.
+We're just eyeballing it, OK?
+Now dropping all the way down into a two-minute chart, this is that same particular day.
+There's those relative equal highs.
+And this run down here, OK?
+If you recall, $14,600 and around that $14,860 or so, OK?
+If you look at this market structure, without having the levels on your chart, it's easy
+to get lost in all of the quote unquote noise, the uninitiated, and I know it's going to
+razz the people that don't care to really learn here.
+But the uninitiated folks that will watch a video or listen to some of the lectures
+I'll put out, they're trying to bring something in, they're trying to bring in their preconceived
+notions and ideas about what they think they understand about markets or technical analysis
+or something in price action.
+I want to kind of like allow you to just put that aside for a moment and just imagine this
+chart is the first time you looked at price action for the first time, and that's hard,
+but kind of like strip away everything else that you want to bring to the conversation.
+No order block discussion, no breaker, none of that stuff, OK?
+Supply and demand, Elliott Wave, all that garbage.
+If you look at this price action here, when we had this low form, right before this low
+was formed, there's a swing high right there.
+Now in the first mentorship video I gave you, I mentioned that high frequency trading algorithms
+will use market structure on a three minute, two minute, and one minute chart many times
+sub one minute.
+That would be like 45 second, 30 second, 15 second intervals, OK?
+What the algorithms are actually doing, and this is also going to correct a lot of people
+out there because they put out misinformation, it's so nonsensical, but I'm challenging you
+to go into your charts and see if this is not what's actually going on because it happens
+every day.
+If high frequency algorithms are operating every single day, then these signatures will
+be in the chart, OK?
+If you look at this short term high here, right before this low formed, when this high
+is taken out right there on that candle, that's significant.
+Only, only if this run down here has traded into sell stops, OK, below an old low of some
+kind, it could be a double bottom, it could be a single low, OK, but it's got to be trading
+under some retail idea that would be viewed as support.
+Up here the same thing, we're trading above highs, so we know that above old highs a neophyte's
+perspective will be.
+These are unknown orders, so therefore that's a

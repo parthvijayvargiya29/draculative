@@ -1,0 +1,4432 @@
+1
+00:00:00,000 --> 00:00:02,500
+All right, folks, welcome back.
+
+2
+00:00:02,500 --> 00:00:08,000
+Our continuing series on the 2022 free ICT mentorship
+
+3
+00:00:08,000 --> 00:00:08,920
+on YouTube.
+
+4
+00:00:08,920 --> 00:00:11,300
+We're looking at the A-mini S&P June contract
+
+5
+00:00:11,300 --> 00:00:12,720
+for 2022 daily chart.
+
+6
+00:00:12,720 --> 00:00:13,220
+All right.
+
+7
+00:00:13,220 --> 00:00:15,540
+So I'm going to teach you a little bit about intraday
+
+8
+00:00:15,540 --> 00:00:18,020
+profiles and daily range.
+
+9
+00:00:18,020 --> 00:00:23,140
+And we're going to be using this idea here.
+
+10
+00:00:23,140 --> 00:00:27,460
+So initially on Twitter, if you were
+
+11
+00:00:27,460 --> 00:00:31,580
+following me on that platform, I mentioned
+
+12
+00:00:31,580 --> 00:00:33,420
+how I was going to start the day looking
+
+13
+00:00:33,420 --> 00:00:37,620
+for a potential run to 40.70.
+
+14
+00:00:37,620 --> 00:00:40,500
+So 40.70 was my initial draw on liquidity
+
+15
+00:00:40,500 --> 00:00:42,880
+to see if it would want to reach down into that level.
+
+16
+00:00:42,880 --> 00:00:46,420
+If you look in this area here, that's my fair value gap.
+
+17
+00:00:46,420 --> 00:00:48,740
+You can see we traded down into it here.
+
+18
+00:00:48,740 --> 00:00:51,140
+Then today, one more time, we traded down into it,
+
+19
+00:00:51,140 --> 00:00:54,660
+left these relative equal lows in place,
+
+20
+00:00:54,660 --> 00:00:57,060
+and then started to move higher.
+
+21
+00:00:57,060 --> 00:01:00,940
+I took everybody's attention to previous day's high
+
+22
+00:01:00,940 --> 00:01:04,460
+and this high here.
+
+23
+00:01:04,460 --> 00:01:06,900
+And if this continues to go higher,
+
+24
+00:01:06,900 --> 00:01:09,300
+I mentioned this before.
+
+25
+00:01:09,300 --> 00:01:11,140
+I can't recall what video.
+
+26
+00:01:11,140 --> 00:01:12,680
+But I know I mentioned it in here.
+
+27
+00:01:12,680 --> 00:01:14,140
+This is where we could potentially
+
+28
+00:01:14,140 --> 00:01:18,220
+draw up to for an intermediate term target or objective.
+
+29
+00:01:18,220 --> 00:01:21,020
+But I'm not cosigning that just yet.
+
+30
+00:01:21,020 --> 00:01:24,300
+Right here and here is enough, OK?
+
+31
+00:01:24,340 --> 00:01:28,780
+So we're expecting higher prices after this shift
+
+32
+00:01:28,780 --> 00:01:31,260
+in intraday volatility.
+
+33
+00:01:31,260 --> 00:01:34,180
+So we'll look at that now going into lower timeframes.
+
+34
+00:01:34,180 --> 00:01:36,380
+All right, here's the hourly chart.
+
+35
+00:01:36,380 --> 00:01:40,500
+You can see how we did not take these relative equal lows out.
+
+36
+00:01:40,500 --> 00:01:42,140
+I wanted to see it go down there.
+
+37
+00:01:42,140 --> 00:01:45,180
+That's what I was looking for, to try to draw it into that.
+
+38
+00:01:45,180 --> 00:01:47,260
+It didn't do it.
+
+39
+00:01:47,260 --> 00:01:49,220
+It did not give a setup either based on the model
+
+40
+00:01:49,220 --> 00:01:50,380
+I'm teaching you.
+
+41
+00:01:50,380 --> 00:01:56,540
+So I used the intraday volatility and the framework
+
+42
+00:01:56,540 --> 00:02:01,500
+to kind of like teach it today a little bit more about bias,
+
+43
+00:02:01,500 --> 00:02:04,380
+how to change gears with your bias,
+
+44
+00:02:04,380 --> 00:02:06,780
+how to also manage your bias.
+
+45
+00:02:06,780 --> 00:02:08,780
+So initially, in the beginning of the morning,
+
+46
+00:02:08,780 --> 00:02:11,420
+I was looking for a potential run to 40.70.
+
+47
+00:02:11,420 --> 00:02:18,620
+It gave an opportunity to tape read, quote unquote,
+
+48
+00:02:18,620 --> 00:02:23,740
+paper trade, or even demo, using the draw liquidity.
+
+49
+00:02:23,740 --> 00:02:28,580
+But the model itself didn't materialize, OK?
+
+50
+00:02:28,580 --> 00:02:33,100
+So because I'm the author of these concepts,
+
+51
+00:02:33,100 --> 00:02:36,180
+I have a lot of tools at my disposal.
+
+52
+00:02:36,180 --> 00:02:39,700
+And I have a little bit better understanding of price delivery
+
+53
+00:02:39,700 --> 00:02:41,780
+than the average student of mine.
+
+54
+00:02:41,780 --> 00:02:45,260
+So if I go in and I show you something in this lecture
+
+55
+00:02:46,020 --> 00:02:48,900
+today, the main takeaways before I get into it is this.
+
+56
+00:02:48,900 --> 00:02:52,980
+What did I do, and how do I go about abandoning
+
+57
+00:02:52,980 --> 00:02:55,460
+a specific bias?
+
+58
+00:02:55,460 --> 00:02:58,340
+How do I change gears if it is applicable?
+
+59
+00:02:58,340 --> 00:03:01,620
+Sometimes it's not applicable to reverse.
+
+60
+00:03:01,620 --> 00:03:03,100
+It just means move to the sidelines
+
+61
+00:03:03,100 --> 00:03:06,380
+and just say, I'm not going to do anything.
+
+62
+00:03:06,380 --> 00:03:08,540
+And what are the characteristics that
+
+63
+00:03:08,540 --> 00:03:12,700
+would lead to a bias that is changed?
+
+64
+00:03:12,700 --> 00:03:16,820
+And how do you use that logic going forward?
+
+65
+00:03:16,820 --> 00:03:19,460
+And how to navigate the New York lunch hour?
+
+66
+00:03:19,460 --> 00:03:22,620
+So we're going to tackle those topics in this video.
+
+67
+00:03:22,620 --> 00:03:28,860
+So notice that we had this low here taken with this run.
+
+68
+00:03:28,860 --> 00:03:32,140
+Then this low was taken with this run.
+
+69
+00:03:32,140 --> 00:03:33,980
+And this low was taken with that run.
+
+70
+00:03:33,980 --> 00:03:35,180
+So notice what we were seeing.
+
+71
+00:03:35,180 --> 00:03:41,220
+We're seeing multiple lows get taken.
+
+72
+00:03:41,300 --> 00:03:47,420
+And then the market reverses while offering really
+
+73
+00:03:47,420 --> 00:03:51,820
+no high probability shorting opportunity.
+
+74
+00:03:51,820 --> 00:03:54,820
+The 40-70 level never got tagged.
+
+75
+00:03:54,820 --> 00:03:56,140
+Liquidity left in place.
+
+76
+00:03:59,820 --> 00:04:06,740
+Previous day's high, which is here, that high
+
+77
+00:04:06,740 --> 00:04:08,580
+was not traded to.
+
+78
+00:04:08,580 --> 00:04:14,140
+So we have a high of 41.68 and a quarter.
+
+79
+00:04:14,140 --> 00:04:16,420
+And then we have a fair value gap over here.
+
+80
+00:04:16,420 --> 00:04:19,380
+So you have two premium arrays that
+
+81
+00:04:19,380 --> 00:04:23,140
+may be a draw on liquidity that takes us up in there.
+
+82
+00:04:23,140 --> 00:04:26,220
+And it may be even run above these relative equal highs.
+
+83
+00:04:26,220 --> 00:04:26,740
+All right.
+
+84
+00:04:26,740 --> 00:04:27,980
+On the 15-minute time frame, you can
+
+85
+00:04:27,980 --> 00:04:32,220
+see how we just kept going lower than the previous lows.
+
+86
+00:04:32,220 --> 00:04:34,780
+And then finally, we had a run higher.
+
+87
+00:04:34,780 --> 00:04:37,100
+So we had a short-term shift in market structure
+
+88
+00:04:37,100 --> 00:04:39,420
+relative to the 15-minute time frame.
+
+89
+00:04:39,420 --> 00:04:41,660
+Remember, that's our bellwether chart.
+
+90
+00:04:41,660 --> 00:04:45,500
+So it runs higher, creates a fair value gap in here,
+
+91
+00:04:45,500 --> 00:04:48,580
+and trades down into it here.
+
+92
+00:04:48,580 --> 00:04:51,180
+One of the things I want to bring to your attention,
+
+93
+00:04:51,180 --> 00:04:54,140
+because a lot of you are familiar with a gentleman
+
+94
+00:04:54,140 --> 00:04:55,580
+by the name of Chris Laurie.
+
+95
+00:04:55,580 --> 00:04:57,540
+And he talks about liquidity voids,
+
+96
+00:04:57,540 --> 00:05:00,420
+where he teaches how the market wants to come back down
+
+97
+00:05:00,420 --> 00:05:03,980
+and fill all that area in.
+
+98
+00:05:03,980 --> 00:05:07,060
+As you probably noticed, I don't teach that.
+
+99
+00:05:07,060 --> 00:05:10,020
+I teach, obviously, there's times when that can occur.
+
+100
+00:05:10,020 --> 00:05:12,940
+But because I understand the algorithm,
+
+101
+00:05:12,940 --> 00:05:17,260
+that is not likely to occur most times.
+
+102
+00:05:17,260 --> 00:05:21,460
+So it's important to know where the market's reaching for.
+
+103
+00:05:21,460 --> 00:05:24,700
+And then look for these imbalances in price.
+
+104
+00:05:24,700 --> 00:05:26,500
+And then what makes it a fair value gap
+
+105
+00:05:26,500 --> 00:05:31,340
+is the fact that it's coming down into this area here
+
+106
+00:05:31,340 --> 00:05:35,780
+or inside this area here, or this area here,
+
+107
+00:05:35,780 --> 00:05:37,660
+or this area here.
+
+108
+00:05:37,660 --> 00:05:40,620
+So they're all fair value gaps.
+
+109
+00:05:40,620 --> 00:05:47,100
+It's a fair value to buy it if you're bullish, OK?
+
+110
+00:05:47,100 --> 00:05:52,300
+I'm not trying to insist that these imbalances completely
+
+111
+00:05:52,300 --> 00:05:53,100
+rebalance.
+
+112
+00:05:53,100 --> 00:05:55,460
+That's one of the main differentiations
+
+113
+00:05:55,460 --> 00:05:58,740
+between me and Chris Laurie.
+
+114
+00:05:58,740 --> 00:06:00,100
+Now, I'm not knocking Chris Laurie,
+
+115
+00:06:00,100 --> 00:06:02,900
+because I believe if you want to learn price action,
+
+116
+00:06:02,900 --> 00:06:07,780
+it's basic and goes beyond the average retail stuff,
+
+117
+00:06:07,780 --> 00:06:09,780
+then you can learn from him.
+
+118
+00:06:09,780 --> 00:06:12,660
+He's the only one I really give a nod to in technical analysis
+
+119
+00:06:12,660 --> 00:06:14,460
+and as far as education.
+
+120
+00:06:14,460 --> 00:06:16,420
+And I send people there all the time.
+
+121
+00:06:16,420 --> 00:06:18,980
+I don't have a relationship with him on a business level.
+
+122
+00:06:18,980 --> 00:06:20,500
+He doesn't give me any kickbacks.
+
+123
+00:06:20,500 --> 00:06:22,100
+I don't ask for anything.
+
+124
+00:06:22,100 --> 00:06:23,980
+I just think he's a genuinely nice guy, OK?
+
+125
+00:06:23,980 --> 00:06:26,140
+So there you go.
+
+126
+00:06:26,140 --> 00:06:28,380
+But there is a stark contrast between what he does
+
+127
+00:06:28,380 --> 00:06:30,460
+and what I do and how I teach.
+
+128
+00:06:30,460 --> 00:06:38,780
+So there's a degree of precision that
+
+129
+00:06:38,780 --> 00:06:41,300
+is given to you when you understand
+
+130
+00:06:41,300 --> 00:06:42,580
+the things I'm teaching you.
+
+131
+00:06:42,580 --> 00:06:45,660
+It goes beyond simply imbalance, rebalance.
+
+132
+00:06:45,660 --> 00:06:50,300
+While that is important, there are times when that is a factor.
+
+133
+00:06:50,300 --> 00:06:52,860
+But what I'm teaching you is where is the market
+
+134
+00:06:52,860 --> 00:06:54,900
+likely to go to, OK?
+
+135
+00:06:54,900 --> 00:06:57,060
+I'm not trying to teach you entry patterns
+
+136
+00:06:57,060 --> 00:07:01,620
+with an importance that getting in a specific price level
+
+137
+00:07:01,620 --> 00:07:02,980
+is the most important factor.
+
+138
+00:07:02,980 --> 00:07:05,380
+I'm teaching you how to determine where the market's
+
+139
+00:07:05,380 --> 00:07:06,580
+likely to go to next.
+
+140
+00:07:06,580 --> 00:07:09,420
+Where is that draw on liquidity?
+
+141
+00:07:09,420 --> 00:07:11,860
+Now, there's a lot of different ways
+
+142
+00:07:11,860 --> 00:07:16,380
+that that is calculated on an institutional level, OK,
+
+143
+00:07:16,380 --> 00:07:17,900
+and how it's determined.
+
+144
+00:07:17,900 --> 00:07:20,420
+It's not buying and selling pressure, OK?
+
+145
+00:07:20,420 --> 00:07:23,180
+But it is algorithmic.
+
+146
+00:07:23,180 --> 00:07:26,140
+So the easiest way for me to cut through all
+
+147
+00:07:26,140 --> 00:07:29,220
+of the very complicated things that could very
+
+148
+00:07:29,220 --> 00:07:30,780
+easily bog you down.
+
+149
+00:07:30,780 --> 00:07:33,580
+And you may feel like the things I'm teaching are complicated.
+
+150
+00:07:33,580 --> 00:07:37,140
+And I guess when you remove the idea of putting an indicator
+
+151
+00:07:37,140 --> 00:07:38,900
+that says you're overbought or oversold,
+
+152
+00:07:38,900 --> 00:07:44,620
+or a crossing over of two lines that gives you a buy or sell,
+
+153
+00:07:44,620 --> 00:07:50,820
+it's not, in my opinion, wisdom to exchange a decision,
+
+154
+00:07:50,820 --> 00:07:54,420
+especially if you ever decide to do this with real money.
+
+155
+00:07:54,460 --> 00:07:56,980
+It's not wise for you to determine
+
+156
+00:07:56,980 --> 00:08:00,980
+your bet, or your gamble, or your investment
+
+157
+00:08:00,980 --> 00:08:05,020
+on what an indicator is saying versus reading price action
+
+158
+00:08:05,020 --> 00:08:07,820
+and getting the logic behind what it's doing, OK?
+
+159
+00:08:07,820 --> 00:08:09,220
+And that's narrative.
+
+160
+00:08:09,220 --> 00:08:10,060
+What is narrative?
+
+161
+00:08:10,060 --> 00:08:14,420
+Narrative is the understanding of what price should do, why,
+
+162
+00:08:14,420 --> 00:08:16,220
+and what things will it encounter
+
+163
+00:08:16,220 --> 00:08:19,860
+to prove that the narrative that you are assuming is in place
+
+164
+00:08:19,860 --> 00:08:22,020
+is, in fact, underway.
+
+165
+00:08:22,020 --> 00:08:24,300
+Now, that's a mouthful, I'm sure.
+
+166
+00:08:24,340 --> 00:08:26,220
+Most of you probably didn't get much out of that,
+
+167
+00:08:26,220 --> 00:08:27,340
+but I'm going to break it down for you.
+
+168
+00:08:27,340 --> 00:08:29,420
+I was looking for $40.70 today to see
+
+169
+00:08:29,420 --> 00:08:32,540
+if it can get down outside the range of that daily fair value
+
+170
+00:08:32,540 --> 00:08:33,900
+gap.
+
+171
+00:08:33,900 --> 00:08:36,100
+And we failed to do so.
+
+172
+00:08:36,100 --> 00:08:38,980
+And then the market shifted higher.
+
+173
+00:08:38,980 --> 00:08:41,860
+Now, the whole time I'm looking at the market,
+
+174
+00:08:41,860 --> 00:08:44,700
+it's not giving me any kind of short.
+
+175
+00:08:44,700 --> 00:08:47,340
+I'm not comfortable taking any kind of short.
+
+176
+00:08:47,340 --> 00:08:49,620
+And all of a sudden, the market does this.
+
+177
+00:08:49,620 --> 00:08:51,780
+OK, no panic.
+
+178
+00:08:51,780 --> 00:08:54,260
+No, I'm missing a move.
+
+179
+00:08:54,260 --> 00:08:57,420
+No calling somebody else or reaching out
+
+180
+00:08:57,420 --> 00:08:59,020
+to somebody on a social media platform
+
+181
+00:08:59,020 --> 00:09:02,500
+and ask them, what do you think is happening?
+
+182
+00:09:02,500 --> 00:09:04,340
+I don't worry about anybody else's opinion.
+
+183
+00:09:04,340 --> 00:09:07,020
+You shouldn't worry about anybody else's opinion either.
+
+184
+00:09:07,020 --> 00:09:09,500
+You're going to learn how to trust yourself.
+
+185
+00:09:09,500 --> 00:09:11,660
+So we had created a fair value gap here
+
+186
+00:09:11,660 --> 00:09:12,900
+on the 15-minute time frame.
+
+187
+00:09:12,900 --> 00:09:15,860
+So right away, that is your area to watch and see
+
+188
+00:09:15,860 --> 00:09:17,900
+if price supports a run.
+
+189
+00:09:17,900 --> 00:09:20,300
+If it digs into that and starts to repel higher,
+
+190
+00:09:20,300 --> 00:09:21,940
+and we take out this short-term high,
+
+191
+00:09:21,980 --> 00:09:26,580
+that is enough to set up a stage for the afternoon trend.
+
+192
+00:09:26,580 --> 00:09:30,860
+That afternoon session move or setup or price swing,
+
+193
+00:09:30,860 --> 00:09:32,380
+that's what we're looking for now.
+
+194
+00:09:32,380 --> 00:09:34,420
+Because the market failed to go to an objective
+
+195
+00:09:34,420 --> 00:09:37,380
+we were looking for, it was respecting that daily fair value
+
+196
+00:09:37,380 --> 00:09:38,180
+gap.
+
+197
+00:09:38,180 --> 00:09:39,020
+And it rallied up.
+
+198
+00:09:39,020 --> 00:09:40,380
+And what fair value gap is that?
+
+199
+00:09:40,380 --> 00:09:42,900
+At the beginning of the video, I showed you on the daily chart.
+
+200
+00:09:42,900 --> 00:09:45,660
+Here, it took out that short-term high.
+
+201
+00:09:45,660 --> 00:09:49,180
+So now we have an absolute market structure shift,
+
+202
+00:09:49,180 --> 00:09:51,140
+bullish with this swing high.
+
+203
+00:09:51,140 --> 00:09:53,100
+And the market comes back down in here
+
+204
+00:09:53,100 --> 00:09:57,780
+and rebalances this fair value gap.
+
+205
+00:09:57,780 --> 00:10:00,460
+Now, I'm not looking at, and this
+
+206
+00:10:00,460 --> 00:10:04,460
+is one of the instances where resistance broken,
+
+207
+00:10:04,460 --> 00:10:08,220
+turns support, but it digs a little bit past that.
+
+208
+00:10:08,220 --> 00:10:10,340
+Notice that it goes down into my fair value gap,
+
+209
+00:10:10,340 --> 00:10:13,380
+not stopping dead in its tracks right at the high.
+
+210
+00:10:13,380 --> 00:10:14,660
+Notice that?
+
+211
+00:10:14,660 --> 00:10:17,780
+So I'm not looking at support and resistance.
+
+212
+00:10:17,780 --> 00:10:19,340
+I'm looking at the fact that we went
+
+213
+00:10:19,340 --> 00:10:21,660
+through this short-term high, created an imbalance,
+
+214
+00:10:21,660 --> 00:10:22,580
+and then we traded that into that.
+
+215
+00:10:22,580 --> 00:10:25,740
+And then when we get into this area here,
+
+216
+00:10:25,740 --> 00:10:28,660
+I'm interested in looking at intermarket relationships.
+
+217
+00:10:28,660 --> 00:10:32,060
+I want to study real accumulation and distribution.
+
+218
+00:10:32,060 --> 00:10:33,020
+How do I do that?
+
+219
+00:10:33,020 --> 00:10:33,980
+I've already told you.
+
+220
+00:10:33,980 --> 00:10:36,540
+We're going to go into a lower time frame, five-minute chart.
+
+221
+00:10:36,540 --> 00:10:39,180
+So here's the five-minute chart.
+
+222
+00:10:39,180 --> 00:10:41,340
+As you can see, the market did drop down.
+
+223
+00:10:41,340 --> 00:10:44,060
+It did a real quick sudden move after I tweeted,
+
+224
+00:10:44,060 --> 00:10:47,060
+saying that my initial interest was $40.70.
+
+225
+00:10:47,060 --> 00:10:48,900
+And it started drawing lower.
+
+226
+00:10:48,940 --> 00:10:53,660
+And then went one more time here at 10 after 9,
+
+227
+00:10:53,660 --> 00:10:55,380
+took out that short-term low there,
+
+228
+00:10:55,380 --> 00:10:58,860
+and then it started rallying higher at 9.30's opening.
+
+229
+00:10:58,860 --> 00:11:03,060
+And then we dig down into that 15-minute time frame
+
+230
+00:11:03,060 --> 00:11:04,500
+fair value gap.
+
+231
+00:11:04,500 --> 00:11:06,900
+So it doesn't look like a fair value gap in here.
+
+232
+00:11:06,900 --> 00:11:08,180
+Notice that?
+
+233
+00:11:08,180 --> 00:11:11,060
+But I want you to go back to your 15-minute chart.
+
+234
+00:11:11,060 --> 00:11:14,020
+This is where the work is required on your part.
+
+235
+00:11:14,020 --> 00:11:18,460
+In this price run from here to here on that 15-minute chart,
+
+236
+00:11:18,500 --> 00:11:22,580
+look at your chart and shade that in on the 15-minute time frame,
+
+237
+00:11:22,580 --> 00:11:24,100
+and then drop down into the five-minute,
+
+238
+00:11:24,100 --> 00:11:26,700
+and you'll see how it drops into that shaded area.
+
+239
+00:11:26,700 --> 00:11:28,140
+So we're working from a higher time frame,
+
+240
+00:11:28,140 --> 00:11:33,020
+15-minute bellwether chart into a five-minute chart.
+
+241
+00:11:33,020 --> 00:11:35,300
+This is running into that fair value gap.
+
+242
+00:11:35,300 --> 00:11:37,580
+Now, if you're just staying on one time frame,
+
+243
+00:11:37,580 --> 00:11:42,220
+or at least not carrying over higher time frame analysis
+
+244
+00:11:42,220 --> 00:11:45,660
+into your lower time frame, you're going to be trading blind.
+
+245
+00:11:45,660 --> 00:11:46,780
+You have no idea what you're looking for.
+
+246
+00:11:46,780 --> 00:11:47,700
+Now, I know what I'm looking for,
+
+247
+00:11:47,700 --> 00:11:49,380
+because I have multiple charts in front of me,
+
+248
+00:11:49,380 --> 00:11:52,060
+multiple monitors, and I'm panning around.
+
+249
+00:11:52,060 --> 00:11:54,660
+When I do my recordings, like I did this morning,
+
+250
+00:11:54,660 --> 00:11:57,660
+you can see that I actually executed the trade.
+
+251
+00:11:57,660 --> 00:11:58,780
+You can see where I got in.
+
+252
+00:11:58,780 --> 00:12:00,500
+You can see the actual executions.
+
+253
+00:12:00,500 --> 00:12:03,380
+You can see the little arrows that show where I got in.
+
+254
+00:12:03,380 --> 00:12:06,180
+I show the price, and you can see the partials along the way
+
+255
+00:12:06,180 --> 00:12:07,780
+and the whole business, okay?
+
+256
+00:12:07,780 --> 00:12:09,500
+So if you're not following me on Twitter,
+
+257
+00:12:09,500 --> 00:12:10,660
+you don't need to follow me.
+
+258
+00:12:10,660 --> 00:12:13,980
+I'm not asking you to follow me, but you can go to Twitter,
+
+259
+00:12:13,980 --> 00:12:17,620
+and you can see that that is, in fact, shown to you.
+
+260
+00:12:18,540 --> 00:12:21,340
+Short little vignettes, I call them stingers, okay?
+
+261
+00:12:21,340 --> 00:12:24,860
+I do small little segments of me actually trading
+
+262
+00:12:24,860 --> 00:12:26,900
+or I'll do analysis or commentary
+
+263
+00:12:26,900 --> 00:12:28,340
+without really saying anything,
+
+264
+00:12:28,340 --> 00:12:29,980
+and I'll play music behind it, because I'm having fun.
+
+265
+00:12:29,980 --> 00:12:30,860
+I'm enjoying myself.
+
+266
+00:12:30,860 --> 00:12:32,980
+Hopefully, you guys over here on Twitter are having fun with me.
+
+267
+00:12:32,980 --> 00:12:35,220
+If you're digging it and you're enjoying yourself
+
+268
+00:12:35,220 --> 00:12:39,060
+on my Twitter feed, give me a heads up in the comments below.
+
+269
+00:12:39,060 --> 00:12:41,900
+All right, so anyway, it digs down into that 15-minute time frame,
+
+270
+00:12:41,900 --> 00:12:45,060
+fair value gap here, and then rallies higher.
+
+271
+00:12:45,060 --> 00:12:48,780
+Then it starts to trail off and goes down
+
+272
+00:12:48,780 --> 00:12:50,940
+into this imbalance right here.
+
+273
+00:12:50,940 --> 00:12:52,540
+Now, in that little stinger video,
+
+274
+00:12:52,540 --> 00:12:54,780
+I draw this little area out with a rectangle,
+
+275
+00:12:54,780 --> 00:12:56,580
+and I do a small little box up here, okay?
+
+276
+00:12:56,580 --> 00:12:59,980
+And what that box is, is if it goes down into here
+
+277
+00:12:59,980 --> 00:13:02,540
+and starts to rally, I'm going to take half that position off
+
+278
+00:13:02,540 --> 00:13:05,220
+once it gets into this area here again, okay?
+
+279
+00:13:05,220 --> 00:13:06,780
+I don't need to go above this short-term high,
+
+280
+00:13:06,780 --> 00:13:09,620
+so that's what that little red rectangle represents
+
+281
+00:13:09,620 --> 00:13:12,380
+when you see me doing that stinger little vignette video
+
+282
+00:13:12,380 --> 00:13:13,980
+on my Twitter feed.
+
+283
+00:13:13,980 --> 00:13:16,620
+I'm drawing your attention here, so when we go from this level here,
+
+284
+00:13:16,620 --> 00:13:20,660
+if it starts to rally up, once it gets back up in that area again,
+
+285
+00:13:20,660 --> 00:13:22,620
+I'm going to take half the position off
+
+286
+00:13:22,620 --> 00:13:25,580
+and then see if it can run about that high.
+
+287
+00:13:25,580 --> 00:13:27,700
+Okay, so that's what I was drawing to.
+
+288
+00:13:27,700 --> 00:13:29,780
+I'm drawing reference to that so that way when I talk to you tonight,
+
+289
+00:13:29,780 --> 00:13:32,140
+because this is our Tuesday lecture,
+
+290
+00:13:32,140 --> 00:13:34,580
+I'm showing you now what it is that I was referring to
+
+291
+00:13:34,580 --> 00:13:35,940
+and why it was there.
+
+292
+00:13:35,940 --> 00:13:39,620
+Also, if you scrub back over here,
+
+293
+00:13:39,620 --> 00:13:45,060
+you'll see it's an old area of bicep liquidity here,
+
+294
+00:13:45,060 --> 00:13:48,420
+and it's a fair value gap over there too, okay?
+
+295
+00:13:48,420 --> 00:13:52,740
+So that little rectangle here is drawing special attention to me
+
+296
+00:13:52,740 --> 00:13:55,380
+reminding myself that over here, there's bicep liquidity
+
+297
+00:13:55,380 --> 00:13:58,580
+that is not showing in that video that I'm recording
+
+298
+00:13:58,580 --> 00:13:59,940
+and in that imbalance over here.
+
+299
+00:13:59,940 --> 00:14:05,700
+So when it runs back up into that, this old area of bicep liquidity,
+
+300
+00:14:05,700 --> 00:14:06,940
+this might be just a stop run,
+
+301
+00:14:06,940 --> 00:14:09,300
+and then they're going one more time passing into that level.
+
+302
+00:14:09,300 --> 00:14:11,060
+So I want to make sure I get half my position off
+
+303
+00:14:11,060 --> 00:14:13,780
+because I could be wrong, like I was wrong about 40.70,
+
+304
+00:14:13,780 --> 00:14:15,420
+didn't trade to it.
+
+305
+00:14:15,420 --> 00:14:23,060
+Well, here at 10.35, right there, 10.35, right there,
+
+306
+00:14:23,060 --> 00:14:27,420
+I tweeted, I said, note your previous day's high, okay?
+
+307
+00:14:27,420 --> 00:14:34,540
+Previous day's high is here.
+
+308
+00:14:34,540 --> 00:14:39,700
+So if we add the annotations back to the chart,
+
+309
+00:14:39,700 --> 00:14:45,140
+and we'll remember that 41.68, what price is that?
+
+310
+00:14:45,140 --> 00:14:47,740
+41.68 and a quarter.
+
+311
+00:14:47,740 --> 00:14:49,940
+So that's our high that we're likely to draw to.
+
+312
+00:14:49,940 --> 00:14:53,180
+That's what I was kind of drawing everyone's attention to.
+
+313
+00:14:53,180 --> 00:14:55,900
+And I'll now add the annotations back.
+
+314
+00:14:55,900 --> 00:14:58,300
+All right, so here is what I had in the recording.
+
+315
+00:14:58,300 --> 00:14:59,940
+I shaded this area in here.
+
+316
+00:14:59,940 --> 00:15:01,420
+It was like a shaded box.
+
+317
+00:15:01,420 --> 00:15:05,540
+I just drew these really prominent lines here
+
+318
+00:15:05,540 --> 00:15:07,900
+so that we can recall that to the pair of headgap
+
+319
+00:15:07,900 --> 00:15:11,020
+that I showed in that little vignette video.
+
+320
+00:15:11,020 --> 00:15:14,460
+And I want to talk a little bit about New York lunch, okay?
+
+321
+00:15:14,460 --> 00:15:16,220
+I gave you rules of engagement
+
+322
+00:15:16,220 --> 00:15:18,740
+when you're trading the afternoon session.
+
+323
+00:15:18,740 --> 00:15:21,340
+And primarily, what I gave you for the model
+
+324
+00:15:21,340 --> 00:15:23,260
+was a morning session idea.
+
+325
+00:15:23,260 --> 00:15:26,100
+But because of all the people asking and inquiring,
+
+326
+00:15:26,100 --> 00:15:28,060
+hey, can you teach us a little bit about the PM session
+
+327
+00:15:28,060 --> 00:15:30,300
+or the afternoon setup,
+
+328
+00:15:30,300 --> 00:15:32,340
+I started bringing in some things.
+
+329
+00:15:32,340 --> 00:15:34,700
+Now, if the market starts to go higher, okay?
+
+330
+00:15:34,700 --> 00:15:37,740
+In other words, if we've been in a bullish market structure
+
+331
+00:15:37,740 --> 00:15:39,340
+and order flow is bullish,
+
+332
+00:15:39,340 --> 00:15:42,060
+that means everything's going in one direction,
+
+333
+00:15:42,060 --> 00:15:44,820
+the market's obviously going higher on all timeframes,
+
+334
+00:15:45,980 --> 00:15:48,340
+then that's an easy trading scenario.
+
+335
+00:15:48,340 --> 00:15:51,300
+But we're inside that little trading range area
+
+336
+00:15:51,300 --> 00:15:54,580
+on the daily chart last few days or a week or so.
+
+337
+00:15:54,580 --> 00:15:56,700
+It's just been hanging around that smaller range.
+
+338
+00:15:56,700 --> 00:15:58,820
+So you have to know what you're doing
+
+339
+00:15:58,820 --> 00:16:00,780
+or you're going to get caught up.
+
+340
+00:16:00,780 --> 00:16:03,500
+So initially, I wanted that 40-70 level.
+
+341
+00:16:03,500 --> 00:16:05,860
+We failed to go outside this shaded area here.
+
+342
+00:16:05,860 --> 00:16:08,060
+That's that daily fair value gap.
+
+343
+00:16:08,060 --> 00:16:10,500
+So I've added it here for your notification.
+
+344
+00:16:10,500 --> 00:16:12,500
+Notice that these lows here, here,
+
+345
+00:16:12,500 --> 00:16:14,180
+this is lower than that one.
+
+346
+00:16:14,180 --> 00:16:15,020
+Why is that important?
+
+347
+00:16:15,020 --> 00:16:17,820
+Why am I drawing a distinction between those two?
+
+348
+00:16:17,820 --> 00:16:22,260
+Well, if you go and you add your NASDAQ chart overlay,
+
+349
+00:16:22,260 --> 00:16:25,300
+you'll see that this is a divergence.
+
+350
+00:16:25,300 --> 00:16:27,620
+So even the S&P was relatively stronger
+
+351
+00:16:27,620 --> 00:16:30,140
+than that of the NASDAQ.
+
+352
+00:16:30,140 --> 00:16:33,340
+NASDAQ made a lower low here, okay?
+
+353
+00:16:33,340 --> 00:16:35,740
+And I'll show you that before I close the lecture out.
+
+354
+00:16:35,740 --> 00:16:40,820
+But for now, this is that five-minute chart
+
+355
+00:16:40,820 --> 00:16:44,220
+returning back into that 15-minute imbalance.
+
+356
+00:16:44,220 --> 00:16:46,420
+So that's there for your edification as well.
+
+357
+00:16:47,540 --> 00:16:50,100
+This is the opening price at midnight.
+
+358
+00:16:50,100 --> 00:16:51,580
+That's what that level is.
+
+359
+00:16:51,580 --> 00:16:53,380
+Now, I teach if we're bullish,
+
+360
+00:16:53,380 --> 00:16:58,380
+we wanna be buying at or close to the opening price, okay?
+
+361
+00:17:00,100 --> 00:17:05,100
+Now, here's one of those advanced ICT things, okay?
+
+362
+00:17:05,580 --> 00:17:10,380
+If you know that the market is likely to go down to go up,
+
+363
+00:17:11,300 --> 00:17:13,780
+then you can wait for price to give you
+
+364
+00:17:13,780 --> 00:17:15,260
+this type of setup right here,
+
+365
+00:17:15,260 --> 00:17:19,020
+where it goes down, shift in market structure,
+
+366
+00:17:19,020 --> 00:17:23,100
+come back down into a 15-minute timeframe fair value gap.
+
+367
+00:17:23,100 --> 00:17:26,580
+This is intraday or day trading.
+
+368
+00:17:26,580 --> 00:17:31,100
+It is not the model I gave you where it is a scalp.
+
+369
+00:17:31,100 --> 00:17:32,740
+Essentially, that's what that is.
+
+370
+00:17:32,740 --> 00:17:35,820
+The model I've provided for you for this YouTube channel
+
+371
+00:17:35,820 --> 00:17:38,180
+is a scalping model.
+
+372
+00:17:39,100 --> 00:17:40,620
+That's exactly what it is.
+
+373
+00:17:40,620 --> 00:17:43,100
+But if you're gonna day trade daily range,
+
+374
+00:17:43,100 --> 00:17:45,740
+you're gonna be using the 15 and five-minute chart.
+
+375
+00:17:45,740 --> 00:17:46,580
+And there it is.
+
+376
+00:17:46,580 --> 00:17:48,220
+Now, you can use that model that I gave you
+
+377
+00:17:48,220 --> 00:17:51,500
+for entries and scalping.
+
+378
+00:17:51,540 --> 00:17:53,260
+You can use that as your entry criteria,
+
+379
+00:17:53,260 --> 00:17:54,820
+but with the logic and narrative
+
+380
+00:17:54,820 --> 00:17:57,780
+that you're gonna be trading the daily range, okay?
+
+381
+00:17:57,780 --> 00:18:02,020
+So, if we're bullish, I teach and I have taught
+
+382
+00:18:02,020 --> 00:18:04,580
+on this YouTube channel multiple times.
+
+383
+00:18:04,580 --> 00:18:07,060
+My power three concept is if we're bullish,
+
+384
+00:18:07,060 --> 00:18:09,860
+we're gonna be looking for the opening price at midnight.
+
+385
+00:18:10,780 --> 00:18:13,300
+It's gonna drop down, create the low of the day.
+
+386
+00:18:13,300 --> 00:18:18,300
+It's forming at 9.10, New York local time.
+
+387
+00:18:19,300 --> 00:18:21,540
+It rallies up, shift in market structure.
+
+388
+00:18:21,540 --> 00:18:23,380
+So, it doesn't give me my objective,
+
+389
+00:18:23,380 --> 00:18:24,780
+but it gives me these clues here.
+
+390
+00:18:24,780 --> 00:18:27,660
+Now, the whole time, I'm not tweeting to you.
+
+391
+00:18:27,660 --> 00:18:28,660
+I'm studying price.
+
+392
+00:18:28,660 --> 00:18:33,460
+I'm working with my son and I'm measuring all these things
+
+393
+00:18:33,460 --> 00:18:35,620
+because last word I gave on Twitter was
+
+394
+00:18:35,620 --> 00:18:37,460
+I was looking for 40.70.
+
+395
+00:18:37,460 --> 00:18:39,140
+No problem, no trade either.
+
+396
+00:18:39,140 --> 00:18:40,820
+But I mentioned that there was no setup,
+
+397
+00:18:40,820 --> 00:18:43,860
+there's nothing going on, and then the market rallies up.
+
+398
+00:18:43,860 --> 00:18:46,700
+Okay, what I was looking for, it didn't reach it,
+
+399
+00:18:46,700 --> 00:18:48,020
+and it didn't give me a setup.
+
+400
+00:18:48,700 --> 00:18:49,540
+Did I lose any money?
+
+401
+00:18:49,540 --> 00:18:53,060
+Did I take any kind of a painful ego twist to my arm?
+
+402
+00:18:53,060 --> 00:18:54,220
+No.
+
+403
+00:18:54,220 --> 00:18:56,140
+Was I wrong in the public eye?
+
+404
+00:18:56,140 --> 00:18:57,620
+Well, some of you may think that
+
+405
+00:18:57,620 --> 00:18:59,020
+because it didn't go to 40.70,
+
+406
+00:18:59,020 --> 00:19:01,940
+but if I'm looking for something to deliver
+
+407
+00:19:01,940 --> 00:19:03,180
+and it doesn't give me a setup,
+
+408
+00:19:03,180 --> 00:19:06,260
+last time I checked, if you don't put a trade on,
+
+409
+00:19:06,260 --> 00:19:07,340
+did you lose?
+
+410
+00:19:07,340 --> 00:19:08,180
+No.
+
+411
+00:19:08,180 --> 00:19:09,580
+If you put some skin in the race
+
+412
+00:19:09,580 --> 00:19:11,300
+and you tell the public what you think's gonna happen
+
+413
+00:19:11,300 --> 00:19:13,820
+and it doesn't happen, do you lose?
+
+414
+00:19:13,820 --> 00:19:16,340
+Well, it depends on what your audience's mentality is.
+
+415
+00:19:16,340 --> 00:19:18,340
+If they're looking for face value,
+
+416
+00:19:18,340 --> 00:19:20,660
+yeah, I was wrong about 40.70.
+
+417
+00:19:20,660 --> 00:19:21,500
+You hear that?
+
+418
+00:19:22,540 --> 00:19:26,540
+ICT didn't get something he thought.
+
+419
+00:19:26,540 --> 00:19:28,380
+40.70 didn't print.
+
+420
+00:19:28,380 --> 00:19:29,740
+No problem.
+
+421
+00:19:29,740 --> 00:19:31,100
+I don't need to be right.
+
+422
+00:19:31,100 --> 00:19:35,100
+The SMT divergence here in the higher low
+
+423
+00:19:35,100 --> 00:19:37,900
+versus the lower low in NASDAQ comparably,
+
+424
+00:19:37,900 --> 00:19:39,700
+and then we have that shift in market structure,
+
+425
+00:19:39,700 --> 00:19:41,820
+we trade back down into the 15-minute fair value gap here,
+
+426
+00:19:41,820 --> 00:19:43,140
+and then we rally once more.
+
+427
+00:19:43,140 --> 00:19:45,300
+Once I saw that, then I'm good to go,
+
+428
+00:19:45,300 --> 00:19:47,100
+I'm waiting for the afternoon setup.
+
+429
+00:19:48,540 --> 00:19:50,260
+But now watch what's happening.
+
+430
+00:19:50,260 --> 00:19:52,980
+The market rallies up, falls short of 41.40.
+
+431
+00:19:52,980 --> 00:19:54,180
+That was another level I gave
+
+432
+00:19:54,180 --> 00:19:57,300
+in that little Stinger video on my Twitter feed.
+
+433
+00:19:57,300 --> 00:19:59,780
+So I'm gonna count you over and check that out.
+
+434
+00:19:59,780 --> 00:20:03,940
+And then it drops down into the fair value gap,
+
+435
+00:20:05,260 --> 00:20:06,820
+starts to rally, but look what it does.
+
+436
+00:20:06,820 --> 00:20:09,500
+It leaves these smooth relative equal highs
+
+437
+00:20:09,500 --> 00:20:10,660
+and then does what?
+
+438
+00:20:10,660 --> 00:20:13,580
+Drops once more below that short-term low.
+
+439
+00:20:13,580 --> 00:20:16,220
+Now think about what I've given you in your notes
+
+440
+00:20:16,220 --> 00:20:18,860
+as it relates to trading the PM or afternoon session.
+
+441
+00:20:19,980 --> 00:20:22,660
+If you're bullish, generally what'll happen
+
+442
+00:20:22,660 --> 00:20:25,500
+is the market has ran higher in the morning,
+
+443
+00:20:25,500 --> 00:20:28,540
+then it consolidates into the lunch hour,
+
+444
+00:20:28,540 --> 00:20:30,180
+then after the lunch hour,
+
+445
+00:20:31,060 --> 00:20:33,700
+it'll drop down and sweep the sell stops
+
+446
+00:20:33,700 --> 00:20:37,260
+or below some short-term low or the lows made in lunch.
+
+447
+00:20:37,260 --> 00:20:40,180
+Okay, now watch what this does here.
+
+448
+00:20:41,180 --> 00:20:45,140
+It creates a low ahead of the lunch hour at noon.
+
+449
+00:20:46,220 --> 00:20:48,620
+Then it drops down into the fair value gap.
+
+450
+00:20:48,620 --> 00:20:52,740
+Is that not doing what I gave you in terms of the rules
+
+451
+00:20:52,740 --> 00:20:56,260
+of what liquidity is doing in the afternoon
+
+452
+00:20:56,260 --> 00:20:58,500
+post New York lunch when we're bullish?
+
+453
+00:20:58,500 --> 00:20:59,740
+Yes.
+
+454
+00:20:59,740 --> 00:21:00,660
+What's different?
+
+455
+00:21:01,820 --> 00:21:03,580
+It's not consolidating.
+
+456
+00:21:03,580 --> 00:21:04,620
+See that?
+
+457
+00:21:04,620 --> 00:21:06,060
+Is this a consolidation?
+
+458
+00:21:06,060 --> 00:21:07,140
+No, it's a retracement.
+
+459
+00:21:07,140 --> 00:21:09,420
+So if you can identify an area where it's likely to retrace
+
+460
+00:21:09,580 --> 00:21:13,100
+and some of you asked on the Twitter feed,
+
+461
+00:21:13,100 --> 00:21:15,460
+why am I measuring from here to here
+
+462
+00:21:15,460 --> 00:21:19,220
+to get this versus this here to here?
+
+463
+00:21:19,220 --> 00:21:21,420
+Well, you have to ring in what I'm trying to do.
+
+464
+00:21:21,420 --> 00:21:23,140
+I'm trading the daily range.
+
+465
+00:21:23,140 --> 00:21:24,460
+I'm trying to get the majority
+
+466
+00:21:24,460 --> 00:21:26,820
+or the lion's portion of the daily range.
+
+467
+00:21:26,820 --> 00:21:28,700
+So because I'm doing that,
+
+468
+00:21:28,700 --> 00:21:32,500
+I'm factoring in that midnight opening price.
+
+469
+00:21:32,500 --> 00:21:36,060
+So we've went above it here and once more.
+
+470
+00:21:36,060 --> 00:21:38,900
+So I'm not expecting it to go back down below here again.
+
+471
+00:21:38,900 --> 00:21:43,900
+So to refer to this low now again is pointless.
+
+472
+00:21:44,380 --> 00:21:46,540
+I'm gonna use this one here for market structure.
+
+473
+00:21:46,540 --> 00:21:49,780
+So market structure swing low here to swing high.
+
+474
+00:21:49,780 --> 00:21:51,380
+That's my dealing range.
+
+475
+00:21:51,380 --> 00:21:53,500
+So that's why I aligned that one here.
+
+476
+00:21:53,500 --> 00:21:54,340
+Okay.
+
+477
+00:21:54,340 --> 00:21:55,900
+And I gave you that small little rectangle up here
+
+478
+00:21:55,900 --> 00:21:58,460
+drawing my attention in the video here
+
+479
+00:21:58,460 --> 00:22:00,460
+to go back to what I mentioned moments ago
+
+480
+00:22:00,460 --> 00:22:03,980
+that that's an old imbalance and it may stall here.
+
+481
+00:22:03,980 --> 00:22:05,940
+It may fail here.
+
+482
+00:22:05,940 --> 00:22:07,780
+It may just consolidate and then run
+
+483
+00:22:07,780 --> 00:22:11,300
+for previous days high, you know, on Wednesday.
+
+484
+00:22:12,340 --> 00:22:13,660
+So I wanna take half my trade off,
+
+485
+00:22:13,660 --> 00:22:16,860
+which is basically what you saw me do.
+
+486
+00:22:16,860 --> 00:22:19,540
+But anyway, it's taking out that short-term low
+
+487
+00:22:19,540 --> 00:22:20,540
+on a retracement.
+
+488
+00:22:20,540 --> 00:22:23,300
+But if it was consolidating into lunch,
+
+489
+00:22:23,300 --> 00:22:25,860
+I would look for the swing lows during the lunch hour
+
+490
+00:22:25,860 --> 00:22:27,140
+and then wait for the drop down,
+
+491
+00:22:27,140 --> 00:22:29,620
+sweep them like it's doing here and then rally.
+
+492
+00:22:29,620 --> 00:22:33,940
+But because this is a retracement going into lunch,
+
+493
+00:22:33,940 --> 00:22:36,980
+that to me, it signals that they're gonna work
+
+494
+00:22:36,980 --> 00:22:37,900
+through lunch.
+
+495
+00:22:39,100 --> 00:22:40,340
+What does that mean?
+
+496
+00:22:40,340 --> 00:22:43,940
+Years ago, when we were on the floor only open outcry,
+
+497
+00:22:43,940 --> 00:22:46,780
+sometimes the floor traders would know
+
+498
+00:22:46,780 --> 00:22:48,380
+that the market was in a hurry.
+
+499
+00:22:48,380 --> 00:22:49,700
+It's a fast market.
+
+500
+00:22:49,700 --> 00:22:51,740
+So they're not going off the floor.
+
+501
+00:22:51,740 --> 00:22:53,220
+They're gonna stay busy on the floor
+
+502
+00:22:53,220 --> 00:22:54,620
+and they're gonna be trading.
+
+503
+00:22:54,620 --> 00:22:57,820
+So I learned this from the actual floor trader.
+
+504
+00:22:57,820 --> 00:22:59,580
+So I'm not making it up.
+
+505
+00:22:59,580 --> 00:23:02,740
+I'm not, you know, just giving you some kind
+
+506
+00:23:02,740 --> 00:23:07,340
+of garbage meetup or some contrived nonsense.
+
+507
+00:23:07,340 --> 00:23:09,940
+It's based on what they used to do.
+
+508
+00:23:09,940 --> 00:23:14,620
+And that same mentality has been transferred
+
+509
+00:23:14,620 --> 00:23:15,700
+into electronic trading.
+
+510
+00:23:15,700 --> 00:23:18,020
+So the algorithm does that same thing here.
+
+511
+00:23:18,020 --> 00:23:19,860
+During the lunch hour, if it's a fast market,
+
+512
+00:23:19,860 --> 00:23:23,820
+it's retracing back down in to a random fare that you got.
+
+513
+00:23:23,820 --> 00:23:25,060
+It creates a short-term low
+
+514
+00:23:25,060 --> 00:23:27,100
+and then it runs the only short-term low that's there
+
+515
+00:23:27,100 --> 00:23:29,140
+from here to here.
+
+516
+00:23:29,140 --> 00:23:30,140
+This is too narrow.
+
+517
+00:23:31,060 --> 00:23:31,900
+We don't want that.
+
+518
+00:23:31,900 --> 00:23:33,140
+It's already moved too much.
+
+519
+00:23:33,140 --> 00:23:36,540
+And it's going into that hour ahead of lunchtime,
+
+520
+00:23:36,540 --> 00:23:39,940
+noon to one, New York local time.
+
+521
+00:23:39,940 --> 00:23:42,300
+So I wanna see it retrace back down into a discount.
+
+522
+00:23:42,300 --> 00:23:44,700
+How has that done from that low to high?
+
+523
+00:23:44,700 --> 00:23:47,660
+So the algorithm reprices to a discount
+
+524
+00:23:47,660 --> 00:23:50,980
+once it gets to here, then it does what?
+
+525
+00:23:50,980 --> 00:23:52,100
+Creates that short-term low,
+
+526
+00:23:52,100 --> 00:23:55,540
+rallies a little bit, leaves smooth highs in here.
+
+527
+00:23:55,540 --> 00:23:56,740
+So what is that?
+
+528
+00:23:56,740 --> 00:23:58,900
+They think that is resistance.
+
+529
+00:23:58,900 --> 00:24:01,860
+So anyone that's short, they trade their stock loss here
+
+530
+00:24:01,860 --> 00:24:04,140
+and then drops one more time right below that short-term low.
+
+531
+00:24:04,140 --> 00:24:05,420
+What's below that short-term low?
+
+532
+00:24:05,420 --> 00:24:06,980
+I have already told you here.
+
+533
+00:24:06,980 --> 00:24:08,340
+Sell stops.
+
+534
+00:24:08,340 --> 00:24:11,420
+So I'm thinking, like smart money,
+
+535
+00:24:12,580 --> 00:24:14,940
+this is gonna go higher in the afternoon.
+
+536
+00:24:14,940 --> 00:24:17,180
+I didn't take anything in here in the morning.
+
+537
+00:24:17,180 --> 00:24:20,500
+And I was not correct in where I thought it could reach for,
+
+538
+00:24:20,500 --> 00:24:21,700
+which is 40.70.
+
+539
+00:24:21,700 --> 00:24:22,820
+If it would have went to 40.70,
+
+540
+00:24:22,820 --> 00:24:24,020
+you know what I would have done?
+
+541
+00:24:24,020 --> 00:24:25,780
+Said, there's your 40.70.
+
+542
+00:24:25,780 --> 00:24:28,540
+And you would have asked, did you take a trade?
+
+543
+00:24:29,180 --> 00:24:30,020
+Or the cynics would have said,
+
+544
+00:24:30,020 --> 00:24:31,580
+but you didn't take a trade.
+
+545
+00:24:31,580 --> 00:24:33,740
+That's not what I'm trying to teach you.
+
+546
+00:24:33,740 --> 00:24:35,220
+I'm not trying to teach you entries.
+
+547
+00:24:35,220 --> 00:24:37,620
+I'm teaching you the logic on how to read the markets
+
+548
+00:24:37,620 --> 00:24:38,460
+that way.
+
+549
+00:24:38,460 --> 00:24:39,980
+Once you get this skill set down,
+
+550
+00:24:39,980 --> 00:24:42,660
+the entries are the easiest thing to do.
+
+551
+00:24:42,660 --> 00:24:45,100
+They're the, that's the easiest thing to do.
+
+552
+00:24:45,100 --> 00:24:46,580
+But you have to know how to read the market
+
+553
+00:24:46,580 --> 00:24:48,620
+and also tell when the market's turning.
+
+554
+00:24:49,660 --> 00:24:52,180
+And what is, if it's turning, where's it gonna go?
+
+555
+00:24:52,180 --> 00:24:54,820
+And if it's gonna go higher, where will setups form?
+
+556
+00:24:54,820 --> 00:24:59,300
+I showed you that today, right on Twitter,
+
+557
+00:24:59,300 --> 00:25:00,940
+right there in front of everybody.
+
+558
+00:25:02,020 --> 00:25:06,300
+Now, the market drops down into the sell stops here
+
+559
+00:25:06,300 --> 00:25:08,260
+and it's inside that fair value gap.
+
+560
+00:25:08,260 --> 00:25:10,900
+And it's happening in the lunch hour.
+
+561
+00:25:12,060 --> 00:25:13,460
+Now I had things I had to take care of
+
+562
+00:25:13,460 --> 00:25:16,340
+and I was gonna be away from the screens as I was.
+
+563
+00:25:17,300 --> 00:25:20,020
+And I didn't think I'd be back before two o'clock,
+
+564
+00:25:20,020 --> 00:25:23,900
+but I was managing that trade from my cell phone.
+
+565
+00:25:23,900 --> 00:25:27,780
+And you can see that cell phone trade management
+
+566
+00:25:27,780 --> 00:25:29,020
+in the short little vignette.
+
+567
+00:25:29,020 --> 00:25:30,980
+You can see the stops being raised
+
+568
+00:25:30,980 --> 00:25:34,540
+and I'm taking partials along the way, the whole business.
+
+569
+00:25:34,540 --> 00:25:36,580
+But as it's going up into this area here,
+
+570
+00:25:36,580 --> 00:25:39,540
+I'm taking some of the contracts off
+
+571
+00:25:39,540 --> 00:25:41,340
+and I'm raising the stop loss up
+
+572
+00:25:41,340 --> 00:25:42,900
+because I don't want it to come back down
+
+573
+00:25:42,900 --> 00:25:43,900
+into that fair value gap again,
+
+574
+00:25:43,900 --> 00:25:46,780
+because what it done is once, twice,
+
+575
+00:25:46,780 --> 00:25:48,660
+it should never come back down that again.
+
+576
+00:25:48,660 --> 00:25:50,140
+If it does, I'm wrong.
+
+577
+00:25:50,140 --> 00:25:51,420
+And I don't wanna be a part of that trade.
+
+578
+00:25:51,420 --> 00:25:53,940
+If I'm in a position that's still open
+
+579
+00:25:53,940 --> 00:25:56,180
+or have a partial open from the original position
+
+580
+00:25:56,180 --> 00:25:57,700
+after partials have been taken,
+
+581
+00:25:58,740 --> 00:26:00,460
+then I'm gonna kill the trade
+
+582
+00:26:00,460 --> 00:26:02,220
+and I'll move to the sidelines.
+
+583
+00:26:02,220 --> 00:26:05,860
+But the main thing I want you to understand about this is
+
+584
+00:26:05,860 --> 00:26:08,620
+I'm not trading the model that I'm teaching on YouTube.
+
+585
+00:26:08,620 --> 00:26:09,460
+And you're probably gonna say,
+
+586
+00:26:09,460 --> 00:26:11,140
+well, why don't you just trade the model, Michael?
+
+587
+00:26:11,140 --> 00:26:13,300
+Why don't you just teach us how to use the model?
+
+588
+00:26:13,300 --> 00:26:14,580
+I am.
+
+589
+00:26:14,580 --> 00:26:16,540
+When the model speaks, I'm gonna show you.
+
+590
+00:26:16,540 --> 00:26:20,100
+But I'm also teaching you how you still learn to read price
+
+591
+00:26:20,140 --> 00:26:22,340
+when the model isn't giving you a setup
+
+592
+00:26:22,340 --> 00:26:26,580
+because every single market isn't gonna give you
+
+593
+00:26:26,580 --> 00:26:30,380
+that model's entry setup and framework every single day,
+
+594
+00:26:30,380 --> 00:26:31,380
+every single session.
+
+595
+00:26:32,820 --> 00:26:34,420
+And because I'm the author of these concepts,
+
+596
+00:26:34,420 --> 00:26:37,020
+I don't have a limitation to just that one.
+
+597
+00:26:37,020 --> 00:26:40,660
+So is it beneficial for you to have me say nothing
+
+598
+00:26:40,660 --> 00:26:42,380
+when the model says nothing,
+
+599
+00:26:42,380 --> 00:26:44,620
+or is it beneficial for me to teach you
+
+600
+00:26:44,620 --> 00:26:46,420
+how to read price action,
+
+601
+00:26:46,420 --> 00:26:49,580
+how to get in sync and learn how to change gears
+
+602
+00:26:49,580 --> 00:26:53,220
+when the market shows you it's time to change gears?
+
+603
+00:26:53,220 --> 00:26:57,260
+I think that's a little bit better expectation
+
+604
+00:26:57,260 --> 00:27:01,780
+on the part of a student with that of a mentor
+
+605
+00:27:01,780 --> 00:27:04,500
+that has the experience I'm trying to share with you.
+
+606
+00:27:04,500 --> 00:27:07,980
+So there's two camps that's gonna be looking at this video
+
+607
+00:27:07,980 --> 00:27:10,940
+and they're gonna say, he's not really a good teacher
+
+608
+00:27:10,940 --> 00:27:13,140
+because he's not focusing on the model.
+
+609
+00:27:13,140 --> 00:27:15,740
+When I'm telling you the model didn't do anything today
+
+610
+00:27:15,740 --> 00:27:16,980
+in this index.
+
+611
+00:27:16,980 --> 00:27:19,460
+So what did I lean on?
+
+612
+00:27:20,300 --> 00:27:22,180
+My experience, my ability and the concepts
+
+613
+00:27:22,180 --> 00:27:24,700
+that are already taught in this YouTube channel.
+
+614
+00:27:24,700 --> 00:27:29,460
+So one of the Twitter followers I mentioned today
+
+615
+00:27:29,460 --> 00:27:34,460
+that can they use timeframes outside of the one
+
+616
+00:27:34,460 --> 00:27:37,340
+through five minute chart, but use the same logic.
+
+617
+00:27:37,340 --> 00:27:40,540
+Yes, yes, that's all I'm trying to do.
+
+618
+00:27:40,540 --> 00:27:42,580
+I'm trying to teach you a mindset
+
+619
+00:27:42,580 --> 00:27:45,180
+that on the lowest timeframe,
+
+620
+00:27:45,180 --> 00:27:47,180
+it gives you a lot of experience, a lot of setups,
+
+621
+00:27:47,180 --> 00:27:48,620
+a lot of things to practice,
+
+622
+00:27:48,660 --> 00:27:50,020
+but don't limit yourself to that
+
+623
+00:27:50,020 --> 00:27:53,300
+because there's so many other ways to trade
+
+624
+00:27:53,300 --> 00:27:54,300
+using what I'm teaching you
+
+625
+00:27:54,300 --> 00:27:55,660
+and you can scale it to whatever timeframe
+
+626
+00:27:55,660 --> 00:27:57,700
+and whatever chart you wanna use it on.
+
+627
+00:27:57,700 --> 00:28:00,220
+But you still have to understand what price is likely to do
+
+628
+00:28:00,220 --> 00:28:02,260
+and where is it drawing to.
+
+629
+00:28:02,260 --> 00:28:04,220
+So let's talk a little bit about narrative.
+
+630
+00:28:05,140 --> 00:28:07,220
+When the market shifted here bullishly
+
+631
+00:28:07,220 --> 00:28:09,180
+and it came back down into that 50 minute timeframe
+
+632
+00:28:09,180 --> 00:28:10,900
+fair value gap and then rallied,
+
+633
+00:28:10,900 --> 00:28:14,380
+this right here told me that they wanna set this up
+
+634
+00:28:14,380 --> 00:28:16,460
+for a bullish run in the afternoon.
+
+635
+00:28:16,460 --> 00:28:17,300
+Why?
+
+636
+00:28:17,300 --> 00:28:18,500
+Go back to that daily chart.
+
+637
+00:28:19,340 --> 00:28:20,740
+Remember we were inside this shaded area here.
+
+638
+00:28:20,740 --> 00:28:22,580
+That's the fair value gap that I did not shade
+
+639
+00:28:22,580 --> 00:28:24,900
+when we were looking at the daily chart naked
+
+640
+00:28:24,900 --> 00:28:26,580
+at the beginning of the video.
+
+641
+00:28:26,580 --> 00:28:27,860
+If you shade that on your own chart,
+
+642
+00:28:27,860 --> 00:28:29,540
+you'll see when you drop down the lower timeframe
+
+643
+00:28:29,540 --> 00:28:32,300
+five minute chart, yours will look like this.
+
+644
+00:28:32,300 --> 00:28:34,340
+So it dips down into that lower end of that
+
+645
+00:28:34,340 --> 00:28:36,260
+fair value gap and then rallies,
+
+646
+00:28:36,260 --> 00:28:38,260
+trades back down into the 15 minute timeframe
+
+647
+00:28:38,260 --> 00:28:40,860
+fair value gap, which is what that is here.
+
+648
+00:28:40,860 --> 00:28:42,220
+Then it rallies.
+
+649
+00:28:42,220 --> 00:28:44,900
+Now, right away in my mind,
+
+650
+00:28:44,900 --> 00:28:48,020
+this tells me that the algorithm is priming itself
+
+651
+00:28:48,020 --> 00:28:51,220
+for an afternoon run to potentially previous days high,
+
+652
+00:28:51,220 --> 00:28:52,620
+which is this level up here.
+
+653
+00:28:54,020 --> 00:28:58,140
+So from here, right when it crossed over here,
+
+654
+00:28:58,140 --> 00:28:59,260
+I'm thinking, okay,
+
+655
+00:28:59,260 --> 00:29:01,060
+it could potentially be running previous days high.
+
+656
+00:29:01,060 --> 00:29:02,340
+I don't know it yet.
+
+657
+00:29:02,340 --> 00:29:04,100
+Then when it drops down into here
+
+658
+00:29:04,100 --> 00:29:07,020
+and then rallies from that, then I know it.
+
+659
+00:29:07,020 --> 00:29:08,140
+Now that's narrative.
+
+660
+00:29:09,780 --> 00:29:11,740
+By itself, it doesn't mean go in there and buy it
+
+661
+00:29:11,740 --> 00:29:13,860
+because hey, the narrative says it's gonna probably run
+
+662
+00:29:13,860 --> 00:29:17,340
+to previous days high because I could see myself stopped out
+
+663
+00:29:17,340 --> 00:29:18,180
+if I'm premature.
+
+664
+00:29:18,180 --> 00:29:20,820
+I wanna see something that makes sense logically.
+
+665
+00:29:20,820 --> 00:29:22,620
+So that means, do we see displacement?
+
+666
+00:29:22,620 --> 00:29:23,900
+Yeah, we do.
+
+667
+00:29:23,900 --> 00:29:25,220
+Is that an energetic price run?
+
+668
+00:29:25,220 --> 00:29:26,580
+Oh yeah, it is.
+
+669
+00:29:26,580 --> 00:29:28,220
+Then that low to that high,
+
+670
+00:29:28,220 --> 00:29:30,820
+I wanna get that measurement for premium to discount.
+
+671
+00:29:30,820 --> 00:29:33,060
+And what do I wanna wait for?
+
+672
+00:29:33,060 --> 00:29:34,660
+A discount.
+
+673
+00:29:34,660 --> 00:29:36,980
+So I measured from that low to that high
+
+674
+00:29:36,980 --> 00:29:39,940
+in that short little vignette video on my Twitter feed
+
+675
+00:29:39,940 --> 00:29:43,140
+and 50% and went below that and that's the fair value gap.
+
+676
+00:29:43,140 --> 00:29:45,660
+So it trades down into here, creates a short term low
+
+677
+00:29:45,660 --> 00:29:47,180
+and then drops into here.
+
+678
+00:29:48,020 --> 00:29:50,100
+Now what happens if it went here and rallied?
+
+679
+00:29:50,100 --> 00:29:52,460
+Okay, well, I would have missed a move.
+
+680
+00:29:52,460 --> 00:29:54,660
+But I'm looking for sell-side liquidity.
+
+681
+00:29:54,660 --> 00:29:58,340
+I wanna see a stop run because what that's doing
+
+682
+00:29:58,340 --> 00:30:01,020
+and how this fits into the narrative is if I'm thinking
+
+683
+00:30:01,020 --> 00:30:03,540
+that this move here to here and then retracing down
+
+684
+00:30:03,540 --> 00:30:05,140
+and setting up an afternoon run
+
+685
+00:30:05,140 --> 00:30:08,340
+to potentially this level here by the close of the day,
+
+686
+00:30:09,620 --> 00:30:11,700
+I wanna be like smart money and do what?
+
+687
+00:30:12,820 --> 00:30:15,340
+Buy sell-stops.
+
+688
+00:30:15,340 --> 00:30:17,220
+I'm buying sell-side liquidity.
+
+689
+00:30:17,220 --> 00:30:20,740
+My order, as it's underneath here, I fill right here.
+
+690
+00:30:21,620 --> 00:30:23,500
+I'm buying it on this candle right there.
+
+691
+00:30:23,500 --> 00:30:24,540
+I know you probably don't believe me.
+
+692
+00:30:24,540 --> 00:30:26,740
+I'm gonna show you the candlesticks in a minute.
+
+693
+00:30:26,740 --> 00:30:29,620
+But I drop down into it, I go long there
+
+694
+00:30:29,620 --> 00:30:31,140
+and then I wait for it to rally up.
+
+695
+00:30:31,140 --> 00:30:32,780
+So it starts to rally up,
+
+696
+00:30:32,780 --> 00:30:34,060
+it consolidates a little bit in here
+
+697
+00:30:34,060 --> 00:30:37,940
+and then starts to almost come out above this high
+
+698
+00:30:37,940 --> 00:30:40,220
+and it creates a little small consolidation
+
+699
+00:30:40,220 --> 00:30:44,060
+and then pumps it through the old high and the 41.40 level.
+
+700
+00:30:45,380 --> 00:30:47,820
+Creates a short-term high, rallies once more.
+
+701
+00:30:47,820 --> 00:30:48,820
+I draw a line on here
+
+702
+00:30:48,820 --> 00:30:50,580
+because I wanna see if price can be supported
+
+703
+00:30:50,580 --> 00:30:52,260
+by that down close candle.
+
+704
+00:30:52,260 --> 00:30:53,740
+That's eight order block.
+
+705
+00:30:53,740 --> 00:30:56,820
+It trades through it and once it did that,
+
+706
+00:30:56,820 --> 00:30:58,740
+I nixed the trade, okay?
+
+707
+00:30:58,740 --> 00:31:02,020
+I have taken a lot of the trade off through here
+
+708
+00:31:02,020 --> 00:31:04,740
+and I'm also in an environment still inside
+
+709
+00:31:04,740 --> 00:31:09,700
+that daily range of multiple days on the daily chart
+
+710
+00:31:09,700 --> 00:31:13,460
+where it might not go to previous days high today.
+
+711
+00:31:13,460 --> 00:31:14,460
+So this might be it
+
+712
+00:31:14,460 --> 00:31:17,140
+and it might need to use Wednesday's trading.
+
+713
+00:31:17,140 --> 00:31:18,860
+So that was my thought process
+
+714
+00:31:18,860 --> 00:31:21,380
+for closing the trading and protecting my stop loss,
+
+715
+00:31:21,380 --> 00:31:22,420
+which never would have been hit
+
+716
+00:31:22,420 --> 00:31:24,460
+because the stop was below here.
+
+717
+00:31:24,460 --> 00:31:26,620
+But it came down, closed in this fair,
+
+718
+00:31:26,620 --> 00:31:28,420
+then it got a ride again.
+
+719
+00:31:28,420 --> 00:31:30,660
+This was an optimal trade entry once more,
+
+720
+00:31:30,660 --> 00:31:31,500
+pushing it higher,
+
+721
+00:31:31,500 --> 00:31:33,780
+but still did not hit the previous day's high.
+
+722
+00:31:33,780 --> 00:31:35,780
+Now think about this, folks.
+
+723
+00:31:35,780 --> 00:31:37,540
+Think, at the beginning of the day,
+
+724
+00:31:37,540 --> 00:31:39,300
+I tweeted public knowledge.
+
+725
+00:31:39,300 --> 00:31:40,500
+I wanna see initially
+
+726
+00:31:40,500 --> 00:31:43,820
+if it wants to make a run down the 40.70, okay?
+
+727
+00:31:43,860 --> 00:31:45,540
+And as soon as I tweeted it,
+
+728
+00:31:45,540 --> 00:31:47,700
+it was like off the race as it goes.
+
+729
+00:31:49,860 --> 00:31:50,980
+Right in here, boom.
+
+730
+00:31:50,980 --> 00:31:52,060
+And then boom.
+
+731
+00:31:52,060 --> 00:31:54,340
+And then drifted down to it here
+
+732
+00:31:54,340 --> 00:31:56,980
+and it made a low of 40.76 even.
+
+733
+00:31:58,260 --> 00:32:00,420
+Didn't break out below the fair day gap
+
+734
+00:32:00,420 --> 00:32:02,380
+that's formed on the daily chart.
+
+735
+00:32:02,380 --> 00:32:05,020
+That's again, that shaded area here.
+
+736
+00:32:05,020 --> 00:32:07,140
+And I'd have this tweet here
+
+737
+00:32:07,140 --> 00:32:08,820
+so you can see that's the time of 10.35.
+
+738
+00:32:08,820 --> 00:32:10,660
+That's when I said, nope, yesterday's high.
+
+739
+00:32:10,660 --> 00:32:15,660
+So that is there on this candle.
+
+740
+00:32:16,820 --> 00:32:18,980
+And here, 10.35, I'm tweeting,
+
+741
+00:32:18,980 --> 00:32:21,220
+note, previous day's high.
+
+742
+00:32:21,220 --> 00:32:23,580
+So I'm drawing your attention up here.
+
+743
+00:32:23,580 --> 00:32:24,980
+So if a retracement comes back down
+
+744
+00:32:24,980 --> 00:32:27,940
+into what I shared in that video beforehand,
+
+745
+00:32:27,940 --> 00:32:29,660
+before it even came down here,
+
+746
+00:32:29,660 --> 00:32:30,940
+I'm showing you this.
+
+747
+00:32:32,140 --> 00:32:34,540
+And I gave you this level up here
+
+748
+00:32:34,540 --> 00:32:37,260
+as previous day's high in chart format
+
+749
+00:32:37,260 --> 00:32:40,220
+in the video showing you that this is where my mindset is.
+
+750
+00:32:40,980 --> 00:32:42,020
+Think up here.
+
+751
+00:32:42,020 --> 00:32:44,460
+This is where it's gonna draw to likely.
+
+752
+00:32:44,460 --> 00:32:46,220
+And it's gonna retrace down to this level here.
+
+753
+00:32:46,220 --> 00:32:48,380
+So right away, this should tell you
+
+754
+00:32:48,380 --> 00:32:50,660
+for the folks that are paying attention,
+
+755
+00:32:50,660 --> 00:32:54,860
+ICT says that it's probably gonna go up in the afternoon
+
+756
+00:32:54,860 --> 00:32:57,820
+and it's probably gonna gravitate towards this level up here
+
+757
+00:32:57,820 --> 00:32:59,180
+which is previous day's high.
+
+758
+00:32:59,180 --> 00:33:01,740
+And he's showing this level here
+
+759
+00:33:01,740 --> 00:33:04,740
+where he's taught optimal trade entry, fair value gap.
+
+760
+00:33:04,740 --> 00:33:07,140
+When it goes down to here, it's in what, a discount.
+
+761
+00:33:07,140 --> 00:33:11,060
+So we're moving from a discount to buy-sell liquidity.
+
+762
+00:33:12,260 --> 00:33:15,340
+So the premium array is up here, the discount array is here.
+
+763
+00:33:15,340 --> 00:33:19,300
+Doesn't it make sense for you to anticipate the move
+
+764
+00:33:19,300 --> 00:33:21,860
+or originating basically from here,
+
+765
+00:33:21,860 --> 00:33:23,780
+running above here, taking a partial
+
+766
+00:33:23,780 --> 00:33:25,900
+and seeing if it can gravitate towards the high?
+
+767
+00:33:25,900 --> 00:33:26,900
+Yes.
+
+768
+00:33:26,900 --> 00:33:28,580
+So you studied that way.
+
+769
+00:33:28,580 --> 00:33:31,020
+So that's what I do with my students in my private group.
+
+770
+00:33:31,020 --> 00:33:33,420
+That's what I'm doing with you, okay?
+
+771
+00:33:33,420 --> 00:33:38,420
+Folks, listen, I've had thousands of emails
+
+772
+00:33:38,780 --> 00:33:41,100
+come to me in the last couple months
+
+773
+00:33:41,100 --> 00:33:45,460
+asking to let you all in my private group.
+
+774
+00:33:45,460 --> 00:33:46,740
+My private group is done.
+
+775
+00:33:46,740 --> 00:33:49,380
+I don't even make videos for them anymore, okay?
+
+776
+00:33:49,380 --> 00:33:51,180
+We just chit chat on a form now.
+
+777
+00:33:51,180 --> 00:33:52,020
+That's all it is.
+
+778
+00:33:52,020 --> 00:33:54,820
+I'm teaching mentorship right here for free.
+
+779
+00:33:54,820 --> 00:33:56,620
+You don't have to have a PayPal account.
+
+780
+00:33:56,620 --> 00:33:58,620
+You don't have to give me a credit card number.
+
+781
+00:33:58,620 --> 00:34:01,860
+You don't have to worry about missing your payment, nothing.
+
+782
+00:34:01,860 --> 00:34:05,300
+All you have to do is show up every time I do this
+
+783
+00:34:05,300 --> 00:34:07,380
+or show up over there on Twitter,
+
+784
+00:34:07,380 --> 00:34:09,100
+see what I'm doing over there.
+
+785
+00:34:09,100 --> 00:34:12,660
+And I promise you, if you stick with it,
+
+786
+00:34:12,660 --> 00:34:15,660
+the things I'm teaching you work.
+
+787
+00:34:15,660 --> 00:34:18,380
+I absolutely use this logic today.
+
+788
+00:34:18,380 --> 00:34:20,980
+I didn't create something new today.
+
+789
+00:34:20,980 --> 00:34:23,940
+This is exactly what I'm teaching you.
+
+790
+00:34:23,940 --> 00:34:27,020
+As a mentorship, this is it.
+
+791
+00:34:27,020 --> 00:34:29,980
+I did the very thing I'm teaching you with
+
+792
+00:34:29,980 --> 00:34:32,260
+so that way you can see a button was pushed.
+
+793
+00:34:34,780 --> 00:34:36,660
+Do I need to put a trade on every single day to teach you?
+
+794
+00:34:36,660 --> 00:34:37,500
+No.
+
+795
+00:34:38,860 --> 00:34:40,620
+Will I continue to show trades?
+
+796
+00:34:40,620 --> 00:34:41,460
+Yes.
+
+797
+00:34:42,420 --> 00:34:44,380
+Will you be accepted into my private group?
+
+798
+00:34:44,380 --> 00:34:45,820
+No.
+
+799
+00:34:45,820 --> 00:34:47,900
+So please don't ask, okay?
+
+800
+00:34:47,900 --> 00:34:49,740
+That community is closed to them
+
+801
+00:34:49,740 --> 00:34:53,260
+and you are all benefiting and believe me,
+
+802
+00:34:53,260 --> 00:34:56,220
+they're learning along with you with this mentorship.
+
+803
+00:34:57,220 --> 00:35:00,380
+Paid members that went through my private group,
+
+804
+00:35:00,380 --> 00:35:04,420
+they're learning things just like you are right here
+
+805
+00:35:04,420 --> 00:35:07,900
+because I'm taking things and simplifying them.
+
+806
+00:35:07,900 --> 00:35:11,900
+If I let you all into that group and took all of your money,
+
+807
+00:35:12,980 --> 00:35:14,700
+you would all be confused, okay?
+
+808
+00:35:14,700 --> 00:35:15,900
+Because there's so many things.
+
+809
+00:35:15,900 --> 00:35:17,500
+It's very, very detailed.
+
+810
+00:35:17,500 --> 00:35:19,580
+I have simplified it here.
+
+811
+00:35:20,700 --> 00:35:21,540
+That's all I'm done.
+
+812
+00:35:21,540 --> 00:35:23,780
+I've made it very simple so that we can go in,
+
+813
+00:35:23,780 --> 00:35:25,980
+look at these things and make it applicable
+
+814
+00:35:26,740 --> 00:35:28,700
+because you need to learn how to do this
+
+815
+00:35:28,700 --> 00:35:30,420
+before it gets hard.
+
+816
+00:35:31,300 --> 00:35:33,300
+And it's gonna get real hard, folks.
+
+817
+00:35:33,300 --> 00:35:35,340
+Read between the lines and think about what I'm saying.
+
+818
+00:35:35,340 --> 00:35:38,020
+Look around, the world's changing, okay?
+
+819
+00:35:38,020 --> 00:35:41,220
+So put in the time, don't rush it.
+
+820
+00:35:41,220 --> 00:35:43,540
+You don't need to worry about taking a year
+
+821
+00:35:43,540 --> 00:35:44,740
+to learn how to do this.
+
+822
+00:35:44,740 --> 00:35:47,180
+I've streamlined this, okay?
+
+823
+00:35:47,180 --> 00:35:50,260
+I'm here until the good Lord takes me
+
+824
+00:35:50,260 --> 00:35:52,420
+or takes away my mental faculties.
+
+825
+00:35:52,420 --> 00:35:54,660
+I'm on YouTube, okay?
+
+826
+00:35:54,660 --> 00:35:56,180
+I'm on Twitter.
+
+827
+00:35:56,180 --> 00:35:57,860
+I love doing this.
+
+828
+00:35:57,860 --> 00:36:00,020
+I love being back in this capacity.
+
+829
+00:36:00,020 --> 00:36:02,020
+I'm free to do what I wanna do.
+
+830
+00:36:02,020 --> 00:36:03,340
+I'm enjoying myself.
+
+831
+00:36:03,340 --> 00:36:05,300
+And all of you, both private membership
+
+832
+00:36:05,300 --> 00:36:08,860
+and public mentorship, you're all benefiting from it.
+
+833
+00:36:08,860 --> 00:36:10,300
+And I'm having fun with you.
+
+834
+00:36:10,300 --> 00:36:12,620
+So don't mess it all up by stressing me out,
+
+835
+00:36:12,620 --> 00:36:13,540
+asking me to join a group
+
+836
+00:36:13,540 --> 00:36:14,980
+that I'm not gonna let you join anyway.
+
+837
+00:36:14,980 --> 00:36:18,060
+And I don't want your money, so stop asking me.
+
+838
+00:36:18,060 --> 00:36:21,220
+So anyway, this is where we're at right now.
+
+839
+00:36:21,220 --> 00:36:22,940
+I think we'll probably wanna sweep up here.
+
+840
+00:36:22,940 --> 00:36:24,140
+Maybe that might even happen tonight
+
+841
+00:36:24,140 --> 00:36:26,300
+during the agent session.
+
+842
+00:36:26,300 --> 00:36:29,980
+But let's take a look at the executions.
+
+843
+00:36:32,500 --> 00:36:34,900
+And on this candle here, the low on this candle,
+
+844
+00:36:34,900 --> 00:36:36,900
+look at this figure right here, okay?
+
+845
+00:36:38,300 --> 00:36:42,620
+That low is 41.11, even.
+
+846
+00:36:42,620 --> 00:36:47,620
+And the low on this candle comes in at 41.08 1 1⁄4
+
+847
+00:36:48,380 --> 00:36:53,380
+and my fill, 41.10 1⁄4 below that low.
+
+848
+00:36:54,780 --> 00:36:55,700
+Whoops, I'm sorry.
+
+849
+00:36:55,700 --> 00:36:56,540
+I'm doing the wrong one.
+
+850
+00:36:56,540 --> 00:36:58,140
+I'm doing the wrong one.
+
+851
+00:36:58,140 --> 00:37:03,140
+The low is 41.10 1⁄2 and then my candle entry was here.
+
+852
+00:37:04,660 --> 00:37:08,920
+The low was 41.08 1⁄4 and my fill was still below that.
+
+853
+00:37:08,920 --> 00:37:13,180
+It's 41.10 1⁄4, so 1⁄4 point below that, okay?
+
+854
+00:37:13,180 --> 00:37:16,420
+So there's the entry right there.
+
+855
+00:37:16,420 --> 00:37:21,420
+And then partial here and another partial there.
+
+856
+00:37:21,780 --> 00:37:25,380
+So half the position, about 10 contracts on this price
+
+857
+00:37:25,380 --> 00:37:27,740
+and took off half in that area
+
+858
+00:37:27,740 --> 00:37:28,860
+where that rectangle was drawn
+
+859
+00:37:28,860 --> 00:37:31,420
+in that little vignette video, okay?
+
+860
+00:37:31,420 --> 00:37:35,020
+Again, I'm doing this, folks, back over here.
+
+861
+00:37:37,540 --> 00:37:41,420
+See this area here and these are all to equal highs.
+
+862
+00:37:41,420 --> 00:37:42,580
+I'm thinking that it could do this
+
+863
+00:37:42,580 --> 00:37:44,900
+and maybe this might be a failure swing, right?
+
+864
+00:37:44,900 --> 00:37:46,100
+And then go lower.
+
+865
+00:37:46,100 --> 00:37:49,060
+So I'm taking off half in the event that I'm possibly wrong.
+
+866
+00:37:49,980 --> 00:37:51,700
+So that's why I did that.
+
+867
+00:37:51,700 --> 00:37:52,760
+You understand that?
+
+868
+00:37:54,580 --> 00:37:55,740
+And I took another partial off here.
+
+869
+00:37:55,740 --> 00:37:57,540
+I tweeted, you know, pay the trader.
+
+870
+00:37:59,820 --> 00:38:03,420
+Okay, so three contracts there at 41.34 1⁄2
+
+871
+00:38:03,420 --> 00:38:06,020
+and then I waited for it to pump up through this old high
+
+872
+00:38:06,020 --> 00:38:11,020
+and the 41.40 level at 41.41 1⁄2.
+
+873
+00:38:12,100 --> 00:38:14,660
+I was actually, I was like three seconds late.
+
+874
+00:38:15,420 --> 00:38:16,900
+I was waiting for it to give me a nice big candle.
+
+875
+00:38:16,900 --> 00:38:19,140
+And if you watch the vignette video,
+
+876
+00:38:19,140 --> 00:38:23,580
+I sell the one contract
+
+877
+00:38:23,580 --> 00:38:24,740
+and then it gives that little bit
+
+878
+00:38:24,740 --> 00:38:27,380
+of a ramped up expansion on the candles.
+
+879
+00:38:27,380 --> 00:38:29,620
+I'm like, ah, I just would have waited one more,
+
+880
+00:38:29,620 --> 00:38:31,100
+you know, one more moment.
+
+881
+00:38:31,100 --> 00:38:33,420
+It could have gave me a better fill, but whatever.
+
+882
+00:38:33,420 --> 00:38:37,700
+And then here is me closing the remaining one contract
+
+883
+00:38:37,700 --> 00:38:39,740
+because I was concerned it was gonna take the stop
+
+884
+00:38:39,740 --> 00:38:41,480
+and then I didn't want it to stop out.
+
+885
+00:38:41,480 --> 00:38:43,580
+I'd rather take my price at my own exit
+
+886
+00:38:43,580 --> 00:38:45,580
+and not let the stop out occur.
+
+887
+00:38:45,580 --> 00:38:48,820
+But it never would have hit here and just rebounds that.
+
+888
+00:38:48,820 --> 00:38:50,780
+And then at the old high it ran again,
+
+889
+00:38:50,780 --> 00:38:53,020
+but still failed to get to my objective on the day.
+
+890
+00:38:53,020 --> 00:38:54,700
+But this was the draw on liquidity.
+
+891
+00:38:54,700 --> 00:38:57,020
+Now think about what I've shown here.
+
+892
+00:38:57,020 --> 00:38:59,060
+I was wrong on this level
+
+893
+00:38:59,060 --> 00:39:01,580
+and I was wrong on the 40.70 level,
+
+894
+00:39:01,580 --> 00:39:03,940
+but I was able to trade and take the lion's portion
+
+895
+00:39:03,940 --> 00:39:06,020
+of the move in the middle.
+
+896
+00:39:06,020 --> 00:39:07,940
+That's all you need.
+
+897
+00:39:07,940 --> 00:39:09,580
+You don't need to be in here
+
+898
+00:39:09,580 --> 00:39:12,660
+doing the absolute highest high and the lowest low.
+
+899
+00:39:12,660 --> 00:39:14,580
+You don't need to do that.
+
+900
+00:39:14,580 --> 00:39:15,820
+Okay, the folks are asking me,
+
+901
+00:39:15,820 --> 00:39:16,940
+can you teach me to do that?
+
+902
+00:39:16,940 --> 00:39:18,860
+You don't need to, look at this.
+
+903
+00:39:18,860 --> 00:39:21,420
+Wouldn't this keep you from going hungry?
+
+904
+00:39:22,460 --> 00:39:24,060
+I mean, I think it would.
+
+905
+00:39:24,060 --> 00:39:25,300
+I mean, this is good eating here.
+
+906
+00:39:25,300 --> 00:39:26,820
+I mean, this is a nice move.
+
+907
+00:39:26,820 --> 00:39:28,060
+It makes sense.
+
+908
+00:39:28,060 --> 00:39:30,420
+And I don't need this level to get profitable.
+
+909
+00:39:32,500 --> 00:39:36,340
+Old high, yes, yes, and yes.
+
+910
+00:39:36,340 --> 00:39:40,660
+Okay, so I mentioned I'll go into the SMT,
+
+911
+00:39:40,660 --> 00:39:42,380
+the version's in here, so let's do that now.
+
+912
+00:39:42,380 --> 00:39:44,700
+All right, so I'm adding the little compare tab.
+
+913
+00:39:44,700 --> 00:39:46,060
+It's a little plus symbol up here.
+
+914
+00:39:46,060 --> 00:39:48,100
+If you go into your trading view,
+
+915
+00:39:48,100 --> 00:39:49,660
+click on it, it'll give you the dropdown menu
+
+916
+00:39:49,660 --> 00:39:53,980
+for what instrument or market you wanna compare it to.
+
+917
+00:39:53,980 --> 00:39:56,060
+And you use NQM2022.
+
+918
+00:39:56,060 --> 00:40:00,580
+This is gonna change to NQU2022.
+
+919
+00:40:00,580 --> 00:40:02,420
+And this symbol for S&P will eventually,
+
+920
+00:40:02,420 --> 00:40:07,420
+in a few days, change to ESU2022.
+
+921
+00:40:07,860 --> 00:40:12,660
+ESU2022, and it will be basically tracking
+
+922
+00:40:12,660 --> 00:40:16,020
+the September delivery contract of both indices.
+
+923
+00:40:16,020 --> 00:40:17,620
+Right now, we're in the month of June,
+
+924
+00:40:17,620 --> 00:40:19,140
+and it's about to roll over.
+
+925
+00:40:19,140 --> 00:40:22,980
+So what we do is we monitor chart,
+
+926
+00:40:22,980 --> 00:40:24,700
+I'm sorry, bar chart.com,
+
+927
+00:40:24,700 --> 00:40:26,980
+and whenever the open interest is larger
+
+928
+00:40:26,980 --> 00:40:30,100
+in the September contract than that of the June contract,
+
+929
+00:40:30,100 --> 00:40:31,780
+that's when I roll over.
+
+930
+00:40:31,780 --> 00:40:34,900
+So that's how I do it.
+
+931
+00:40:34,900 --> 00:40:36,580
+It's a little different from everybody else, I'm sure,
+
+932
+00:40:36,580 --> 00:40:38,100
+but that's what it is I'm doing
+
+933
+00:40:38,100 --> 00:40:40,860
+when I'm rolling over into the next month,
+
+934
+00:40:40,860 --> 00:40:43,860
+because these months, or these contracts, they expire.
+
+935
+00:40:43,860 --> 00:40:46,940
+Okay, so June won't be traded anymore in a couple days,
+
+936
+00:40:46,940 --> 00:40:48,340
+and September will.
+
+937
+00:40:48,340 --> 00:40:52,020
+And we'll trade September until a week or so into September,
+
+938
+00:40:52,020 --> 00:40:54,660
+and then we'll roll over to the December contract,
+
+939
+00:40:54,660 --> 00:40:56,220
+because September will expire.
+
+940
+00:40:57,180 --> 00:40:59,780
+All right, so anyway, with the compare tab,
+
+941
+00:40:59,780 --> 00:41:01,540
+you're putting in this symbol here
+
+942
+00:41:01,540 --> 00:41:03,540
+as a selection in the dropdown menu,
+
+943
+00:41:03,540 --> 00:41:06,740
+and once it's down here, you click on a little gear,
+
+944
+00:41:06,740 --> 00:41:09,060
+and make sure it's highlighted to low,
+
+945
+00:41:09,060 --> 00:41:10,820
+because what we're doing is we're comparing
+
+946
+00:41:10,820 --> 00:41:14,340
+and contrasting the lows inside of a fair value gap
+
+947
+00:41:14,340 --> 00:41:16,020
+after a retracement into a discount
+
+948
+00:41:16,020 --> 00:41:18,180
+when we're expecting it to potentially trade up in here.
+
+949
+00:41:18,180 --> 00:41:20,100
+I'm speaking like you knew this, okay?
+
+950
+00:41:20,100 --> 00:41:21,220
+That's how you're supposed to talk to yourself
+
+951
+00:41:21,220 --> 00:41:22,700
+in your journal.
+
+952
+00:41:22,700 --> 00:41:23,940
+This low versus this low.
+
+953
+00:41:23,940 --> 00:41:25,780
+You see that, low or low?
+
+954
+00:41:25,780 --> 00:41:27,900
+Is that seen here?
+
+955
+00:41:27,900 --> 00:41:29,500
+Low, high or low?
+
+956
+00:41:30,460 --> 00:41:31,660
+We're comparing lows.
+
+957
+00:41:31,660 --> 00:41:33,020
+So when we're bullish,
+
+958
+00:41:33,020 --> 00:41:35,140
+we're plotting this line down here
+
+959
+00:41:36,380 --> 00:41:39,380
+as a compare and contrast tool,
+
+960
+00:41:39,380 --> 00:41:42,500
+and it's SMT, Smart Money Tool, or Smart Money Technique.
+
+961
+00:41:42,500 --> 00:41:45,020
+I never really settled on what the T was gonna be,
+
+962
+00:41:45,020 --> 00:41:47,460
+so that's why I always say it like that,
+
+963
+00:41:47,460 --> 00:41:51,060
+but it's my way of measuring real accumulation distribution.
+
+964
+00:41:51,060 --> 00:41:54,220
+So if we know that this area down here is a discount,
+
+965
+00:41:54,220 --> 00:41:56,060
+and we know this is an imbalance,
+
+966
+00:41:56,060 --> 00:41:58,420
+fair value gap, it trades down into a pool of liquidity
+
+967
+00:41:58,420 --> 00:42:00,340
+below that low is sell stops,
+
+968
+00:42:00,380 --> 00:42:02,820
+and I wanna buy sell stops, like I've mentioned here.
+
+969
+00:42:02,820 --> 00:42:06,220
+I'm buying the sell stops inside the fair value gap
+
+970
+00:42:06,220 --> 00:42:07,700
+during a classic buy day,
+
+971
+00:42:07,700 --> 00:42:09,900
+which is open at midnight, trade down,
+
+972
+00:42:09,900 --> 00:42:12,100
+create the low of the day, rally,
+
+973
+00:42:12,100 --> 00:42:15,340
+and then creates an optimal trade entry or fair value gap,
+
+974
+00:42:15,340 --> 00:42:17,820
+or you're gonna buy the short-term low
+
+975
+00:42:18,940 --> 00:42:20,980
+during SMT diversions.
+
+976
+00:42:20,980 --> 00:42:23,100
+Okay, so there's real accumulation here
+
+977
+00:42:23,100 --> 00:42:25,620
+between the NASDAQ and the S&P.
+
+978
+00:42:25,620 --> 00:42:28,420
+So this tells me that the NASDAQ is failing to go lower,
+
+979
+00:42:28,420 --> 00:42:29,980
+so it's under accumulation,
+
+980
+00:42:30,580 --> 00:42:33,260
+and this is just a stop hunt below that short-term low.
+
+981
+00:42:33,260 --> 00:42:34,100
+See that?
+
+982
+00:42:34,100 --> 00:42:35,740
+Now, some of you are like,
+
+983
+00:42:35,740 --> 00:42:37,420
+this is a really complicated ICT.
+
+984
+00:42:37,420 --> 00:42:38,820
+I really like the optimal trade entry,
+
+985
+00:42:38,820 --> 00:42:40,900
+and these fair value gaps are all over the place.
+
+986
+00:42:40,900 --> 00:42:43,020
+How do I know which one is the one I wanna use?
+
+987
+00:42:43,020 --> 00:42:44,500
+Okay, check this out.
+
+988
+00:42:44,500 --> 00:42:47,500
+A lot of you know how to use optimal trade entry.
+
+989
+00:42:47,500 --> 00:42:50,100
+You'll use the low here to the high, pull your fib up,
+
+990
+00:42:50,100 --> 00:42:52,100
+62 to 70% traceable level.
+
+991
+00:42:52,100 --> 00:42:53,900
+If it goes down to that, then you'll buy it.
+
+992
+00:42:53,900 --> 00:42:55,980
+Okay, that's one pattern,
+
+993
+00:42:55,980 --> 00:42:57,700
+but now watch what else there is.
+
+994
+00:42:57,700 --> 00:42:58,700
+This is turtle soup.
+
+995
+00:42:58,740 --> 00:43:01,820
+You have a low, lower low by the low
+
+996
+00:43:01,820 --> 00:43:05,300
+that's being violated with optimal trade entry.
+
+997
+00:43:05,300 --> 00:43:06,780
+See that?
+
+998
+00:43:06,780 --> 00:43:08,740
+Or you can just do this.
+
+999
+00:43:08,740 --> 00:43:12,260
+Low, high, find the fair value gap below 50% level,
+
+1000
+00:43:12,260 --> 00:43:13,260
+which is a discount.
+
+1001
+00:43:13,260 --> 00:43:14,940
+Soon it trades to the top level of it,
+
+1002
+00:43:14,940 --> 00:43:18,140
+hit it there, buy it there, stop below the lower low,
+
+1003
+00:43:20,140 --> 00:43:21,940
+or level here.
+
+1004
+00:43:21,940 --> 00:43:23,340
+There's your pattern.
+
+1005
+00:43:24,820 --> 00:43:25,660
+See that?
+
+1006
+00:43:26,620 --> 00:43:28,900
+Or you can do this.
+
+1007
+00:43:30,300 --> 00:43:33,780
+You can wait for it to trade down into this like that,
+
+1008
+00:43:33,780 --> 00:43:36,300
+and then find the swing high prior to it trading
+
+1009
+00:43:36,300 --> 00:43:37,940
+into the fair value gap,
+
+1010
+00:43:37,940 --> 00:43:39,900
+and put a buy stop there as your entry.
+
+1011
+00:43:41,460 --> 00:43:44,060
+And whatever the lowest low is, after it hits that,
+
+1012
+00:43:45,020 --> 00:43:46,260
+that's where your stop loss would be,
+
+1013
+00:43:46,260 --> 00:43:47,860
+just right below that.
+
+1014
+00:43:47,860 --> 00:43:49,620
+And you can be buying strength.
+
+1015
+00:43:49,620 --> 00:43:53,260
+That's not, in my opinion, the preferred entry strategy,
+
+1016
+00:43:53,260 --> 00:43:55,100
+but I just gave you a bunch of them.
+
+1017
+00:43:55,740 --> 00:43:56,980
+But it's using what?
+
+1018
+00:43:58,500 --> 00:44:03,300
+Bias that has been corrected and calibrated
+
+1019
+00:44:03,300 --> 00:44:06,500
+based on what the market has done here at key times.
+
+1020
+00:44:06,500 --> 00:44:08,860
+Okay, so at 930, the market does what?
+
+1021
+00:44:08,860 --> 00:44:10,860
+It brings us that volatility we look for.
+
+1022
+00:44:12,220 --> 00:44:16,020
+So it shifts higher after we have another SMT divergence
+
+1023
+00:44:17,100 --> 00:44:21,380
+here, but we have that shift higher.
+
+1024
+00:44:21,380 --> 00:44:23,980
+It's showing us real accumulation in the SMP.
+
+1025
+00:44:23,980 --> 00:44:24,980
+It rallies.
+
+1026
+00:44:25,020 --> 00:44:26,260
+I don't wanna chase that.
+
+1027
+00:44:27,140 --> 00:44:29,660
+I wait for it to come back down into a 15-minute timeframe,
+
+1028
+00:44:29,660 --> 00:44:31,340
+fair value gap, which it does.
+
+1029
+00:44:31,340 --> 00:44:32,780
+Now, am I still buying it there?
+
+1030
+00:44:32,780 --> 00:44:35,300
+I could, I absolutely could do that,
+
+1031
+00:44:35,300 --> 00:44:36,980
+but I'm not willing to,
+
+1032
+00:44:36,980 --> 00:44:40,220
+because I wanna know that what I thought initially,
+
+1033
+00:44:40,220 --> 00:44:43,220
+which was 40.70, it could still wipe out that low.
+
+1034
+00:44:43,220 --> 00:44:44,500
+It's early on in the day.
+
+1035
+00:44:45,500 --> 00:44:48,540
+So I wanna wait for the market to really communicate to me
+
+1036
+00:44:48,540 --> 00:44:52,340
+that the algorithm is pricing in a narrative
+
+1037
+00:44:52,340 --> 00:44:54,900
+that the afternoon session is bullish,
+
+1038
+00:44:55,780 --> 00:44:56,620
+that's it.
+
+1039
+00:44:56,620 --> 00:44:57,980
+I'm gonna give up the morning session, folks.
+
+1040
+00:44:57,980 --> 00:45:00,340
+See, just because I'm sitting in front of the charts
+
+1041
+00:45:00,340 --> 00:45:02,340
+doesn't mean I'm taking a trade,
+
+1042
+00:45:02,340 --> 00:45:03,900
+because guess what?
+
+1043
+00:45:06,060 --> 00:45:07,900
+I'm gonna take a trade because I've been here all day
+
+1044
+00:45:07,900 --> 00:45:09,220
+and I deserve one.
+
+1045
+00:45:10,740 --> 00:45:12,100
+It doesn't work like that.
+
+1046
+00:45:12,100 --> 00:45:13,820
+You have to wait and be patient.
+
+1047
+00:45:13,820 --> 00:45:16,300
+There's more time waiting in between the setups
+
+1048
+00:45:16,300 --> 00:45:18,820
+than actually doing anything.
+
+1049
+00:45:18,820 --> 00:45:19,900
+And then it's funny.
+
+1050
+00:45:19,900 --> 00:45:24,620
+You have to have incredible patience in both stages.
+
+1051
+00:45:24,620 --> 00:45:26,620
+You have to be very patient waiting for the setup.
+
+1052
+00:45:26,620 --> 00:45:27,860
+And then once you get in a trade,
+
+1053
+00:45:27,860 --> 00:45:30,260
+you have to be patient and let the trade pan out.
+
+1054
+00:45:31,660 --> 00:45:34,140
+Once it comes in the 15-minute timeframe here,
+
+1055
+00:45:34,140 --> 00:45:35,420
+then it rallies like this,
+
+1056
+00:45:35,420 --> 00:45:40,420
+then I'm comfortable knowing what I'm looking for.
+
+1057
+00:45:41,780 --> 00:45:42,900
+What is that?
+
+1058
+00:45:42,900 --> 00:45:44,980
+Dealing range low, dealing range high,
+
+1059
+00:45:44,980 --> 00:45:47,860
+fib across 50% below that, here's the fair value gap,
+
+1060
+00:45:47,860 --> 00:45:50,380
+trade down into it, I wanna buy sell stops.
+
+1061
+00:45:51,540 --> 00:45:52,660
+That's just me.
+
+1062
+00:45:52,660 --> 00:45:53,500
+I wanna do it,
+
+1063
+00:45:53,500 --> 00:45:56,060
+because it really fortifies the setup.
+
+1064
+00:45:56,060 --> 00:46:00,380
+It allows me to get in where the smart money will be buying.
+
+1065
+00:46:00,380 --> 00:46:03,060
+That little movement here, I'm buying that very candle.
+
+1066
+00:46:03,060 --> 00:46:04,180
+I didn't buy the next candle.
+
+1067
+00:46:04,180 --> 00:46:06,380
+I didn't buy the candle before that.
+
+1068
+00:46:06,380 --> 00:46:10,260
+I bought below that price, 41.10 and a half.
+
+1069
+00:46:10,260 --> 00:46:12,300
+I bought it at 41.10 and a quarter.
+
+1070
+00:46:13,380 --> 00:46:15,940
+The things I'm teaching you, I'm pushing a button.
+
+1071
+00:46:16,820 --> 00:46:20,780
+It's a really real instance of happening, not something.
+
+1072
+00:46:20,820 --> 00:46:23,020
+I took a trade and you never see that happening.
+
+1073
+00:46:24,740 --> 00:46:28,540
+I'm showing you example after example after example
+
+1074
+00:46:28,540 --> 00:46:31,820
+of the things I'm teaching you and I'm using the logic.
+
+1075
+00:46:31,820 --> 00:46:33,780
+I'm not creating some falsehood.
+
+1076
+00:46:33,780 --> 00:46:35,700
+I'm not scamming you, I'm not frauding you.
+
+1077
+00:46:35,700 --> 00:46:39,180
+I'm not doing anything except for teaching you what works,
+
+1078
+00:46:39,180 --> 00:46:40,860
+what makes these markets book.
+
+1079
+00:46:40,860 --> 00:46:43,380
+And they do it every single week.
+
+1080
+00:46:43,380 --> 00:46:46,060
+The same kind of stuff all the time.
+
+1081
+00:46:46,060 --> 00:46:48,620
+The SMT divergence here, you see that?
+
+1082
+00:46:48,660 --> 00:46:52,220
+The SMT divergence here, lower low, higher low.
+
+1083
+00:46:52,220 --> 00:46:55,500
+Here we have the lower low in NASDAQ, higher low in SMP.
+
+1084
+00:46:56,900 --> 00:46:59,500
+That sets the stage for that run higher.
+
+1085
+00:46:59,500 --> 00:47:00,340
+Okay.
+
+1086
+00:47:03,060 --> 00:47:05,660
+I could literally go on and on for about four more hours
+
+1087
+00:47:05,660 --> 00:47:08,020
+just in this chart, but I promised myself
+
+1088
+00:47:08,020 --> 00:47:09,780
+I wouldn't make these videos very long.
+
+1089
+00:47:09,780 --> 00:47:12,380
+And I know some of you really want those long ones back,
+
+1090
+00:47:12,380 --> 00:47:16,220
+but I look at the statistics on my videos
+
+1091
+00:47:16,220 --> 00:47:19,380
+and the attention spans about 10 minutes each video.
+
+1092
+00:47:19,380 --> 00:47:23,900
+So I'm gonna try my best to stay in that the SMT.
+
+1093
+00:47:23,900 --> 00:47:26,780
+Can't promise, but I'm certainly gonna do it
+
+1094
+00:47:26,780 --> 00:47:28,060
+as much as I can.
+
+1095
+00:47:28,060 --> 00:47:31,740
+And I'm certainly obviously well beyond that limitation here
+
+1096
+00:47:31,740 --> 00:47:34,540
+but I know a lot of you press that two times
+
+1097
+00:47:34,540 --> 00:47:38,540
+the speed function on the videos and I get it.
+
+1098
+00:47:38,540 --> 00:47:42,220
+If you ever listened to me in a forced live session,
+
+1099
+00:47:42,220 --> 00:47:43,580
+I sound like a different guy, don't I?
+
+1100
+00:47:43,580 --> 00:47:46,180
+That's because I don't have that sped up chipmunk sound.
+
+1101
+00:47:47,140 --> 00:47:48,620
+That you guys usually put me on, but that's cool.
+
+1102
+00:47:48,620 --> 00:47:50,220
+I understand everybody's time is important,
+
+1103
+00:47:50,220 --> 00:47:52,180
+but hopefully you found something in this insightful.
+
+1104
+00:47:52,180 --> 00:47:54,740
+Hopefully you're encouraged by me actually showing it working
+
+1105
+00:47:54,740 --> 00:47:56,940
+and not just talking about something theoretically.
+
+1106
+00:47:56,940 --> 00:48:00,780
+And again, be safe and I'll touch base with you again
+
+1107
+00:48:00,780 --> 00:48:02,220
+on Twitter tomorrow, I'm sure.
+
+1108
+00:48:02,220 --> 00:48:05,340
+And again on Thursday in another lecture in the mentorship.
+

@@ -1,0 +1,1073 @@
+Alright folks, welcome back. I do hope everyone's doing well. So we're looking at episode 12.
+This lesson and lecture is going to be on the topic of market structure for precision
+technicians. Now admittedly going into this, this is an advanced price action theory. You're
+going to have a lot of questions. It's going to cause all kinds of anxiety for those that
+just feel like you have to learn it the first time you watch a video. Trust me, you will
+not and you cannot learn this in one video. This is actually going to be a lesson even
+my paid mentorship group has yet to see. So I want to give you something that's fresh,
+something that is deep that will allow you to go into your charts and start studying
+a little bit more, well, deeper than the normal higher high, higher low idea that is made up of
+the retail view of market structure. Alright, here is the NASDAQ March contract for 2022.
+I already hear some of you already hissing and moaning, the forex traders in my group.
+When are you ever going to talk about your dollar? Well, let me remind you what I'm teaching works
+in forex. Okay, it works in stocks, it works in bonds. It's up to you to decide what asset class
+you're going to work with. Okay, so I'm teaching price. This is the asset class that's moving
+around nicely. So I'm using it as a medium. Okay, you could just as easily go into a Aussie dollar.
+You know, or pound yen chart and you'll see these things happening as well. Okay, trust me,
+we'll get into forex again. Okay, I haven't abandoned the forex. I just want to mine this
+vein that's available in volatility right now with the index futures. Alright, so obviously we can see
+with the benefit of hindsight that the things we were looking for in price action has come to
+fruition. We were looking for the run below these lows in here. We got that. We were looking for a
+run and rebalance back up into this area you got. It did so handsomely. Broke lower overnight with
+all the wartime things that are going around the globe and you know what I'm referring to. That
+caused a little bit of excitement on the downside and then we're back above this short-term low.
+I'm not convinced at this point that we have made a low. So that way we can put that to bed
+right now. I'm not in the business of picking tops and bottoms. So if you feel like you're gonna go
+out there and do that, just letting you know that I teach my paid group not to do that and I don't
+go out there actively trying to do that either. But we're gonna go into a deep dive of market
+structure inside this area. Now before I do this, I want you to understand this part. This is the
+part that seems boring. This is the part that gets the most complaints from those individuals
+that will never ever do well or succeed in this because they want five-minute trainers for something
+that's extremely technical and you just can't strip it down to very easy ideas. Okay so it's
+going to take a little bit of study, thinking, and homework of you going through old price data
+and you'll start seeing these things. But I promise you this video will cause a light bulb
+movement for you and you'll start to see things that are in the charts all the time but you are
+not aware of it. And it'll also allow you to go back into old moves and see that this is in fact
+very true. And you can use it to confirm or negate a price move. I get a lot of questions
+through trading view, people posting, hey can you answer this for me? Can you answer that for me? I
+don't make it a business of doing that because I don't have a lot of time for it but I use those
+questions in these talking points in my lectures. Not only in this mentorship but in my private group.
+So the questions I get a lot is how do I know if I'm going to sell above the old high how do I
+know it's not going to keep going higher? Well that's the underlying market structure and the
+trust in the factors that I'm going to kind of like teach you tonight. Me teaching it to you is
+not going to transpose my trust that has to be developed in your learning curve. It's going to
+take time. How long is it going to take? I don't know. All of you are going to do it differently but
+you're going to arrive right on time. Exactly when you should that's when you're going to get it all.
+Okay and it's a matter of how much time and effort you put into studying it because these
+candlesticks you can make them say anything you want. You beat on them and they'll submit to anything.
+But you want to know what they're likely to be hinting at and I'm going to give you those
+clues tonight. But in here we're going to take a deep dive into that price action right there.
+Alright so we are looking inside that fair value gap from the daily chart. This was the high end
+of that fair value gap and this was the low end of that fair value gap. The time frame on this
+chart as you can see here one hour and I've outlined market structure in the idea of long
+term high long term low short term high short term low and in between those two swing points
+there's an intermediate term high and an intermediate term low. When we look at price we're not looking
+for just the simple higher high higher low therefore it's a bullish market or uptrend. That's not what
+I'm looking at. I'm looking at does the market have a reason to go up for buy side liquidity or buy
+stopped or is it likely to go up to rebalance and imbalance which is like a fair value gap. Or is it likely to go
+lower to sweep out short term lows for sell side liquidity or sell stops or is it likely to go down to
+rebalance and hold imbalance or a fair value gap below market price. That is the number one question
+that I have before I sit down in front of my charts. That's what I'm looking for. What is the current
+market narrative? What is it likely to be doing right now? I don't care about patterns in price action. I don't care about anything
+harmonic. I'm not looking for any kind of Elliott waves. I'm not looking for any kind of ratio idea. I'm not looking for
+anything that you can attribute to a retail mindset. Nothing except for those two questions. Is it likely to go up for
+stops or go down for stops or is it going to go higher to rebalance or lower to rebalance? Now, how do I arrive at that idea?
+Is it going to go higher or is it going to go lower? Because that kind of leans on that question I told you many times. If there's one
+question I get asked the most, it's teach me bias. In other words, you want to know where is the market going next? And that's
+good. That's the next draw on liquidity. But the daily range will not always submit to that bullish or bearish right from the opening
+go higher or right from the opening go lower. Sometimes you'll have consolidation intraday and you may have been trying to take a trade
+that was based on an idea that you came to that would be bullish. And maybe it did give you an opportunity to be in a trade that was
+profitable for a period of time, but you held onto it thinking the daily range was going to keep on going higher and it turned on you.
+These ideas I'm going to teach you in this lecture here will help you identify the likelihood that your idea is probably been proven
+inaccurate, but you have to be receptive to the clues that price is giving you. That's the number one reason why I abandoned
+indicators. And if you have anything on the charts that cover up candles or draw your attention to something that you're putting on the chart,
+and I call that facetiously lipstick, that's what this chart is showing here. It's this lipstick. It's me communicating how I am internalizing this
+price structure, this fractal in price. I'm looking at it with this idea. Now I'm looking at it in a matter of seconds. I come to this
+conclusion. I'm looking at the highs and I'm looking at the relationships between each swing high, each swing low, and I'm coming to a conclusion,
+studying one swing at a time. And I'm going to come up with the idea that it's likely to go lower because that daily chart, I called it in front of all,
+I outlined it, told you where it was going to go. So that way we understand one another. I'm teaching something that I already proved before the fact.
+So it's not like me coming back to this area here because if you haven't watched the videos prior to this, say you just found this YouTube channel and you're
+watching this one, it sounds like the typical guy that comes on YouTube and says, here's something to happen, you know, and I can sit down and appear smart
+because it's already happened and I have no real risk in being wrong. I told you it was going to go lower from here and it did. Now I'm going to take you
+inside that price action and outline what it is that I looked for, what it is that I looked for at the time, and how I felt confident it was going to go lower.
+Okay. So right away we know that price is traded up to the high end of that fair value gap. And again, this level here is that daily chart. Let me go back up one chart.
+That's this level here. Okay. It's on this candle, that low, and the low of the fair value gap is this candle's high.
+Dropping down into the hourly chart, that's the high end of the fair value gap. This is the low end of the fair value gap. Again, on an hourly chart. So that way we have our bearings.
+So when the market traded up into and just above that fair value gap high, this red level here, once it started to break down and go lower, it traded back down into
+this candlesticks high. So we're trading back inside this range and we're range bound.
+Since I am expecting the daily chart to be the parent of this price structure, all minor lower time frame swings are going to be subordinate to it.
+And what does that mean? This now is a long-term high. I do not expect this high to be broken to the upside.
+Should it be broken to the upside, that means that my daily analysis, expecting this level here to hold price and to be a factor in the algorithm repricing and going lower at a later time,
+if it goes above that, then I'm probably wrong in my analysis. So therefore I demand more information by studying more price actions sitting on my hands.
+Or if I have a trade-on, it means that I have to admit that I'm wrong and the stop out that may occur is just me managing risk.
+It's a losing transaction. It does not mean your model is flawed. It does not mean that you're a failed trader. It just means that that transaction was not a profitable one.
+And it's just a cost of doing business. But as long as price remains below this high, my idea is this is a long-term high.
+This is framed on what? A higher time frame resistance level. If we want to talk in terms of retail ideas, that way we can understand something in a simplistic manner.
+But we'll build on the ideas that will help move you away from simple support resistance ideas.
+So this long-term high should remain intact. In other words, price should not go higher than that.
+We trade down to the discount level of the low end of that fair value gap.
+And it starts to find support, rallies back up, trades near the high but does not take that out. Very important.
+Once it starts to break down and consolidate, in here, retail ideas will see a lot of trust in the idea that's potentially a bull flag.
+I love seeing those patterns because I like to fade them. So that's a false bull flag.
+And then we see price break down like this and then rally back up.
+Every single time, and this is important, this is the part where you start writing down these details,
+every single time price rebalances an imbalance.
+Like we have this candle is low, this candle is high, we have that one single candle passing down like that.
+Once that rebalances by going up here, that swing high, from this high, this high, and this high, that's a swing high right there.
+I immediately label that in my mind, not on my chart, because I don't want anything distracting me.
+If I have these things written on my chart at the time, it's going to be a distraction to me.
+But the way I'm internalizing it, and you'll see what I mean as I go through this lecture,
+every rebalance of an old imbalance, that swing that's created at that moment,
+I immediately label that in my mind as an intermediate term high, or in this case as we came back down and filled in this by dropping down here,
+that's an intermediate term low.
+What does that mean? What's the significance of that?
+Typically, what you'll see is an intermediate term low has a higher short term low to the right of it,
+and a higher short term low to the left of it.
+This intermediate term low forms by rebalancing, but it has a higher short term high here,
+but then the market trades over here off of this short term low.
+It rallies up, but it fails.
+It fails in here.
+We're going to anticipate that failure.
+Whereas, if you're looking at this low, high, higher low, failed, higher high, higher low,
+so what's forming here? A pennant, or a triangle pattern, right?
+How do you know which side's going to break out?
+That was one of the questions I had all the time as a developing student back in the 90s.
+1992, 1993, I was buying every book I could get my hands on,
+and I got the book, the John Murphy Technical Analysis of the Financial Markets book,
+which is the Retail Traders Bible.
+That book is so useful in terms of just reading it and knowing what not to do,
+because that's what the 90% crowd follows when you look at price action.
+Still to this day, because it's always regurgitated in some way, shape, or form,
+someone's teaching that same idea, uptrending trend lines, which are so subjective,
+how do you know what swing loader attacks for a trend line?
+There's lots of swing loads in here. How do you draw it?
+It's all subjective.
+So you have to have a way to reduce it down to,
+I hate to say it like this, but it really isn't a better way of saying it,
+but you have to break it down into a science.
+We don't do technical analysis. We do technical science.
+Okay, you have to be able to relate to certain things,
+weigh out and measure what these factors are within price action,
+which is not based on hypothetical guesswork or some kind of a harmonic animal pattern,
+which to me makes no sense.
+You have to look at the relationship to price action and the relationship of how it behaves.
+What is it indicating? What is it showing?
+The market has traded higher than consolidated.
+We failed to go above this important high back here. That's a long-term high.
+Then we have an intermediate term high. Why? Why is this an intermediate term high?
+Because we have a short-term high here and a short-term high here.
+So between two short-term highs, the highest high between those, that's an intermediate term high.
+But the main takeaway for your notes so far is
+any time an imbalance, like this big candle up, is rebalanced,
+that becomes an intermediate term low.
+Just as well on the opposite end, this down move here, that's a fair value gap,
+as soon as it rebalances there, that's what I classify as an intermediate term high.
+Now here's where we take a huge step forward.
+Classically defined by Larry Williams, and you can see where I made a departure from his works.
+It was very influential in the beginning of my development,
+and it was a point of argument internally with me when I was watching him teach it on his VHS course.
+The Future's Millionaire's Confidential Trading Course.
+That idea of his approach to market structure, he teaches a little bit of it in this book.
+So it's Long-Term Secrets to Short-Term Trading by Larry Williams.
+There's not a lot of books, I have over 2,000 some books,
+and I can tell you literally there's a handful of books out of all my collection that are useful.
+And I can't bring myself to throw them away, because number one, I paid a lot of money for them,
+and it's just nostalgia, me chasing all that stuff in books, and it's always the same stuff that never really works.
+The ideas that he teaches in this book here, they were taught in a early work by him in regards to market structure,
+how to internalize price structure, how to look at price not just from a higher high, higher low, because that's too myopic.
+It's a pursuit, especially in this generation today, it's a pursuit of simplicity for the sake of simplicity alone,
+not for the sake of getting to the truth or the heart of the matter.
+And that's what makes me a stumbling block for many of you that are younger,
+because you want, right now, instant gratification, you want instant reward for the menial time that you invest,
+when it's surprising to learn that you're going to take a lot more time than you first thought it was going to take to learn how to do this exceptionally well.
+But for an additional view on how I built this understanding in price action, it originally came from his idea of market structure,
+but if you study what I'm going to show you in this video lecture here, my paid group has never seen this before, and you're seeing it for the first time.
+So when you hear people talk about market structure, and they're looking for a higher high, higher high, higher high, and having successive lower lows behind them,
+and then you have a failed higher high, and then it breaks the swing low right before that failed higher high, they look at that as a change in trend.
+Not all the time. Many times that's a good buying opportunity for me, because really that's just coming back down to a deep discount,
+and I'm going to buy those and continue it higher.
+So it's a little tricky if you don't understand the higher time frame, which is what these red levels are that's higher time frame.
+The hierarchy in parent to child price swings, so that way the subordination that the smaller time frame price swings adhere to from the higher time frame
+is directly linked to the order flow on those higher time frame charts.
+So in other words, what am I saying? The daily chart has the bulk of the volume that's coming into that marketplace.
+There isn't a lot of volume coming in on a one minute chart.
+That's not to change the importance or reduce the importance rather of a one minute chart within the proper context and market structure that's underway.
+So you can use a one minute chart to navigate because as a smaller retail trader, which is who we all are,
+but we don't trade with retail logic.
+There's a separation from what we're trying to do in price versus the collective out there that learns from books and things like that.
+Now that may sound like an oxymoron because I'm pointing to a book right here on the screen,
+but the ideas that he teaches early in this book about market structure I think is the whole,
+well, the only thing that I found useful in that book.
+I have a lot of respect for this man, but out of that entire book, his discussions about market structure,
+that's the only thing I find that is useful from that book.
+So if you're reading anything else in that book, great if you like it.
+But my only addition to this for more research, for more of a foundational idea where I got this from,
+you're going to hear people say, he teaches Larry Williams market structure.
+No, I don't.
+The ideas that came early on in my learning came from this man's interpretation of market structure.
+But I want to take you into the chart now and show you what he's not teaching in that book,
+what he hasn't taught in any of his works, and it gets a little bit closer to the heart of the matter,
+and you'll find that it's really interesting.
+So if we have an imbalance that's rebalanced and we have an intermediate term high,
+shouldn't an intermediate term high have a lower short term high to the right of it,
+and a lower short term high to the left of it?
+Yes, Mr. Williams says so in his book also.
+What I discovered in my own study, no one taught this to me, I kind of pioneered this idea.
+I see a lot of these Instagram guys out there saying they pioneered something in the last two years of trading.
+The idea of an intermediate term high not being higher than the short term high to the left of it or the short term high to the right of it,
+in other words, it's going lower.
+An ideal scenario should be this high should be above both short term highs, but it's not.
+It's not.
+So what is it doing?
+It's only rebalancing this, and where is it likely to go?
+Well if you're thinking in terms of a pennant or triangle pattern, it's indicating to me,
+as soon as this candle starts to go up like this, this candle, and this candle.
+Why not this candle too?
+Well this candle only has this low here, this candle is an up close,
+but this starts the last two up close candles right before this move down.
+This is important because we're going to look inside this shaded area and how we can use highly precise ideas within this order block.
+I'm anticipating this run up with these candles forming an order block where everyone else is teaching the idea of the last up close candle before the down move.
+That is not my order block.
+That is not my order block.
+So you need to stop teaching that because it's not accurate.
+Call it something else, but don't call it an order block.
+This movement here, these two green candles that are going up, I'm watching these as they form light.
+With the expectation, because this imbalance has been rebalanced here, this swing high is an intermediate term high,
+I do not expect this high to be taken out.
+I'm already forecasting and anticipating a failed price swing in here.
+Every time these green candles are forming, I'm looking at that as a bearish order block.
+So from the beginning at that candle's low, I'm looking in time on lower time frame charts.
+Lower than what?
+Well this is a one hour chart.
+So what's the time frame below that?
+I dropped to a 15 minute time frame.
+Now, before I get any further, just know that the range between this long term high and this long term low,
+that range is going to be used for targeting purposes and I'll get into that in a moment.
+But these up close candles, from the hourly perspective, that's the range for my hourly order block.
+Inside that range, I can be hunting fair value gaps.
+Light bulb!
+I don't need to see the market trade down below the last highest up close candle.
+I don't need that because I understand what I'm looking for inside market structure.
+Actual market structure, not just high or high or low.
+I'm looking at the underpinnings of the marketplace and I'm examining what is it doing high to high, low to low,
+within a higher time frame premise.
+Remember the premise was we were going to go up to this upper level here,
+rebalance and then eventually trade lower down below sell side liquidity.
+In this fractal, I'm using this one here just to illustrate the idea.
+So in other words, up here, it's going to make a short pattern, something bearish to get short on.
+Then work towards going down to that low.
+Now clearly you can see it here, it does so nicely.
+But I want to take you into this price action right here.
+Before I zoom in, look closely, what do you see?
+Pause the video.
+I'm not pausing the video, ICT.
+And you can't make me.
+Right in here, you can see a small little imbalance.
+This one single candle like that, right there.
+That's the same thing that was occurring in this move here on the hourly chart that gets rebalanced there.
+Here, we have a smaller version of it.
+That is a fractal.
+That's something that repeats on a smaller or higher time frame that's similar in its formation.
+It won't be identical, but it's closely related to the general idea.
+If it trades back to this candle's high, don't worry, I'll zoom in in a moment.
+That's your entry, right there.
+That's aggressive, and I don't have a problem being aggressive if I know what I'm looking for.
+But there's also an imbalance in here, and it rebalances that right there.
+Now, once we establish the market structure on that hourly chart,
+I'm not going down into the lower time frames below it and marking out all the swing highs and swing lows either.
+That's overkill.
+I just need to know what I'm looking for on a time frame I'm trading on.
+The logic is based on that daily chart that it's going up into this imbalance to go lower.
+The hourly chart frames my trade.
+It gives me what I'm looking for to start hunting entry techniques.
+Now, the 15-minute time frame, that's the bellwether.
+This is where it's going to give me the actual get in, get out.
+But I might not like the risk parameters that's required on this time frame, so I can go down into the lower time frames.
+Should price go lower and break lower?
+I'm looking at that short-term low here and that intermediate term low there.
+If we have a short-term low taken out and an intermediate term low taken out, or just an intermediate term low taken out,
+then we can go back to the previous long-term high, long-term low.
+Now, a long-term high and long-term low is generally going to be linked to a higher time frame daily chart.
+That might be a price range, it might be a high to a short-term low.
+In this case, I'm framing the idea and logic around that fair value gap that I outlined in front of all of you,
+saying it's likely to go up there, rebalance, and then go lower, and take out that old daily low.
+There's lots of ways you can frame your trade, but you have to have something directly linked to that daily chart,
+because the daily chart, that's exactly what institutions are working off of, that's exactly what banks are working off of.
+That's where the money is.
+That's where your bias is going to be determined. That's going to be what makes or breaks your trend continuation, that daily chart.
+So the majority of your time and study should be on determining where that daily chart is going over the next day or two, or a week.
+But you try not to forecast longer than a week.
+Not that you can't. I'm not suggesting that anyone can't do that.
+I'm just saying, as a developing student, you want to keep your perspective limited to a five-day time horizon.
+And don't be upset if you don't have the entire weekly range forecasted correctly. That's not important right now.
+You're growing. You're trying to learn how to do this, and it's highly technical. No one gets it overnight.
+It took me six years. But it pays off if you stick with it.
+So if we have a break below in any return low, then we have what?
+A significant break in market structure.
+This is something that's more significant just simply than going into a chart and saying, OK, well, it took out a short-term low.
+There it is. See how much more detailed this is?
+What this tells me is, then I can start using this range high and low and start getting projections down.
+I can get a measurement of measuring this high to this low and start replicating that going down.
+And it'll give me price targets. They're generic price targets.
+If you don't want to use that targeting method, this long-term low to intermediate-term high,
+if price breaks below here, as it does here, you can simply take your Fibonacci, anchor it to the highest high down to the lowest low,
+and this is what you would get here.
+Why am I using that? Why am I not using this here to here?
+Because this return back up, this is where all of this move starts right there.
+This is just the beginning of the framework.
+This is where the swing begins on the decline.
+Follow what I'm saying? I'll say it again.
+This high and this low, that's your framework.
+The retracement that fails, that starts the decline, begins here at the intermediate-term high.
+So if you anchor your Fib to the intermediate-term high down to that low, which is a long-term low,
+the projection is negative one and a half standard deviation, and there's your low.
+How much lower than this can it go? That's one way of determining it.
+Now I know what you're asking. What is your Fib settings, ICT?
+There's my Fib settings.
+I don't toggle everything because I don't need all the lines,
+but I'm looking at measurements like this, with logic behind it.
+It's not just me randomly going in there, because I get a lot of questions.
+When I was on Baby Pips, I got lots of emails all the time and people would post on the forum.
+Why are you anchoring your Fib to that swing high and that swing high and not this swing high?
+This is what I never taught. This is what I'm showing you today.
+This is advanced market structure. This is not something you're going to find in books.
+Mr. Williams, I'm sure, doesn't even know it like this.
+He's rather simplistic in the way he does things.
+That's the only thing I've really gleaned from him.
+He's a legend, don't get me wrong, but he does things rather simplistic.
+But because my background is computer programming and computer science and I have obsessive-compulsive disorder,
+I need to know why things do what they do, and I need to know everything.
+Now, I don't know everything, but my pursuit of knowing everything led me to look at markets like this
+and internalize how the algorithms are doing, because there has to be a rhyme and reason, right?
+Like, to suggest the idea that these markets are operating under an algorithm
+and they're going up and down based on an AI, artificial intelligence, is controlling this.
+It's not your buying and selling pressure, and I've said this many times before,
+but if that is true, and let's suspend your disbelief if you don't believe there's an algorithm,
+just for the sake of this conversation, let's just say for a moment that you do subscribe to the idea.
+If there's an algorithm, that means it must follow some form of logic.
+And how does it reference how far to go up and how far to go down?
+It cannot see your stop.
+It doesn't see Michael's stop, it doesn't see Renee's stop, it doesn't see Juan's stop,
+it doesn't see Brian, Larry.
+That's outside of its capability, but it knows where people will have their stops,
+based on these ideas.
+Short-term high, short-term low, intermediate-term high, intermediate-term low, long-term low, long-term high,
+and where the imbalances are.
+Now, I already know right now, at this moment, right now, your heads are spinning.
+You're probably sitting here looking at, man, this is crazy.
+How do you come up with this?
+And how the hell am I going to use it?
+Exactly, you're going to take time learning this.
+Line upon line, precept upon precept, here a little, there a little.
+It takes time to do this.
+But, I got requested to teach market structure, and this is my interpretation of market structure,
+because I'm leaning on algorithmic principles that are in the marketplace, that can't be taught to you,
+but I'm creating a language so that way you can see it visually in your chart,
+and you can measure and reference certain things, not exactly like the algorithm does,
+but very, very close to what it's doing.
+Which, in my mind, doesn't really step on anybody's toes now, does it?
+So, if we're looking at this little shade of area here, I'm going to zoom in now and get down to the hardest teaching.
+This is the same 15 minute time frame, I'm going to zoom in a little bit more.
+This is an aggressive entry for going short.
+Now, that hourly chart was showing those two candles going up.
+In the 15 minute time frame, it's obviously more candles.
+So, in this up close candle series of one, two, three, four, five candles,
+in that range, if I get a fair value gap form with a breakdown like this,
+notice I don't need a swing low broken.
+Notice that?
+In the model I'm teaching you, you have to look for what?
+The short term low being broken, that's your market structure shift,
+then you see price go up into that imbalance and then you can go short,
+or vice versa when you're going bullish.
+If you understand market structure with this perception,
+looking at it from a higher time frame and anticipating a breakdown,
+but then starting to classify each imbalance and swing high and swing low,
+intermediate term highs and lows are formed at the rebalancing of an imbalance.
+Everything I already said in the video, I'm just reiterating.
+If the intermediate term high is not higher than two short term highs,
+that is telling you that the market is very weak
+and the algorithm is tipping its hand to those people that are looking at it like this.
+Who would be looking at it like this?
+Smart money traders, someone that's not looking at a chart with harmonic ideas,
+nothing Elliott wave, they don't even look at support and resistance,
+that's not a factor, that's not a factor at all.
+When bank traders sit down, they're not looking at support and resistance,
+they care less about trend line,
+they don't care about moving averages, crossing over,
+none of that stuff.
+They're looking at imbalance, rebalance and liquidity,
+that is it, that's it, that's all they're doing.
+Now, framing that within the context of Forex,
+they would be utilizing the fundamental idea of interest rate differentials,
+which I'll talk a little bit about, not in this lesson,
+but I said we'd go into Forex,
+but right now we're teaching price through this medium and index futures,
+but this stuff works in Forex, period, okay?
+There's no reason to question whether it's just only going to work in this,
+it works in all markets.
+This is your aggressive entry, you don't need a swing low being broken
+because you have the idea based on market structure
+suggesting that this is exceedingly weak.
+If it's exceedingly weak, that means the next short term high,
+how do I know it's going to be a short term high?
+I don't know because I'm studying the up close candles
+because that's going to be an order block later on.
+Now, everybody else knows how to look at these candles
+after it goes below it and comes back up and bumps the bottom of that right there,
+so the bottom of that rectangle,
+that's the classic ICT bearish order block.
+The advanced interpretation of an order block would be using market structure like this,
+which is unconventional,
+but you start seeing the imbalances inside the order block
+when you're already expecting it to sell off.
+See, this entry in term high,
+I already know that this rebalance here
+classifies this, in my mind, as an entry in term high.
+That means it should not trade above that high,
+just like this short term high
+and this short term high did not trade above this entry in term high.
+Why is this an entry in term high when it didn't even rebalance anything?
+Didn't think I'd get to that question, did you?
+He's reading my mind.
+Here's a long term high,
+here's a swing high over here,
+swing high over here, see that?
+Long term high, right?
+In term high,
+short term high,
+or if you want to use this one,
+I'm using this one, not classifying this one,
+because this is energetic, it moves lower.
+You could have easily had a short term high marker there,
+but I'm using this one because it has that run lower to rebalance.
+The in term high has a lower short term high to the left of it
+and a lower short term high to the right of it.
+So, entry in term highs, there's two classifications.
+It is a short term high that has a lower short term high to the left of it
+and a lower short term high to the right of it.
+Or, and this is the main one here,
+it trades back up to rebalance and imbalance.
+That immediately becomes an entry in term high.
+Now, the usefulness of that is
+if we're bearish and it rebalances like this,
+the next short term high should be lower than that entry in term high.
+If it trades higher than that,
+then your trade idea is probably flawed.
+Don't force that trade.
+Again, wait for market structure to get back in sync with what you're expecting,
+something bearish.
+That's how you keep from blowing your account
+or forcing your will in the marketplace.
+Now, let's go back into the order block.
+Inside these candles as it's going up,
+I'm looking at lower time frame charts,
+and this is a 15 minute time frame.
+We see it break down.
+It doesn't take any short term low out,
+but it's inside these up close candles,
+which is an hourly order block of two candles each.
+The imbalance trades up into it,
+that's your aggressive sell.
+Your stock could be right above that high.
+The classic low risk high confirmation short entry
+is the classic return back to an order block after a trade down below it.
+Here's your little gap,
+here,
+trade into it, there's your short.
+Where's your stop?
+Above this candle's high.
+There you go.
+Now,
+you can go down into the charts deeper,
+with your 5, 4, 3, 2, and 1
+narrowing down to a smallest time frame.
+You can see that the last two candles here,
+wait for the turn,
+inside the order block,
+the order block is the shaded pink box.
+But these last two candles here,
+with the gap,
+that low is exactly to the quarter point
+as that candle's high right there.
+Don't take my word for it, go into your charts,
+and you'll see that is exactly the perfect delivery to that candle's low.
+Why am I pointing to that candle?
+Because the order block is one consecutive series of up close candles.
+It's not the last candle before the down move.
+You can tell where these folks learned,
+what lessons I taught from,
+and where they parroted from.
+But,
+order block theory,
+is much more than just simply
+the last up close candle before the down move,
+or the last down close candle before the up move.
+That's not it.
+This is it.
+You have the up close candles together here,
+with the imbalance inside of a larger order block,
+within the bearish market structure,
+because we have an in-rant term high here,
+then this run up is going to fail to go back above this high.
+Now, I know some of you are like, this is too much.
+How am I going to be able to go into the chart and be able to do this?
+You're not going to right away,
+but you need to go back to your data and your charts,
+and start breaking them down and classifying them like this.
+You have the benefit of hindsight.
+That's how I began to trust it,
+because I would go through old data,
+and start breaking them down and looking for these things right here.
+That's how I bridged what I learned about how the algorithm prices
+and books price,
+and then I made a language within price charts
+that communicates very closely what it's doing.
+This is the language that I've created for all of you to understand
+what it is I'm trying to interpret to you that have never seen this before.
+The imbalance here,
+it goes over a little bit, that's okay,
+but inside this range in here,
+more specifically the order block,
+the hourly right here, that's where your fill would be,
+or aiming with your limit order,
+and the heat on the trade would be on this candle's movement there,
+but your stock will be above here.
+But you're aiming for a very large downside objective,
+so the risk from entering here at the bottom of the hourly
+bearish order block,
+which is again represented by the bottom of that rectangle here,
+you're entering there,
+the heat or the drawdown in the trade is limited to just that candle,
+but your stock has to be here,
+and you're expanding lower for a target that's many times over
+what your risk is.
+Dropping down to a four-minute chart,
+here's that same order block from the five-minute perspective,
+it's a little skewed now because we're looking at four minutes,
+each candle's four minutes in duration.
+Market trades up into that, hits it perfectly,
+not this length anything on the four-minute chart,
+but it's linked again to that five-minute chart.
+Hits it right there, beautifully, trades lower,
+comes right back up, trades into the top end that you see here,
+the top end that fair value gap on the higher time frame
+before we start dropping down,
+we have a little bit of movement above it,
+and that's okay because this market is very volatile right now.
+You can't demand the markets to always deliver
+with this level of precision,
+sometimes you get this little coloring outside of the lines,
+and that's okay,
+but if you're doing it with a certain level of precision,
+and time studying it and doing it,
+you anticipate a certain measure of imperfection,
+and still submitting yourself to the idea that
+just because it went above that level doesn't mean it broke it
+and it's going to keep going higher.
+It's likely to do that,
+and if it does, don't freak out.
+Then the market trades lower,
+and reaches for those targets.
+Now, what I want you to think about is
+when you see these patterns for entry,
+and tonight I taught you how to look at market structure
+from an advanced perspective,
+I already know some of you are going to be very confused
+by this lesson,
+and I understand your confusion,
+but that confusion is reduced by you going in
+and looking at price data,
+and start studying it and looking at it.
+The idea is this,
+when you see an imbalance get rebalanced,
+the high formed as it rebalances,
+that high should not be violated by price going higher than that
+if you're bearish.
+If you blend that with institutional order flow,
+what is institutional order flow?
+When you're bearish,
+all of your up-closed candles should keep price
+from going higher than them.
+What does that mean?
+We have an imbalance here.
+The market trades up into the bullish candles
+that were on the five-minute chart.
+We're on a four-minute chart.
+That's that red level here.
+Let me go back up just so you know.
+That's this one here.
+This is a down-closed candle right there.
+These are the last two up-closed candles
+before the displacement here,
+and then balance.
+The market trades back up into that right there.
+There's your bearish order block.
+It's aggressive, but if you know you're looking for it,
+on the four-minute chart,
+there's that same return back to that five-minute bearish order block.
+Watch what happens.
+Market breaks lower,
+so we have up-closed candle and up-closed candles.
+The market trades higher, yes,
+but does it overtake this up-closed candle?
+No, it just trades back up into it a little bit,
+but doesn't go above it.
+Wow, that's important,
+because if it doesn't overtake these up-closed candles here or here,
+it doesn't even need to get to these because it hasn't even overcome this one.
+So it acts as real resistance.
+That's institutional order flow.
+Your market, when it breaks again from the consolidation in here,
+all of these up-closed candles never get reached into again here at all.
+But notice what we've got over here.
+We have up-closed candles.
+The market leaves it.
+Then it comes right back up.
+Does it overtake these up-closed candles?
+No, so it's going to remain heavy.
+So in short,
+I've taught you tonight to look at the markets from a market structure
+perspective by breaking down the price swings, labeling them,
+specifically an imbalance that's rebalanced.
+That intermediate term, high or low,
+should not be violated.
+That's a key high or a key low.
+That sets the stage for a market move that should unfold and deliver to a higher
+timeframe objective.
+In this case, as we outlined in the beginning,
+I showed you last week and the week before that,
+that we were looking for weakness in NASDAQ to take out its daily low.
+If you combine that logic with market structure and the imbalance,
+rebalance becomes intermediate term highs and lows,
+those key highs and lows with them not being violated,
+if they are violated, that means your idea is wrong
+and you cancel the idea and you don't try to go in and force it again
+and overtrade and blow your account.
+While the market is moving in your favor,
+you're going to continue to trust that move and hold on to your trade
+because if you're bearish, up-closed candles should keep price below it.
+Or them, if it's multiple up-closed candles.
+There are speed bumps.
+They may come back up and touch them and act as a bearish order block,
+but you do not want to see them traded above if you're bearish.
+And vice versa, if you're bullish, when price is moving higher,
+generally the candles will be predominantly green in my case
+because I'm looking at green candles when it's going higher.
+Whatever your candle color is on your platform,
+predominantly there's going to be more up-closed candles when it's bullish.
+But down-closed candles should support price.
+If it trades back down to them,
+it's going to act as a support structure for an order block.
+So I've given you two main components
+to market structure and institutional order flow.
+How to know when the move is still good and not be afraid
+and how do you know when the move is likely to be dynamic
+and how do you know when the idea is probably flawed
+and your interpretation or your analysis is wrong.
+If that intermediate term high or low is broken
+after your trade idea becomes possible,
+if that intermediate term high is broken and you're bearish,
+then you've got to move through the sidelines and don't go in again.
+Wait for more setups in the future.
+It may be in the same trading session or it may be in the same trading day
+or it may require you to trade in the following week.
+You just can't force it.
+I taught you institutional order flow, which is again,
+I've already mentioned this in previous lessons
+where we're bullish and we're expecting a price swing higher.
+Generally, there is not a lot of down-closed candles
+in that price swing higher.
+But those down-closed candles should support price
+should it trade back down into them
+and not see them overlapped,
+in other words, going down below it.
+If it does, it's only permissible if there's a short-term low
+in close proximity to it
+and it's then likely to just go down and take out some sell stops
+if it's bullish and then reaccumulate and go higher.
+If there is no swing low,
+there would be no swing low with sell side below it,
+so there's nothing to concern yourself with.
+Just look for down-closed candles to support price higher.
+So in other words, price swings that are bullish,
+down-closed candles are your support.
+In price swings that are bearish,
+up-closed candles are your resistance.
+Now,
+if you blend these ideas together,
+you get a perspective on price
+that cannot be gleaned from
+other teachers, educators, traders, authors,
+gurus or whatever.
+But these are my responses to folks that ask me,
+how do I know
+what swing high and what swing low to use?
+As you can see,
+it's not a question that I can go in and say
+in one simple statement, this is what I'm doing.
+It takes deeper thought,
+it takes study,
+and it has to require supportive lessons
+that are still going to be needed for the majority of you
+because I can see what you're saying.
+I can see it, but there's no way I would have came to that
+conclusion on my own.
+Nobody would expect you to. You're too new.
+You haven't been doing enough.
+And frankly, I've never taught this before.
+This is what I've kept close to my vest.
+But I want to give, and I want to share,
+but you're not going to understand this in one lesson.
+But because I am trading,
+I will show you more examples.
+That way you can see the logic behind it.
+But I want you to go back to your charts
+and look at every time the market rebalances.
+Classify that as an intermediate term high
+or intermediate term low.
+And then watch how prices
+stay away from violating it.
+And if you can frame a context around a price swing
+that's linked to a higher time frame chart like the daily,
+then you have
+a wonderful model
+that has higher time frame order flow behind it
+that is paramount for your trade to work.
+If you can't see it working
+or following suit to
+what the daily chart's likely to do,
+or in layman's terms, if you're trading against
+what that daily time frame or daily chart is likely to be doing,
+you are absolutely asking for failure.
+You're asking for it.
+You're begging for it.
+That's not to say that you can't go long
+when the daily chart's going lower.
+But why would you want to?
+Why would you want to swim against the tide?
+Why would you want to be the salmon?
+The salmon that fights its way up against the current
+just to get to the top of the river
+that spawns and then dies.
+You got there, but failed in the end.
+You want to be working with the tide.
+You want to be moving with the ebb and flow
+of these markets on a higher time frame
+because that daily chart, if you understand that daily chart,
+let's go back up to it.
+If you're doing all of your analysis
+and you're making your trade ideas
+based on the logic behind this time frame here,
+you're going to avoid
+a lot of losing trades.
+Now, you're going to lose and you're going to have losing trades.
+I have losing trades.
+But you're going to avoid the silly mistakes
+that the majority of retail traders make.
+You're not going to see why
+on a 15-minute time frame or a 5-minute chart,
+when it feels like it might be doing so.
+Because you'll have these small, quick,
+dynamic little pops in the direction it's countering
+what the daily chart is suggesting.
+Those are just little traps.
+They're little moves that get people caught up in,
+oh, it's going to go reverse, and you're going to chase that.
+And then it just creates another selling opportunity
+when the daily chart is likely to continue going lower.
+So you have to submit yourself to what this daily chart is doing.
+When it reaches it, stop.
+Get a lay of the land again.
+Check your bearings,
+which is what I'm going to close this video with now.
+We were up here.
+We rebalanced. I said, all of this here is just normal
+for us to anticipate a run down below here.
+This is just rebalancing for another leg lower to go down here.
+So, we have had that
+in price. It's delivered.
+Now we're back above that low.
+So what does that mean for us?
+Well, on the daily chart, it's been bearish.
+But we're back above this old low.
+That is, in my mind,
+do nothing. We're neutral right now.
+Why? Why would you be neutral?
+Can you still be bearish? Yes.
+Can you be bullish?
+If you want to go against the trend of the daily time frame,
+it just brings with it a greater measure of risk.
+Now, there's going to be times
+where you can go back in the chart and say, but yeah, look at this time.
+Anybody can do that.
+I'm looking at the hard right edge right now.
+And my paid mentorship group is here in this video just like you are.
+I am neutral right now.
+I am not taking any trades.
+There's a lot of things going on globally.
+There's a lot of confusion right now.
+I'm scared in the marketplace,
+and I don't see where we're going next
+with a great deal of certainty.
+So, what did I just say to you publicly?
+I don't know.
+What did he say?
+He said he doesn't know something.
+He doesn't know what the market's going to do. Right now, I don't know.
+So, if I don't know, and if I can't classify it
+based on the things I'm looking for in price,
+it could possibly go a little bit higher.
+It could be the low. It could be some kind of reversal.
+You stop doing what you're doing over there in Europe and Ukraine
+and everything becomes happy,
+and nothing happens bad again for a couple months,
+and the markets go higher.
+I don't see that right now.
+I don't know if it's going to continue going lower.
+Where it's at right now,
+neutral.
+I don't want to justify it one-sided in this.
+This is how I teach my P group.
+The things I teach them,
+if you can't go into your charts
+and line up an idea that's bullish
+and have no way to frame it on a bearish stance,
+in other words,
+if you can very easily communicate it in your analysis
+that it's likely to go higher,
+but it's a real hard stretch to sell it for a bearish idea,
+that's high probability.
+If you can frame it bearish,
+but have a hard time defining it in a bullish perspective,
+that's high probability.
+Now, how many trades have you taken in your time as a trader
+where it could go either way,
+but what the hell? I got time.
+I'm in front of the charts. Let me just get in here and see what happens,
+and you enter a market, and then you lose.
+What happens after that? You have a lot of regret,
+which you're thinking, I don't even know why I did that.
+I was dumb. Why did I get into the marketplace?
+Everyone's done that. Everyone has done that.
+And I have blown accounts doing that.
+1990s, I was reckless,
+did whatever I wanted to do, and none of it was really
+hinged on sound logic.
+It was me discovering risk, because I didn't respect it
+when I first went into it.
+But I found that real hard, that it hurts.
+So,
+this brings this lesson to
+conclusion tonight, and I am absolutely certain
+that you have a litany
+of questions and concerns
+and confusions. All of those things
+get answered over time.
+Spending time with me, looking at examples,
+and you'll see it over time.
+It cannot be understood in one lesson.
+And I know some of you young guys are going to want to post
+in the comment section, I understand exactly what you said.
+I've seen this 15 times before.
+I don't look at those messages and think to myself,
+wow, I'm not going to let that message
+be posted to the video comment section.
+I'm not looking for
+messages that fluff me up.
+I'm just looking for ones that I like.
+And if it's something that I think would be beneficial
+to the community, I'll use it. But if it's something I just thought
+it was funny or
+useful, that's the one I like out of all the comments.
+It doesn't mean that all the comments that were not selected
+were useless or
+less important because some of them are questions.
+I'm using your questions
+in the way I'm teaching, so that way I'm covering a lot of the bases
+that you guys are saying, I'm stuck with understanding this.
+But just know that there's a lot of the questions that you're asking
+to be answered in a normal progression through the lessons I have planned for you.
+It may not feel like it.
+It may feel like you're being ignored or that I don't care about your question
+or I'm somehow avoiding it because I don't have an answer.
+I have answers.
+I have answers to the questions you have not had arise in your thoughts yet.
+But you just got to relax and go through the natural progression of it.
+This is very technical stuff, folks.
+Very, very technical.
+You don't need to be this technical, but I was asked to teach
+market structure, and there's a lot of folks out there, especially on YouTube,
+that pretend to know about market structure,
+but they have no real idea what they're doing.
+The only thing they're explaining is what's already happened in the price charts.
+I'm showing you something in greater detail
+what I outlined to every one of you in this YouTube channel.
+Everyone in this YouTube channel watched me outline
+this market right here, and it moved
+1400, 1500
+points based on that logic.
+That's a lot. That's a very significant price move.
+And it behaved exactly how I'm teaching it to you.
+That should be
+reassuring, number one,
+but also it should be intriguing
+because if I'm able to sit down with you,
+and this was not a charity, how many times have I put out suggestions
+either in the comments section
+of my community tab or in video?
+How many times have I said something and it didn't come to pass?
+They're not cherry picked.
+I'm showing you things that are based on the logic
+that I'm teaching you.
+It removes the necessity for blind faith.
+Don't believe me because I'm ICT.
+Believe what I'm teaching you and that you're seeing
+in the charts yourself when you're back testing
+and watching it live.
+That's where the proof is discovered.
+Because I can do this every single day,
+and the folks that are convinced already, they don't need any more assurance.
+They just want to learn, and that's what I'm doing.
+I'm teaching you. I'm teaching you exactly
+what's going on on that hard right edge of that chart.
+And right now, at this moment,
+I'm teaching you a greater lesson
+when not to do something.
+You may have an account open.
+You may have time to be in front of your charts.
+You may have an idea.
+Some kind of inkling
+that you think the market's going to do this or that.
+I'm telling you personally,
+I'm not touching this at all.
+I'm not trading Forex. I'm not trading futures.
+I'm not trading crypto. I've never traded crypto.
+And I'm not touching stocks. I'm not touching bonds.
+I'm not trading anything right now.
+I'm going to let the rest of February
+transpire without me engaging.
+It's done exactly what I outlined for all of you.
+It was a nice price move.
+It was logical. It was precise.
+It delivered exactly as I outlined beforehand.
+And tonight, I taught you the internals behind that
+in a very structured, detailed way.
+Your infancy as a student under me
+is going to be an impediment to you understanding everything.
+And even my paid mentorship group
+are probably scratching their heads tonight too
+because there's gaps in their understanding
+because I just literally introduced this
+for the first time.
+They don't have this in any of the lessons they had.
+None of them. No one has seen me teach this.
+This is the first time I'm unveiling
+what it is, when I look at market structure,
+what is it I'm doing?
+How am I framing things?
+I'm going to go into the lower time frames.
+But the time frame I'm framing the setup on
+which was the hourly chart
+using higher time frame logic
+and the order file, in other words,
+I'm bearish because that daily chart suggests
+that it's going to go down below here
+when it was up here.
+This went down too quick.
+And why does the market even create a fair value gap?
+Because it's one sided right here.
+It just went down.
+There wasn't a lot of give and take back and forth.
+It's one candle that went down like that.
+Because it's one candle, it's one day, one interval
+it's going to have the likelihood
+not it must always,
+not that it's going to do it immediately,
+but the expectation is it's likely to go back up
+into this area here with an up candle
+the movement lower
+is going to go back up to offer buyers an opportunity
+to buy at those prices. It matters not
+if those buyers are correct in their assumptions
+about this marketplace.
+The algorithm is allowing efficiency
+for price delivery.
+And in layman's terms it means
+it went down too quick, it wasn't offering enough time
+for anyone that wants to buy it.
+Once it does that it rebalances
+spends a little bit of time and then displaces it again
+and then right to where we're outlining it.
+The question I want to leave you with
+is this
+why does it respect the levels I'm teaching
+here and the logic from
+imbalance to liquidity
+if everything is based on trend lines
+moving averages, harmonic patterns
+Fibonacci this, Elliot wave that
+if those things were real
+and they had factors that really made
+price go higher or lower
+answer this for me, this is the riddle you need to figure out
+okay
+how does the market know
+which discipline it's going to follow
+any given day?
+Is it going to follow internal patterns?
+Or is it going to follow Elliot wave?
+Or is it going to use supply and demand?
+Or is it going to use volume profile?
+Is it going to use white cough?
+Is it going to use the patterns that's found on range bars?
+Is it going to use what's in Ichimoku?
+You getting the point yet?
+All of those disciplines do not agree
+all of them
+they're at odds with one another
+one discipline is going to say wait for this
+one discipline is going to say wait for that
+so how is it that the market
+determines which discipline it's going to use
+for that given time period or that day?
+That's nonsense
+that's you being religious
+any of you that subscribe to those ideas
+and I did
+you are under a faith based premise
+that what you're learning
+should work
+when it's not based on any of those things
+the markets only book
+and print these candles
+on two principles
+liquidity
+going above old highs for buy stops
+going below old lows for sell stops
+or rebalancing or creating imbalance
+so it's imbalance rebalance
+run for liquidity that's it
+it does not do anything else
+the algorithm is not looking at harmonic patterns
+it's not thinking well you know I haven't used the bat pattern in a while
+it's not thinking
+I want to scare the living hell out of them and create a shark pattern
+it's silly
+and I know some of you trade like this
+and I'm not trying to make fun of you
+I'm just asking you to be highly critical
+about a perception of what it is that we as traders do
+and how much of fallacy it is
+when you strip all that stuff away
+and it sounds like I'm biased because this is what I'm teaching you
+but notice what I'm doing
+I gave up millions of dollars a year
+to come out here and teach for free
+I could still be making millions
+there's many of you are still asking can I just join or you're paid
+no you can't join be happy I'm teaching
+I'm teaching mentorship right here come on
+what's in it for me
+I'm already rich
+a lot of people like what I do
+I don't need to be
+doing this I just enjoy it
+but why is the market doing what I teach
+so precisely so consistently
+maybe it's because
+this is the market
+maybe it's because
+this is the algorithm
+that allows you to decide
+enjoy your weekend be safe
+and I'll talk to you on Tuesday

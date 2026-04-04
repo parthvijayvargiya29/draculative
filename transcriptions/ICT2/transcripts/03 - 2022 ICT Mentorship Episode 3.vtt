@@ -1,0 +1,317 @@
+WEBVTT
+
+00:00.000 --> 00:18.680
+All right, folks, welcome back.
+
+00:18.680 --> 00:26.120
+All right, so this is the Tuesday, January 25th, 2022, ITT mentorship on the YouTube
+
+00:26.120 --> 00:27.120
+channel.
+
+00:27.120 --> 00:28.120
+All right.
+
+00:28.560 --> 00:32.400
+This is the internal range liquidity and market structure shift lecture.
+
+00:32.400 --> 00:38.240
+All right, so I gave you homework on the community tab.
+
+00:38.240 --> 00:42.000
+If you have not been paying attention to that, that's where I'm kind of keeping you abreast
+
+00:42.000 --> 00:47.040
+as to what you should be expecting next or something that just comes to mind that I feel
+
+00:47.040 --> 00:48.040
+like sharing.
+
+00:48.040 --> 00:50.640
+So this is the link I sent out the other day.
+
+00:50.640 --> 00:57.080
+And I wanted you to go through this particular chart and look for reasons that provided the
+
+00:57.120 --> 01:02.520
+market structure shift and the buy side and sell side liquidity.
+
+01:02.520 --> 01:06.480
+So if you have not done that, please stop the video and do that now.
+
+01:06.480 --> 01:09.880
+Otherwise, you're cheating yourself of learning opportunity.
+
+01:09.880 --> 01:18.840
+All right, so here is that chart, again, 15 minute time frame on the e-mini NASDAQ 100
+
+01:18.840 --> 01:23.120
+futures contract for March delivery 2022.
+
+01:23.120 --> 01:25.240
+And take your attention over here.
+
+01:25.240 --> 01:26.540
+OK.
+
+01:26.540 --> 01:34.020
+This old low and these relative equal highs, see that?
+
+01:34.020 --> 01:37.820
+Old low below that is sell stops.
+
+01:37.820 --> 01:40.380
+And relative equal highs above that is buy stops.
+
+01:40.380 --> 01:42.420
+Now, you could have used this high here.
+
+01:42.420 --> 01:44.260
+There's nothing inherently wrong about that.
+
+01:44.260 --> 01:49.180
+But whenever I see equal highs like this, and if it's higher than an old high over here,
+
+01:49.180 --> 01:50.180
+I'm going to use that.
+
+01:50.180 --> 01:55.300
+So that way, there's a little bit of insight for you for your study journal.
+
+01:55.300 --> 02:00.060
+The sell side liquidity, you can see that the market trades down, hits that, runs through
+
+02:00.060 --> 02:05.820
+it and rallies all the way back up, clearing equal highs.
+
+02:05.820 --> 02:07.780
+So the buy stops have been taken here.
+
+02:07.780 --> 02:08.780
+OK.
+
+02:08.780 --> 02:17.780
+So at both of these price points here and here, that's the, I guess, the point at which
+
+02:17.980 --> 02:22.900
+you'll look for or anticipate a market structure shift and you don't force it.
+
+02:22.900 --> 02:23.900
+OK.
+
+02:23.940 --> 02:25.180
+I'll try to teach my concepts.
+
+02:25.180 --> 02:30.540
+It'll talk about market structure breaks or shifts, and we'll use that term interchangeably.
+
+02:30.540 --> 02:37.580
+But for intraday, I want you to think about intraday market structure shifts because it's
+
+02:37.580 --> 02:44.900
+not necessarily a break in market structure that leads to prolonged multi-day movement.
+
+02:44.900 --> 02:45.900
+OK.
+
+02:45.900 --> 02:49.660
+What do I mean by that?
+
+02:49.660 --> 02:56.420
+If you see a market structure that's bearish and it's broken to the downside, intraday,
+
+02:56.420 --> 03:02.500
+that may just lead to an intraday price lag that may eventually see that high be taken
+
+03:02.500 --> 03:04.200
+out in the same day.
+
+03:04.200 --> 03:10.740
+So that's why I'm using the term market structure shift, not market structure break.
+
+03:10.740 --> 03:15.300
+For our conversation here on this mentorship, just know that when I'm going to lean on that
+
+03:15.300 --> 03:21.780
+term market structure break, it means a little bit more in context versus an intraday shift
+
+03:21.780 --> 03:22.780
+in market structure.
+
+03:22.780 --> 03:29.460
+It just means that there's likely a downside draw or an upside draw intraday by saying
+
+03:29.460 --> 03:30.460
+the term shift.
+
+03:30.460 --> 03:31.460
+OK.
+
+03:31.460 --> 03:33.140
+So there's a little bit of semantics there.
+
+03:33.140 --> 03:34.140
+All right.
+
+03:34.140 --> 03:41.860
+So we have both of these areas here and here where there would be a likelihood of a market
+
+03:41.860 --> 03:43.620
+structure shift.
+
+03:43.620 --> 03:47.780
+Up here, we look for a fake run above here.
+
+03:47.780 --> 03:51.260
+So that fake run above, how do we know it's going to be a market structure shift that's
+
+03:51.260 --> 03:52.260
+bearish?
+
+03:52.260 --> 03:56.620
+I get that question a lot, even from mentorship students.
+
+03:56.620 --> 03:59.460
+What you're looking for is the evidence I'm going to show you here tonight.
+
+03:59.460 --> 04:00.460
+OK.
+
+04:00.460 --> 04:03.180
+Forget everything else everybody else says about market structure breaks and shifts
+
+04:03.180 --> 04:04.740
+and all that stuff.
+
+04:04.740 --> 04:05.740
+This is it.
+
+04:05.740 --> 04:06.740
+OK.
+
+04:06.740 --> 04:07.740
+This is the brass tacks.
+
+04:07.740 --> 04:11.300
+There's absolutely nothing else that you need to know about it, I promise you.
+
+04:11.300 --> 04:15.020
+If they add anything to it, it's just because they want to sound and look different.
+
+04:15.020 --> 04:21.700
+But this is the algorithmic perspective of a market structure shift intraday.
+
+04:21.700 --> 04:28.420
+Now keep this price level in mind, so it's essentially $14,600 and $14,820.
+
+04:28.420 --> 04:32.540
+We're just eyeballing it, OK?
+
+04:32.540 --> 04:39.460
+Now dropping all the way down into a two-minute chart, this is that same particular day.
+
+04:39.460 --> 04:42.900
+There's those relative equal highs.
+
+04:42.900 --> 04:48.780
+And this run down here, OK?
+
+04:48.780 --> 04:59.260
+If you recall, $14,600 and around that $14,860 or so, OK?
+
+04:59.260 --> 05:07.340
+If you look at this market structure, without having the levels on your chart, it's easy
+
+05:07.340 --> 05:13.420
+to get lost in all of the quote unquote noise, the uninitiated, and I know it's going to
+
+05:13.420 --> 05:16.500
+razz the people that don't care to really learn here.
+
+05:16.500 --> 05:20.620
+But the uninitiated folks that will watch a video or listen to some of the lectures
+
+05:20.620 --> 05:26.140
+I'll put out, they're trying to bring something in, they're trying to bring in their preconceived
+
+05:26.140 --> 05:30.980
+notions and ideas about what they think they understand about markets or technical analysis
+
+05:30.980 --> 05:34.260
+or something in price action.
+
+05:34.300 --> 05:40.900
+I want to kind of like allow you to just put that aside for a moment and just imagine this
+
+05:40.900 --> 05:45.740
+chart is the first time you looked at price action for the first time, and that's hard,
+
+05:45.740 --> 05:50.620
+but kind of like strip away everything else that you want to bring to the conversation.
+
+05:50.620 --> 05:54.580
+No order block discussion, no breaker, none of that stuff, OK?
+
+05:54.580 --> 05:57.020
+Supply and demand, Elliott Wave, all that garbage.
+
+05:57.020 --> 06:04.300
+If you look at this price action here, when we had this low form, right before this low
+
+06:04.300 --> 06:09.980
+was formed, there's a swing high right there.
+
+06:09.980 --> 06:17.380
+Now in the first mentorship video I gave you, I mentioned that high frequency trading algorithms
+
+06:17.380 --> 06:22.060
+will use market structure on a three minute, two minute, and one minute chart many times
+
+06:22.060 --> 06:24.100
+sub one minute.
+
+06:24.140 --> 06:31.460
+That would be like 45 second, 30 second, 15 second intervals, OK?
+
+06:31.460 --> 06:37.140
+What the algorithms are actually doing, and this is also going to correct a lot of people
+
+06:37.140 --> 06:43.900
+out there because they put out misinformation, it's so nonsensical, but I'm challenging you
+
+06:43.900 --> 06:47.660
+to go into your charts and see if this is not what's actually going on because it happens
+
+06:47.660 --> 06:48.660
+every day.
+
+06:48.660 --> 06:52.660
+If high frequency algorithms are operating every single day, then these signatures will
+
+06:52.700 --> 06:56.700
+be in the chart, OK?
+
+06:56.700 --> 07:02.900
+If you look at this short term high here, right before this low formed, when this high
+
+07:02.900 --> 07:07.540
+is taken out right there on that candle, that's significant.
+
+07:07.540 --> 07:17.980
+Only, only if this run down here has traded into sell stops, OK, below an old low of some
+
+07:18.300 --> 07:23.980
+kind, it could be a double bottom, it could be a single low, OK, but it's got to be trading
+
+07:23.980 --> 07:31.980
+under some retail idea that would be viewed as support.
+
+07:31.980 --> 07:41.660
+Up here the same thing, we're trading above highs, so we know that above old highs a neophyte's
+
+07:41.660 --> 07:43.300
+perspective will be.
+
+07:43.300 --> 07:45.540
+These are unknown orders, so therefore that's a
+

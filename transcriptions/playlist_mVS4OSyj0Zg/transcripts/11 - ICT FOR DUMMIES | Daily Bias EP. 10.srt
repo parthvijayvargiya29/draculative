@@ -1,0 +1,2660 @@
+1
+00:00:00,900 --> 00:00:03,420
+Welcome to ICT for dummies
+
+2
+00:00:06,900 --> 00:00:12,940
+All right guys, wait, what episode are we on time bro? Yeah, it's fucking dude. I grew up had kids
+
+3
+00:00:13,620 --> 00:00:16,220
+died came back to life and
+
+4
+00:00:16,740 --> 00:00:20,040
+Now we're starting to do GTA 6 is about to come out. Yeah
+
+5
+00:00:21,180 --> 00:00:27,720
+No, genuinely. This is like from the bottom of my heart our hearts. We are so so sorry
+
+6
+00:00:28,080 --> 00:00:34,680
+And the reality is that we didn't stop the series because we didn't want to finish it, but we just realized
+
+7
+00:00:35,360 --> 00:00:38,960
+that we hadn't shown you a lot of like our lives outside of trading and
+
+8
+00:00:39,720 --> 00:00:40,600
+You know
+
+9
+00:00:40,600 --> 00:00:45,400
+We wanted to just show you a little bit of other shit that goes on in our life because I don't want it to just be
+
+10
+00:00:45,400 --> 00:00:51,560
+Trading related, but now we're gonna push out this entire series. It's gonna be fucking insane. What the fuck are you doing, bro?
+
+11
+00:00:51,560 --> 00:00:53,400
+Actually, I'm the fucking
+
+12
+00:00:53,440 --> 00:00:57,840
+And this is about to be the sauciest shit the world has ever seen literally the sauciest
+
+13
+00:00:58,320 --> 00:01:03,920
+Series the world has ever seen. I mean, it's already been super saucy, you know, we're underrated but it's fine
+
+14
+00:01:03,920 --> 00:01:09,640
+You're not gonna find something that explains these concepts as well as we do. Anyways, let's spin back that intro
+
+15
+00:01:10,320 --> 00:01:14,160
+Welcome to ICT for dummies episode 10
+
+16
+00:01:15,360 --> 00:01:17,360
+daily bias
+
+17
+00:01:18,240 --> 00:01:22,480
+Daily bias. Yeah, I'm rolling hella deep. I feel like a damn daily bias
+
+18
+00:01:23,440 --> 00:01:25,440
+Bitch, I'm gonna hell. Hey, yo
+
+19
+00:01:26,120 --> 00:01:29,520
+Yeah, chill on me chat. Um, I let's run this bitch up. So
+
+20
+00:01:30,200 --> 00:01:35,120
+Whoa, and today guys, whoa, we are going to be covering daily bias
+
+21
+00:01:35,440 --> 00:01:40,680
+Like Pat said this is going to be probably like the sauciest episode we have ever recorded
+
+22
+00:01:41,280 --> 00:01:47,400
+Yeah, definitely the sauciest episode we ever recorded. It's going to be going over drawn liquidity and how I find my bias every day
+
+23
+00:01:47,480 --> 00:01:54,640
+We're gonna first get into why the market is moving get into the two ways to actually find your bias and drawn liquidity and the five
+
+24
+00:01:54,640 --> 00:01:56,640
+Questions that you have to be asking yourself
+
+25
+00:01:56,880 --> 00:02:00,720
+Or really like three questions you have to be asking yourself and that's how you'll find your drawn liquidity
+
+26
+00:02:00,720 --> 00:02:05,360
+And then from there, you know, I'll show you guys some drawings and then we'll get into some chart examples
+
+27
+00:02:05,360 --> 00:02:09,760
+Oh drawing drawn liquidity. That's a lit if I've ever heard of lit super cool. Super cool
+
+28
+00:02:10,040 --> 00:02:13,480
+Can we move our face cam to the right because it's gonna be covering the minute time frames and shit
+
+29
+00:02:13,480 --> 00:02:15,720
+They're gonna need to know what time frame around so it's better. So I'm sure it is
+
+30
+00:02:15,720 --> 00:02:19,080
+Yeah, they don't have to know the minute time. Yeah, they do because if I'm like I'm going on the hourly chart right now
+
+31
+00:02:19,080 --> 00:02:23,400
+They need another run the hourly chart. So let's move it over to the right side. I know it's not usual
+
+32
+00:02:23,400 --> 00:02:26,960
+But I don't feel comfortable right now. Yeah, I'm not gonna run the right side now. So
+
+33
+00:02:28,040 --> 00:02:31,380
+Let's get into this. All right. So first off guys again, like we're
+
+34
+00:02:32,520 --> 00:02:35,520
+Let's get into this. All right. So why does the market move?
+
+35
+00:02:35,520 --> 00:02:39,480
+Okay, so when you're finding your bias for the day, you have to be asking yourself
+
+36
+00:02:39,480 --> 00:02:42,060
+Why is the market even moving in the first place, right?
+
+37
+00:02:42,620 --> 00:02:46,540
+First off we can we can see here we have rebalance inefficiencies
+
+38
+00:02:46,540 --> 00:02:53,340
+So an inefficiency is simply just a fair value gap and price likes to trade back towards bullish for value gaps and bearish for value
+
+39
+00:02:53,340 --> 00:02:56,980
+Gaps and this gives people a better entry right a better entry in price
+
+40
+00:02:56,980 --> 00:02:59,580
+So you're not just entering off of a really high
+
+41
+00:03:00,060 --> 00:03:06,780
+Premium right when you get these large gaps up price likes to rebalance into these ranges and into these fair value gaps
+
+42
+00:03:06,820 --> 00:03:08,820
+Do you then send price higher? Okay
+
+43
+00:03:09,500 --> 00:03:14,860
+Does the size of the gap matter the size of the gap does not matter. Thank God. Yeah. All right, you good
+
+44
+00:03:14,860 --> 00:03:21,900
+Yeah, okay, just double checking because I was sound like something else. I don't know. It's good. Anyways next up similar. Oops
+
+45
+00:03:22,500 --> 00:03:26,900
+Just shake it a little bit more pal. No, keep going. I'll hold it for you the entire time. Actually. I'm good
+
+46
+00:03:26,900 --> 00:03:32,060
+I don't I don't like touching the desk. Okay next up. We have rebalanced to equilibrium. Okay, so
+
+47
+00:03:33,180 --> 00:03:37,980
+Similar to inefficiencies, but this time it's going to be when we have a really fat range
+
+48
+00:03:38,140 --> 00:03:40,140
+So I'll show you guys an example soon
+
+49
+00:03:40,260 --> 00:03:45,660
+But when we have a really big impulse leg where the market just shoots up or just dumps, right?
+
+50
+00:03:45,660 --> 00:03:51,420
+We're gonna have a big range that price likes to rebalance you right again. People don't want to be shorting in a
+
+51
+00:03:52,180 --> 00:03:54,500
+Discount for example here, right in this scenario
+
+52
+00:03:54,500 --> 00:04:01,380
+We want to be shorting in a premium and then and when we're longing people don't want to be longing in a premium people
+
+53
+00:04:01,380 --> 00:04:05,560
+Want to be longing in a discount, right? We already went over this and our premium and discount video
+
+54
+00:04:05,600 --> 00:04:11,120
+So if you haven't seen that already, please go watch that because it's gonna explain a lot and you definitely need to be watching this
+
+55
+00:04:11,640 --> 00:04:13,640
+that video first and
+
+56
+00:04:13,960 --> 00:04:15,160
+finally
+
+57
+00:04:15,160 --> 00:04:19,400
+Price likes to move and price does move to seek liquidity
+
+58
+00:04:19,480 --> 00:04:24,960
+Okay, and we had a whole entire two-part series already on seeking liquidity
+
+59
+00:04:24,960 --> 00:04:28,360
+So go watch that and it went over all the liquidity pools
+
+60
+00:04:28,360 --> 00:04:32,720
+So we have you know buy side sell side day side day side, right?
+
+61
+00:04:32,880 --> 00:04:38,160
+And pretty much all the problems I find there's no that there's no side side buy side sell side
+
+62
+00:04:38,160 --> 00:04:42,680
+There should be some side side because when the market's just chopping your side side, that's gas
+
+63
+00:04:42,680 --> 00:04:45,520
+Yeah, super guys eating the side liquidity super gas and
+
+64
+00:04:46,840 --> 00:04:50,240
+But but yeah, I got we already went over all the different types of liquidity pool
+
+65
+00:04:50,240 --> 00:04:55,640
+So the prominent ones that you guys should be remembering is like previous day high previous day low session liquidity
+
+66
+00:04:56,840 --> 00:05:00,360
+You know any time-based liquidity is really gonna be important
+
+67
+00:05:01,000 --> 00:05:03,000
+Also equal highs equal lows
+
+68
+00:05:04,600 --> 00:05:07,760
+Low resistance liquidity as targets, right and
+
+69
+00:05:08,600 --> 00:05:10,320
+honestly, we can
+
+70
+00:05:10,320 --> 00:05:15,440
+Move on right. This is pretty much all you guys really need to be asking yourself is why is the market moving and
+
+71
+00:05:16,360 --> 00:05:19,360
+Where the drawn liquidity is? Okay, so so yeah
+
+72
+00:05:19,360 --> 00:05:23,880
+I mean, this is really the three main aspects of the market and if you can understand these then
+
+73
+00:05:24,480 --> 00:05:26,480
+You've practically mastered the markets
+
+74
+00:05:26,880 --> 00:05:34,800
+But yeah now let's get into how do you find your drawn liquidity your DOL your BBL
+
+75
+00:05:35,560 --> 00:05:37,160
+so
+
+76
+00:05:37,160 --> 00:05:41,440
+You ask yourself. Are we delivering from buy side or?
+
+77
+00:05:43,120 --> 00:05:45,120
+Are we delivering from
+
+78
+00:05:45,440 --> 00:05:52,840
+Sell side, right? So Blake tell me here. What do you think is happening on the left side? Okay, so wrong
+
+79
+00:05:52,960 --> 00:05:57,280
+So here we're delivering from sell side you can see that right here price comes down
+
+80
+00:05:57,280 --> 00:06:01,000
+It's sweep some sell side and we're not displacing below the sell side
+
+81
+00:06:01,000 --> 00:06:03,960
+We're delivering from the sell side and in the process of that
+
+82
+00:06:04,520 --> 00:06:06,720
+Obviously as we were delivering towards the sell side
+
+83
+00:06:06,720 --> 00:06:08,800
+We created probably bearish fair value gaps
+
+84
+00:06:08,800 --> 00:06:14,640
+And so then after we deliver up from sweeping the sell side we start invalidating this bearish for value gap
+
+85
+00:06:14,640 --> 00:06:18,920
+And now we are respecting bullish PDR raise. So in
+
+86
+00:06:20,160 --> 00:06:22,160
+summary, wow
+
+87
+00:06:23,800 --> 00:06:26,040
+We are delivering from sell side
+
+88
+00:06:26,280 --> 00:06:30,920
+We are disrespecting bearish PDR raise and we are respecting bullish PDR raise, right?
+
+89
+00:06:30,920 --> 00:06:32,520
+So these are the two questions you need to ask yourself
+
+90
+00:06:32,520 --> 00:06:39,000
+Are we delivering from buy side or sell side and what PDR raise are we respecting versus disrespecting forgot to say that before and here?
+
+91
+00:06:39,000 --> 00:06:45,920
+We're delivering from sell side. We're disrespecting bearish PDR raise and respecting bullish PDR raise, right?
+
+92
+00:06:45,920 --> 00:06:49,640
+And all this is in the process of delivering to some sort of drawn liquidity
+
+93
+00:06:49,960 --> 00:06:53,560
+Which blaked marked out with this zesty eyeball
+
+94
+00:06:53,560 --> 00:06:54,520
+All right
+
+95
+00:06:54,520 --> 00:06:59,800
+If you ever see those tiktokers putting eyeballs at their drawn liquidity, just know that they've never gotten to pay out
+
+96
+00:07:00,400 --> 00:07:04,960
+True. Very true. Now on the right side. We have the vice
+
+97
+00:07:05,480 --> 00:07:10,800
+Versa here. We're delivering from buy side because you can see that price comes down. It comes up
+
+98
+00:07:10,800 --> 00:07:16,320
+It sweeps this buy side and now we start getting bearish order flow here
+
+99
+00:07:16,520 --> 00:07:24,040
+We're disrespecting bullish and respecting bearish and we're delivering towards that drawn liquidity, which it can be seen here with this eyeball
+
+100
+00:07:24,040 --> 00:07:26,080
+We don't know what this mysterious drawn liquidity is
+
+101
+00:07:26,080 --> 00:07:30,200
+But you know, just know that if someone has an eyeball there, they're probably hitting a 1 to 20 rr
+
+102
+00:07:30,200 --> 00:07:32,200
+And it's a first one they've had in nine months
+
+103
+00:07:33,040 --> 00:07:38,720
+True that. Yeah. So yeah guys, these are the questions that you should be asking yourself. So every day when I'm coming into my day
+
+104
+00:07:40,160 --> 00:07:42,640
+I don't know when I'm coming into the day every day
+
+105
+00:07:43,600 --> 00:07:47,760
+There's no good way says what I'm looking at my daily bias, I'm trying to find my daily bias
+
+106
+00:07:48,760 --> 00:07:53,040
+When I'm trying to find my daily bias, I'm asking myself these questions first question
+
+107
+00:07:53,040 --> 00:07:55,880
+I'm asking myself is are we delivering from bias at our sell side first?
+
+108
+00:07:55,880 --> 00:07:59,840
+I just want to see that's what are we generally doing right and then from there
+
+109
+00:07:59,840 --> 00:08:05,560
+I'm looking at what PD rays are we respecting versus disrespecting and then finally I'm really just asking myself
+
+110
+00:08:05,680 --> 00:08:10,760
+Why should the market even be moving here? Right? Are we going to rebalance towards the range?
+
+111
+00:08:10,800 --> 00:08:17,200
+Are we going to be seeking out some sort of liquidity? Are we running stop losses, right? Or are we going to be?
+
+112
+00:08:17,840 --> 00:08:20,320
+Trading into some sort of inefficiency, right?
+
+113
+00:08:20,320 --> 00:08:25,920
+Because the market is always moving for those three reasons and to find out if the market is going to go there
+
+114
+00:08:25,920 --> 00:08:30,720
+you first need to see if we're delivering from bias at our sell side and then you need to see if we are respecting or
+
+115
+00:08:31,040 --> 00:08:33,480
+disrespecting these PD arrays and
+
+116
+00:08:34,040 --> 00:08:37,640
+Yeah, I mean from here. This is just literally just drawings, right?
+
+117
+00:08:37,680 --> 00:08:43,320
+And I'll show you guys now some chart examples that I send out every single day in our premium and discord
+
+118
+00:08:43,320 --> 00:08:49,120
+I send out a daily bias and I basically just call the market live in front of everyone
+
+119
+00:08:50,160 --> 00:08:52,160
+So I'll show you guys what that looks like
+
+120
+00:08:52,840 --> 00:08:54,400
+And I'll put on
+
+121
+00:08:54,400 --> 00:09:00,000
+My speedy glasses for this one, baby. Oh, wait, you actually look hella aura. This should be the thumbnail
+
+122
+00:09:01,240 --> 00:09:03,240
+May not
+
+123
+00:09:04,240 --> 00:09:06,960
+Hey, wait one more time smiling
+
+124
+00:09:08,720 --> 00:09:13,840
+Wait, I don't like my smile like a device right here. Yeah, it's hard. I just like this, right? Oh
+
+125
+00:09:15,120 --> 00:09:17,120
+That's fine. That's fine. All right
+
+126
+00:09:17,960 --> 00:09:21,680
+Walk the fuck in walk the fuck in. Oh my god. All right
+
+127
+00:09:22,320 --> 00:09:28,920
+All right guys, so gonna get into this so starting off. I want to start with this day. So this was
+
+128
+00:09:29,480 --> 00:09:37,040
+This was on the 7-2-2-25 second 20-25, okay, so I said on this day I had a bullet coming into the morning
+
+129
+00:09:38,080 --> 00:09:43,080
+We saw previous day low then hear me a low inside this daily busy and we're only displacing higher
+
+130
+00:09:43,080 --> 00:09:48,440
+Sorry, and we if we get this 15-minute hourly CISD we can expect London highs and a recent buy side
+
+131
+00:09:49,560 --> 00:09:54,520
+Internal liquidity pools we have data highs obvious draw and I want to see that get hit. Okay, by the way
+
+132
+00:09:54,520 --> 00:09:59,680
+I just want to say if this sounds like complete Chinese to you. Yeah, definitely rewatch some of our videos because here
+
+133
+00:09:59,680 --> 00:10:01,680
+We're talking a lot about basic liquidity
+
+134
+00:10:02,720 --> 00:10:08,920
+Previous a low, you know being the previous day's lowest point internal low is gonna be that
+
+135
+00:10:09,520 --> 00:10:14,960
+internal low of your current trading leg and then daily busy think of that as just a
+
+136
+00:10:16,640 --> 00:10:21,800
+Bullish fair value gap, right? That's usually what we're referring to if we say daily busy. So like a daily bullish for value gap
+
+137
+00:10:22,560 --> 00:10:28,680
+And a Siby is a bearish for value up. Yeah, so it's really sometimes it just matters how zesty you're feeling
+
+138
+00:10:28,680 --> 00:10:30,940
+Which term you want to use but fair value gap?
+
+139
+00:10:31,800 --> 00:10:35,140
+like bearish for value gap Siby bullish for value gap busy
+
+140
+00:10:36,120 --> 00:10:40,000
+Buy side and balance versus sell side. Yeah all that shit and then
+
+141
+00:10:41,440 --> 00:10:43,280
+CISD well
+
+142
+00:10:43,280 --> 00:10:47,160
+Yes, you just change and say delivery. So it's the same thing here with like this market structure shift
+
+143
+00:10:47,160 --> 00:10:49,520
+You're seeing it's just a change in order flow, right?
+
+144
+00:10:49,600 --> 00:10:55,440
+We're changing delivery here when we start displacing through these Peter is we start now respecting these Peter is okay
+
+145
+00:10:55,440 --> 00:10:58,720
+I wouldn't we would make a video on CIC, but I really don't think it's that important
+
+146
+00:10:59,200 --> 00:11:03,720
+Maybe we'll chef it up later down the line. But yeah, I think I'm just like a market structure shift
+
+147
+00:11:03,720 --> 00:11:07,760
+Yeah, so from here guys, I'll show you what this looks like on the charts, right?
+
+148
+00:11:07,760 --> 00:11:12,560
+So we have a sweep of free state low and then we are delivering from here and we are
+
+149
+00:11:13,060 --> 00:11:19,080
+Disrespecting these Peter is right and then we have clear internal targets. Okay, so the questions I'm asking myself, right?
+
+150
+00:11:19,160 --> 00:11:25,900
+Number one, why would the market even be moving in this scenario? Okay. Well as you can see here, we have data highs resting
+
+151
+00:11:25,900 --> 00:11:28,160
+Okay, so what is this? This is a liquidity pool, right?
+
+152
+00:11:28,160 --> 00:11:32,360
+We went over this in our liquidity part two video of different types of liquidity pools
+
+153
+00:11:32,520 --> 00:11:35,640
+Data highs is a really really strong draw on liquidity
+
+154
+00:11:35,640 --> 00:11:38,960
+So this is going to be a great reason for the market to be moving here
+
+155
+00:11:38,960 --> 00:11:43,900
+Also, what do we have very prominent buy side liquidity and relative equal highs here, right?
+
+156
+00:11:43,900 --> 00:11:47,960
+So these these stacked up highs is going to be a very strong draw as well
+
+157
+00:11:47,960 --> 00:11:53,480
+Okay, so two reasons for the market be moving first being this external buy side liquidity here
+
+158
+00:11:53,480 --> 00:12:00,120
+And then also we have data highs here on the internal time frame being the reason that the market could be moving. Okay now
+
+159
+00:12:00,800 --> 00:12:06,000
+Next question. I'm gonna be asking myself that I how I actually found this bias is where are we delivering from?
+
+160
+00:12:06,000 --> 00:12:12,360
+Are we doing from buy side or sell side here? We are delivering from sell side, right being previous day low nice
+
+161
+00:12:12,400 --> 00:12:17,680
+All right, so we're delivering from sell side and then what Peter is are we respecting versus disrespecting?
+
+162
+00:12:17,680 --> 00:12:21,520
+Well, we are currently disrespecting this bearish PDR right here
+
+163
+00:12:21,520 --> 00:12:26,920
+And we are going to be most likely respecting these bullish PDRs. We can assume that
+
+164
+00:12:27,720 --> 00:12:29,720
+and
+
+165
+00:12:29,760 --> 00:12:33,640
+That's what I said, and we're just displacing high right and then as you can see here
+
+166
+00:12:33,640 --> 00:12:38,360
+Show you guys the result after we get that change to delivery. This was an order block
+
+167
+00:12:38,360 --> 00:12:40,440
+I mean we just got a close above this
+
+168
+00:12:40,440 --> 00:12:45,960
+You can also use a one-minute inverse for reference here. We had a tiny one-minute inverse here, which is usually what we use
+
+169
+00:12:46,640 --> 00:12:49,920
+Literally right about 15 minute time frame. I was a 15 minute time frame. Okay
+
+170
+00:12:49,920 --> 00:12:54,080
+Well, even if we're using inversions, you can see that if you don't want to use like a 15-minute CISD
+
+171
+00:12:54,080 --> 00:12:58,200
+which I mean to be honest we use inversions to determine flips in order flow unless
+
+172
+00:12:58,600 --> 00:13:02,200
+Price isn't giving us any inversions because price is choppier on the day
+
+173
+00:13:02,200 --> 00:13:08,520
+Then you can usually refer to like a CISD but inversions work amazing for confirming a flip in order flow
+
+174
+00:13:08,560 --> 00:13:11,160
+So right we've been bearish for a while we take our previous a low
+
+175
+00:13:11,160 --> 00:13:17,240
+So we're delivering from sell side here and then you can see that we start invalidating these bearish 15-minute for value gaps
+
+176
+00:13:17,240 --> 00:13:21,780
+They're small, but they're there and so that means we're now disrespecting bearish PDRs
+
+177
+00:13:21,880 --> 00:13:24,760
+Right, and we're gonna start respecting bullish PDRs
+
+178
+00:13:25,240 --> 00:13:31,960
+And of course, what are we gonna be delivering towards that drawn liquidity that buy set up there? So we're seeking liquidity after
+
+179
+00:13:33,760 --> 00:13:35,560
+After seeking liquidity
+
+180
+00:13:35,600 --> 00:13:39,160
+Right exactly after the living from that sell side and now we're seeking more liquidity
+
+181
+00:13:40,200 --> 00:13:42,480
+Beautiful. All right, that's a bias there
+
+182
+00:13:43,280 --> 00:13:45,280
+So this is another daily bias
+
+183
+00:13:45,600 --> 00:13:51,700
+Where I said, you know, I was leaning bullish. This was a more of a condition based day. I explained conditions
+
+184
+00:13:52,360 --> 00:13:54,200
+Yeah, I mean so
+
+185
+00:13:54,200 --> 00:13:56,940
+Really when we say it's a condition based day
+
+186
+00:13:56,940 --> 00:14:03,120
+I mean like here we'll read out the bias first. So Blake said I'm leaning bullish coming into the day nearing all-time highs
+
+187
+00:14:03,440 --> 00:14:09,120
+Ideal scenario coming into the morning would be for 930 to open lower trading into the 4-hour bullish for a value gap and taking out
+
+188
+00:14:09,120 --> 00:14:12,200
+London lows then getting lower time frame long out of that
+
+189
+00:14:12,320 --> 00:14:16,460
+So what that would look like is if we want to take longs
+
+190
+00:14:16,800 --> 00:14:22,640
+Then we want to see price retrace lower into that 4-hour bullish for value gap and then we want to see that 4-hour get
+
+191
+00:14:22,720 --> 00:14:25,820
+respected also if we hit that 4-hour we
+
+192
+00:14:26,240 --> 00:14:31,560
+Simultaneously be sweeping London lows and then a long out of that would look like a clean
+
+193
+00:14:31,560 --> 00:14:35,660
+You know inversion in the 1 to 5 minute time frame towards the upside confirming that narrative
+
+194
+00:14:36,600 --> 00:14:42,080
+So this gap is what we call condition because if we end up breaking it and by breaking it
+
+195
+00:14:42,080 --> 00:14:47,840
+We usually mean if we end up inversing it we're expecting price to displace lower now. It's always like
+
+196
+00:14:48,360 --> 00:14:53,640
+When you have a condition there actually needs to be a reason for why price could go in either direction
+
+197
+00:14:53,800 --> 00:14:57,780
+So we know here that if price respects this 4-hour bullish for value gap
+
+198
+00:14:57,980 --> 00:15:01,740
+Then we have a reason to be bullish and we have a reason to look for longs
+
+199
+00:15:02,180 --> 00:15:08,300
+Because we know that there's resting buy set up here that we can take and overall we're in an all-time highs narrative, right?
+
+200
+00:15:08,820 --> 00:15:14,120
+During all-time highs trading I your ideal scenarios to catch some sort of long because you can typically get better moves
+
+201
+00:15:14,460 --> 00:15:18,140
+But just because we're at all-time highs doesn't mean doesn't mean we have to keep ripping higher
+
+202
+00:15:18,260 --> 00:15:24,580
+So we set a condition like this this 4-hour condition if price invalidates it or starts running through it
+
+203
+00:15:24,580 --> 00:15:26,580
+Then can we expect lower prices?
+
+204
+00:15:26,860 --> 00:15:33,020
+Yes, why because we have sell side resting below that we can target so there would be a reason if
+
+205
+00:15:33,580 --> 00:15:35,580
+Prices and have a reason to go in a certain direction
+
+206
+00:15:35,940 --> 00:15:40,400
+Don't just try to force a trade in that direction and that's a mistake. A lot of people make
+
+207
+00:15:41,020 --> 00:15:46,420
+And so that sell side would be like previous day low and then there's like a daily fair value gap below as well
+
+208
+00:15:47,260 --> 00:15:51,000
+So you know this end up ripping this day. Yeah, all-time highs
+
+209
+00:15:51,240 --> 00:15:57,400
+Yeah, so that's just like an example of how we would trade condition based on the higher time frame and as you can
+
+210
+00:16:01,600 --> 00:16:03,600
+Yeah, so as you can see I
+
+211
+00:16:03,880 --> 00:16:08,480
+Mean being that we're all-time highs. What do you think is gonna be the most probable scenario? We respect that for our
+
+212
+00:16:09,200 --> 00:16:14,060
+Bullish value gap and we end up ripping higher and seeking that liquidity above what happens price trace
+
+213
+00:16:14,280 --> 00:16:19,160
+Retraces lower into that for our bullish value gap that gets respected. We end up seeking that buy side
+
+214
+00:16:19,160 --> 00:16:22,680
+Oh, wait, sorry in this day actually. Oh, yeah, we did end up in our hour
+
+215
+00:16:22,680 --> 00:16:25,720
+Yeah, that candle ended up hitting and then the next one that ended up delivering higher
+
+216
+00:16:27,360 --> 00:16:30,160
+But yeah, I mean now if you're watching this we're
+
+217
+00:16:31,040 --> 00:16:35,640
+Resting most likely near all-time highs conditions and we probably will be for maybe a few months
+
+218
+00:16:36,840 --> 00:16:40,240
+So just make sure that when you are really not a few months, man
+
+219
+00:16:40,240 --> 00:16:40,800
+Maybe not that long
+
+220
+00:16:40,800 --> 00:16:46,360
+But just if you're ever trading all-time highs and you're too premiumed to be like really looking for a long
+
+221
+00:16:46,600 --> 00:16:51,240
+Wait for a high time frame pullback into a key level like a four-hour bullish value gap an hourly bullish value gap
+
+222
+00:16:51,240 --> 00:16:56,320
+And then if that gets respected, you know, you're confirming that narrative that price wants to go higher. Yeah
+
+223
+00:17:00,720 --> 00:17:03,040
+Yeah, so let's keep going into examples
+
+224
+00:17:03,040 --> 00:17:05,680
+I know it's gonna might seem annoying
+
+225
+00:17:05,680 --> 00:17:12,160
+But I want to literally ingrain this into your guys's brains to the point where you want to kill me. Okay
+
+226
+00:17:13,080 --> 00:17:16,980
+No one would ever want to kill you. Thanks, bro. So on this day
+
+227
+00:17:17,480 --> 00:17:24,200
+This was another you know, we're always having and setting ourselves conditions, right and every time I'm coming into my morning
+
+228
+00:17:24,200 --> 00:17:26,000
+I have if then savings, right?
+
+229
+00:17:26,000 --> 00:17:29,680
+so if I if this happens then I will do this right and
+
+230
+00:17:29,920 --> 00:17:34,840
+When I what I want you guys to do when you're building your bias as well is to always be leaning somewhere
+
+231
+00:17:34,840 --> 00:17:39,720
+So as you can see, I'm always leaning somewhere, but I'm never going to be married to a bias. It's very rarely
+
+232
+00:17:39,760 --> 00:17:46,240
+I'll be married to a bias except for like very obvious days. Like I think on the first example
+
+233
+00:17:46,240 --> 00:17:48,320
+I showed you I was very married to this bias
+
+234
+00:17:48,320 --> 00:17:52,200
+I didn't even set myself a condition to be bearish because it just there was no reason to
+
+235
+00:17:52,600 --> 00:17:55,040
+but a lot of the times I am going to be
+
+236
+00:17:56,040 --> 00:17:59,760
+Having some sort of condition to be seen either way now
+
+237
+00:18:00,440 --> 00:18:05,920
+That being said on this day. I said I was leaning bullish, right? We have a new week opening gap lower though
+
+238
+00:18:06,400 --> 00:18:08,440
+And in SMT with the spice of liquidity
+
+239
+00:18:08,440 --> 00:18:13,560
+So condition is this 15 minute back gap if we break it expect the lower resistance the query in the new week opening
+
+240
+00:18:13,560 --> 00:18:18,960
+Gap to get hit if we hold it. I'll expect price to keep trading higher obvious stall on the query right now for yes
+
+241
+00:18:18,960 --> 00:18:25,920
+Okay, so what I'm looking at this day, right? I can see that we're very obviously trending towards this buy side
+
+242
+00:18:27,480 --> 00:18:29,760
+Okay, I thought you're gonna shoot me something right and
+
+243
+00:18:30,560 --> 00:18:34,240
+What I want you guys to know is that you really don't need to be like
+
+244
+00:18:34,280 --> 00:18:41,760
+Over complicating your bias that much in the sense that you can very clearly see that we're just trending up, right?
+
+245
+00:18:41,760 --> 00:18:46,160
+We're very clearly going towards a liquidity pool being this buy side liquidity right here, right?
+
+246
+00:18:46,240 --> 00:18:50,280
+So just be bullish until them, right and from here
+
+247
+00:18:50,280 --> 00:18:54,200
+So I was saying right we have yes as a very obvious straw here
+
+248
+00:18:54,400 --> 00:18:57,800
+Alright, so the condition was this 15 minute gap, right?
+
+249
+00:18:57,960 --> 00:19:00,760
+We can go up hit this buy side, right?
+
+250
+00:19:00,800 --> 00:19:05,280
+Because that's the obvious draw right now and then from there this gap will be the condition, right?
+
+251
+00:19:05,280 --> 00:19:05,760
+What does that mean?
+
+252
+00:19:05,760 --> 00:19:12,040
+Once we go up here if we trade lower and respect this where can price go keep going higher if we hit this high
+
+253
+00:19:12,240 --> 00:19:18,120
+Trade lower disrespect this gap then where can price go down towards this low resistance liquidity in the new week opening gap
+
+254
+00:19:18,120 --> 00:19:19,520
+Okay, so
+
+255
+00:19:19,520 --> 00:19:22,720
+Overall going back to this. Why would the market even be moving here, right?
+
+256
+00:19:22,720 --> 00:19:27,640
+So it can move higher for one for for a reason like this to seek buy side liquidity
+
+257
+00:19:27,800 --> 00:19:33,120
+And then it can move lower to not only seek liquidity being this low resistance liquidity that we have here
+
+258
+00:19:33,120 --> 00:19:37,760
+But also to rebalance this inefficiency being this new day opening gap, right?
+
+259
+00:19:37,760 --> 00:19:41,920
+And then the next questions we're asking ourselves is how do I actually find my draw, right?
+
+260
+00:19:41,920 --> 00:19:45,480
+So are we delivering from buy side or sell side in this scenario?
+
+261
+00:19:45,480 --> 00:19:47,800
+We would be delivering from buy side, right?
+
+262
+00:19:47,800 --> 00:19:52,200
+If we hit this high first and then are we going to be respecting or disrespecting Peter race?
+
+263
+00:19:52,200 --> 00:19:56,120
+Well, we'll just have to see right if we disrespect this Peter a then it's very likely
+
+264
+00:19:56,120 --> 00:19:59,520
+We will go seek this liquidity and go rebalance towards this inefficiency
+
+265
+00:20:00,320 --> 00:20:05,600
+All right. So as you can see here, we end up trading higher hitting this buy side liquidity
+
+266
+00:20:05,600 --> 00:20:08,040
+We end up disrespecting this for Valley Gap
+
+267
+00:20:08,040 --> 00:20:13,160
+This was our condition that we set for ourselves to be bullish and also to be bearish, right?
+
+268
+00:20:13,160 --> 00:20:18,240
+We disrespect this and then we trade back higher and then we trade back up to this order block CSD
+
+269
+00:20:18,240 --> 00:20:25,560
+This inversion for Valley Gap gets respected and then we trade lower down towards this new day opening gap that we left for ourselves
+
+270
+00:20:25,600 --> 00:20:30,560
+And also simultaneously taking out all of this low resistance liquidity. So
+
+271
+00:20:31,400 --> 00:20:33,240
+Again guys, very very simple
+
+272
+00:20:33,240 --> 00:20:40,480
+But I want you to literally be asking yourself these questions every single time before you're entered before you're writing out your daily bias
+
+273
+00:20:40,560 --> 00:20:44,040
+Right. Why is the market moving here? Ask yourself that then ask yourself
+
+274
+00:20:44,040 --> 00:20:48,520
+Are we delivering from buy side or sell side and what Peter is are you respecting or disrespecting? Okay
+
+275
+00:20:49,440 --> 00:20:51,440
+and
+
+276
+00:20:51,840 --> 00:20:55,160
+That's really how you'll find your bias. Okay, and I'll show this one
+
+277
+00:20:55,160 --> 00:21:02,120
+This was a little bit more of a complicated bias and I'll talk about this because this was a little bit more discretionary
+
+278
+00:21:02,120 --> 00:21:06,960
+I keep shaking the fucking camera because this bias I sent out was a little bit more discretionary
+
+279
+00:21:06,960 --> 00:21:11,760
+Okay, and we have a like five more examples. So I'm just gonna do this one really quick. Okay
+
+280
+00:21:12,360 --> 00:21:13,640
+Now I said on this day
+
+281
+00:21:13,640 --> 00:21:17,680
+I had a neutral bias and I really want to show this because I think this is an important bias
+
+282
+00:21:17,800 --> 00:21:19,520
+But we have a neutral bias
+
+283
+00:21:19,520 --> 00:21:23,100
+We have an SMT with previous day high and a huge range from tariff news yesterday
+
+284
+00:21:23,180 --> 00:21:29,540
+So I can expect today to rebalance yesterday's range towards equilibrium right now we have an SMT with this four-hour
+
+285
+00:21:29,540 --> 00:21:35,100
+So I want to see if that holds if this holds expect previous day high to get it if this SMT gets ran through
+
+286
+00:21:35,100 --> 00:21:39,260
+Expect the unfilled 15-minute gap in equilibrium yesterday's range massive movie yesterday
+
+287
+00:21:39,260 --> 00:21:42,620
+So most likely chop your conditions for today's AM session be cautious
+
+288
+00:21:43,060 --> 00:21:49,940
+Okay, so with conditions guys, it doesn't always have to be Peter is right doesn't always have to be for value
+
+289
+00:21:50,020 --> 00:21:55,540
+Doesn't always have to be okay if this 15-minute gap gets ran through if this hourly gets ran through if this hourly holds or
+
+290
+00:21:55,540 --> 00:22:00,500
+Gets ran through right it can also be with SMTs, which is what I like to do a lot of the time
+
+291
+00:22:01,500 --> 00:22:06,660
+For example here, right we have this SMT. So if I were to be bullish on this day
+
+292
+00:22:06,660 --> 00:22:10,660
+I really want to see this SMT hold right? I want to see this whole
+
+293
+00:22:10,660 --> 00:22:12,660
+I do not want to see this get traded through
+
+294
+00:22:12,940 --> 00:22:16,100
+I would want this to be the lowest point in which price wants to go
+
+295
+00:22:16,460 --> 00:22:23,980
+However, if this SMT does decide to get ran through and if we want to start trading through London lows, then what can you expect?
+
+296
+00:22:23,980 --> 00:22:26,700
+Well, we have this inefficiency here, right?
+
+297
+00:22:26,700 --> 00:22:33,560
+So the market would be moving to rebalance an inefficiency being the unfilled 15-minute for value gap and also to rebalance where?
+
+298
+00:22:34,300 --> 00:22:40,740
+Equilibrium of this range, right? We have a very very large impulse move up and this is a fat range from tariff news
+
+299
+00:22:40,740 --> 00:22:45,780
+So price was will most likely rebalance this range if this SMT here gets invalidated
+
+300
+00:22:46,180 --> 00:22:51,340
+Okay, and I don't have a photo from my chart, but I went back on this day and showed it
+
+301
+00:22:51,340 --> 00:22:56,540
+Let me just say this is practically like when the market gives you a really big Drake candle
+
+302
+00:22:56,540 --> 00:23:03,100
+It needs to have a slight retracement lower so it can pop a honey pack and then give you another Drake
+
+303
+00:23:03,260 --> 00:23:10,580
+Facts Wow, that was really good that me up fire you trade. No, do you know what are we talking about right now?
+
+304
+00:23:10,620 --> 00:23:16,140
+I don't know. I thought we were talking about real estate. Yeah. Yeah, it's like my house is so low
+
+305
+00:23:16,140 --> 00:23:18,220
+Yeah, right. I think you don't want to buy a house in a premium
+
+306
+00:23:19,940 --> 00:23:22,900
+But yeah guys, that's how I was able to freelance brand scale for free
+
+307
+00:23:22,900 --> 00:23:26,900
+I don't know if you guys want more sauce on that. But as you can see here
+
+308
+00:23:26,900 --> 00:23:33,140
+I don't know why Pat had this in his um thing. It's it's like reverse psychology, right?
+
+309
+00:23:33,140 --> 00:23:38,700
+Like this was this was back then like this is near this is over a year ago guys
+
+310
+00:23:38,860 --> 00:23:43,020
+And so we are at all-time lows. Yeah, and I and I wanted to stay humble
+
+311
+00:23:43,020 --> 00:23:49,160
+I didn't want to scare my competitors by saying I'm the best trader ever. We do we are the best live traders
+
+312
+00:23:49,340 --> 00:23:55,560
+No, I kept it a humble abode said we were the worst discord. So nobody would join we could gatekeep it
+
+313
+00:23:56,620 --> 00:24:00,060
+But then the community got kind of freaky and they started sending freaky AI pictures of us
+
+314
+00:24:00,060 --> 00:24:05,100
+So yeah, I had to delete it because now it's no more. Yeah, we're psychology. No, it's real. Yep
+
+315
+00:24:06,100 --> 00:24:08,620
+Okay, and then as you can see you guys we end up
+
+316
+00:24:09,140 --> 00:24:15,740
+disrespecting this SMT here and it was at this point where I flipped bias to down here and towards this and we did catch a
+
+317
+00:24:15,740 --> 00:24:20,420
+Short this day towards this unfiltered human gap and towards this pretty much all of these days
+
+318
+00:24:20,420 --> 00:24:22,220
+Like when my bias just plays out perfectly
+
+319
+00:24:22,220 --> 00:24:27,860
+it's it's really nice because I'm able to go on the lower time frame and have that confirmation and
+
+320
+00:24:29,060 --> 00:24:34,940
+again, like you're finding basically every single day where the market is moving and on the lower time frame you're doing the
+
+321
+00:24:34,940 --> 00:24:36,940
+exact same thing and
+
+322
+00:24:37,620 --> 00:24:40,900
+Then this one was just a lot of aura points on this day
+
+323
+00:24:40,900 --> 00:24:45,800
+I mean this was pretty like a pretty simple right right like we're delivering from by side
+
+324
+00:24:46,260 --> 00:24:48,260
+You can explain just explain this one
+
+325
+00:24:48,940 --> 00:24:54,480
+What yeah, I mean, so this is a pretty simple day because here we have that higher time frame condition
+
+326
+00:24:54,980 --> 00:24:56,980
+being that for our bullish gap and
+
+327
+00:24:57,460 --> 00:24:59,500
+We're delivering from by side, right?
+
+328
+00:24:59,540 --> 00:25:06,100
+So here price seeks liquidity and you can see that because what do you notice price was super bearish, right?
+
+329
+00:25:06,100 --> 00:25:09,460
+Even if we look before this we had we had a really strong impulse candle down
+
+330
+00:25:09,460 --> 00:25:15,180
+So when we have that we can expect price to what rebalance this unfilled gap above we had this unfilled for our
+
+331
+00:25:15,420 --> 00:25:21,380
+Price does that but then it decides I'm gonna disrespect this Petey Ray and when that's when that gets disrespected
+
+332
+00:25:21,900 --> 00:25:26,740
+Then we open up a bullish Petey race. Now, we're disrespecting bearish respecting bullish
+
+333
+00:25:26,740 --> 00:25:32,180
+It respects this four-hour and seeks liquidity takes out previous day high now that we've taken out previous day high
+
+334
+00:25:32,260 --> 00:25:36,540
+We're gonna set this four hours of condition and say if we disrespect this for our bullish gap
+
+335
+00:25:36,540 --> 00:25:40,240
+We can expect we can expect price to go lower and seek this sell side
+
+336
+00:25:43,180 --> 00:25:47,060
+And as you can see in versus that four-hour seeks sell side
+
+337
+00:25:47,580 --> 00:25:52,460
+But I have a chino in my mouth right now. So I sound like orangey, but shout out orangey. That's a fucking goat
+
+338
+00:25:52,460 --> 00:25:55,060
+I love you. I want to pay for now with him
+
+339
+00:25:55,660 --> 00:26:01,460
+You shouldn't we should we should live together orangey imagine I think he commented that or so really
+
+340
+00:26:01,460 --> 00:26:05,460
+Oh, I want to live with or I think you commented that he has he has this
+
+341
+00:26:06,300 --> 00:26:11,940
+$5,000 machine that cools his bed to whatever temperature. Yeah, no way insane. Yeah insane
+
+342
+00:26:12,660 --> 00:26:14,660
+Here speak for a second. I need a poop
+
+343
+00:26:15,340 --> 00:26:20,860
+That shit. So again guys in this scenario, let's just run over it right the let's just
+
+344
+00:26:21,660 --> 00:26:26,980
+Go through the mind of what I was thinking here, right? Why would the market be moving here to seek liquidity, right?
+
+345
+00:26:26,980 --> 00:26:31,380
+We have a really nice sell side amount sell side liquidity pool right here, right?
+
+346
+00:26:32,060 --> 00:26:38,040
+Now, how do I actually find that? Well, we're delivering from buy side being previously high. It was just a fart and then
+
+347
+00:26:38,860 --> 00:26:40,620
+we are
+
+348
+00:26:40,620 --> 00:26:47,020
+disrespecting bullish PDR is meaning what right we're delivering from my side disrespecting bullish literally bar for bar
+
+349
+00:26:47,020 --> 00:26:52,780
+We have drawn out. Yeah, so it's very very simple guys. Don't over complicate this. Just ask yourself these questions and
+
+350
+00:26:54,180 --> 00:26:58,820
+This is another pretty simple glass. Yeah, so then a bias going into this morning. This is back in January
+
+351
+00:26:58,940 --> 00:27:01,900
+We said going to continue being bearish coming into the morning
+
+352
+00:27:03,140 --> 00:27:05,140
+I'm not gooning in the morning
+
+353
+00:27:05,420 --> 00:27:07,620
+There are still lower targets on NQ and ES
+
+354
+00:27:07,620 --> 00:27:10,380
+We're still in a higher time frame so model towards previous week low
+
+355
+00:27:10,380 --> 00:27:15,180
+So we have previous week low below to continue being bearish. I would need to see EQ of the range respect that open
+
+356
+00:27:15,180 --> 00:27:17,660
+So here since we had a super strong impulse candle down
+
+357
+00:27:17,700 --> 00:27:24,340
+we want to see price rebalance EQ to deliver lower right rebounds a range and then seek that liquidity and so
+
+358
+00:27:24,940 --> 00:27:32,420
+Then you can see and guys again, don't over complicate this like it's very obvious that we're just trending lower, right?
+
+359
+00:27:32,420 --> 00:27:34,220
+and this is
+
+360
+00:27:34,220 --> 00:27:38,140
+Gonna sound corny but trade with the trend like the trend is your friend
+
+361
+00:27:38,140 --> 00:27:41,980
+I know it sounds corny, but this is way too often
+
+362
+00:27:41,980 --> 00:27:45,300
+I see people trying to trade against the trend and trying to catch all these reversals
+
+363
+00:27:45,300 --> 00:27:46,700
+That also doesn't mean you're a trendline trader
+
+364
+00:27:46,700 --> 00:27:47,060
+By the way
+
+365
+00:27:47,060 --> 00:27:47,260
+Yeah
+
+366
+00:27:47,260 --> 00:27:51,940
+Rating with the trend because you're still gonna be looking for those lower time frame confluences of price rebalancing a range on the lower time
+
+367
+00:27:51,940 --> 00:27:54,820
+Frame confirming that you know narrative that you want to go lower
+
+368
+00:27:54,820 --> 00:27:59,300
+So even if we're trading we're trending lower you still want to see on a lower time frame a pull back into a five or
+
+369
+00:27:59,300 --> 00:28:01,420
+15 minute and get your inversion from there. Yeah, also
+
+370
+00:28:02,020 --> 00:28:08,140
+With this I was saying when I was talking about like EQ getting respected. This is also a condition, right?
+
+371
+00:28:08,140 --> 00:28:10,500
+so the same way we can have conditions with like
+
+372
+00:28:11,300 --> 00:28:15,500
+For example if a rally gap same way we can have conditions with an SMT
+
+373
+00:28:15,500 --> 00:28:21,820
+I said I want to see get hold EQ of a range is also an area where you want to see get hold
+
+374
+00:28:21,860 --> 00:28:23,860
+right and you do not want to see
+
+375
+00:28:24,380 --> 00:28:29,700
+price trading higher than like this golden pocket here really because if we start
+
+376
+00:28:30,300 --> 00:28:34,340
+Trading this deep into discount most likely we are going to go to the next time
+
+377
+00:28:34,460 --> 00:28:38,220
+Okay, you do not want to see big big pullbacks like all the way up here
+
+378
+00:28:38,220 --> 00:28:41,380
+Okay, so you want to see price respect equilibrium and
+
+379
+00:28:42,180 --> 00:28:45,500
+Trade into discount and then bounce from there and then on this day
+
+380
+00:28:46,020 --> 00:28:51,260
+You know trading to that you can see that we ended up respecting equilibrium perfectly and we ended up trading all the way down to
+
+381
+00:28:51,260 --> 00:28:52,460
+previous week low
+
+382
+00:28:52,460 --> 00:28:54,460
+bang bang beautiful
+
+383
+00:28:54,540 --> 00:29:00,780
+Yeah, another day here. We have also January bearish buys coming into the day respecting this one hour unicorn
+
+384
+00:29:00,780 --> 00:29:03,540
+What does that mean? Just a fair value gap in a breaker block overlapped
+
+385
+00:29:04,220 --> 00:29:06,420
+And we are in bearish order flow on the higher time frame
+
+386
+00:29:06,420 --> 00:29:12,260
+I'm looking to see us have an open high low close at 930 sweeping out the 15-minute internal high to then trade lower with
+
+387
+00:29:12,260 --> 00:29:18,700
+Us generating this trendline liquidity on the lower time frame these stacked lows are the drawn liquidity for today so you can see
+
+388
+00:29:19,460 --> 00:29:21,900
+Since we're stacking up a bunch of lows here
+
+389
+00:29:21,900 --> 00:29:26,340
+I mean we're respecting this hourly bearish PDR and we have all these stacked lows below
+
+390
+00:29:26,860 --> 00:29:30,500
+So ideally we'd want to see nine. I mean this is just our ideal scenario
+
+391
+00:29:30,540 --> 00:29:35,460
+We want to see 930 open higher so we can get a premium short to run this lower resistance liquidity and
+
+392
+00:29:36,060 --> 00:29:41,340
+As you can see eventually price respects this bearish hourly fair value gap
+
+393
+00:29:41,340 --> 00:29:44,500
+And we run all this over this liquidity resting down here
+
+394
+00:29:44,500 --> 00:29:44,620
+Yeah
+
+395
+00:29:44,620 --> 00:29:50,460
+This was a really fun day to trade because it did exactly what I wanted it to do right we have and again the questions
+
+396
+00:29:50,460 --> 00:29:51,940
+You guys have to be asking yourself, right?
+
+397
+00:29:51,940 --> 00:29:55,020
+Why would the market be moving here to seek liquidity, right?
+
+398
+00:29:55,020 --> 00:30:00,740
+What liquidity pools we have low resistance liquidity we went over that and then relative equal lows this stacks liquidity, right?
+
+399
+00:30:00,740 --> 00:30:05,740
+This accumulation right here. Okay, then the next question. Are we delivering from buy side or sell side?
+
+400
+00:30:06,620 --> 00:30:08,660
+We're delivering from where Asia highs, right?
+
+401
+00:30:08,660 --> 00:30:13,620
+So we're delivering from this buy side and then are we respecting or disrespecting Peter is well
+
+402
+00:30:13,620 --> 00:30:15,980
+We are disrespecting this bullish gap
+
+403
+00:30:15,980 --> 00:30:19,260
+There was a little bullish gap here that got disrespected and then what are we doing?
+
+404
+00:30:19,260 --> 00:30:23,520
+We are respecting this bearish gap right here. So respecting bullish
+
+405
+00:30:24,240 --> 00:30:29,480
+Disrespecting bearish, okay, or sorry disrespecting bullish. Excuse me disrespecting bullish
+
+406
+00:30:30,000 --> 00:30:32,000
+respecting bearish on this day
+
+407
+00:30:32,320 --> 00:30:35,880
+Okay, and it would now make sense for place to go lower and on this day again
+
+408
+00:30:35,880 --> 00:30:40,400
+I was saying is really fun to trade because we did end up having like my perfect ideal scenario that I said I wanted to
+
+409
+00:30:40,400 --> 00:30:45,120
+see happen where we trade higher take out this internal high and then went run lower and
+
+410
+00:30:46,240 --> 00:30:50,240
+As you can see we went higher took out this internal high on the one-hour time frame
+
+411
+00:30:50,360 --> 00:30:53,020
+And then we caught up pretty nasty short on this day
+
+412
+00:30:54,480 --> 00:30:56,080
+Targeting that low
+
+413
+00:30:56,080 --> 00:30:59,480
+So this was a nasty day. I remember this but um
+
+414
+00:31:00,720 --> 00:31:05,200
+Yeah, so this is gonna be like the final example that I want to show you guys
+
+415
+00:31:05,200 --> 00:31:12,200
+This was on a day where I was not able to trade live and I was just talking about the bias
+
+416
+00:31:12,440 --> 00:31:16,880
+Basically just through my phone and I want to show you guys how I go about finding not only my bias
+
+417
+00:31:16,880 --> 00:31:22,960
+But also my entry model so so this is gonna teach you a lot about like time frame alignment because like we said the bias
+
+418
+00:31:22,960 --> 00:31:24,960
+Is important and all you can have the right bias
+
+419
+00:31:25,040 --> 00:31:28,880
+but this is what I always tell people and I made a video on take talk about this recently like
+
+420
+00:31:29,480 --> 00:31:32,800
+Knowing where price wants to go is important
+
+421
+00:31:32,800 --> 00:31:38,120
+But knowing how price is going to get there is far more important remember because you're not executing on the four-hour time for me
+
+422
+00:31:38,120 --> 00:31:39,440
+I actually get on the one-hour time frame
+
+423
+00:31:39,440 --> 00:31:40,800
+You guys are future traders
+
+424
+00:31:40,800 --> 00:31:43,040
+most of you are trading on funded accounts meaning your
+
+425
+00:31:43,080 --> 00:31:48,040
+Executions are gonna happen between the one to five minute chart and your trades typically don't last more than 20 30 minutes
+
+426
+00:31:48,040 --> 00:31:52,880
+you know what I mean, so in order to confirm a bias we need that lower time frame confirmation and
+
+427
+00:31:53,160 --> 00:31:58,480
+We do this by utilizing stuff like conditions and that's what the next video is gonna be on you guys are gonna fucking love that video
+
+428
+00:31:58,480 --> 00:32:00,320
+It's truly like one of the best lessons
+
+429
+00:32:00,320 --> 00:32:05,860
+And that's how you confirm a bias with a lower time frame drawn liquidity as well
+
+430
+00:32:05,860 --> 00:32:09,800
+And then you get your entry, but yeah, but I can get into this. Yeah, so
+
+431
+00:32:10,800 --> 00:32:13,680
+On this day, I did have a bullish bias right
+
+432
+00:32:14,440 --> 00:32:20,320
+Reasoning for this was because the market would be moving in the scenario to rebalance and inefficiency, right?
+
+433
+00:32:20,320 --> 00:32:25,480
+We had an unfilled unmitigated gap and we were delivering from where sell side liquidity
+
+434
+00:32:25,480 --> 00:32:28,980
+So we should go up higher to rebalance this range, right?
+
+435
+00:32:29,720 --> 00:32:34,080
+And I said I want to see this trade up to this this Delos mark. We have a neck model
+
+436
+00:32:34,520 --> 00:32:36,680
+Okay, we're getting some models and all that later
+
+437
+00:32:36,680 --> 00:32:43,560
+But we end up having a S&T here, right and price does end up eventually trading towards this
+
+438
+00:32:43,760 --> 00:32:48,160
+15-minute gap here as you can see so from here, right?
+
+439
+00:32:48,720 --> 00:32:54,160
+We have another scenario where we can kind of have this be our you know bias setter, right?
+
+440
+00:32:54,160 --> 00:32:57,520
+Where if we want to see this get respected, it's all if then statements, right?
+
+441
+00:32:57,520 --> 00:33:01,000
+If this gets respected, they should then send us higher to this by sell liquidity
+
+442
+00:33:01,000 --> 00:33:03,560
+However, if this gets disrespected this could send us lower
+
+443
+00:33:03,640 --> 00:33:10,200
+Okay, and I did say I was expecting this to hold to send us higher because I was overall bullish on the day
+
+444
+00:33:10,200 --> 00:33:12,200
+so I said I was expecting this whole sense higher and
+
+445
+00:33:13,120 --> 00:33:18,120
+That's what I told everyone in shaft and then that did end up happening, right? So we did end up trading lower
+
+446
+00:33:18,640 --> 00:33:21,360
+This is like a higher time from chart on the 15-minute
+
+447
+00:33:21,360 --> 00:33:25,720
+But the five minute did get tapped here then we did run to that buy side as you can see through this wick
+
+448
+00:33:25,720 --> 00:33:30,080
+And then from here, I said I still like longs longs are setting up nice
+
+449
+00:33:30,560 --> 00:33:33,560
+Reasoning for that is because we left equal highs, right?
+
+450
+00:33:33,600 --> 00:33:41,360
+So the market here is now going to still move because we want to seek liquidity equal highs is a very strong liquidity pool
+
+451
+00:33:41,360 --> 00:33:45,280
+So in this scenario, let's say we didn't leave equal highs and we just left, you know
+
+452
+00:33:45,400 --> 00:33:49,240
+Just and just a highlight looks like this, right? Let's say we did this
+
+453
+00:33:50,720 --> 00:33:57,000
+Then at this point then this would not have been like that good of a long right because we're targeting a high right here
+
+454
+00:33:57,560 --> 00:34:00,920
+We're targeting this high that already got swept by this side, right?
+
+455
+00:34:00,920 --> 00:34:04,320
+So it's gonna be not as strong as a liquidity pool versus you know
+
+456
+00:34:04,320 --> 00:34:08,040
+If we had something like this, but the reason I like this so much is because we left equal highs
+
+457
+00:34:08,040 --> 00:34:10,040
+So price ended up doing something
+
+458
+00:34:10,840 --> 00:34:13,080
+like this, okay
+
+459
+00:34:14,160 --> 00:34:18,720
+All right, so it looked like that on the lower time frame. Also. There's one thing I do want to say
+
+460
+00:34:19,240 --> 00:34:24,680
+And there's this huge misconception actually with equal highs and equal lows
+
+461
+00:34:24,840 --> 00:34:31,480
+You guys need to realize and we talked about this similar. It's similar with like the SMT video like SMT's SMT's
+
+462
+00:34:32,480 --> 00:34:37,960
+SMT's form all the damn time on the lower time frame. Same thing with equal highs and equal lows
+
+463
+00:34:38,440 --> 00:34:43,960
+But what you need to know is you need to focus like we said on SMT video at those significant liquidity pools
+
+464
+00:34:43,960 --> 00:34:51,080
+And the same thing applies with equal highs and equal lows if you have bro like a one-minute chart that looks like this
+
+465
+00:34:51,120 --> 00:34:53,120
+That looks like this where you have like
+
+466
+00:34:53,800 --> 00:35:00,440
+You know back-to-back equal highs candles. It's not gonna be as significant as if you had
+
+467
+00:35:01,320 --> 00:35:05,520
+Too higher time frame significant swing highs create equal highs, right?
+
+468
+00:35:05,520 --> 00:35:07,040
+so if this looks something more like
+
+469
+00:35:07,040 --> 00:35:13,480
+Bang bang and then we're trading lower and then we came back up and left equal highs at a strong liquidity pool
+
+470
+00:35:13,960 --> 00:35:17,100
+Then that's when you would really want to pay attention to equal highs
+
+471
+00:35:17,220 --> 00:35:22,300
+Not just because you had two stacked candles back-to-back on the one-minute chart create equal highs
+
+472
+00:35:22,380 --> 00:35:27,220
+No, because you created two significant highs that created equal highs. So
+
+473
+00:35:28,020 --> 00:35:32,700
+Just want to make that clear because you know, I see a lot of people
+
+474
+00:35:34,020 --> 00:35:37,820
+Really falsely, I guess explain and promote equal highs and equal lows
+
+475
+00:35:38,660 --> 00:35:42,980
+Online and we want to give you guys the true sauce and not give you any, you know
+
+476
+00:35:43,260 --> 00:35:45,900
+Stupid fucking information or concepts that aren't even valid
+
+477
+00:35:46,700 --> 00:35:47,900
+But yeah
+
+478
+00:35:47,900 --> 00:35:49,900
+Yeah, so
+
+479
+00:35:49,980 --> 00:35:52,700
+Again from there. I was saying long just saying I'm nice
+
+480
+00:35:53,340 --> 00:35:56,420
+Because price should seek out now this liquidity pool here
+
+481
+00:35:56,420 --> 00:35:59,900
+And we'll show you what those equal highs look on the Lord on the lower time frame because on the higher time frame
+
+482
+00:35:59,900 --> 00:36:04,860
+It looks like yeah, I think I had a screenshot though. Yeah, cuz that's a higher time. That's a 15-minute chart
+
+483
+00:36:04,860 --> 00:36:08,480
+Oh, yeah, I did actually. Okay, so from here. I
+
+484
+00:36:09,060 --> 00:36:11,060
+Have to actually have this opposite
+
+485
+00:36:11,300 --> 00:36:16,540
+Okay, so from here we did trade lower and we did run up take out those equal highs
+
+486
+00:36:16,540 --> 00:36:18,500
+So I know this is like you can't really see it that works
+
+487
+00:36:18,500 --> 00:36:22,760
+I'm on the five-minute time frame, but we did have equal highs here and then we did run up and take that
+
+488
+00:36:22,880 --> 00:36:28,980
+Okay. Now from here. I did say I was bearish right reasoning for this guys. Why should I be bearish here?
+
+489
+00:36:28,980 --> 00:36:32,420
+Well number one the market has done its job, right?
+
+490
+00:36:32,420 --> 00:36:38,060
+We seeked all really the liquidity that we could being this buy side here and then we seeked out these equal highs and then we
+
+491
+00:36:38,060 --> 00:36:44,180
+Had a fat run lower, right? So from here we are delivering from buy side and then what are we doing now?
+
+492
+00:36:44,180 --> 00:36:46,940
+We are disrespecting this bullish Peter, right?
+
+493
+00:36:46,940 --> 00:36:52,340
+So we had a bullish Peter right here on the five-minute and this thought got disrespected right price is fractal guys what we're doing
+
+494
+00:36:52,340 --> 00:36:55,720
+On the higher time frame and when I'm showing you on my daily bias on the higher time frame
+
+495
+00:36:55,720 --> 00:37:01,580
+How I actually found this daily bias to begin with I'm using that same framework on the lower time frame, right?
+
+496
+00:37:01,580 --> 00:37:03,880
+I'm thinking about price in the same exact way
+
+497
+00:37:03,920 --> 00:37:09,800
+Okay, and from here I then said price is looking bearish ASF right now, okay
+
+498
+00:37:09,800 --> 00:37:16,640
+I said I'm now looking for this sell side, right? Because what are we doing? We're clearly disrespecting bullish gaps
+
+499
+00:37:16,680 --> 00:37:22,520
+We're clearly respecting bearish gaps, right and we're very clearly trending lower, right?
+
+500
+00:37:22,520 --> 00:37:26,760
+There's I don't want you guys to over complicate this right price just looks like it's heading towards here
+
+501
+00:37:26,760 --> 00:37:30,920
+So that's where I'm shorting to it towards. Okay, as you can see and
+
+502
+00:37:31,920 --> 00:37:35,520
+From here I did say I want to see this send us lower
+
+503
+00:37:35,600 --> 00:37:39,560
+We have you know a bullish we have a change say delivery here with this order blocks
+
+504
+00:37:39,560 --> 00:37:43,000
+I want to see this send us lower. This could also trade up here send us lower and
+
+505
+00:37:43,960 --> 00:37:47,280
+Then at this point I said I want to take something like this
+
+506
+00:37:47,280 --> 00:37:53,160
+I want to have an inversion for value up here to then send us lower to short from and then wait notice this guys
+
+507
+00:37:53,160 --> 00:37:57,360
+Oh, yeah, here's the equal highs also. Yeah, no, then there's actually more equal highs before so
+
+508
+00:37:58,240 --> 00:37:59,600
+Right here we had equal highs
+
+509
+00:37:59,600 --> 00:38:03,480
+but we also had equal highs before with two significant highs and that also got ran and
+
+510
+00:38:03,600 --> 00:38:07,160
+Then we created three stacked highs above those ended up getting ran too
+
+511
+00:38:07,200 --> 00:38:11,880
+so same thing you see on the higher time frame you want to see on the lower time frame, but something I want to emphasize here is
+
+512
+00:38:12,720 --> 00:38:17,600
+Notice how just because we had this super impulse of candle down and we were and we were disrespecting
+
+513
+00:38:19,080 --> 00:38:23,640
+Bullish PDR raise we're not just gonna short at the bottom of this this goes back to rebalancing ranges, right?
+
+514
+00:38:23,640 --> 00:38:28,960
+So now in the lower time frame, we want to see this impulse candle down, which we showed you looked like
+
+515
+00:38:30,120 --> 00:38:32,120
+Sorry
+
+516
+00:38:32,440 --> 00:38:34,440
+Looked
+
+517
+00:38:34,440 --> 00:38:39,320
+Looked like this this impulse candle down. We want to see that range get rebalanced towards equilibrium
+
+518
+00:38:39,400 --> 00:38:41,320
+So then we can take shorts
+
+519
+00:38:41,320 --> 00:38:43,700
+So what happens you can clearly see here that price?
+
+520
+00:38:43,920 --> 00:38:49,280
+rebalances this leg to around equilibrium and then you would want to look from shorts from there because if price is gonna respect
+
+521
+00:38:49,600 --> 00:38:51,200
+EQ of this range
+
+522
+00:38:51,200 --> 00:38:55,520
+And start giving us confirmation the price wants to run lower then now you're
+
+523
+00:38:56,240 --> 00:38:59,680
+Validating that narrative that price wants to run so that's all side. So you can keep going. Yeah
+
+524
+00:39:00,280 --> 00:39:06,020
+Exactly, and then I did end up taking a short from that inversion for value got right there as you can see
+
+525
+00:39:06,020 --> 00:39:08,020
+We have trading up towards
+
+526
+00:39:09,560 --> 00:39:12,760
+We have trading up towards that right here and
+
+527
+00:39:13,640 --> 00:39:15,640
+Then we end up getting our short here and
+
+528
+00:39:16,360 --> 00:39:18,280
+Executions, I don't know what the fuck happened to say
+
+529
+00:39:18,280 --> 00:39:21,280
+I think I'm just accidentally closed and I had to reenter my position
+
+530
+00:39:21,280 --> 00:39:23,280
+but as you can see play out perfectly and
+
+531
+00:39:24,000 --> 00:39:27,200
+That's how I went from finding my bias to actually finding my entry
+
+532
+00:39:28,040 --> 00:39:31,440
+And it's pretty much utilizing all the same concepts guys
+
+533
+00:39:31,440 --> 00:39:35,680
+And it's asking myself the same exact questions that I'm asking myself on the higher time frame
+
+534
+00:39:35,680 --> 00:39:41,800
+Yeah, and I mean we can show you literally what this looks like on also like real time
+
+535
+00:39:41,800 --> 00:39:44,040
+So if we go over
+
+536
+00:39:44,720 --> 00:39:49,800
+Let's see a bit staticky, but like let's say let's go over like the most recent day of price action
+
+537
+00:39:49,800 --> 00:39:52,120
+We'll pop into the 30-minute chart here
+
+538
+00:39:53,040 --> 00:39:54,280
+I
+
+539
+00:39:54,280 --> 00:39:58,760
+Can delete these drawings, right? Yeah. So yeah, we'll delete these all check. It's that's everything
+
+540
+00:39:59,880 --> 00:40:01,880
+Yeah, so I'll delete these
+
+541
+00:40:02,560 --> 00:40:08,080
+and now if we go into the 30 minute time frame here, which I like to use because I
+
+542
+00:40:08,520 --> 00:40:10,600
+Can see how my previous sessions are trading?
+
+543
+00:40:10,640 --> 00:40:14,560
+We can go into a day like this, which was I think two days ago
+
+544
+00:40:15,440 --> 00:40:17,440
+And so let's look at this, right?
+
+545
+00:40:18,000 --> 00:40:23,960
+Let's start off all the way back here. So after London session. This is around 8 a.m
+
+546
+00:40:23,960 --> 00:40:27,800
+Pre-market we see that pre-market sweeps out Asia highs
+
+547
+00:40:27,800 --> 00:40:34,440
+So we take a significant liquidity pool in the higher time frame. Now. What do we notice this range is pretty imbalanced, right?
+
+548
+00:40:34,440 --> 00:40:37,920
+We have this really strong impulsive move. So now that we've seek liquidity
+
+549
+00:40:37,960 --> 00:40:40,800
+So now that we've seek liquidity, what are we most likely going to do?
+
+550
+00:40:40,800 --> 00:40:43,920
+We're most likely going to rebounce a range and want to hit like equilibrium of this
+
+551
+00:40:44,080 --> 00:40:49,020
+So if we fast-forward price here, we see now we've rebounced equilibrium. What happens?
+
+552
+00:40:49,080 --> 00:40:53,320
+So now we're respecting this bullish Petey Ray, but we're also opening up this bearish Petey Ray
+
+553
+00:40:53,320 --> 00:40:55,560
+So how do we confirm a narrative from here?
+
+554
+00:40:55,560 --> 00:41:01,640
+Well, we want to see what continues to be respected and what continues to be disrespected and you see going into like 930
+
+555
+00:41:01,960 --> 00:41:07,440
+We're sort of bouncing between Peter race. So when we have a scenario like this, we're like, oh fuck
+
+556
+00:41:07,440 --> 00:41:15,560
+Okay, we swept out Asia highs and we swept out London lows and we're respecting this 30-minute bullish and we're also respecting this 30-minute bearish
+
+557
+00:41:15,840 --> 00:41:17,840
+What do you think we're gonna do?
+
+558
+00:41:17,840 --> 00:41:21,200
+Nothing, we're gonna sit on our hands because we don't have a clear narrative of price
+
+559
+00:41:21,200 --> 00:41:24,060
+We don't really know where price is what we're gonna want to go. So
+
+560
+00:41:24,680 --> 00:41:30,240
+Ideally we tell it we set ourselves conditions, right? So if we look at like this bullish 30-minute
+
+561
+00:41:30,800 --> 00:41:34,160
+Right here. We have a bullish gap on the higher time frame and we have a bearish gap
+
+562
+00:41:34,480 --> 00:41:40,040
+So my thought process with something like this would be okay if price decides
+
+563
+00:41:40,600 --> 00:41:48,200
+To respect this 30-minute and then disrespect this bearish 30-minute. What's that gonna tell me? We're respecting bullish disrespecting bearish
+
+564
+00:41:48,200 --> 00:41:54,480
+Where are we gonna go most likely higher? But if we end up respecting this 30-minute and we disrespect
+
+565
+00:41:55,120 --> 00:41:59,760
+This bullish 30-minute. What can I expect price to seek this liquidity right here?
+
+566
+00:42:00,760 --> 00:42:07,720
+And so I would want to look for shorts to run all this LR and take out this final sell side as you can see
+
+567
+00:42:07,720 --> 00:42:09,720
+Eventually you have price
+
+568
+00:42:09,840 --> 00:42:16,700
+finally invalidate one of these levels and now what can we expect price end up running all this outside liquidity and you can see
+
+569
+00:42:16,840 --> 00:42:23,760
+Price ends up trending lower because we are disrespecting bullish respecting bearish and we're taking out this liquidity and we're running all this
+
+570
+00:42:24,320 --> 00:42:26,960
+And yeah, I mean that's practically putting it all together
+
+571
+00:42:26,960 --> 00:42:33,920
+This is like showing you a day where you start off relatively neutral and you go basing it off like higher time from conditions and
+
+572
+00:42:34,240 --> 00:42:36,960
+See if we're respecting bullish or disrespecting bearish
+
+573
+00:42:38,360 --> 00:42:41,440
+Yeah, I can also show you guys really quick the daily bias for this
+
+574
+00:42:42,160 --> 00:42:44,200
+And on the higher time frame, it's a little bit
+
+575
+00:42:45,040 --> 00:42:47,680
+might be a little bit easier for you guys to see right and
+
+576
+00:42:48,480 --> 00:42:54,840
+It's the same thing again. You want for your highest probability setups for price to be fractal, right?
+
+577
+00:42:54,840 --> 00:42:58,280
+So what I mean by that is you want us to team models inside of models, right?
+
+578
+00:42:58,280 --> 00:43:03,880
+So the same thing you saw on the 30-minute time frame, right where we're bouncing between this bearish gap here
+
+579
+00:43:03,880 --> 00:43:08,400
+Remember and then this bullish gap here. We're doing the same exact thing on the 4-hour, right?
+
+580
+00:43:08,400 --> 00:43:14,840
+So most likely when we disrespect this 4-hour gap, where can you expect price to go lower, right?
+
+581
+00:43:14,880 --> 00:43:19,160
+So the same thing you saw on the 30-minute time frames happening on the higher time frame, right?
+
+582
+00:43:19,160 --> 00:43:24,520
+And on this day I can kind of just show you guys what I had for a bias coming into this morning
+
+583
+00:43:25,080 --> 00:43:26,520
+I
+
+584
+00:43:26,520 --> 00:43:31,600
+Said we're delivering from this 4-hour busy disrespecting this bearish and I said is this a
+
+585
+00:43:32,280 --> 00:43:36,160
+First that was other day. It was this it was this day right there. Okay, right
+
+586
+00:43:36,160 --> 00:43:39,320
+So I did say if this ends up getting disrespected
+
+587
+00:43:39,320 --> 00:43:43,480
+Okay, so I said we're bouncing between these two gaps and I said I'm leaning more bearish, right?
+
+588
+00:43:43,640 --> 00:43:49,900
+Why because of everything that pal was talking about and everything was going on here. We're clearly respecting this gap
+
+589
+00:43:49,900 --> 00:43:51,240
+We also have an unfilled gap here
+
+590
+00:43:51,280 --> 00:43:58,720
+Okay, so it's it makes sense for price to move lower right to rebalance an inefficiency and for here
+
+591
+00:43:58,720 --> 00:44:04,760
+I said I need to see play it price close below this 4-hour if closed below expect the unfilled 4-hour
+
+592
+00:44:04,920 --> 00:44:09,440
+Okay, so if we close below this expect what this and then as you can see
+
+593
+00:44:10,880 --> 00:44:13,720
+On this day, you know respecting this bearish gap
+
+594
+00:44:14,640 --> 00:44:19,320
+We end up disrespecting this bullish gap right here. And then once we close below this
+
+595
+00:44:19,320 --> 00:44:24,640
+This is that confirmation that price wants to then head towards this low at minimum
+
+596
+00:44:25,000 --> 00:44:28,000
+Yeah, and also if you notice here
+
+597
+00:44:28,160 --> 00:44:35,280
+This is one of those days where we're seeking inefficiencies because we don't have like clear a southside liquidity a target here
+
+598
+00:44:35,280 --> 00:44:41,380
+But we do have a clear unfilled 4-hour gap below so we know that if this 4-hour bullish gap gets
+
+599
+00:44:42,080 --> 00:44:46,360
+Disrespected and this gets inverse and this one ends up being respected
+
+600
+00:44:46,360 --> 00:44:49,480
+Then what can we expect price to go towards this next inefficiency?
+
+601
+00:44:49,480 --> 00:44:53,560
+Which is this unfilled 4-hour and so that's really just like step-by-step how we build
+
+602
+00:44:54,160 --> 00:44:58,260
+Our biases and everything and I hope you're able to now like pair these things together
+
+603
+00:44:58,260 --> 00:45:00,260
+I think this has to be the sauciest bias, but yeah
+
+604
+00:45:02,600 --> 00:45:05,520
+But yeah, dude, it's not about predicting the market
+
+605
+00:45:05,520 --> 00:45:11,840
+It's about reacting to what it's telling you and so you slowly go from having an assumption to getting a confirmation of that assumption to then
+
+606
+00:45:11,840 --> 00:45:13,840
+finding your execution and
+
+607
+00:45:14,160 --> 00:45:17,760
+I don't need a yap any longer about this Blake doesn't need a yap any longer about this
+
+608
+00:45:18,000 --> 00:45:22,000
+This is genuinely everything you'll ever need to know about determining your bias
+
+609
+00:45:22,720 --> 00:45:26,940
+So I hope this made a lot of sense to you guys
+
+610
+00:45:27,720 --> 00:45:35,320
+And yeah, once again, we're sorry bro about putting a delay on the series, but we're gonna bang it out now
+
+611
+00:45:36,080 --> 00:45:37,400
+And yeah
+
+612
+00:45:37,400 --> 00:45:42,200
+We just wanted to show you guys a little bit about who Blake and I are because all we ever did was give you a like
+
+613
+00:45:42,480 --> 00:45:48,680
+Lore video, but we didn't really show you our lifestyle outside of trading and we don't just want to be like traders to you guys
+
+614
+00:45:48,680 --> 00:45:50,680
+We also want to be like regular people
+
+615
+00:45:51,720 --> 00:45:58,320
+But yeah, I mean this was our ICT for dummies episode 10 on daily bias and
+
+616
+00:45:59,160 --> 00:46:02,920
+Share this shit with your friends bro. Show people. This is really how you determine your bias
+
+617
+00:46:03,160 --> 00:46:07,780
+We are quite literally giving you every sauce you need not
+
+618
+00:46:08,380 --> 00:46:13,460
+Know one that you find online is gonna be this transparent and show you this level of information
+
+619
+00:46:13,980 --> 00:46:16,820
+That's just a reality and that's not me being like egotistical
+
+620
+00:46:17,020 --> 00:46:22,440
+We just genuinely like have always wanted people to know exactly how we go about it, bro
+
+621
+00:46:22,540 --> 00:46:26,860
+We've been fucking crushing in the markets for a long time consistently pulling in six figure months
+
+622
+00:46:26,860 --> 00:46:33,140
+I mean recently it's been insane. I've won like the last I don't even know fucking
+
+623
+00:46:33,420 --> 00:46:38,180
+16 out of like 18 trades and I'm showing you this guys literally right in front of your face
+
+624
+00:46:38,180 --> 00:46:42,900
+I literally predict the market every single day for you guys in the daily bias and our premium discord
+
+625
+00:46:42,900 --> 00:46:48,100
+And we're also showing you this. Yeah, but you don't you don't need you don't need a fucking you don't need the disagree
+
+626
+00:46:48,100 --> 00:46:50,660
+You don't you don't need shit at the end of the day. You just need to be like
+
+627
+00:46:51,580 --> 00:46:56,460
+willing to put the time to learn so if you can watch this video take notes on it and start applying it and like go
+
+628
+00:46:56,460 --> 00:46:58,300
+through previous day bros and and like
+
+629
+00:46:58,300 --> 00:47:03,980
+Use it use our thought process to build your narrative you're gonna realize that your bias is right all the time
+
+630
+00:47:03,980 --> 00:47:07,060
+But this is only you know one piece of the puzzle then
+
+631
+00:47:07,340 --> 00:47:10,980
+Figure out those lower time frame drawn liquidity is getting those entries is also another thing
+
+632
+00:47:10,980 --> 00:47:13,940
+But we really did show you everything that you need in this video
+
+633
+00:47:13,940 --> 00:47:19,100
+And this was a main focus on bias, but we even went into like lower time frame drawn liquidity's went into
+
+634
+00:47:19,740 --> 00:47:23,540
+Entries and like we said, this is all fractal. So the same thing we're looking on the higher time frame
+
+635
+00:47:23,540 --> 00:47:28,180
+We're looking for on the lower time frame. And yeah, we're gonna keep pushing out some gnarly gnarly ass
+
+636
+00:47:28,180 --> 00:47:33,540
+Videos like this sort of just free flowing through shit. You can see that this video is completely, you know unedited
+
+637
+00:47:34,060 --> 00:47:39,020
+And this is what we do every single day that being said we fucking love you guys
+
+638
+00:47:39,020 --> 00:47:44,780
+And thank you so much for watching our ICT for dummies episode 10 on daily bias and we'll catch you
+
+639
+00:47:44,780 --> 00:47:50,220
+What was that? What you didn't even know saw no song. No nothing. It was depressing
+
+640
+00:47:51,300 --> 00:47:53,300
+Give me a beat
+
+641
+00:47:54,540 --> 00:47:56,540
+Wait
+
+642
+00:47:58,620 --> 00:48:00,620
+I hear you're doing here
+
+643
+00:48:01,220 --> 00:48:08,020
+Bitch I'm psychopedia race disrespecting respecting if we respect bears then I'm bearish bias
+
+644
+00:48:08,740 --> 00:48:11,540
+Hey, I feel like Adele
+
+645
+00:48:13,860 --> 00:48:16,360
+Sucking on your balls. Oh my god
+
+646
+00:48:18,100 --> 00:48:24,660
+Bitch I feel like ICT I got these cell side imbalances. I'm filling it up. Yeah, wait
+
+647
+00:48:28,420 --> 00:48:30,420
+Mmm
+
+648
+00:48:32,700 --> 00:48:40,020
+Bitch I feel like that's my draw. I'm hitting that liquidity. Oh, bitch. I feel like an inefficiency. I'm feeling that shit
+
+649
+00:48:42,500 --> 00:48:46,780
+I don't think it's any of our days. Yeah, it's not our days. Give me one more just one more try
+
+650
+00:48:46,780 --> 00:48:48,780
+Mmm
+
+651
+00:48:50,900 --> 00:48:52,900
+Yeah
+
+652
+00:48:53,140 --> 00:48:55,820
+Hey, mmm higher time frame
+
+653
+00:48:57,140 --> 00:48:59,340
+Wow, wow, wow, wow guys
+
+654
+00:49:00,540 --> 00:49:05,300
+Where we do the first try we're actually so good. We actually do this first try. This is usually so much better
+
+655
+00:49:05,300 --> 00:49:08,700
+I like you nervous. Yeah, why am I so nervous bro? What the fuck in already?
+
+656
+00:49:12,740 --> 00:49:14,740
+Yeah, mmm
+
+657
+00:49:15,260 --> 00:49:17,260
+Yeah
+
+658
+00:49:17,700 --> 00:49:23,620
+On the lower time for bitch, I find a fair value gap if I see that big booty bitch
+
+659
+00:49:23,620 --> 00:49:28,140
+You know, I'm finna slap executing on the one to five minute
+
+660
+00:49:28,500 --> 00:49:35,340
+You already know that I'm always fucking stingin bitch. I'm catching all these trades bitch. I'm always getting laid
+
+661
+00:49:35,940 --> 00:49:42,300
+18 fucking wins bitch, you know, I'm getting paid and I do a crazy bitch none this shit Fugazi
+
+662
+00:49:42,740 --> 00:49:46,140
+Patty in Blake, we don't do this shit. We lazy. Um, uh
+
+663
+00:49:47,940 --> 00:49:52,460
+Didn't make any sense. Yeah left-curve gang
+
+664
+00:49:54,980 --> 00:49:59,300
+Determine my bias. Yeah Asian, so I eat rice
+
+665
+00:50:01,420 --> 00:50:05,020
+How do you on the show I do right now how do you end it I do right now
+

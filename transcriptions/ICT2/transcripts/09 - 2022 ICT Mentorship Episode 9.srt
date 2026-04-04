@@ -1,0 +1,1708 @@
+1
+00:00:00,000 --> 00:00:06,360
+All right, folks, welcome back.
+
+2
+00:00:06,360 --> 00:00:12,340
+This is Episode 9 for the 2022 ICT Mentorship on YouTube.
+
+3
+00:00:12,340 --> 00:00:17,240
+This lecture is going to be on Power 3, which is Accumulation, Manipulation, and Distribution,
+
+4
+00:00:17,240 --> 00:00:21,400
+and New York PM Session Opportunities.
+
+5
+00:00:21,400 --> 00:00:29,800
+All right, so we're looking at the NASDAQ e-mini futures.
+
+6
+00:00:29,800 --> 00:00:34,320
+This is the continuous chart on TradingView.
+
+7
+00:00:34,320 --> 00:00:41,760
+So if you look at the daily range of where we've been, we're inside this range here.
+
+8
+00:00:41,760 --> 00:00:48,080
+Okay, so we have this swing high and this swing low.
+
+9
+00:00:48,080 --> 00:00:50,320
+Now why am I picking these two reference points?
+
+10
+00:00:50,320 --> 00:00:56,160
+Well, namely, this is the low most recently after taking out this short-term low.
+
+11
+00:00:56,160 --> 00:01:02,120
+So we've dug into all the sell-side liquidity resting below that low.
+
+12
+00:01:02,120 --> 00:01:06,760
+We retraced back up inside of this high to that low.
+
+13
+00:01:06,760 --> 00:01:11,520
+So we went back up into a premium.
+
+14
+00:01:11,520 --> 00:01:18,040
+The range high to low, running a fib just to get the 50% level, that gives us equilibrium.
+
+15
+00:01:18,040 --> 00:01:22,520
+Anything below that is a discount.
+
+16
+00:01:22,520 --> 00:01:30,640
+Notice how the market traded down on Monday into a deep discount, but did not take out
+
+17
+00:01:30,640 --> 00:01:33,160
+these lows over here.
+
+18
+00:01:33,160 --> 00:01:35,680
+But look how we closed on Monday.
+
+19
+00:01:35,680 --> 00:01:39,080
+We had an indecisive candle.
+
+20
+00:01:39,080 --> 00:01:40,640
+The body was basically absent.
+
+21
+00:01:40,640 --> 00:01:45,640
+The opening close was essentially the same thing.
+
+22
+00:01:45,640 --> 00:01:51,800
+If we have that and the market's trading down into a discount, even though we might
+
+23
+00:01:51,800 --> 00:02:00,400
+have a low down here that we're targeting, this may require a retracement.
+
+24
+00:02:00,400 --> 00:02:06,280
+Now notice at the close of Monday's trading, we had an imbalance from this low and this
+
+25
+00:02:06,280 --> 00:02:08,480
+high.
+
+26
+00:02:08,480 --> 00:02:18,360
+On Tuesday's trading overnight, the equities markets had a run up into this imbalance here.
+
+27
+00:02:18,360 --> 00:02:24,200
+So this fair value gap was re-traded to in here.
+
+28
+00:02:24,200 --> 00:02:34,120
+This low and this high, we'll look at that in reference to the lower timeframes.
+
+29
+00:02:34,120 --> 00:02:40,520
+This lower level is the low end of the fair value gap on a daily chart, and this level
+
+30
+00:02:40,520 --> 00:02:44,760
+up here is the upper end of the fair value gap.
+
+31
+00:02:44,760 --> 00:02:51,120
+I'm taking your attention to Monday's trading, and I want to talk a little bit about Power
+
+32
+00:02:51,120 --> 00:02:58,520
+3, which is accumulation, distribution, and manipulation.
+
+33
+00:02:58,520 --> 00:03:00,800
+Generally my teachings are like this.
+
+34
+00:03:00,800 --> 00:03:07,080
+If I'm bullish, I'm expecting the opening price to be near the low of the day or the
+
+35
+00:03:07,080 --> 00:03:08,080
+session.
+
+36
+00:03:08,080 --> 00:03:17,480
+Then it trades lower, making some important low, and then rallies, creates a high, and
+
+37
+00:03:17,480 --> 00:03:19,560
+then closes near the high of the day.
+
+38
+00:03:19,560 --> 00:03:24,360
+Now it's not important for you to try to predict the closing price.
+
+39
+00:03:24,360 --> 00:03:29,640
+What I'm trying to train you to anticipate is the likelihood of the market making some
+
+40
+00:03:29,640 --> 00:03:33,200
+kind of a fake move, like a Judas swing.
+
+41
+00:03:33,200 --> 00:03:36,280
+Judas swing is the false move.
+
+42
+00:03:36,280 --> 00:03:44,640
+Typically in London and in New York session, there are fake runs that start off a move,
+
+43
+00:03:44,640 --> 00:03:49,720
+and I walked you through it last week on my community tab where I outlined the actual
+
+44
+00:03:49,720 --> 00:03:52,920
+Judas swing for that particular day.
+
+45
+00:03:52,920 --> 00:03:56,080
+Using the fair value gap, I outlined the low.
+
+46
+00:03:56,120 --> 00:03:59,520
+I was only off by a quarter of a point for the low in that range, and it created the
+
+47
+00:03:59,520 --> 00:04:00,740
+low of the day.
+
+48
+00:04:00,740 --> 00:04:05,640
+The idea is what I'm going to show you here as well.
+
+49
+00:04:05,640 --> 00:04:11,280
+On Monday, we had price drop down overnight, consolidated, and then we have a little bit
+
+50
+00:04:11,280 --> 00:04:14,480
+of a rally ahead of the equities open.
+
+51
+00:04:14,480 --> 00:04:17,960
+In here, we have 8.30 in the morning.
+
+52
+00:04:17,960 --> 00:04:20,640
+If you look at 8.30, what do we have?
+
+53
+00:04:20,640 --> 00:04:22,440
+We have the highs over here.
+
+54
+00:04:22,440 --> 00:04:26,640
+They're suspect because they're relatively equal highs there, but look what we left here
+
+55
+00:04:26,640 --> 00:04:27,640
+ahead of 8.30.
+
+56
+00:04:27,640 --> 00:04:32,760
+We had this huge imbalance.
+
+57
+00:04:32,760 --> 00:04:40,280
+If we run these highs out after the open at 9.30, it's likely to trade down into that
+
+58
+00:04:40,280 --> 00:04:42,400
+and rebalance, but watch what it does.
+
+59
+00:04:42,400 --> 00:04:47,800
+We trade up into that level here, which creates the fair value gap's low end parameter.
+
+60
+00:04:47,800 --> 00:04:50,800
+Remember, this is Monday's trading.
+
+61
+00:04:50,800 --> 00:04:51,800
+It sells off.
+
+62
+00:04:51,800 --> 00:04:54,680
+This line isn't here on Monday.
+
+63
+00:04:54,680 --> 00:04:55,880
+That's not what we're looking at.
+
+64
+00:04:55,880 --> 00:05:00,800
+We're looking at the likelihood of coming back down into this area here after taking
+
+65
+00:05:00,800 --> 00:05:02,960
+these highs out.
+
+66
+00:05:02,960 --> 00:05:11,360
+If it does so, if it trades back into this imbalance, that's a good candidate to go long.
+
+67
+00:05:11,360 --> 00:05:14,600
+The imbalance in here, if you go to the left of it, you can see the down close candles.
+
+68
+00:05:14,600 --> 00:05:16,880
+That's your bullish order block.
+
+69
+00:05:16,880 --> 00:05:21,240
+The market trades down, hits the order block, and it's an afternoon trade, so it starts
+
+70
+00:05:21,240 --> 00:05:25,160
+to rally, and then consolidates into close.
+
+71
+00:05:25,160 --> 00:05:29,680
+Overnight, we create a wicked run last night.
+
+72
+00:05:29,680 --> 00:05:35,760
+It ran last night, and most of all the move for today was done before we even got to the
+
+73
+00:05:35,760 --> 00:05:37,760
+opening of the morning.
+
+74
+00:05:37,760 --> 00:05:46,080
+Had a little bit of a retracement after 8.30, and at 9.30, we consolidated.
+
+75
+00:05:46,080 --> 00:05:51,120
+I'll talk a little bit about that as a market profile in a moment, but then we dropped down
+
+76
+00:05:51,120 --> 00:05:54,080
+create an important low today, and then we rally.
+
+77
+00:05:54,080 --> 00:06:01,640
+It got real close to the fair value gap's high end parameter, but didn't get to it.
+
+78
+00:06:01,640 --> 00:06:02,640
+It's just like I was mentioning here.
+
+79
+00:06:02,640 --> 00:06:08,360
+You don't need to try to predict the closing price with power three, which is accumulation,
+
+80
+00:06:08,360 --> 00:06:09,360
+manipulation.
+
+81
+00:06:09,360 --> 00:06:12,560
+In other words, if you're bullish, it opens.
+
+82
+00:06:12,560 --> 00:06:16,280
+Where you think it's going to trade higher, it's going to be most likely a small little
+
+83
+00:06:16,280 --> 00:06:18,440
+move lower.
+
+84
+00:06:19,040 --> 00:06:21,400
+That's the move you want to try to go in and hunt along.
+
+85
+00:06:21,400 --> 00:06:25,560
+If you miss it, you want to try to get along real close to where the opening price is.
+
+86
+00:06:25,560 --> 00:06:28,480
+Now, the question is going to be, where is the opening price?
+
+87
+00:06:28,480 --> 00:06:35,480
+Well, I like 8.30, use the opening price here at 8.30, draw that out in time.
+
+88
+00:06:35,480 --> 00:06:36,480
+Did we go below it?
+
+89
+00:06:36,480 --> 00:06:37,480
+Yes.
+
+90
+00:06:37,480 --> 00:06:38,480
+Did we go inside the imbalance?
+
+91
+00:06:38,480 --> 00:06:39,480
+Yes.
+
+92
+00:06:39,480 --> 00:06:40,480
+Did we take out a short-term low?
+
+93
+00:06:40,480 --> 00:06:41,480
+Yes.
+
+94
+00:06:41,480 --> 00:06:42,480
+Did we hit an order block?
+
+95
+00:06:42,480 --> 00:06:43,480
+Yes.
+
+96
+00:06:43,480 --> 00:06:44,480
+Was it an optimal trade entry?
+
+97
+00:06:44,480 --> 00:06:45,480
+Yes.
+
+98
+00:06:45,480 --> 00:06:46,480
+Lots of factors there.
+
+99
+00:06:46,480 --> 00:06:47,480
+Over here, same thing.
+
+100
+00:06:47,520 --> 00:06:48,520
+Did we hit an order block?
+
+101
+00:06:48,520 --> 00:06:49,520
+Yes.
+
+102
+00:06:49,520 --> 00:06:50,520
+Here.
+
+103
+00:06:50,520 --> 00:06:51,520
+Did we trade lower than that?
+
+104
+00:06:51,520 --> 00:06:52,520
+Yes.
+
+105
+00:06:52,520 --> 00:06:53,520
+Did it go even lower than that later on?
+
+106
+00:06:53,520 --> 00:06:54,520
+In the afternoon?
+
+107
+00:06:54,520 --> 00:06:55,520
+Yes.
+
+108
+00:06:55,520 --> 00:06:59,200
+Then it rallied, taking out the relative equal highs here, and again, gravitating towards
+
+109
+00:06:59,200 --> 00:07:02,760
+that upper end of that fair value gap on the daily chart.
+
+110
+00:07:02,760 --> 00:07:12,420
+Now, I'm in a five-minute chart on that same February 14th, and I want to take you closer
+
+111
+00:07:12,420 --> 00:07:14,800
+to what price is done here.
+
+112
+00:07:14,800 --> 00:07:19,520
+Hit imbalance, the lowest portion of it here, with all the down-closed candles here.
+
+113
+00:07:19,520 --> 00:07:24,680
+Now, this is anchored to the daily bullish order block, but you can see how we traded
+
+114
+00:07:24,680 --> 00:07:29,000
+into it here with one, two, three, four down-closed candles.
+
+115
+00:07:29,000 --> 00:07:35,280
+That is a complete order block on this time frame, so consecutive down-closed candles
+
+116
+00:07:35,280 --> 00:07:40,640
+right before a price surge that has an imbalance.
+
+117
+00:07:40,640 --> 00:07:41,920
+That's how you find your order blocks.
+
+118
+00:07:42,240 --> 00:07:49,200
+Okay, so a high-probability order block would be your narrative or your bias is bullish.
+
+119
+00:07:49,200 --> 00:07:50,440
+You're looking for displacement.
+
+120
+00:07:50,440 --> 00:07:51,440
+That's this right here.
+
+121
+00:07:51,440 --> 00:07:56,240
+I'm going to mark it runs real quick, higher, and the down-closed candles, you want to mark
+
+122
+00:07:56,240 --> 00:08:00,040
+that out and anticipate a return back into that.
+
+123
+00:08:00,040 --> 00:08:02,500
+Now, again, this level is not there yet.
+
+124
+00:08:02,500 --> 00:08:07,360
+We don't know this level until Monday's close, so don't be tricked thinking that I have this
+
+125
+00:08:07,360 --> 00:08:11,120
+level here and I knew it was going to go right through that level and turn, I'm not suggesting
+
+126
+00:08:11,120 --> 00:08:12,120
+that at all.
+
+127
+00:08:12,120 --> 00:08:16,040
+What I'm suggesting is watch what happens when it creates that high.
+
+128
+00:08:16,040 --> 00:08:18,720
+It breaks down.
+
+129
+00:08:18,720 --> 00:08:24,800
+All this price action here gets overran into a retracement back down into this imbalance
+
+130
+00:08:24,800 --> 00:08:25,800
+here.
+
+131
+00:08:25,800 --> 00:08:29,280
+The low of this candle and the high of this candle, that right there, that's your fair
+
+132
+00:08:29,280 --> 00:08:36,200
+value gap with an order block and optimal trade industry.
+
+133
+00:08:36,840 --> 00:08:44,120
+Rallies, even though it's sloppy, it's still continuously driving higher.
+
+134
+00:08:44,120 --> 00:08:51,280
+This high at the close on this day here at, say, 4.30, 4.30 in the afternoon to me, that's
+
+135
+00:08:51,280 --> 00:08:53,520
+like the close for me.
+
+136
+00:08:53,520 --> 00:08:58,080
+It trades a little bit later than that and then closes for a little while, and it also
+
+137
+00:08:58,080 --> 00:09:05,640
+technically closes when the bell rings at 4 o'clock p.m. local time in New York.
+
+138
+00:09:05,640 --> 00:09:09,800
+Because there's a little bit of trading past that, I like to just look at 4.30 and just
+
+139
+00:09:09,800 --> 00:09:15,040
+consider that where we are in terms of what we've done for the full range and then determine
+
+140
+00:09:15,040 --> 00:09:24,680
+what I have left for maybe imbalance or liquidity pools.
+
+141
+00:09:24,680 --> 00:09:32,800
+Here is that drop down here on a one-minute chart.
+
+142
+00:09:32,800 --> 00:09:36,240
+It's digging into that order block right here.
+
+143
+00:09:36,240 --> 00:09:40,960
+If you look real close, let me go back up one slide, I want you to see what I'm showing
+
+144
+00:09:40,960 --> 00:09:42,520
+you here.
+
+145
+00:09:42,520 --> 00:09:50,080
+Right here, this price action, see, 14.140, 14.120, this little area right here I'm looking
+
+146
+00:09:50,080 --> 00:09:58,400
+at on a one-minute chart, 14.140, 14.120 in that vicinity, see that small little gap right
+
+147
+00:09:58,400 --> 00:10:01,400
+there, see that?
+
+148
+00:10:01,400 --> 00:10:03,360
+See the swing high?
+
+149
+00:10:03,360 --> 00:10:08,040
+We trade above it, create a fair value gap there, trade down into it.
+
+150
+00:10:08,040 --> 00:10:09,040
+This is an afternoon trade.
+
+151
+00:10:09,040 --> 00:10:15,120
+This is 2 o'clock in the afternoon, local time in New York, inside the order block,
+
+152
+00:10:15,120 --> 00:10:22,440
+inside the fair value gap, inside a retracement of the fair value gap that sets the stage
+
+153
+00:10:22,440 --> 00:10:30,720
+of a market run up into a higher retracement.
+
+154
+00:10:30,960 --> 00:10:39,880
+We don't know if this is going to be the closing parameter for a daily fair value gap.
+
+155
+00:10:39,880 --> 00:10:44,760
+We don't need to know that yet, but this is a likely scenario to go long, and we can look
+
+156
+00:10:44,760 --> 00:10:52,600
+for a run back up into this range here, or run the buy stops above here, or maybe in
+
+157
+00:10:52,600 --> 00:10:55,200
+this side here.
+
+158
+00:10:55,200 --> 00:11:01,360
+Sloppy run, but nonetheless it's still pressing higher.
+
+159
+00:11:01,360 --> 00:11:04,960
+Now here's today on the 15th of February, 2022.
+
+160
+00:11:04,960 --> 00:11:12,920
+Notice what we had, we had this enormous price run overnight in technically the London Session.
+
+161
+00:11:12,920 --> 00:11:17,000
+Now a lot of you are going to ask, would I have caught this?
+
+162
+00:11:17,000 --> 00:11:18,000
+No.
+
+163
+00:11:18,000 --> 00:11:19,000
+No, I wouldn't have caught it.
+
+164
+00:11:19,240 --> 00:11:22,880
+I would have missed it, and if I was awake I wouldn't have seen it coming, let's just
+
+165
+00:11:22,880 --> 00:11:24,080
+put it that way.
+
+166
+00:11:24,080 --> 00:11:30,360
+So this right here was a complete surprise to me when I woke up, saw it, but I want you
+
+167
+00:11:30,360 --> 00:11:35,600
+to think about when you have these overnight runs that were basically these big moves overnight
+
+168
+00:11:35,600 --> 00:11:40,000
+before the session begins in New York, when you're trading equities.
+
+169
+00:11:40,000 --> 00:11:43,560
+This also works with Forex too, so it's important to try not to chase price.
+
+170
+00:11:43,560 --> 00:11:46,480
+This is what I mean by don't chase it, don't chase it.
+
+171
+00:11:46,520 --> 00:11:51,360
+Last week when I was commenting and outlining the NASDAQ and giving you a fair value gap
+
+172
+00:11:51,360 --> 00:11:54,840
+real time explaining to where I thought I was going to draw down to and it created the
+
+173
+00:11:54,840 --> 00:11:57,800
+New York Session low of the day.
+
+174
+00:11:57,800 --> 00:12:00,240
+That's what I was outlining, just take a look at it, go back and look at it, you'll see
+
+175
+00:12:00,240 --> 00:12:02,600
+it's pretty obvious.
+
+176
+00:12:02,600 --> 00:12:06,320
+The same logic on amplifying that here.
+
+177
+00:12:06,320 --> 00:12:07,320
+Overnight what was the market doing?
+
+178
+00:12:07,320 --> 00:12:08,320
+It was rallying.
+
+179
+00:12:08,320 --> 00:12:13,920
+So when we open up at 8.30, do we go in here and start buying it just because it's gone
+
+180
+00:12:13,920 --> 00:12:14,920
+up overnight?
+
+181
+00:12:14,920 --> 00:12:16,160
+No, we don't chase it.
+
+182
+00:12:16,160 --> 00:12:17,160
+We have to wait.
+
+183
+00:12:17,160 --> 00:12:18,160
+No, we don't chase it.
+
+184
+00:12:18,160 --> 00:12:19,800
+We have to wait for more information.
+
+185
+00:12:19,800 --> 00:12:21,600
+What information are we waiting for?
+
+186
+00:12:21,600 --> 00:12:26,080
+Well typically whenever you see a big run up or a big run down, there's a consolidation
+
+187
+00:12:26,080 --> 00:12:28,160
+that takes place shortly after.
+
+188
+00:12:28,160 --> 00:12:32,800
+Now not always, sometimes it just keeps on ripping higher or lower and you'll either
+
+189
+00:12:32,800 --> 00:12:37,360
+miss a move or if you get lucky maybe you can participate in it.
+
+190
+00:12:37,360 --> 00:12:39,280
+This is what I typically look for.
+
+191
+00:12:39,280 --> 00:12:42,920
+So if there's a lot of range movement overnight, what's overnight?
+
+192
+00:12:43,920 --> 00:12:47,440
+Two o'clock in the morning to five o'clock in the morning.
+
+193
+00:12:47,440 --> 00:12:52,400
+If we get a big run like that, which is what we're seeing here, right away in my mind I'm
+
+194
+00:12:52,400 --> 00:12:55,840
+thinking don't trade a lot.
+
+195
+00:12:55,840 --> 00:13:01,880
+Don't expect a lot of in and out, in and out, perfect precision.
+
+196
+00:13:01,880 --> 00:13:06,520
+Wait for a real significant price move, otherwise you're going to get chopped up.
+
+197
+00:13:06,520 --> 00:13:07,520
+Now what does that mean?
+
+198
+00:13:07,520 --> 00:13:11,440
+Well when we have it opening here at 8.30, look to the left, what do we have?
+
+199
+00:13:11,440 --> 00:13:18,720
+We have this high here and we have the low over here.
+
+200
+00:13:18,720 --> 00:13:21,280
+We can use this one because they're relative equal, but I like this one.
+
+201
+00:13:21,280 --> 00:13:22,280
+Why?
+
+202
+00:13:22,280 --> 00:13:23,280
+Why do I like this one?
+
+203
+00:13:23,280 --> 00:13:25,280
+What's below it?
+
+204
+00:13:25,280 --> 00:13:28,240
+Fair value guy, see that?
+
+205
+00:13:28,240 --> 00:13:31,520
+So it's likely to trade down after it creates this sloppy opening.
+
+206
+00:13:31,520 --> 00:13:33,960
+Look at all this movement in here.
+
+207
+00:13:33,960 --> 00:13:41,280
+Now as a personal study there's two or three YouTubers that I watch that trade the equity
+
+208
+00:13:41,320 --> 00:13:46,920
+market indices and I'm not trying to say anything bad about them.
+
+209
+00:13:46,920 --> 00:13:51,560
+I just like to listen to what they're thinking because they don't look at the market like
+
+210
+00:13:51,560 --> 00:13:52,560
+I do.
+
+211
+00:13:52,560 --> 00:13:55,920
+I'm not suggesting that they're not profitable because they show live trades.
+
+212
+00:13:55,920 --> 00:14:00,920
+They get into trades, they take them and sometimes they win and sometimes they don't.
+
+213
+00:14:00,920 --> 00:14:07,760
+But I like to read kind of like a squawk box what their interpretation of price is and
+
+214
+00:14:07,760 --> 00:14:13,760
+they're looking at this area in here and it's back and forth.
+
+215
+00:14:13,760 --> 00:14:17,200
+They think if it goes here it's going to go there, if it goes here it's going to go there.
+
+216
+00:14:17,200 --> 00:14:23,400
+All these scenarios are going through randomly in their live streams.
+
+217
+00:14:23,400 --> 00:14:29,640
+So when I'm watching price I'm listening for them to want to be a buyer.
+
+218
+00:14:29,640 --> 00:14:34,720
+So when they're trying to be a buyer that means they're already hunting a continuation
+
+219
+00:14:34,720 --> 00:14:36,560
+of this move here.
+
+220
+00:14:36,560 --> 00:14:40,280
+I want to see a low form.
+
+221
+00:14:40,280 --> 00:14:43,480
+Now this is what we have for today.
+
+222
+00:14:43,480 --> 00:14:46,040
+We start going lower first so that's good.
+
+223
+00:14:46,040 --> 00:14:48,600
+We create a pseudo Judas swing.
+
+224
+00:14:48,600 --> 00:14:51,800
+But did it create a nice low and turn away from it?
+
+225
+00:14:51,800 --> 00:14:54,360
+Look at all this back and forth.
+
+226
+00:14:54,360 --> 00:14:57,960
+And it created these suspect lows in here, relative equal lows.
+
+227
+00:14:57,960 --> 00:15:02,120
+There's going to be sell side building up below that sell stops.
+
+228
+00:15:02,120 --> 00:15:06,680
+When it starts to go higher anyone that was long overnight they're going to jam their
+
+229
+00:15:06,680 --> 00:15:10,600
+stop loss right underneath that.
+
+230
+00:15:10,600 --> 00:15:14,520
+When this occurs that's the very scenario I'm looking for.
+
+231
+00:15:14,520 --> 00:15:17,680
+Now right away in my mind here's what I want you to understand.
+
+232
+00:15:17,680 --> 00:15:23,360
+If there's a big move overnight for equities, this is not Forex, this part is not Forex
+
+233
+00:15:23,360 --> 00:15:28,840
+it's just for trading like Nasdaq, Dow and E-Mini S&P.
+
+234
+00:15:28,880 --> 00:15:34,000
+If there's a big run overnight avoid the New York session, don't even mess with the New
+
+235
+00:15:34,000 --> 00:15:35,880
+York session.
+
+236
+00:15:35,880 --> 00:15:41,720
+Wait until the other side of lunch at 1 o'clock in the afternoon New York time and then anticipate
+
+237
+00:15:41,720 --> 00:15:48,680
+the New York lunch lows taken out or the New York morning session lows which is what we
+
+238
+00:15:48,680 --> 00:15:51,340
+have here.
+
+239
+00:15:51,340 --> 00:15:52,960
+Notice how we rallied up.
+
+240
+00:15:52,960 --> 00:15:56,440
+We didn't take out the relative equal highs here that was formed ahead of 7 o'clock in
+
+241
+00:15:56,440 --> 00:15:57,440
+the morning.
+
+242
+00:15:58,400 --> 00:16:04,840
+Now this over here we know this range up here is the high end of that fair value gap.
+
+243
+00:16:04,840 --> 00:16:06,040
+Why do we know that?
+
+244
+00:16:06,040 --> 00:16:11,200
+Because the 14th stopped trading and it had the indecisive candle on the daily chart.
+
+245
+00:16:11,200 --> 00:16:16,480
+So it's likely that we might trade up into this range high and this is that range low.
+
+246
+00:16:16,480 --> 00:16:22,840
+So if we can draw down below that low it was formed initially in the New York session.
+
+247
+00:16:22,840 --> 00:16:27,920
+We have a fair value gap over here with sell side while we have yet to take out the buy
+
+248
+00:16:27,920 --> 00:16:35,360
+side liquidity here at around I don't know 14.575 and then get up to that fair value
+
+249
+00:16:35,360 --> 00:16:41,680
+gap high or the boundary of it, kind of like the resistance level of it.
+
+250
+00:16:41,680 --> 00:16:45,800
+So this is the draw on liquidity and we have a minor draw on liquidity here with buy side
+
+251
+00:16:45,800 --> 00:16:47,320
+liquidity.
+
+252
+00:16:47,320 --> 00:16:51,000
+Look what we have in terms of price action.
+
+253
+00:16:51,000 --> 00:16:55,960
+The NASDAQ drops down, taking out the sell side, digging into that fair value gap.
+
+254
+00:16:55,960 --> 00:16:56,960
+See that?
+
+255
+00:16:56,960 --> 00:16:57,960
+Look at the bodies of the candles.
+
+256
+00:16:57,960 --> 00:17:02,280
+Isn't that neat how it just respects that level back here?
+
+257
+00:17:02,280 --> 00:17:03,280
+Now that's not random.
+
+258
+00:17:03,280 --> 00:17:09,080
+Okay, these are algorithmic principles that are in play and these markets are unbelievably
+
+259
+00:17:09,080 --> 00:17:12,320
+precise when they are in better conditions.
+
+260
+00:17:12,320 --> 00:17:16,360
+Right now if you've been trading with live funds or if you've been trying to follow
+
+261
+00:17:16,360 --> 00:17:22,040
+price action, there's been a lot of it makes a run then it goes into this choppy sideways
+
+262
+00:17:22,040 --> 00:17:26,240
+and it's very frustrating if you're trying to get like sustained price moves or if you
+
+263
+00:17:26,240 --> 00:17:30,560
+don't know how to operate in these like these sloppy little ranges like this.
+
+264
+00:17:30,560 --> 00:17:33,680
+I personally don't think that this is high probability trading.
+
+265
+00:17:33,680 --> 00:17:34,680
+You can get chopped up.
+
+266
+00:17:34,680 --> 00:17:36,640
+You can get losing trades.
+
+267
+00:17:36,640 --> 00:17:38,840
+You can draw your account down.
+
+268
+00:17:38,840 --> 00:17:43,080
+If you don't control yourself, you can blow your account in these types of conditions.
+
+269
+00:17:43,080 --> 00:17:44,120
+How do you avoid that?
+
+270
+00:17:44,120 --> 00:17:49,080
+How do you avoid running out your account and then scaling back if you're a high frequency
+
+271
+00:17:49,080 --> 00:17:54,480
+type of a trader, how do you draw back on the frequency and look for the better setups?
+
+272
+00:17:54,480 --> 00:17:56,900
+What I'm showing you here, you wait.
+
+273
+00:17:56,900 --> 00:18:02,600
+You don't chase the overnight run and you wait for them to give you a low that everybody
+
+274
+00:18:02,600 --> 00:18:06,920
+overnight will want to put their stop loss right beneath that after it starts a rally
+
+275
+00:18:06,920 --> 00:18:08,200
+above it.
+
+276
+00:18:08,200 --> 00:18:11,460
+It's even better when you don't have this high taken out yet.
+
+277
+00:18:11,460 --> 00:18:15,220
+See how I took it up here and it just went right down for him.
+
+278
+00:18:15,220 --> 00:18:18,260
+That's engineering liquidity.
+
+279
+00:18:18,260 --> 00:18:24,420
+It runs up, consolidates, creates a low, starts to rally and everybody's thinking, I don't
+
+280
+00:18:24,420 --> 00:18:26,420
+want to lose my profits.
+
+281
+00:18:26,420 --> 00:18:30,760
+I don't want to lose out on making more money, but I have to put a stop loss right here because
+
+282
+00:18:30,760 --> 00:18:32,140
+the books tell me I have to do that.
+
+283
+00:18:32,140 --> 00:18:34,700
+So I did the same kind of stuff, folks.
+
+284
+00:18:34,700 --> 00:18:40,700
+I'm not trying to talk down anybody, but I'm just repeating what a retail trader's mindset
+
+285
+00:18:40,700 --> 00:18:43,580
+would be and the logic behind this.
+
+286
+00:18:43,580 --> 00:18:49,580
+So the narrative with this day was the stops were trailed below these lows, the afternoon
+
+287
+00:18:49,580 --> 00:18:55,620
+session again creates the low of the day, takes the sell-side liquidity out into a fair
+
+288
+00:18:55,620 --> 00:18:58,020
+value gap and then rallies.
+
+289
+00:18:58,020 --> 00:19:03,820
+Now in here, I'm going to teach you a little bit more about that much.
+
+290
+00:19:03,820 --> 00:19:08,100
+Notice we don't really have a fair value gap down here, but it gives us the basis for expecting
+
+291
+00:19:08,100 --> 00:19:10,840
+the price to start to rally into the afternoon.
+
+292
+00:19:10,840 --> 00:19:19,740
+Now at two o'clock in the afternoon, 1400 on this trading view chart, that starts two
+
+293
+00:19:19,740 --> 00:19:22,320
+o'clock in the afternoon in New York local time.
+
+294
+00:19:22,320 --> 00:19:27,580
+We have the market trading down into an imbalance over here, liquidity resting below these relative
+
+295
+00:19:27,580 --> 00:19:29,500
+equal lows is taken out.
+
+296
+00:19:29,500 --> 00:19:31,000
+So what are we looking at?
+
+297
+00:19:31,000 --> 00:19:34,060
+We've seen a price run that we don't think needs to come back down there because the
+
+298
+00:19:34,060 --> 00:19:37,660
+logic is the overnight stops have been ran out down here and there's no reason for the
+
+299
+00:19:37,660 --> 00:19:39,900
+market to want to come back down there.
+
+300
+00:19:39,900 --> 00:19:47,780
+But we have this low and these relative equal lows here post New York lunch.
+
+301
+00:19:47,780 --> 00:19:52,340
+New York lunch is noon to one o'clock in the afternoon in New York local time.
+
+302
+00:19:52,340 --> 00:19:56,220
+So the imbalance we trade down into that, what's the likelihood of it coming all the
+
+303
+00:19:56,220 --> 00:19:58,580
+way through the imbalance and then going after that low?
+
+304
+00:19:58,580 --> 00:20:02,340
+Not likely, not likely, not after seeing this run here.
+
+305
+00:20:02,340 --> 00:20:06,680
+They don't want to give these traders another chance to get back in, they got stopped out.
+
+306
+00:20:06,700 --> 00:20:10,440
+So it's going to be a little bit more sneakier when they make these new setups to continue
+
+307
+00:20:10,440 --> 00:20:12,600
+on to a higher run.
+
+308
+00:20:12,600 --> 00:20:17,040
+So they take out the sell side below these relative equal lows, take those stops out
+
+309
+00:20:17,040 --> 00:20:19,560
+and then it rallies and drops back down.
+
+310
+00:20:19,560 --> 00:20:23,760
+Now here, watch, we have a swing high right here.
+
+311
+00:20:23,760 --> 00:20:25,440
+It breaks it.
+
+312
+00:20:25,440 --> 00:20:26,440
+Does it trade above that?
+
+313
+00:20:26,440 --> 00:20:27,440
+Yes.
+
+314
+00:20:27,440 --> 00:20:28,440
+Was it energetic?
+
+315
+00:20:28,440 --> 00:20:29,440
+Yes.
+
+316
+00:20:29,440 --> 00:20:30,440
+Does it have a fair value gap?
+
+317
+00:20:30,440 --> 00:20:31,440
+Yes.
+
+318
+00:20:31,440 --> 00:20:36,380
+So now the market trades down into it here, creates a short term low.
+
+319
+00:20:36,380 --> 00:20:37,380
+You could be a buyer there.
+
+320
+00:20:37,380 --> 00:20:38,380
+There's nothing wrong with that.
+
+321
+00:20:38,380 --> 00:20:39,380
+But say you missed it.
+
+322
+00:20:39,380 --> 00:20:40,820
+Say you just, I mean this is a one minute chart.
+
+323
+00:20:40,820 --> 00:20:45,380
+Say you missed it and the market starts to run off like this, but then it gives you another
+
+324
+00:20:45,380 --> 00:20:46,380
+opportunity.
+
+325
+00:20:46,380 --> 00:20:51,420
+I've had many times trades form just like this where I was looking for something.
+
+326
+00:20:51,420 --> 00:20:53,740
+I was waiting for a setup to happen.
+
+327
+00:20:53,740 --> 00:21:00,180
+Either my cell phone's buzzing or I grab a drink, it's just outside of reach.
+
+328
+00:21:00,180 --> 00:21:04,020
+I got to go walk over to the other end of the desk and grab it and then all of a sudden
+
+329
+00:21:04,020 --> 00:21:05,020
+here you go.
+
+330
+00:21:05,140 --> 00:21:06,140
+I miss it.
+
+331
+00:21:06,140 --> 00:21:07,940
+It takes off.
+
+332
+00:21:07,940 --> 00:21:13,140
+The fair value gap is even better when you have the cell side equity resting below a
+
+333
+00:21:13,140 --> 00:21:21,380
+short term low and the drop down into it here, you can use that low as your entry or minus
+
+334
+00:21:21,380 --> 00:21:23,500
+one tick.
+
+335
+00:21:23,500 --> 00:21:27,980
+This short term low forms at 234 PM.
+
+336
+00:21:27,980 --> 00:21:32,980
+Now if you look at the low figure up here, that value represents that candle right there.
+
+337
+00:21:32,980 --> 00:21:34,580
+So that's why you see it highlighted here.
+
+338
+00:21:34,740 --> 00:21:38,820
+When I took a screenshot, I'm holding underneath this candle so that way the reference points
+
+339
+00:21:38,820 --> 00:21:42,140
+up here are directly related to this candle.
+
+340
+00:21:42,140 --> 00:21:46,260
+So you can see the low is 14,528 and a half.
+
+341
+00:21:46,260 --> 00:21:52,740
+So you could be a buyer on a limit at 14,528 and a quarter or maybe if you want to try
+
+342
+00:21:52,740 --> 00:21:57,260
+to reach for the 28 even number.
+
+343
+00:21:57,260 --> 00:22:02,380
+Either way, that's a nice place to put a limit order in.
+
+344
+00:22:02,380 --> 00:22:08,060
+The short term low down here after the fair value gap forms, that's where your stop loss
+
+345
+00:22:08,060 --> 00:22:09,060
+is.
+
+346
+00:22:09,060 --> 00:22:10,060
+That's the rules.
+
+347
+00:22:10,060 --> 00:22:17,460
+So you have an entry point, your stop and between the two of them, it works out to be,
+
+348
+00:22:17,460 --> 00:22:26,900
+let's say you have 14 and a quarter in terms of risk.
+
+349
+00:22:26,900 --> 00:22:32,260
+So 14 and a quarter points or handles of total risk.
+
+350
+00:22:32,260 --> 00:22:37,500
+And let's assume that you were trading on six contracts on the micro.
+
+351
+00:22:37,500 --> 00:22:49,300
+You're essentially looking at buying and risking $85 to make about $300.
+
+352
+00:22:49,300 --> 00:22:55,260
+So it's about 3.5 to 1 reward to risk.
+
+353
+00:22:55,260 --> 00:22:56,260
+Thereabouts I'm roughing out.
+
+354
+00:22:56,260 --> 00:22:57,260
+I don't have a calculator in front of me.
+
+355
+00:22:57,260 --> 00:23:00,180
+Folks, just do the math.
+
+356
+00:23:00,180 --> 00:23:05,300
+Now here this value is important because I want you to see in these conditions you can't
+
+357
+00:23:05,300 --> 00:23:06,580
+expect it to be perfect.
+
+358
+00:23:06,580 --> 00:23:11,940
+You can't be expecting to be in there at the lowest point, no draw down, no heat on the
+
+359
+00:23:11,940 --> 00:23:14,260
+position and then it just goes in your favor.
+
+360
+00:23:14,260 --> 00:23:16,420
+Don't think like that.
+
+361
+00:23:16,420 --> 00:23:21,540
+You can see on this candle, if you would have bought here, you would have had nine points
+
+362
+00:23:21,540 --> 00:23:27,300
+of heat or basically $54 if you were trading six micros.
+
+363
+00:23:28,300 --> 00:23:34,220
+Now obviously it goes up more than that if you're trading one mini because it's $20 per
+
+364
+00:23:34,220 --> 00:23:38,420
+handle.
+
+365
+00:23:38,420 --> 00:23:43,820
+But overall this is a nice little setup with the afternoon using the logic over here.
+
+366
+00:23:43,820 --> 00:23:50,420
+Even if it doesn't give us a fair value gap, the setups that I'm teaching you to use, using
+
+367
+00:23:50,420 --> 00:23:54,060
+the fair value gap, afternoon taking the stops.
+
+368
+00:23:54,060 --> 00:23:58,820
+It provides the baseline for bias for the afternoon.
+
+369
+00:23:58,820 --> 00:24:00,420
+Now what did I teach you here?
+
+370
+00:24:00,420 --> 00:24:08,220
+I taught you that you can use these reference points with the underlying sentiment that's
+
+371
+00:24:08,220 --> 00:24:10,220
+already in motion.
+
+372
+00:24:10,220 --> 00:24:13,820
+If you didn't trade overnight and take that big run, I didn't get any of that run.
+
+373
+00:24:13,820 --> 00:24:16,060
+I didn't do anything with that.
+
+374
+00:24:16,060 --> 00:24:20,540
+If you missed that, it doesn't matter because that is something that's going to give you
+
+375
+00:24:20,540 --> 00:24:24,980
+more insight and it tells you when to avoid the morning session.
+
+376
+00:24:24,980 --> 00:24:26,540
+Don't trade it.
+
+377
+00:24:26,540 --> 00:24:28,460
+Everybody's going to be doing what?
+
+378
+00:24:28,460 --> 00:24:29,860
+Think about it.
+
+379
+00:24:29,860 --> 00:24:33,580
+Everybody woke up and saw these markets and they all wanted to do what?
+
+380
+00:24:33,580 --> 00:24:38,260
+They wanted to buy it because it's going up a lot and they want to chase it.
+
+381
+00:24:38,260 --> 00:24:46,420
+That idea leads many times to losing trades and then it starts this cycle where you go
+
+382
+00:24:46,420 --> 00:24:51,940
+into this chasing, chasing, chasing and then when the market does these sideways consolidations
+
+383
+00:24:51,940 --> 00:24:59,600
+and sloppy choppy market conditions, it's literally like a blowtorch on your account.
+
+384
+00:24:59,600 --> 00:25:03,980
+If you don't know how to stop or if you don't know what you're doing, you can literally
+
+385
+00:25:03,980 --> 00:25:12,700
+talk yourself into millions of trades and then draw the account down.
+
+386
+00:25:12,700 --> 00:25:15,920
+Last slide and just to hammer this down.
+
+387
+00:25:15,920 --> 00:25:19,540
+This is zoomed in on a one minute chart.
+
+388
+00:25:19,540 --> 00:25:25,460
+Swing high, broken, fair value cap right there and we have that short term low here, unloaded
+
+389
+00:25:25,460 --> 00:25:26,460
+in here.
+
+390
+00:25:26,460 --> 00:25:29,500
+That's where you would be basically entering on with that idea of trading below that is
+
+391
+00:25:29,500 --> 00:25:32,260
+where the sell stops are, trading below that.
+
+392
+00:25:32,260 --> 00:25:34,000
+Now it goes below that.
+
+393
+00:25:34,000 --> 00:25:38,460
+Now some of you have mentioned in the comment section, does this invalidate the fair value
+
+394
+00:25:38,460 --> 00:25:39,460
+gap?
+
+395
+00:25:39,460 --> 00:25:41,820
+No, it does not.
+
+396
+00:25:41,820 --> 00:25:46,620
+The idea is the fair value gaps, well look at the, look at the body of this candle here.
+
+397
+00:25:46,620 --> 00:25:48,180
+Isn't that respecting that?
+
+398
+00:25:48,180 --> 00:25:49,180
+Yes.
+
+399
+00:25:49,180 --> 00:25:53,100
+So in my mind I'm thinking, well I know prices sometimes, especially the way it is right
+
+400
+00:25:53,100 --> 00:25:55,540
+now, it's very volatile.
+
+401
+00:25:55,540 --> 00:26:04,300
+So I'm permitting a greater level of imperfection in price delivery and then using the logic
+
+402
+00:26:04,300 --> 00:26:09,820
+of the fair value gap as the basis for my entry idea and then using the stop premise
+
+403
+00:26:09,820 --> 00:26:13,940
+which it didn't get here, it didn't stop you out.
+
+404
+00:26:13,940 --> 00:26:24,100
+You had basically what, five, what was that, five or so more handles before you would have
+
+405
+00:26:24,100 --> 00:26:26,460
+been stopped.
+
+406
+00:26:26,460 --> 00:26:30,940
+Now watching it live might make you a little nervous but at some point folks you're going
+
+407
+00:26:30,940 --> 00:26:34,580
+to have to get used to, if you're going to trade like this in these really little time
+
+408
+00:26:34,580 --> 00:26:41,380
+frames and you're trying to be very nimble, you're going to have to learn to trust the
+
+409
+00:26:41,380 --> 00:26:46,380
+setups and let the stops do their jobs and if they, if it gets stopped out, that's just
+
+410
+00:26:46,380 --> 00:26:47,820
+one trade you got wrong.
+
+411
+00:26:47,820 --> 00:26:50,340
+It's not your career.
+
+412
+00:26:50,340 --> 00:26:51,740
+Look for the next one.
+
+413
+00:26:51,740 --> 00:26:58,060
+Now I'm going to throw this in here as a bonus but take it for what it is.
+
+414
+00:26:58,060 --> 00:27:02,940
+It rallies here, takes off and does not take out that, the buy side liquidity resting above
+
+415
+00:27:02,940 --> 00:27:09,820
+here did not get taken here yet and then we had this imbalance and it trades down into
+
+416
+00:27:09,820 --> 00:27:13,040
+it and then hits what, the order block.
+
+417
+00:27:13,040 --> 00:27:17,060
+That's a buy and you can, if you miss this one, you can pick up this one based on the
+
+418
+00:27:17,060 --> 00:27:18,620
+logic I teach on the YouTube channel.
+
+419
+00:27:18,620 --> 00:27:22,260
+So this is actually something that's taught in the YouTube channel.
+
+420
+00:27:22,260 --> 00:27:29,540
+This whole pattern here is exactly right out of my high probability short term trading
+
+421
+00:27:29,540 --> 00:27:30,540
+or scalping series.
+
+422
+00:27:30,540 --> 00:27:35,140
+I can't remember exactly what the title was but this pattern is right in that and then
+
+423
+00:27:35,140 --> 00:27:36,780
+it runs for that liquidity there.
+
+424
+00:27:36,780 --> 00:27:38,300
+So there's two setups there.
+
+425
+00:27:38,300 --> 00:27:42,100
+So I took something from the free lessons that's already on the YouTube channel and
+
+426
+00:27:42,100 --> 00:27:46,020
+also amplifying something I've been teaching in this mentorship series.
+
+427
+00:27:46,020 --> 00:27:49,260
+Hopefully you found this one insightful and until I talk to you next time, be safe.
+

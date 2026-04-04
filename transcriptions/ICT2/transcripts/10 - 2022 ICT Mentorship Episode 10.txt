@@ -1,0 +1,652 @@
+Alright folks, welcome back. This is episode number 10 of the 2022 ICT Mentorship for the
+YouTube channel. This lecture is going to be teaching implementing economic calendar
+events with the open. Alright, so the economic calendar, many of you probably don't even
+consider looking at this, but it's important if you're going to be learning how to speculate,
+certainly if you're ever going to consider putting live funds in, you really want to
+know what this calendar says for the day you're going to be trading. Otherwise,
+you could be surprised, unfortunately, adversely, with a sudden rush of volatility that you
+wouldn't otherwise expect. This is Thursday's economic calendar for Thursday, February 17th,
+and not all of these things are going to be heavy hitters for stock indices, but most of
+them are. And what I'm showing here is what I teach all my students. I go to forexfactory.com,
+I use their economic calendar. It's not the only one you can use. It's whatever you like. I like
+the color scheme they use. It's just a personal preference. You can pick any economic calendar.
+They're all going to pretty much say the same thing. Here, the medium impact events are like
+orange, low impact are yellow, and anything that's red, which is not being shown here,
+would be like a high impact news driver. So when we look at the stock indices, the reason why I
+teach you 8.30 in the morning, like that's your beginning time to start looking at it or cross
+hairs time. The news embargo lifts at this time at 8.30. Typically, there's a bunch of news events
+that are being ushered into the marketplace at that time. Now, some of these reports or speeches
+or data points, they may be used as a smoke screen. They may be used as a catalyst to have
+price go up or down at the time of their release. Other instances, like I'm going to teach tonight,
+usually there's going to be a buildup or a dropping down in price right before the report
+comes out, and then the real move starts to ensue. So it'll make more sense as I get into
+the actual teachings. Okay, so we're looking at the NASDAQ daily chart. This is the trading
+view continuous charts. That way you'll know what I'm looking at here. It's the one we've been
+working with in this mentorship. So the daily chart, when I'm talking about power three,
+a lot of comments came in the previous video mentioning how it was confusing to them because
+obviously they're new. They just found me. They don't know what I'm talking about when I say
+power three. I actually have a teaching in the YouTube channel so you can look it up and study
+it, but I'll give you a little bit more amplification here. Also kind of like help bridge the gaps in
+your understanding about daily bias because if I could tell you what was the most requested
+question over the years since I've been mentoring people, without a doubt, absolutely without a
+doubt, the number one question I get is, ICT, can you please teach me the daily bias? Can you tell
+me if it's going to be an up day or a down day? And I'm going to teach you here, and this is my
+honest to God's truth. I'm never going to be able to do it any easier than this. You just have to
+study price action and you'll see it for yourself after a while, but this is really all I teach my
+students and it is nothing more secret to it. This is it, okay? It's just the brass tacks of
+looking at what the daily range is likely to form. So right away we're looking at the daily chart,
+and as I mentioned in the previous episode, I outlined this high here in this low, and that was
+the range we were within, and the 50 level was equilibrium. So again, above equilibrium is what?
+The premium market, and below 50% is a discount market. So we traded back up into the top end of
+the range between this low and this high, and between these two levels here. Remember I gave
+you this low and this high. That's an imbalance, okay? It's a fair value gap. This market was down
+in a discount initially after we had the indecisive candle. Go back and watch the ninth episode. You
+haven't watched that one yet and you're watching this one. It's going to feel like even more
+confusion, but we had an indecisive candle here and we were in a discount. Even though I believe,
+and I've been telling my own students that I believe we're going to clean out these lows down
+here, we went to a discount relative to the dealing range between this high and that low. So below it
+we're at discount and we have an imbalance. So it's likely to do what? Go back up and rebalance
+this before going back down. Listen to what I said in the episode number nine. I said,
+even if we trade back up into this range, there's trades you can take even if we believe that it's
+going to go below those lows. That's me tipping my hand to you. I'm not trying to provide you signals.
+I'm not going to tell you buy here, sell here, put your stop here, take your, I'm not doing that.
+In the community tab on my YouTube channel, probably once a week, I'm going to point out
+something in the chart right before it happens and I want you to try to study it. You may not be able
+to see it real time. You may miss it, come to the YouTube channel after work or whatever. Maybe
+you're sleeping and you couldn't see it at the time, but still go through your charts using the
+information I'm providing you. I get asked all the time, can you please put a date and time
+reference in the post? I forget. I try to remember doing it when I wake up if I'm going to post
+anything, but something happens and I see the chart and I heard I must want to put everything
+in the post and I forget it. So I apologize for that. It's a work in progress, folks. So if we
+look at the reference points of it being in a premium market or a discount market, but then we
+have this imbalance and we have a bias that, and it's likely to go down and take out these lows.
+So what have we said here in short? The market's been going lower. Yes, we took out some sell stops
+below this low with the sell-side liquidity being taken out here. Then a natural retracement which
+is reasonable. Then we start to decline. Then we come back up one more time. Failure swing doesn't
+go above that high and it breaks down and creates an imbalance when it takes out this short-term low.
+Wow, that's kind of like the model I'm teaching you. Yes. Now what's the framework here? We rallied,
+broke below a short-term low with the model suggesting that these lows may be taken out.
+So any rally or up close candle or candles should be viewed as a potential shorting candidate.
+Now, ring in the imbalance. We traded up into the imbalance one more day. We swept above it,
+not by much. Then the next day we open, we rallied just a little bit, and then plunge.
+We took out the previous day's low and the day before its low. So both of these daily lows have
+been cleaned out. Now this one is the next one. Then down here. So when I talk about power three,
+I'm specifically dealing with this time frame, the daily chart. If you consider where the
+market opens, say this is the opening price in the daily range if you're expecting it to go down,
+or maybe you weren't expecting it to go down. You were just looking at the price in your chart
+and you see that the opening was here. It rallied a little bit and it went down
+and then closed near the low. Now that's a rather simplistic overview. Just making it very
+plain. Nothing terribly exciting about that. But when you really start to consider it,
+it is really exciting because this is the market right here. If you understand this
+and you can study a daily chart, daily bias will become easier for you if you start implementing
+it with this mindset. So if we're bearish, okay, if we're bearish on the market,
+we're going to anticipate the daily ranges or each one of these candles doing this very thing here.
+Open, a rally, not much of a rally, but it can make a large wick. It doesn't make a difference.
+But the general premise is it goes up just to go down and it closes down near its low
+when it's bearish. Obviously, this would be reversed where the open would be down here near
+the low and the close would be near the high of the daily candle if it's bullish. But not every
+single candle in a series of the entire price swing is going to be all up close candles when
+you're bullish. Conversely, not every candle is going to be a down close candle when you're
+bearish. But I've already taught you when you have these sustained price swings on the higher
+time frame, you're not seeing a lot of up close candles when it's bearish and you're not seeing
+a lot of down close candles when it's bullish. But contrast that with what you may be feeling
+when you're looking at price, you'll make a big deal at a one down day when you've been bullish
+and it completely takes you out of your game. Oh, I can't determine bias. I don't know what's
+going on. This is always tricking me. I felt that too in the 90s. I know what it feels like,
+but let's take a closer look at this. This is the chart that I used to trade back in 1992.
+The classic open high low and close bar, which is what I'm showing you here.
+Now with this chart, it made perfect sense to me. And if my eyes were not as poor as they are now
+because I'm aging and I've been looking at computer screens for 30 plus years now,
+it's worn them down. So obviously candlesticks are much more preferred way of looking at it
+because it's thicker. You can see the open and close relationship as I'm teaching you here
+a lot easier versus this. You have to strain to see where the opening is on this candle is to the
+left of the candle or not. It's not even a candle. It's a bar. So to the left of the bar is the open.
+It trades down, creates the low, rallies up and closes near the high. See that? Same thing here.
+It opens, trades down, goes up and closes above the opening but in the upper portion of the daily
+range. Then we have a high where it doesn't really matter where it closes. Then it's likely to do
+what? Come back and rebalance this. It'll make sense in a moment. It opens here, small little rally up,
+creates this very thing here on this day. It opens, small little rally up and then down,
+overlapping this daily bar. If we look at this relationship over here,
+we have this one single pass with that bar range between this candle's low and this candle's high.
+That's our fair value gap. The market can trade back up into it and look where it closes right
+on the highs. In the next candle, it's back and forth, works both sides of the range.
+But what is our bias? What did I hint at? The bias is bearish. We're looking for these lows to be
+taken out. So the only thing we were doing was coming back up to rebalance this then go lower.
+So once we went back to the top of the range, did this candle or bar touch this candle's or bar's
+low? No, just fell short of it. This wiped back and forth. So now this range here is completely
+balanced. So there's no reason for this price to hang around. Now it could have went a little
+bit higher today and I was waiting for that to potentially happen, but I've not abandoned
+my bearishness for price to go down to here. All my students know that. This movement here,
+we have the open, the rally up, fade, it comes back down and closes on the low. That's this
+pattern right here. Power three is accumulation, manipulation, distribution. That's the three
+components. The power aspect is if you understand those relationships on what the daily range is
+doing, the open, on a day that's bearish, the open and anything above it that is accumulation
+of shorts. Now it's not limited to just open and above. That's where smart money and people like
+myself and my students, that's where we're aiming to enter getting short. It can be whatever the
+range is. This is important because my students are actually going to smile when they get this too.
+The open to the high, whatever that range is, you take that range and you subtract it from the
+opening price. That is your opening range. That's where your fair value gaps, that's where your
+stock rates are going to happen, that's where your optimal trade entry is going to happen.
+Every potential shorting candidate, whatever system approach that I teach, even in my paid mentorship,
+every premium array, that's what I teach it as, every single one of them will reside and form
+in the range between the open and its high. In other words, if you're watching price and
+you're bearish, the day opens up and then it rallies up. That's a juda swing. The range from
+the opening price up to that high, that range is what you project below the opening price.
+That is your opening range. When I say opening range, that's opening range. So what that does
+is it gives me an area to bracket out how much leeway I can give the market when it starts to go
+below the opening price and still take a favorable entry because power three is I'm bearish, I'm
+expecting the market to open and rally above. If I can get something on short there, that's the ideal
+scenario, but I may not be able to do it or I may take a trade early or just take a trade and I get
+stopped out. It's going to happen, but then it breaks down below the opening price. Does that
+completely ruin the day for me? Sometimes it'll just tear off and I can't catch it and doesn't
+give me a setup and I just miss it and you can't taste it and don't worry about it, but don't be
+upset. Go back in your back testing and you'll see that there's lots of opportunities coming in
+just below the opening price. This is called close proximity entries. This is what I promised
+in this mentorship on YouTube. Teaching you in the mentorship community, I already know
+most of you have recently found me and there's been a lot of you that just came on. I appreciate
+all of you joining me, but you don't know all the things that I've been teaching on this YouTube
+channel. So you feel like you're drinking from a fire hose right now and it can feel like it's
+tearing your face off because so much information all at one time and leaves your head spinning.
+Like this guy keeps talking. I don't understand. Get to the point. The point is you need to have
+layered understanding and if you're not going to be patient and go through the content properly,
+I'm not going to help you. I'm going to frustrate you and you'll probably come back to me later on
+and then learn properly and wish you would have stayed and did it the right way the first time,
+but that's for you to determine on your own. Having the opening range,
+when you're bearish, whatever the high is from the opening, project that down,
+your sell setups are going to form in that. That is accumulation of shorts.
+The manipulation is the initial rally up. That's the sucker play.
+That's typically the breakout artist thinking, oh, it's going to go higher.
+No, it only goes up just to go down. That's a fake run. Then it goes lower, creates the low of the day
+and then closes near the low of the day. So between where the low of the day is and where
+it closes, that's distribution. What's being distributed? Smart money's short positions.
+So they're selling at the open and above or just below it. Riding out the daily range
+when it creates the low of the day. How do you know when the low of the day is formed? Well,
+I've taught you time references. So if price has been really taking a beating going lower
+and you're getting towards the end of the day, like 3.30, 3.45, something like that,
+it's probably really close to the low. Not all the time. Sometimes it creates a real
+fast sudden continuation and if you're not expecting it or if you're offside, it can
+be bad. But if it's one side, it's really fun to be a part of that.
+But generally, it's the last portion of the trading day and it'll create some kind of a low
+and then wherever it closes between that low and where it closes, that's where the distribution
+cycle is occurring. That part is not that important. The main thing is understanding
+what does this candle have the highest probability in terms of forming? An open rally sell-off and
+close down on its low? Or is it likely to create an opening trade lower first than rallying close
+near the highs? Let's take the close out, okay? I don't want you thinking that you have to know
+or be able to predict the closing price. That's more advanced. You don't even need that to be
+profitable. You just need to know is this daily range more likely to expand higher
+or lower than the opening price? That's it. That's all you have to do. That's the key to bias. Now,
+how do you know what the bias is going to be most likely? Not everyday bias. Most likely,
+what's the bias going to be? Well, let's go back to this low over here. It creates a swing low.
+That means a low with a higher low to the right of it and a higher low to the left of it. So it's
+three candles that make up a swing low. You do not need a Williams fractal. That's way too many
+candles and you've missed the move. Okay? You don't need that. No disrespect to the gentlemen,
+but that's nonsense. You don't need that, okay? You only need three candles. Once you get a swing
+low or swing high and you have the proper context and you know what you're looking for, that's it.
+You go in and you start hunting it. Now watch what happens. We have a swing low form. The very next
+candle, we have an opening. It trades way down and then comes back up and closes right near the
+highs. Is that the opposite of this candle? Yeah, but it's got a whole lot of movement below the
+opening price. So something just took place down here after this swing low was formed. Did this
+candle or bar go lower than that one? No. I promise I'm going to switch the candles,
+but I just want to show you from this perspective because this is what we were forced to learn on.
+Back in the old days, okay? Back in the dinosaur time. So the rallying up on this candle here and
+closing on the high, that supports this as a swing low because it didn't take out the lower low right
+here in the middle between this low and this low. This is the lowest low of the three candles or
+price bars. The next day, we have a big washout from the opening, trading down, and then it
+closes on the high. So the next day, we're likely to go what? Into this area here. Isn't that a fair
+value gap? Sure it is. What's the daily bias likely to be? Bullish. So that means it's going to do the
+opposite of this. It's going to open near the low and then rally and expand higher. Will it close on
+the high? I don't know. It could, but I don't need to. I only need it to open and start to rally and
+get up in this area here. That's an opportunity. That's a trade. Does it do it? Yes. But now when
+we trade it up into this area, look what happens. Next day, you might be expecting an open rally
+close high. It doesn't give you that. So that could be a day where you missed an opportunity or you
+took a loss. No problem. Next trading day here, what are we seeing? We're seeing the market retrace
+back down into this run. How far can it go down? Well, look at your high down to your low equilibrium.
+It's probably going to go below equilibrium to do what? To offer the market a discount.
+The market does what? It goes down below it, provides a discount. Once it gets there,
+our mind, or our thinking, it's going to be the opposite of this. It's going to be the open near
+the low and expand higher. That's power three. It's going to be accumulation of longs at the low
+and then rally higher. We have it right there. It opens near the low, rallied and closes on the high.
+The next day, same thing. Opens on the low, rallies and closes on the high. Now we've gone deeper
+into this area here and in a small little range, but it's still the same function of power three.
+Accumulation, which is open near the low, trade down and then close high on the daily range.
+Next candle, same thing. It opens, trades down, accumulates longs, trades higher. Same thing here.
+What's this? It opens, trades down, trades higher. Until we do what? We take out this short-term high.
+See that? Then we can get a retracement, lower, or consolidation. We get both. Small little
+retracement and consolidation. Next candle, power three, delivering for accumulation of longs.
+Next candle, consolidation. Might be a day you took a loss. Let's be real.
+Next candle, what's the bias? What are these over here? They're relative equal highs. There's
+stops resting above that. That's buy-side liquidity. What's it drawing up to? We've
+already taken out this high. What's going to go up to here likely, right? Because we've already
+taken out sell stops below here with this drop and we keep proving it's going higher. So where's it
+likely to go? Above here. So until we get to that point, we keep thinking the opposite of what we're
+showing here. An open near the low and close on the high. Power three, accumulation of longs,
+distribution of longs at the close. The next day, indecisive candle. Okay, no big deal. Next candle,
+we open, trade down. Same thing. We're looking for buys. The whole time we're looking for buys in
+here. You might get stopped out. You might have a losing trade, but you're not abandoning the bullish
+bias until we get above these highs. Then we have to study it. Does it want to run higher?
+Once it clears these highs, does it keep showing and want to go higher? Well, we had a nice run
+here. The next candle here, nice run here. Small little indecisive candle there, but then we go
+back in the same cycle again. It's expanding and it's accelerating higher. Each day, we're looking
+for longs. Opening near the low, trades below the opening a little bit, then rallies and closes near
+the high. That's bias. That's sticking to your bias. And the same thing is done over here on the
+opposite. We have an imbalance here. And I promise after this, I'll change it to the candlesticks.
+Your eyes are probably going nuts right now. Fair value gap, we trade up into it. So once we trade
+into it, what are we expecting? The market is going to do what? Trade back lower. So if we're
+trading back lower, we're going to be looking for this pattern. Open, rally, accumulation of
+shorts, distribution at the lows. What are they distributing? The short positions they've accumulated
+above and we're at the opening price. So in this candle, what do we have? We have the open,
+it rallies up to go short, and then trades down and closes on the low. Just like this here. See
+that? The next candle, you're expecting the same thing. Does it deliver that? No. You might take
+a loss that day too. Okay, no big deal. It's likely to go where? Here's where the sell side is now.
+Each candle, open, rally, close down on low. Open, rally, close down on low. Open way back into this
+one and then still closes lower than the open, but still nice range down. Same thing here. Opens,
+rallies, sells off. Next candle opens, sells off. Then comes back and overlaps it and now we have
+a potential key reversal. Then we have back and forth price action where you can probably get beat
+up. In balance, it trades up into that and then we go into that area where we're at now. So let's
+go to a candlestick and it's a lot easier to see it this way, but this function of power three
+is how I teach the bias and I also teach how to submit to the daily range. You have to learn how
+to hold to the close. If you're going to just day trade and you're not really participating in
+the sustained moves that's made available in these daily ranges like today, I mean look at this move
+here. That's nice. Many of you probably took shorts. Maybe some of you took longs. I got some people
+putting comments in the previous video saying, you know, I saw a pair of value gap at this price at
+this time for a bullish. It's not bullish. Our bias is not bullish. It's bearish. It's already
+traded to the top end of that fair value gap and it's likely to go lower now taking out this sell
+side and attacking the sell side over here. Okay. All right, let's drop down to an hourly chart and
+that fair value gap, the high and the low levels, that's what's being shown here right there and
+these annotations are obviously from what you saw on the episode nine. So watch what happens. The
+market trades down, finds some support at the low end of the fair value gap, then rallies back up to
+the high end of the fair value gap and then breaks right before midnight on the 17th and then we
+consolidate, trade back up into what? What is this? What's this right here? It's a fair value gap.
+Price goes up, rebalances that there and it's doing it. What time of day?
+Not in New York. It's overnight. European London session. That's just how you can use that model.
+The same model, you can use it in an Asian session. You're just going to get a lot of movement because
+it's typically not a lot of movement in that time of day, but you can trade it in London Close.
+You can trade it in obviously the New York Open like I'm teaching you and London Open. London Open,
+if you know what you're doing with the daily bias, you can catch enormous moves, enormous moves.
+Enormous moves, but sometimes you're going to have to weigh out a lot of give and take back and forth
+kind of like today where the market rebalanced here and then consolidated and waited for
+a little bit of a push higher, then the news came out. Okay, so I'm kind of hopefully clear
+that up for you now. All right, 15 minute time frame. I'm taking a look at this imbalance here.
+We rode up into that, rebalancing all this movement down. Remember that pink roller analogy I gave you?
+The paint was applied to the wall going down, but all this movement was given
+to that one single candle. There's going to be little porous places in prices between the high
+and the low where the market wasn't efficiently offered for buyers. There wasn't much time and
+back and forth pricing to give buyers an opportunity to get in there and participate.
+So an efficient market, we'll see the market go back up and reprice that. So it's down and then
+right back up like paint being applied to a roller on a wall. You want to make sure you go back and
+forth to deposit the paint evenly. So there's an even distribution. So again, the background of this
+chart, that's the wall and every one of these candles is a paint roller and whenever you see
+these big long drawn out candles, there's a strong tendency, not all the time, but there's a strong
+tendency for the price to go right back up and overlap over that entire range. Same thing over
+here. We have the market drop down, creates a fair value gap here. Doesn't it take out some lows over
+here? Yes, there's displacement and then you can have an order to get in short here, but then watch
+what happens. This little pump up, that might be scary. It could have stopped you out if it went
+higher. That's the risk in this, folks. I'm not going to give you a silver bullet that
+removes losing trades. I lose trades too. You're going to miss moves. I miss moves. You're going
+to read it wrong. I read it wrong sometimes. I'm not perfect, but I'm giving you tools and
+processes to help you determine where the most likely scenario is going to be and then you just
+work those statistical odds and hopefully with sound money management, which I'll cover, which
+will hopefully get you to the winner circle more often than not. All right, so we have the morning
+session starting before 8 30. We have a rally up and then it breaks lower. In this area here,
+we're going to drop down to a lower time frame, but before I do, I want to give you a little bit
+more details. Think about what I've taught you so far in this teaching for power three.
+The accumulation, manipulation, and distribution cycle of the daily range, if we are trading near
+the high end of that fair value gap on the daily chart, that's what that level is. Okay, when we
+just drop down to a lower time frame chart. So with this 15 minute time frame chart, and I apologize,
+the chart's a little bit shifted. It's still the same chart, but just added the annotations.
+The idea is we're expecting this power three formation where it's open, rally, create the high
+of the day, sell off, and close near the low. That's what we're looking for. Why would that bias be
+expected on this day? Because we worked the upper end of that fair value gap on the daily chart.
+Then we had multiple shifts in market structure bearishly when we already have a bearish bias on
+the daily chart anyway. So it gives you a high probability that this day is going to be a down
+close day. It may not close on the low, it might just be a big down move, and that's all you need.
+You just need movement. So this level here, it's dash, that's the midnight New York opening price.
+This is what I'm referring to when I'm looking at the opening or power three on a daily chart.
+That price right there at midnight. Look what's occurring. That right there is equivalent to this
+little tick on this diagram here. It opens, it trades above the opening just like that candle
+does on a daily chart. It opens and goes higher. You want to be selling short here. Why would you
+want to go short here? Well, it went back up in there and redelivered the down stroke on that
+paintbrush or roller on the wall. Well, now it's going back up. When it's going up like that,
+it feels unnatural to go short. You don't want to sell short. It's like,
+this thing's going up. Why would I want to go in there and go short? That's the benefit of
+studying old data and then reading price, studying it real time without taking any demo trades,
+without trying to pick the targets. Forget all that. You want to practice for months,
+reading the tape, studying price action, watching it. Even if you have to watch it with
+trading views, market replay function. There's nothing inherently wrong with it. If that's all
+you have, you can't watch it live, but it is altogether something different and much more
+beneficial if you can watch the actual live data. So as I mentioned in my own paid mentorship,
+I always counsel my students to, if they had the means to do so invest in like, like I have Camtasia.
+Camtasia is what I use to make these videos. It's through TechSmith and TechSmith. You can Google
+it. It's pretty inexpensive. It's an easy platform to use and I have had wonderful results with it.
+I don't have any complaints. I've done all the upgrades every time they have it. It's just really
+good. If you have a job or if you have a business you're running or if you go to school or if you
+just got to sleep, if the time zones don't line up for you, you can set up a recording and just
+let it record for eight hours. It'll do it. And as long as you have space in your computer,
+it'll do it. And then you can go back and literally play that time, real time and watch the
+candles paint, unlike TradingView's replay function where it doesn't give you the ebb and
+flow of the candlesticks forming. It's just basically the opening and then a closing of
+what the candle did. It's kind of clunky and wooden. It doesn't really give you that
+organic feel of the candlesticks actually forming real time. Whereas if you recorded your screen
+doing it, then there it is. Don't worry about your screen burn in time either. Camtasia
+will record the screen. If your screen protector comes on and like goes blank, it'll still
+record the screen. All right, so we're looking at the opening price here and then we're expecting
+a sell the form. Well, here's that fair value gap. It rallies up into that. Isn't that a sell
+above the opening price? Yep, sure is. From that opening price to that high, that's the highest
+high. Take that range and subtract it from the opening price. That's about in this vicinity here,
+okay, right in there. So what's occurring? Well, we have this sell here, then we have this sell
+here at the open, at the equities opening, and then we have this imbalance in here. So from this
+range high to that low, multiply that by two as a projection. In other words, whatever that low is
+to that high, that much lower, you'll expect to see a short and it forms right here. That's exactly
+what I taught you. I did not cherry pick that, folks. You can go back and look at data as long
+as you can find data on daily charts, okay? And if you can get a intraday chart, like an hourly chart,
+you'll see it. It's there. But this is a 15-minute time frame. That's my Bellwether chart. That's
+what I teach all my students. This is the one you go to for day trades and or scalps. You can find
+everything for intraday trading on a 15-minute time frame. If I was held to a decision of what
+time frame would you be forced to trade with if you had to pick just one ICT? The 15-minute time
+frame. Because I can do anything with that 15-minute time frame. I can swing trade. I can short-turn
+trade. I can day trade. I can scalp. But you only need to have one discipline, one way of doing it.
+And you might not like the 15-minute time frame. You might like the one-minute chart if you're
+trading indices. But you have to have the storyline of the 15-minute time frame to get the full
+panoramic view of what price is likely to do. So with this continued teaching here, right below
+here, what's that? That's sell-side liquidity. Relative equal lows. So you can test this on
+your own chart. I omitted it by mistake. I apologize. But the low on this candle here
+is $14,381 even. Okay. Don't take my word for it. Go look at your own chart. It's there.
+So $14,381. I would have preferred to include a line projecting that out in time because you'll
+see in a moment when we drop down the lower time frame. But the setups are forming here
+above the opening price, right here near the opening price. See that? And inside of the
+range from the high to the opening projected down, it's in that vicinity there. So it's giving you
+another opportunity. So again, what's occurred is we went up into that fair value gap on the
+daily chart. We're back on the daily chart again. And we're anticipating the opening and rallying up
+into what? Maybe the high end of that fair value gap or something forming at the news release at
+830. But if we look at price, price was starting to pump up higher ahead of the 830 news release.
+So what's that tipping its hand to you, telling you? They're pricing in a premium market
+ahead of the news. So they're going to use the news to sink it lower because the bearish bias is
+going to come in to fruition. They're going to expand price lower. And they've already established
+their shorts because they accumulated above the opening price. And we can see that in the price
+action of each little short term rally up like we're looking at here. So here's seven o'clock
+in the morning. It rallies above these relative equal highs and cleans up the imbalance here.
+And look at that right there. See that? Remember what I told you, if there's two fair value gaps,
+try to trade it in here. But anticipate and use the money management to allow for your stock to
+weather a run up into that. And we got it right there. Now strip it down to what I taught you
+for the structure of the trade or the framework. Swing high, broken to the upside, taking out
+to the upside, taking out buy stops. So buy side liquidity is taken. Then we have a swing low.
+It's broken. Did these candles come down lethargically? Was it like a slow meander
+decline? No. It was sudden. It was a lot of momentum. It was energetic. You can't miss
+those down close candles right there. That's obvious. They stand out, right? So that's how
+you know you have a shift in market structure. In this area here, it doesn't have a fair value gap.
+That's okay. It's only a five minute chart. This is where we start doing a top down strip of five
+minute, four minute, three minute, two minute, one minute. The first fair value gap we come to,
+if we find one on a four minute, you don't need to go down to a three. You don't need to go down
+to a two. You don't need to go down to a one. If you go down to a four, you don't see one. You
+go down to a three. If you find one there, you don't go any lower. Okay. If you don't find one
+on the five, the four, or the three, and you go down to the two minute, and you find it there,
+that's it. You don't go down to the one minute. If you don't find it on the two minute,
+and you do find it on the one minute, then that's how you trade it. But what if you don't have one
+on the one minute chart? You don't have a trade. How's that for logic? So we have the continuation
+lower off of a retracement in here. Now this candle, the high of it here, I wish I would have
+used the lighter color, but this candle's high is right there. Okay. It actually goes just above
+that one right there. Not by much, but it does. But we don't need that. We don't need that. Watch
+what happens. Here's the four minute chart. Oh no, something different on this chart, ain't it?
+We have biside liquidity here. The candles are a little bit more beefier when we were looking at
+the previous slide. Look at this one. Look at the candles. They look wonky, don't they?
+But on this timeframe, they become much more prominent, more beefy, much more
+stout. Like, look at me. I'm here. Take a look at me. That's what we're looking for. We're looking
+for clean price action where we can see the nice candlestick formations, where we're seeing the
+even distribution of the price going higher or lower, in this case going lower, but we're seeing
+that little break where there's not an even distribution of price. That's the fair value
+gap. So we have that run above biside liquidity after rebalancing over here. It goes above it
+and it breaks down. So we have an idea. Okay. We could potentially see a trade short here.
+I like this fair value gap, but we also have a little bit of imbalance in here.
+So I want to trade in here, but my money management has to permit me to whether I run up into this
+area too. Remember that? That's part of the rules. But in here, we're going a little bit deeper.
+In my YouTube channel, I teach a breaker pattern. Okay. And that is a high, a low, and a higher high.
+That's what this pattern is here. And we're seeing that return here. So
+if I see a breaker like this, yes, I think the market could potentially trade up into here,
+but I'm going to use the breaker's candle and just above that for my stop. So I'm not going to go
+way up here or way up in here because my foundation to teaching the ICT breaker is the market's going
+to mostly stay in the lower half of the breaker candle, which is the down, down close candle right
+for the big move up higher, taking out a short term high. Trust me. The breaker is taught in the
+YouTube channel and other lessons. I'm not going to pour myself over top of lessons and regurgitate
+things because there's a lot of you that have been training with me for a long time and you don't
+want to go through that. And the new people that are here, I understand your enthusiasm and you
+want to know everything like a sponge. I get it and I love it, but trust me when I tell you that is
+taught in the free lessons in this YouTube channel. Okay. Just remember it's a bearish breaker
+and that pattern is the support structure of why I would not expect it to have a higher stop up here.
+Okay. So here's the fair value gap range from the low in the high end, but it's specifically this
+candle's low and this candle's high right there. Extend it out in time. Look what happens at 828.
+The candle's showing 828 here because it's a four-minute chart, but once we're trading inside
+here, all I need to do is trade above this candle's high. I want to be short. I don't want to
+mess around. It might not give me an opportunity to get in. It might not go higher up into that
+fair value gap. I want to use the easiest lowest threshold entry technique to get in to make sure
+I'm a part of the move. Then I'm going to be aiming for those relative equal lows. That's
+that 14381 level. Remember that relative equal lows? I said I wish I would put a line on it.
+This is the time frame. I added the line. It's the four-minute chart. Now if you look real close,
+you can see there's a little tiny little arrow right there and a bunch of them over here.
+What that is is TradingView's paper trading module and I put some short on this today to illustrate
+what many of you have been asking me in TradingView comment section. A lot of you send me comments
+through TradingView and I apologize. I don't get to them a lot because there's a lot of them usually
+that happen and I just don't get to them. I'm sorry. I'm not purposely trying to ignore you.
+It's like Telegram. Telegram people send me messages there too and I just don't have time
+to go through it. Emails, absolutely. I don't have a whole lot of time to get through because
+everybody wants to write a long story to me and I appreciate them, but I just can't sit there all
+day long and read all that. The idea of showing what a discount broker margin, what could I do
+with that? I don't recommend it, but there are brokers out there that will allow you to trade
+the mini contract for just a couple thousand dollars and the micro for less than a hundred bucks
+and to me that is absolutely stupid. You're asking to blow the account.
+In these markets you absolutely can have your hinder parts handed to you in short sudden fashion.
+Even me in the last, I don't know, four weeks or so, I've seen moves that came back on my stop so
+fast. I was like, wow. Just the other day I watched a hundred point run come out of nowhere
+in a one minute candle. It moved a hundred points in the NASDAQ. One minute. That's a lot of movement
+man. So if you're looking at that and you're trying to hold let's say, I don't know, 16 minis
+or eight minis and it moves $2,000 against you in one minute, folks, your stop would not have been
+respected. It was literally way above your stop loss if you were using one, okay. So you would have
+got stopped out with negative slippage and let's say you were holding those eight contracts. Well,
+let's say you got burned for 50 points in slippage and you don't think that's possible.
+50 points, just like this, that's a thousand dollars times your eight contracts. You just lost
+$8,000 and you're going to tell me that you can open up an account with a, I don't know, $10,000
+whatever and you're going to trade multiple minis because the discount broker allows you to and all
+of a sudden you just roasted your account. In one trade, you're going to get a $10,000 discount
+and all of a sudden you just roasted your account. In one trade, in some wild little
+price move that came out of nowhere that you didn't expect and in one candle, one minute candle,
+it just smoked your account just like that. There's teachers out there that are promoting
+the idea that that's a good idea. It's not a good idea, folks. $10,000, that's the absolute minimum
+and I don't think it should be that. I think it should be a little bit higher than that.
+I think $15,000 is fair for what the Nasdaq is doing right now because just today alone
+moved $8,000 per one single contract. Over $8,000 in the movement for one contract.
+Now that's top to bottom and luckily you being in that move is probably, you know, obviously not
+likely but the measure of risk needs to be appreciated and respected and unfortunately
+YouTube makes it available for anybody to come out here and pretend to know what they're doing
+and unfortunately if that person isn't skilled, if they don't really do what they say they do
+or teach proper risk or to teach you to respect the level of risk that's required to trade these
+markets, they're doing you a disservice and that's the number one reason why I taught for
+a long time with a demo and still teach with a demo because number one, legal reasons. I'm
+not trying to be held liable because I'm not licensed to trade advice but it's not trade
+advice in a demo account. You're not making or losing anything. It's fantasy football with
+price charts but you can learn how to read price action with it. This year I've been showing you
+a live account. That's real. I'm not teaching through that. Notice that? Okay. At the end of
+the year I'm going to share with you what that count has done. I'll be 100% transparent. I will
+show you line by line every single trade from every single trading day of every single trading
+week of every month. You'll see it. Okay. Throughout the year I'm going to be teaching lessons about
+certain things and you're going to see them applied when I share the entire history with
+that account. So it's more meaningful because there's a lot of you in the comment sections
+that are trolling and I know what you're here for but I'm going to give you undeniable proof
+just like the rest of you. That way you can see the lessons I'm giving you. Yes, they worked in
+demo but they're actually being utilized in live fund trading by me. It's after the fact so I cannot
+be accused of giving you trade advice. It's what I did with my real money. See the difference there?
+It is what it is. If you don't like this teaching style, there's other people out there teaching
+all kinds of great stuff. Doesn't mean it's profitable but they got all kinds of neat stuff
+to look at. I'm teaching you how to read price and I need you to be sober minded about the level of
+risk that these markets provide us because it can take you out quickly. So I got questioned by,
+I don't know, six or seven of the people. Some of them are actually my students in the mentorship
+and others are just people that are on the internet. You know, I don't know if they're
+just youtube or if they're just trading view people that try to follow me on there
+but they asked could I showcase what I would do with a $10,000 hypothetical account if I was using
+a discount broker. In other words, a broker that would let me trade with, I don't know, like $2,000
+or $1,500 per contract. Something to that effect for a Nasdaq mini contract. Number one, it was
+crazy trying to find some of those setups because to frame the risk in it and to do
+big lot sizes too was very challenging but I kept it low end. It only took me two weeks to do this
+but you can see I put a heavy-handed short up here using what I'm teaching you here
+and then aiming for those relative equal lows which is that $14,381 level.
+This is my trading deal account. Now you're going to hear people say
+this is photoshopped. Oh, you photoshopped this? No, I did not. I don't need to photoshop this.
+In fact, my live mentorship with real students that paid me, they're going to see me show this
+live and it's going to move all around. It's not edited. I'm going to log out of the account and
+log back in so it's not me doing any kind of editing. It's not MT4 servers or anything like
+that you can play around with. It's not Ninja Trader where you can go in there and take a bad
+trade out and make it look good. All these things here are executions. You can see there's three
+losing trades there on the 14th and you can see today's trades all up at the top. That was me
+doing a heavy-handed, a quant style heavy-handed short and then taking partials as it was going
+down into that level of 14,381. Looking at this, this is your classic. The guy shows you the results.
+This is what I did with my demo account. They may lie and say it's a real account.
+This is clearly a paper trading account. You can see it. It's there. It says it right up here.
+Paper trading. Paper trading. This is all paper money. I started the account
+with trading view at $10,000. That was on February 3rd, just two weeks ago, to the day.
+Two Thursdays ago, I started this and set the account to start with $10,000.
+Then I started trading it and you can see the positions here with just the NASDAQ. I'm not
+doing anything with Forex to make it go up. I'm not trying to pull out bonds. I'm not trying to
+do anything like that. I'm showing you just the NASDAQ. Starting with $10,000 in two weeks using,
+again, the limitations of, I don't want to say limitations, the pseudo benefit of a discount
+broker. What could I do in two weeks doing that and using what I'm teaching you to?
+That's the difference. I'm literally teaching what I'm showing here. I just showed you the example
+of it in the chart before. This is the equivalent of 582% in two weeks. It's hypothetically done
+in paper trading, yes, but with the perspective of a hypothetical discount broker margin being used.
+So, whereas I'm trading with TD Ameritrade right now and they require me to have almost
+$22,000 to trade one contract, I don't have a problem with that because of the level of
+volatility that's in there. It just makes it easy for me not to worry about it. I'm not worried
+about it. I know I've got plenty of margin. I know I've got plenty of equity. If I get banged by
+something kind of nowhere, say Russia goes into Ukraine or China invades Taiwan or something crazy
+comes out and it crosses the market to go nuts because I expect that to be coming anytime now,
+it won't smoke my account. I'm not going to blow the account. I guarantee you this account is not
+blowing. I'm showing, in my opinion, what it would be like for someone if they ever got to the point
+where you put years into developing their own model. Now, that doesn't mean you can't find
+profitability for that, but after you've done it for a while and you've found your own niche
+of what you want to do with the content I'm teaching you, you'll find your own groove.
+Once that's done and you can formulate a well-written model on paper where everything
+is outlined, when do you buy? When do you sell? Where do you put your stop at? When do you move
+your stop? How many contracts do you trade? What constitutes a day where you don't take a trade?
+All those types of things. I will teach you those lessons in this YouTube mentorship.
+A lot of you also are very, very excited and you're like, okay, I see you doing this,
+but I'm not really learning anything new. I'm disappointed. I'm not done. Give me those complaints
+after I say I'm done. But I'm giving you gold. This is something that you can go out there and
+turn in these markets and really develop a skill set that could completely change your whole entire
+direction in your life. I'm not promising profitability. Notice that? See that? I'm
+not promising that. I'm not promising you a six-figure income every year. I'm not doing
+that either. I'm telling you that you will love price action because it repeats. It's something
+that's, well, it repeats. And if you know something's going to repeat, it's familiar.
+And things that are familiar are comfortable. Right now, you don't know what these patterns
+are likely to do. They're unfamiliar to you. So it's important for you to understand that that's
+a temporary struggling point. But going through the things I'm going to teach you to do here,
+and I'm streamlining it. Yes, this doesn't feel like streamlining to some of you. You want me
+to come in here and say, this is where you buy, this is where you sell. You put your stop loss
+right here and this is where you take your profits. And it's always like this every single time.
+Wash, rinse, repeat. And it never violates any of those rules. And it's just always the same way.
+If you think that way, just change this channel right now. Don't even come back here because
+that's not reality. There's going to be similarities that look slightly different than
+the last few times you took the trade, but you will recognize them. But my question to you is,
+if you could do this over a year, not two weeks, would you be impressed with yourself if you could
+do that? Would you feel that it would be enough? Some of you young guys don't think that this is
+enough. And it's amazing. That type of return is amazing. If you can turn that with a live account,
+that's phenomenal. That's wealth making there. You don't need to be that high to make money.
+But if you can hit that kind of number a year, over 12 months, hit something like that,
+that's amazing. And that's not even what I teach my students to expect. And this is not bragging.
+I'm not trying to say, look at me. I can trade a demo account. Look at me. That's not what I'm
+doing here, folks. I was asked sincerely to show. You all hear me telling you, and I'm showing you,
+it's a paper trading account. Because I'm not going to go into AMP or some other broker that's
+going to allow me to trade with discount broker margins. I'm not going to do it.
+I know, I know, even what I know, I'm going to get smoked if I try to do something crazy
+and heavy handed. Because even with me trading one contract, I've had moves come against me pretty
+sudden. And there was nothing I could have done about it. Because the volatility is so fierce
+right now. I'm not afraid of it, but I do absolutely respect it. So to provide a answer to
+the guys out there that say, yeah, it's stupid to trade in another account where they use the
+exchange rate margins for initial margins, which is right now almost $22,000 for the NASDAQ,
+one mini contract, you need about $22,000. It was about $17,160 about three and a half weeks ago,
+four weeks ago, but they raised it up. If they raise the margins, listen, this is for your notes.
+If they raise the margins, that's the exchange tipping their hand to you that huge moves are
+coming. Big monstrous moves are coming. And they just raised the margins. You think that's
+coincidence? It's not. Big moves are coming. And if you're offside, it's going to get real hot in
+the underpants. But if you're onside, oh man, there ain't nothing sweeter than that. That's like winning
+the lottery. And these moves are significant. I mean, let's go back up for a second. Okay.
+And I'll close this video. If you look at the fair value gap in here,
+okay, and say you're filled at $14,515 and you're aiming for $14,381. Is that six and a half points?
+No. Is it 20? No. Is it 50? Is it 100? Nope. It's more.
+Do you see a pattern here? One contract. Folks, what I'm teaching you is literally a ATM machine
+in your hands. I'm giving you the pin numbers. Every time I do a video here, I'm giving you
+another digit. And once you figure out what is it you want to do with this content and make it part
+of you. And you'll see what I mean by that. Right now, you might see me showing you. It's like,
+man, this makes perfect sense. Most of the comments that I don't allow to be posted
+are just sugar sweet diabetic coma type lovey dovey comments. And I'm not making fun of that.
+And I appreciate it. I know what you mean by it. And you want to show your adoration and respect.
+I love that. But don't lose sight that you're feeling that splash over because I'm literally
+taking you into the chart and showing you what I know. And you're excited because you know the
+opportunity is available to you if you stick to this. And that's the right perspective.
+But don't lose sight and think that I just watched that video and I'm going to go out there and trade
+because I've had some people post in the comment section and they try to do something with live
+accounts, which I already said, no, don't do that. And they're saying, I don't think these concepts
+work because I tried to do this and I tried to buy this fair value gap today. And you know who
+you are. And I'm not trying to make fun of you. I'm not talking down to you, but the bias is bearish.
+So if the bias is bearish, would you go in looking for a bullish fair value gap?
+No, that's the purpose of having a model. And then with that model each morning before the markets
+even start trading, you write down what your intentions are. What does that mean? I gave you
+the range, right? Here's the opening price. It rallies up to that. So inside that range,
+you're going to look for a setup to go short. You're bearish. And if it goes down below that low,
+you can still take a short if it's in this range minus this low. Okay. If it leaves that area,
+you can't chase it. I don't care how good it looks later in the day. You don't do it. You have to
+discipline folks. If you don't have discipline, your broker's not going to help you with that.
+They want you to click that button. So they make money and they don't care if you blow your account
+because there's going to be 20 more to replace you because they've watched ICT videos. They've
+watched everybody else on YouTube that try to tell you that you can do this. And it's so easy.
+Even a pizza delivery boy can do it. So hopefully, this has helped clear up the
+idea of bias and power three. And I will be repeating these themes when it's applicable
+in the newer videos that come out and examples I'm going to teach with. But for now,
+I can't say it enough. What you were just exposed to that is the underpinnings
+of what we do in my camp. Okay. ICT. My students, we'd look at price like that.
+Let me throw one more thing in here just to piss off everybody that doesn't like these long videos.
+Let me go back up in this area real quick. And on the daily chart with the candlesticks,
+that's what I'm looking for here. Here we go. All right. Notice something from this low up to this
+high. It's bullish. Okay. We're expecting bullish prices. This is how you backtest. You tell yourself
+in your annotations, I was expecting. You're basically lying to yourself in the comments
+of your chart when you're backtesting. It sounds foolish. Okay. Trolls are going to love that
+comment coming out of my mouth. But what you're doing is you're teaching yourself pseudo experience.
+It's training your subconscious to see this stuff like you saw it live. And when you record it on
+the chart in your own annotations and you log it and you keep it in your journal, and on the weekend,
+you go back and look at your Monday, Tuesday, Wednesday, Thursday, Friday, and then you look
+at the previous week and you start looking at these patterns and how it repeats over and over again.
+When it's bullish, you're trying to stay with the opposite of this. Open near the low, closing
+near the high, but expansion to the upside. So you accumulate longs, manipulate, get people
+thinking it's going to go lower, and then ram it up higher. Distribute the longs near the close.
+That's what you're looking for here. With that mindset, okay, you're all afraid of,
+but what happens if it's a down day? ICT, what happens? Well, the worst thing that can happen
+is you lose money. And if you think that you're going to trade and not ever lose money,
+turn the videos off. Don't ever watch anybody else's either because that's not a proper mindset.
+Traders are professional losers. They're managing every trade right from the beginning.
+They got to come out of the costs. You're paying a commission.
+If you got slipped in Forex, you got to spread. Every trade opens up as a loser. So a trader
+is a professional management company of losing trades. They turn losers into winners.
+Not every loser can be turned into a winner, but they don't lose their business because
+a few never become winners. It's real important to understand that, folks. It's a paradigm shift
+that took place when I was a younger man. I felt that there was a way for me to always win.
+I was convinced of it. There isn't. There is no way of doing that, okay?
+So last analogy, last lesson, and the video is over. If we're bullish here, okay, we're
+expecting each candle to expand higher. So in other words, the close be higher than the opening
+on each individual candle. My up candles are green. How many black or down close candles
+do you see in this price run? Two. Wow. How about this price move here? It's going lower,
+right? Going down for the sell side here. You're bearish, but what happens ICT if it goes up?
+You'll probably lose money, but let's count how many up close candle we have. One, two, three,
+four, five. Look how much range it moved. If you can't have a model that weathers,
+say you got a losing trade each one of those days, if that blows your account,
+you're not managing your risk properly. You're over leveraging or over trading.
+See how easy that is to deduce your problems? It's simple stuff folks, but you're scaring yourself.
+You're overthinking things. You're listening to me talk about multiple concepts that will come
+together in a few weeks, but you're overthinking everything and you're trying to assume just
+because you watched a few videos and you're thinking foolishly that just by watching a
+few of these videos, we're only in episode 10. Ten episodes and some of you think you can go
+out there and own the world now. I understand it's empowering information if you've never been
+introduced to it, but you're not going to own the world up to episode 10. You're not going to do
+that. You're going to lose money if you go out there and try to rush to try to do this stuff.
+There's a lot of things we still have to cover and you haven't even back tested it enough.
+I haven't even been teaching it long enough on YouTube for you to even have a backlog of data
+to draw experience from. So think about that okay. Trust me when I tell you folks these moves repeat
+all the time. All the time and don't feel like you're missing out because you're not doing it
+right now. Put that feeling aside. Make this fun while you're learning it and it will never feel
+like a job or a tedious task. That's going to be it for this one. Hopefully it was insightful
+to you and I'll talk to you next Tuesday. Enjoy your weekend and be safe.

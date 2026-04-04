@@ -1,0 +1,464 @@
+Alright folks, welcome back.
+This is going to be kind of like the direction we're going to be going in the future with
+the channel here.
+I'm wrapping up the mentorship teachings for this model and we'll be just basically doing
+reviews and index futures, Forex, commodities when it's applicable.
+I posted that on Twitter as kind of like a short little promo and everybody was excited
+thinking that I'm going to be doing like 30 different markets every single day.
+It's not what I'm doing.
+So kind of give you a flavor for what it is that we will be doing.
+The mentorship group that I have with us, a private group, I no longer make videos for
+them and one of the reasons why I started this project here is to steer people away
+from wanting to buy videos that aren't going to help you anyway.
+So when you're buying old videos, I'm talking about market moves for that particular day.
+So it's not going to be as useful to you.
+So to keep people from profiting off of pirated videos, I stopped making videos in my private
+group and I make them here publicly.
+Now some of my students are upset that I did that.
+Others that understand why I'm doing it are in support of it.
+I'm not going to argue or wrestle with the opinions of who's in support of and who isn't
+support of.
+I look at it this way, the folks that would have an issue with it, they're probably the
+ones that are trying to sell pirated videos.
+So now I've removed their market.
+So you're a fool if you're going out there and you're buying all these Instagram guys
+that are selling my videos, I got ICT mentorship 2021, 2022, 2019, all the way back to 2016.
+You know folks, they're not going to help you because you weren't there when it was
+given at the time it was given that's being mentored.
+So that's what I'm kind of doing here and I'm doing on my Twitter account.
+So that way we understand why I'm doing it and what motivates me to do it.
+So there won't be a lot of markets obviously being covered each day.
+I'll be looking at the markets that I was referring to either on Twitter or I actually
+took trades in.
+So it's not a matter of talking about something that no one expected me to have an interest
+in, which is predominantly what you see here on YouTube and Instagram and Twitter and Facebook
+and Discord and you know, the list goes on and on.
+So today, one minute before 8.30, I apologize, I was waiting for my phone to update its software
+and by the time I got back on to Twitter, I had one minute left to type out everything
+that I posted and you can go on my Twitter feed and you'll actually see the post in here
+too.
+But on the economic calendar, there was a high impact news driver for Canadian dollar
+and I said I would start working in Forex when there's a lot of you are specifically
+interested in Forex because that's predominantly what I'm known for.
+I've moved away from Forex recently because I wanted to be a part of the stock index futures
+market and I'm still engaged obviously and then I did some live trades today and I'll
+share some of that with you as well.
+But I was covering the Canadian dollar and what I was outlining is kind of like this
+idea and we're going to use it also to work within the scope of the teaching on daily
+bias and we'll get into that at a later time in this video.
+But right away when you look on the left hand side, this chart here is the dollar CAD daily
+chart and on the right hand side, it's the hourly chart of the same pair of dollar CAD.
+Notice what we saw last week, the market traded up, just bumped the short term high here with
+that daily high.
+What do we see once that occurred, what formed on that daily chart?
+We're going to pause the video here, alright if you need more time, pause the video because
+I'm about to continue.
+When the market ran into that old high here, it hit it and the next day it created a lower
+high candle.
+So we have one candle, a higher candle high here on candle 2 and candle 3 or day 3.
+So this is what I dub a swing high.
+I'm not using a Williams Fractal on MT4.
+I don't use MT4, this is not MT4 platform and 5 candles, if you're waiting for 5 candles
+you missed the boat.
+So this swing high at an old high, did it run it?
+Not by much but it did.
+That movement right here is shown clearly on the hourly chart and the following day
+creating a high that has a lower high than the highest one that ran into that old high.
+So we have a 3 bar pattern, one candle, the lower candle to the left, a lower candle to
+the right, that's a swing high.
+Pretty simple stuff.
+Then the next day, I'm going to be expecting the market to trade lower.
+Now here's the problem with this particular market.
+Yes it's likely to trade down and with the benefit of hindsight I'm showing you here
+but again I tweeted about this beforehand.
+So at 8.29am Eastern Standard Time you can see that is on my Twitter feed.
+If it's dropping down we have this down close candle here.
+So it could be met with some resistance digging into this range of this down close candle.
+About half of its body right in here and not surprisingly you can see that's pretty much
+where we close that candle here on the 21st of June 2022.
+So when we look at this dashed line here what I'm anchoring to is the opening on this down
+close candle because that is a bullish order block.
+Now I'm not suggesting that we went into that to go higher.
+I'm just saying that as we started this down move it's digging into this candle so that's
+going to be the impediment to a big sudden one big candle that would take us down into
+this area here and clear out this.
+So over to the hourly chart you can see last week we ran up into it started drifting lower.
+Fairbait gap here it rebalances to that drops back down consolidates between this high and
+the low here comes back in drops once more attacking the cell stops here consolidates
+once more breaks digs into that order block.
+Again that's this level here so watch what happens it goes into it overnight then it
+rallies this rally here is ahead of the 830 news driver on the economic calendar you can
+find it on forexfactory.com but this movement here this is all manipulation that takes us
+up into an imbalance here fairbait gap running a short term high buy side has been taken
+when it runs here that's anchored above this short term high.
+The chart on the left here is a 15 minute time frame for a dollar CAD and the chart
+on the right is a five minute chart.
+On the economic calendar you can see at 830 in the morning June 21st 2022 we had a high
+impact news driver for core retail sales and medium impact retail sales number.
+Yellow events I'm not interested in red or medium impact high or medium impact those
+are the news drivers I'm looking for so if we look at the price movement on the five
+minute chart you can see that once we ran up initially at seven o'clock in the morning
+what is seven o'clock in the morning New York time that's the beginning of my ICT New York
+kill zone it's extended to ten o'clock in the morning when it's forex so seven o'clock
+to ten in the morning New York local time the market creates a short term high then
+runs above that so we have buy side taken then the market drops just below here but
+I want to have a more meaningful displacement okay we want to see something that's more
+energetic this little toe in the water type thing here that's not enough we want to see
+it fall in okay so it drops down that short term low here that's your shift in market
+structure energetic displacement and that candle is exactly when that news driver came
+out at 830 so all of this is news driver related economic calendar manipulation and the market
+is going to cause people to want to sell short and chase it going lower it creates
+a fair value gap in here on the five minute chart but there also is a fair value gap here
+now ahead of the news you might be thinking well couldn't you have sold short here yes
+you could have but the economic drivers that come out at 830 could have sent it up higher
+and taken us into this area here so really it's a matter of waiting for the news to hit
+the market and then create the setup that's a little bit more conservative there are times
+when it's so obvious that they're going to continue to move that starts ahead of the
+new driver but it takes a little bit more experience to find those setups and trust
+them I would rather you use your demo account to see these types of moves real time wait
+for them to form and then go in and engage in with your demo not try to forecast how
+much of a move it's going to further increase higher or lower once the new driver comes
+out or the news event hits the marketplace relative equal lows down here there's your
+sell side so we had this fair value gap formed after buy side was taken here but now this
+creates an area of buy side that once this trades lower we have this fair value gap and
+then we have this very bad gap so it could run up into that level with the volatility
+so you're gonna have to make sure that you have that defined with your risk management
+the draw on liquidity is likely to pull down then here or into this fair value gap and
+we'll talk a bit more about why that's the case but eventually trades down into it bagged
+and tagged sell side liquidity the tweet I posted again you can see this at 829 a.m.
+June 21st 2022 I just made it on Twitter but basically saying good morning folks dollar
+cad is about to have some volatility note the sell side and buy side on your five and
+15 minute charts sell side is here buy side would be here study if it wants to run sell
+side before buy side or rebalance to a discount what does that mean at the news driver release
+it could go up and bump the buy side then dig in for the imbalance here that's a discount
+or run the sell side out here so all of this movement up since five o'clock in the morning
+New York local time this was just ahead of that news driver here so they were building
+in a premium then during a New York kill zone it gave you to set up by teaching this model
+delivered to the fair value gap and delivered to the sell side of the liquidity pool between
+this high and that low here's equilibrium so we have to find a discount array below that if we're
+going short that's the fair value gap here you can take a partial there and target the sell side
+liquidity which you can see it does that as well here and here I tweeted failed actually include
+that tweet and we should have put it in here now but I mentioned how the market reacted here like
+that and I stated that's the reason why you want to take partials because you don't know if it's
+going to come all the way back up and then revisit this fair value gap and lose the opportunity to
+bank something when it goes into your first opportunity discount array when going short
+now I've dropped down into a four-minute chart and I dimmed the fair value gap that I mentioned
+earlier that you could have taken that trade but it'd be ahead of the news driver and it's a little
+bit more riskier but you wait for the displacement short-term lows taken then we have a shift in
+market structure and the imbalance would be between this low of this candle and the high
+of this candle in here now by itself this is a rather elongated imbalance so all of this sell
+side delivery is imbalanced and there's not enough buy side delivery so it's going to want to wait
+for the market to come back up in here in Forex there is no central measure of volume okay and in
+the algorithm that delivers price that is going to want to come back up and overlap this down move
+and offer buyers an opportunity to get in on that this is too much of a movement one-sided so the
+rebalancing so if that's the case where in this range would we be looking for for an entry knowing
+that this fair value gap could be revisited and you're gonna have to utilize that for your stop
+loss so your stop would have to be here doesn't matter where you're going short in between this
+low and this high you have to define the risk with the stop here based on the model I'm teaching you
+now some of you like oh this is too much you know because if I went in at 129.45 and I put my stop
+here that's almost 12 pips that's too much no it's not it's all relative you can scale that's one of
+the benefits of Forex it's very scalable whereas if you're trading futures you're kind of stuck to
+whatever the contract size is and you got to either make it work or you can't take trade or
+you're basically being over leveraged which is what you don't want to be doing so if we look at
+that range from that high down to that low and drop a fib on it we're gonna get a measurement
+of 50% here that's our equilibrium price point so really we need price to get to that point or
+higher so by definition we could be looking for a short here up to here and that would look like
+that so that was that's really the range that you'd be wanting to sell short in so you're not
+really risking a lot of pips but you're defining the entry a little bit better even though it goes
+above it a little bit that's okay but the bottom line is that eventually gets in sync watch the
+bodies of the candles support that premium high of the imbalance beautiful delivery then it starts
+to break lower one more time false little rally takes buy side liquidity once more then the real
+move starts to unfold trades into the fair value gap here take partials so that way if this reverses
+on you you're paid and it drops below a low where engineered sell side liquidity would be and then
+digs into the sell side liquidity over here so your entry could be 129 44 129 47 in that range
+anywhere near is reasonable it's acceptable obviously the closer you get to this level you
+may not have been filled it might just leave some of that open and then start to roll over but as
+you can see here goes a little bit further that's fine that's why we have to utilize this level here
+for our stop-loss based on the models roles that I've taught in the 2022 YouTube mentorship
+all right so I have a four-minute chart here with all the details shown sell side liquidity pull
+relative equal lows from the morning it rallies up creates a high after running buy side liquidity
+it breaks down consolidates it gives a short-term swing low here with an energetic run lower
+at the high impact news event at 830 rebalance stop goes here and it rolls over during the 10
+o'clock till 11 o'clock but that time frame 10 to 11 that's London close so if you're looking
+for directional plays and you're in a trade you want to have about 80% of your trade off between
+10 o'clock and 11 o'clock in the morning because usually not all the time but usually that's when
+it creates the opposing end of the daily range so if it's creating the high of the session here
+the low was likely to form between 10 o'clock and 11 o'clock that's algorithmic now there's
+sometimes if there's news events sometimes Canadian dollars influenced by crude oil numbers
+and that would sometimes skew this time window 10 to 11 so on those days when there's crude oil
+inventory numbers coming out and I'm interested in trading the loony I will trade with the
+expectation between 10 o'clock to noon and not have such a tight little window of 10 to 11 and
+I promise you I have students for days and days and days and years and years now that will confirm
+that this has not just been form-fitted for this example I've always taught that 10 o'clock to 11
+o'clock in the morning is London close profit-taking hour I'm quite sure if you go through the older
+teachings I have in this YouTube channel you'll probably actually hear me talk about that very
+thing as well all right so we're going to talk about the e-mini S&P futures contract this is the
+September contract for 2022 if you're following along on trading view and I hope you are the
+symbol you would be utilizing for calling up the data for this contract is ESU 2022 okay and that
+would give you this chart here this is a daily chart and before I get into it I want to talk a
+little bit about daily bias okay so this topic is one of the most requested topics that I would
+cover and I have done many teachings on it I've done amplifications I've done revisits to this
+idea and I know what you're wanting okay because it's what I wanted as well you want a simple ABC
+it always works it's always going to be the same way it's always going to be the same procedure
+process and it's always going to give you a winning trade now some of your already folding
+your hands and hissing because you're like oh that's not what I want that's not what I want
+you're exaggerating Michael no that's really what you want and you want me to give you a very simple
+cookie-cutter approach to find daily bias and I want you to understand that I've taught these
+things many times throughout the lessons and lectures and series that's found on his YouTube
+channel this is the simplification that I make for daily bias if you stick to these rules you
+will know how to find daily bias as I teach it my students follow these rules okay I'm going to
+go through them with you and you're gonna be kicking and screaming and saying there there's
+something else you're holding back there isn't it's experience it's doing it yourself but the
+keys to daily bias are simply this everyday bias is unrealistic if I go in looking for a specific
+predetermined daily bias before the market starts trading invariably I'm gonna have it incorrect
+notice I said that I'm not perfect some of you hold me up to this hero level status and I'm not
+a hero okay I'm just somebody that knows what they're looking for and knows how to avoid
+hopefully making the same mistakes over and over again because I'm looking for a procedure in process
+that will lead to an outcome that generally not all the time but generally yields a specific result
+so I'm not trying to get a daily bias every single day I'm trying to determine the likely
+weekly expansion and again what is that I utilize a weekly chart and I studied that and I want to
+see does it look like it's gonna run to an old low does it look like it's gonna run to an old high
+or is it running to a imbalance below the market price or is it trying to run to an imbalance above
+the market price or is it likely not to move because there's no data for it for that week
+and other markets have high-impact or medium-impact news that would be more interesting and the
+algorithm will be working those pairs or markets and the pairs or markets that don't have a high
+impact or medium impact driver will probably be a lackluster market environment I'm looking
+for the direction of an expansion move I'm not trying to get the entire weekly range I'm not
+trying to buy the weekly low and sell the weekly high I can but that's not what I'm trying to do
+you don't need to do that okay I know some of you hate when I do that but I'm trying to make sure
+that you understand there's a distinction between what you should be coming into this with in terms
+of expectations and what is realistic okay in the beginning all you're trying to do is determine
+is it likely to expand higher is there going to be a big move a flurry of activity going higher
+during the week or going lower during the week and by itself that is huge in terms of what you're
+trying to pick now you might be wrong because sometimes I get it wrong but I'm looking for
+some volatility in a direction based on what I'm studying on a weekly chart so this is a
+daily chart shown on this slide here the same thing I would be doing to determine where the
+daily charts going I'm trying to do that with a weekly chart but I'm only interested in seeing
+what's it likely to reach for I'm not trying to predict the weekly closing price on that
+candlestick I'm trying to look for where is the bulk of that volatility going to be pushing higher
+or lower and why would it be like that and it's as simple as what I mentioned earlier is it aiming
+for and gravitating towards an old high to run above it or is it gravitating towards an old low
+to run below it or is there an imbalance where it needs to come back and revisit that because it
+might just drop down to a fair value gap to go higher longer term I don't even need to know that
+all I need to know is what direction is it most likely to have the majority of the volume pushing
+through now when I say volume there is no centralized volume number in 4x when I say the
+volume that means the the interest the chaos the energy all the activity the action okay is it
+going to be on the higher side reaching for buy side or is it going to be on the lower side reaching
+for sell side that's what I'm looking for I want to find where is it likely to gun for this
+particular week who's in the crosshairs have people been making money going long is there a
+low that they're gonna try to run down and stop them out with it that will be enough for me to
+frame an expansion going lower so I'm looking for obvious liquidity in that direction below
+lows above old highs or identifying imbalances in price delivery top down that means from the
+weekly down to the daily down to the four-hour down to the one hour to the 15-minute chart and
+then once we get to the five-minute chart you do the scalings from five four three two and one
+whichever has the clear obvious fair value gap for you based on the models rules and I focus on
+days that have high or medium impact calendar events only so if you go through your economic
+calendar in fact you can look at next month's economic calendar they're already there where
+are the high impact or medium impact news events for the markets that you trade what day of the
+week and what time so if you have a news driver that's coming out on a particular day say Tuesday
+or Wednesday and you're expecting the weekly range to expand lower well on those medium impact or
+high impact news events I'm going to see hopefully something that is going to run up higher go into a
+fair value gap or run above a short-term high run stops and then break down show displacement
+then create a fair value gap and I'm going short on that
+and I'm doing that and looking for that setup and that directional price run inside my kill zones
+intraday at the same time the economic calendar is suggesting a high impact or medium impact
+news event is likely so what did I just teach you here I basically said that there is absolutely
+no expectation on my part to know the bias every single day of every single calendar trading day
+I'm only focusing on these sweet spots these low-hanging fruit days where everything's coming
+together all the stars are lying okay I'm looking for the higher time frame weekly to
+expand in a specific direction that starts my bias then if I think it's going to be going
+higher going lower for a specific target or imbalance then I'm going to go to the economic
+calendar to look for when that might occur now there may be a move that happens prior to the
+economic calendar event occurring and that's just going to be a missed opportunity so you have to
+use something else some other pair something else that you got to trade with sometimes that occurs
+but you'll see that there's a lot of opportunities using this criteria and it's very forgiving for
+you as a developing student because it's already given you permission not to know the daily bias
+outside of these rules see you want to trade every single day because you want to be the
+everyday trader I don't want to be the everyday trader the everyday trader is the everyday trader
+is more prone to have losing trades because they are trying to do something every single day when
+there are times when you should not be trading at all and that's what makes me different from all the
+other educators out there because I have made a career out of knowing how not to destroy myself
+because that's what I did when I was a 20 year old I thought that I could trade every single day
+and that's problematic when you don't know how to trade and you have a lot of time or
+lack of self-control and that's why I was blowing accounts when I was 20 and 21 22 that
+fevered pace of I got to do it I got to do it I'm going to miss that next move when hopefully
+you've seen now enough instances where this pattern repeats a lot over the course of a month it's in
+most markets a few times a week but if you notice those moves are occurring when there's a high
+impact or medium impact news driver on the economic calendar so it's something that you can plan for
+you ever hear them the old cliche remarks of books and educators they say plan your trade
+and trade your plan well this is how you can do that with that model you look for the economic
+calendar the time of day what kills own in the market you're expecting an expansion higher or
+lower in that weekly chart there it is you're looking for these things to repeat and if you
+start journaling these things you're going to notice that the setups this is one of the epiphanies
+okay because I know some of you just don't want to do this but now because I'm going to tell you
+you're going to go into it hopefully and see that what I'm saying is true if you backlog
+every day show everything that took place mark up your charts as I'm going to show
+you in some examples in here when that happens over time you're going to see that the best
+setups occur when these calendar events are in play and they originate around that same time
+and what will happen is is it'll convince you to say okay I don't need to be the everyday
+trader I don't need to be in here being super scalper I don't need to be in here trying to be
+an olympic trader because trading is not an olympic sport it's not an olympic event
+and they don't give out gold medals for overtrading but they do blow accounts
+so eventually doing that enough and if you don't know what you're doing you're going to blow your
+account and that's hopefully what I'm trying to prevent you from enduring
+all right so we're looking at the hourly chart here on the S&P obviously we've traded down
+we left relative equal lows but this low went just a little bit lower than that one
+that's all we need it hit that and it started retracing higher this movement here
+that's whipsawing both sides of the marketplace sell side taken then buy side taken and then it
+broke down whenever I see price action like this I ignore the both side type movement usually it's
+FOMC or some kind of rate announcement type event and that's what you're seeing here when I see that
+I ignore that wick and I ignore all these as well the real range is here this is manipulation
+this is manipulation it's already done it's not going to hurt you focus on this swing here
+so when the market drops down it creates this low runs a little bit lower we're consolidating
+we had a holiday on monday the market starts to drift higher and what I'm concerning with
+this run here is this high to that low and I'm getting my range equilibrium is here
+so if it's going higher what's it reaching for well it's going to go into a premium
+and this right here this imbalance I'm not really interested in that one because
+it's overlapping with that equilibrium 50 percent level of the high to that low so I
+want to see it dig into a premium so even if this is going to go up to go down
+I want to know do I have an opportunity to see it go up into this area here or maybe even up here
+so we'll use the first low hanging fruit approach here so we have a fair value gap there in balance
+sell side only the market's going to want to revisit that area this is exactly what I teach
+you this is exactly what happened look at the bodies of the candles yes there's a little bit of
+movement just above this candle's low but look at the bulk of these candles the bodies
+they're staying within that range that's defined by what I teach you as a fair value gap
+in a premium market what makes it a premium it's above the 50 percent level
+so it's going up into that level here and it's consolidating
+on the 15 minute time frame pause the video look for what you can identify
+based on your understanding and experience learning under me so far
+okay if you need more time pause the video
+all right so here's midnight new york local time we had a fair value gap here bullish order block
+these last three down close candles that's one consecutive order block
+it digs into the order block with the fair value gap hits that during the london session
+it rallies up we create a fair value gap here it runs by side here and then creates relative equal
+then creates relative equal highs ahead of the new york session so the market drops down
+goes into the fair value gap here into the last down close candle bullish order block there
+that's where you could be a buyer ahead of the 930 opening why would you feel confident to do that
+because we already have an energetic price run from london open the market started at midnight
+and went where did it go up no it went down into an imbalance and then there was
+a lot of energy off of that so the market created a short term shift in market structure
+here that's bullish london creates the higher the low most of the time 70 percent of time you're
+going to find that that is true if your directional bias is correct so i'm trusting that that low
+is probably pricing in the daily low this retracement into the new york session
+we're trading into an order block we close up this fair value gap then we rally a little bit
+and drop back down into the fair value gap once more creating optimal trade entry that's not what
+we're going to focus on this one here but we have the new york am session beginning here from 8 30
+in the morning to 11 this is specific to index futures for the morning session
+this is the upper level on that fair value gap on the hourly chart and this is the lower level
+on the hourly fair value gap so that's your targets it's going to draw on liquidity
+the market runs from the fair value gap here to the low of the fair value gap on the hourly
+chart to the high of the fair value gap on the hourly chart after clearing by some liquidity
+on a five-minute chart there's a lot of things going on here you can see we have a low then we
+ran that low once more then it rallies and moves up away from the order block and then back down
+into the last closed candle on the five-minute chart so there's an hierarchy of how the market's
+trading down into a higher time frame to a lower time frame to a lower time frame all being
+supported by down close candles within the bias that's bullish and once fair value gaps are being
+closed in the market goes higher so it's signaling to you it's indicating to you that you don't need
+an indicator you don't need some wonky little gimmicky candlestick replacement okay the
+candlestick is telling you everything you need to know you don't need to have any kind of indicators
+no moving averages none of that garbage okay everything is being shown here in price action
+relative to time and price so we have the market starting with a run from this low with a lower low
+so what took place here we'll come back to that in a minute the market comes back down into a
+short-term discount relative to the low to the high here discount rallies and at 9 30 it's
+consolidating and then it starts to run reaches for the bias of liquidity here
+the low of the fair value gap on the hourly chart and the high of the fair value gap on the hourly
+chart as draws on liquidity three targets all hit
+i'm going to zoom in this is a zoomed in chart of the session that starts
+at 8 30 and going into the 9 30 opening so we have the low here lower low into the order block
+it rallies short-term shift in market structure here comes back down in there's an imbalance or
+fair value gap here these levels are based on the five-minute chart so even though we're
+looking at a smaller time frame than that that's what we're looking at but we're going to refine
+that down into this particular time frame so inside that let me go back up one more slide
+so inside the fair value gap we're dropping down in here but we're doing it into this fair value
+gap there down close candle that's an order block and fair value gap there it is
+you can buy this right there and trust that it's not likely to take that low out why
+because we already had a stock running event here low lower low sell side taken reaction
+off the order block we're into the fair value gap we rallied once more we created a fair value gap
+here drop down that last down close candle you can be a buyer there there's buy side liquidity
+resting up here that's going to be your initial draw on liquidity so that'd be a first partial
+if you want to add if you want to pyramid the position
+you can add that as it starts to run up higher but i want to show you the low to the high here
+that's 50 or equilibrium market drops into a discount prior to that run up here this
+consolidation at 9 30 we see it taking off here it's already done the move of manipulation
+knocking people out retracing then off to the races so this is a case where you do not need
+to wait for 9 30s opening to get that volatility to get these types of manipulation moves this
+is an early setup discount fair value gap and rallies so notice what's happening we have an
+hourly discount that we're trading into here then it creates a short-term discount relative
+to this low to this high that's what we're seeing here then the market rallies here
+here comes back down into an order block and fair value gap discount rallies consolidates ahead of
+9 30 is it likely to trade back down and take that low out no because it's already closed in the only
+fair value gap that's here see that so if you're up here looking back it's already rebalanced this
+there's no reason for it to go down it doesn't need to go down here because it's already shown
+Williams to want to rally and this run didn't need to go over here because this low took out
+that low so that is all framework in narrative so all that comes together now also couple that with
+the 8 30 news that took place in the dollar cad i'm showing you how these two markets
+relate to one another with the proper context and bias dollar cad what is the currencies
+first pair in its name dollar so if we're expecting as i was hinting at on twitter
+it going down to a discount or running sell side liquidity that means the bias is bearish
+so if the bias is bearish on dollar cad that means that it's a risk on scenario so the markets like
+s&p nasdaq other foreign currencies are going to be easier to rally versus going down and dollar
+pairs i'm not really interested in anything except for the dollar cad because dollar cad had the
+high impact news event so i don't need to go to the dollar itself when i have a high impact news
+event when dollar cad i can go right to that and cut to the chase in terms of what the bias is for
+the morning session because if i'm likely to see lower prices on dollar cad that's the same thing
+as saying lower dollar higher foreign currency and when the dollar goes down it's easy for
+spooz or e-mini s&p stock index futures to go higher and everything i've shown here is in concert
+with that idea so here we have that short-term high shift in market structure after the stop hunt
+retracement to a discount the fair value gap buying here run to initial target buy side liquidity
+relative equal highs here it runs that you can't see it here remember we were dropping down this
+is a three-minute chart now it rallies up creates a fair value gap here overshoots it a little bit
+that's fine rallies once more and digs into the high of the hourly fair value gap
+and again kind of like what i was suggesting moments ago here is that movement up in the
+e-mini s&p at the nine-third time period when the dollar cad was trading down into its discount
+here so lower dollar cad higher s&p so as a forex trader you could be selling short if you're not
+forex trader you could be selling short if you're not an s&p trader
+or if you're not trading forex like me this is the long on s&p and you can add in as it's taking
+out this short-term high here you can look for pyramid opportunities and what would that look
+like well i was in a 10-second chart i know some of you were surprised when i said that
+but here is the 930 opening here and we had a little bit of consolidation then we had a run higher
+creating the fair value gap between here and here the market dropped down i'm buying there
+it rallies up into that there's my entry you can see it right there that's the fill
+that's the price 37 41 and three quarters and as the market goes higher if you're trading like
+this you can take part first partials at logical levels as i mentioned we were on the higher
+time frame charts and as it goes higher you just scale off what your model what your approach or
+your plan would allow for and then hold something for the rest of the day towards the close or
+at least try to see if you get a continuation into the afternoon session and that would be
+between 130 and four o'clock in the afternoon new york local time so hopefully this has been
+insightful to you hopefully it has helped you obviously in terms of using other markets for
+intermarket relationships for bias how to navigate markets these are the only two markets i've talked
+about today and you can see how they had a synergy between them there was a a movement and kind of
+like a dance between them even though they're not correlated don't think that there's any kind of
+correlation between them it's the fact that it's risk on risk off that's all that it is and i was
+focusing primarily on dollar cad because dollar cad had its high impact news drivers for today
+so i was using that in relationship to what i would expect in the s&p market and i found my trade by
+utilizing a market i'm not going to trade but if it's going to give me insights and it's going to
+go lower it helps me frame risk on risk off risk on that means foreign currencies index futures
+stocks go higher dollar goes down risk off is dollar higher and everything else going down
+so if you go into your day with those ideas risk on risk off it makes it a lot easier to look for
+supporting ideas with intermarket relationships correlations between assets like if you are
+trading like forex euro dollar versus cable euro dollar would be a better trade than
+say pound dollar if there is an inability for one of them to go low make a lower low
+and one doesn't do that that's showing you that's the relative strength leader that would be the
+better buy in this situation here another instance would be aussie dollar and kiwi dollar
+in new zealand dollar if you're looking at situations like this and you find a currency
+that fails to make a lower low intraday when it's risk on you would be buying the risk on higher low
+currency and i don't i didn't see i didn't look at the australian dollar and the kiwi this morning
+and it may not have presented it but if i were trading those pairs and i wouldn't really be
+trading them because the impact news driver on the economic calendar is again one dollar cat so
+that's the market i would be trading so a lot of you ask all the time like how do you know which
+pair to trade how do you know which one to pick i'm starting that with the economic calendar
+but sometimes i may use that market for instance instead of being dollar cad today if euro dollar
+had high impact news event i would compare pound dollar and euro dollar for correlation
+so i would look for smt divergence to signal which one i'd rather be in just because the news driver
+is in for instance the euro the better trade may be in pound dollar if they both went down
+prior to the news event coming out for euro and if pound dollar failed to make a lower low i'm
+buying pound dollar because they're going to most likely move in sympathy with one another because
+they're closely correlated but in the instance of dollar cad i'm not going to do anything except
+for focus on dollar cad because the economic calendar suggested that's where the volatility
+would be for forex today and you're welcome to go through the pairs and compare and contrast
+whether that's true or not i didn't do it but you can do that on your own and hopefully you've got
+something out of this one until i talk to you on thursday for our discussion on money management
+that'll complete the 2022 mentorship teachings and we'll just continuously do market reviews
+on the youtube channel monday through friday so i'll obviously be back lord willing tomorrow
+on wednesday with a review on something either s&p related or some kind of forex pair
+and hopefully you'll learn something from that as well until next time be safe
